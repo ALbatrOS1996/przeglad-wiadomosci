@@ -1,0 +1,47 @@
+name: Poranne wydanie
+
+# GitHub uruchamia harmonogram w czasie UTC i bywa spóźniony o kilka–kilkanaście minut.
+# Dwa przebiegi pokrywają czas zimowy i letni; skrypt sam sprawdza godzinę w Warszawie
+# (generuje od 6:00, raz dziennie), więc wydanie jest gotowe przed 7:00. Trzeci przebieg to zapas.
+on:
+  schedule:
+    - cron: "35 4 * * *"
+    - cron: "35 5 * * *"
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wydanie
+  cancel-in-progress: false
+
+jobs:
+  generuj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Zależności (używane tylko w trybie Claude)
+        run: pip install --quiet anthropic
+      - name: Generuj wydanie
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python scripts/generuj.py --scheduled
+          else
+            python scripts/generuj.py
+          fi
+      - name: Zapisz w repozytorium
+        run: |
+          git config user.name "prasowka-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A docs/data
+          if git diff --cached --quiet; then echo "Bez zmian."; exit 0; fi
+          git commit -m "Wydanie $(TZ=Europe/Warsaw date +%F)"
+          git push

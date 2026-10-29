@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "prasowka", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "8775", "--directory", "docs"], "port": 8775 }
+  ]
+}

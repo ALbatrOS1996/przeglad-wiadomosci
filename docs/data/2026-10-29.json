@@ -1,0 +1,584 @@
+{
+ "date": "2026-10-29",
+ "generated": "2026-10-29T18:03+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Christine Lagarde: The outsider who led the ECB her way",
+    "summary": "Possible candidate to run World Economic Forum departs ECB nine months early, saying she wants to speak her mind about world affairs Christine Lagarde, the eurozone’s top central banker, has said she is stepping down nine months early to speak her mind about world affairs and confront the “misrepresentation of the…",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2MyZ1h3TUV5QmVNTDR5bHl3c1RQYVFEbzZXWTlwM2Y5QXV3ejhKcHp1WTdhSFlHeDMxYk5OdmVWQUt5TTF5cE84cVBjX0x0YjJwYkc5MUM3YVlTRDRURnQwaE14WE40NTNrNFdCU0dVNDcwVG85VkFDZHFqeGV4WlVXblBfbThUNU02NW9VeHlNR1dfejZ3SmV1Z3pQVGEx?oc=5",
+    "image": "https://i.guim.co.uk/img/media/f13bea6725d5657471b22b4820dbfdc9fbc83e68/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=b40ab61b8b9558ade1428e94d084fb92",
+    "source": "Reuters",
+    "also": [
+     "Deutsche Welle",
+     "Financial Times",
+     "France 24",
+     "Politico Europe"
+    ],
+    "published": "2026-10-29T12:48:04+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year",
+    "summary": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40% Spain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long been a point of pride in the country.",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+    "image": "https://i.guim.co.uk/img/media/4086823bd1ffd37965236f1bb131f590778e096f/494_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=632446972b9860f44929a58a86ddc66b",
+    "source": "Associated Press",
+    "also": [
+     "Euronews",
+     "France 24",
+     "The Guardian"
+    ],
+    "published": "2026-10-29T02:50:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9946/live/591e3810-d3b5-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [
+     "France 24",
+     "The New York Times"
+    ],
+    "published": "2026-10-29T14:17:35+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Spain reckons with second deadly train crash of the year ahead of national election",
+    "summary": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUNNM01hdUhtOFpKaGo4Z1pYaGRza1FQajlzVlBrWnZycFJWajlBMEl3QldEVXJtVHo0SW5GdEJ6Zm5DVjJRQVNpQUp5d3otRGpSMEJWczFFa2lJd3pWQ1Z0WlBBc2lkQkdxZ0tjbWM5QVZTcVgtejVqWnI0NXJmWnVjVGZPME9DdTVBaGF0NXdLWmM5WTJSR293?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "NPR",
+     "National Geographic"
+    ],
+    "published": "2026-10-29T16:37:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Szefowa Europejskiego Banku Centralnego rezygnuje",
+    "summary": "Prezeska Europejskiego Banku Centralnego Christine Lagarde zapowiedziała, że ustąpi ze stanowiska 7 lutego 2027 roku - poinformował w czwartek przewodniczący Rady Europejskiej Antonio Costa. - Nie sądzę, abym mogła dłużej pozostać neutralna.",
+    "link": "https://www.rmf24.pl/fakty/ekonomia/news-szefowa-europejskiego-banku-centralnego-rezygnuje,nIdn,1023914",
+    "image": "https://rmf.rmffm.pl/news/attachments/a6/74/christine-lagarde-fot-636x421-a674705c.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVN24",
+     "TVP Info"
+    ],
+    "published": "2026-10-29T10:42:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+    "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+    "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/563f/live/a8275d60-d3a6-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [
+     "Associated Press"
+    ],
+    "published": "2026-10-29T13:44:39+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "„Rz”: polskie samoloty MiG-29 trafią na Ukrainę",
+    "summary": "Polska odpowiedziała na prośby Ukrainy i przekaże jej dwa samoloty MiG-29 - przekazał dziennik Rzeczpospolita. Informację potwierdził dyrektor Departamentu Strategii i Planowania Obronnego Ministerstwa Obrony Narodowej gen. broni rez. Dariusz Łukowski.",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWQ5aDVLbmYwZVQzREJHcmQ2NS0wbXUyUGllVkVxVDdxR0pWT0lSV01iYTVhcjE3WVNILXJ3WUYyRlAtWVhlOGN5OEJvMWNiRUxXclZCSkhrZWw2VElWOWFPSE45OXJqczNnR0J5N3otTUhlWHBLV0Yxb25lanZtSU1YRWh5TVRBRGFDejdSQjR0eDBYd1VMQnZ0eUNibS1TVnc?oc=5",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/hr/hrta8imb3qmvsk5kmauhf85z4mqmbsn1.jpg",
+    "source": "PAP",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-10-29T05:56:58+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Albania opposition disrupts parliament session after violent street protests",
+    "summary": "Opposition MPs disrupted a parliamentary session in Albania by brandishing smoke flares and displaying photographs of injured protesters. They accused police of using violence against demonstrators demanding Prime Minister Edi Rama's resignation.",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUUtlUzlidDNZSUE2N18wQWlfczBWcGh0TFRvZ2JHODAzMnNzMmIyQ0w1TXJTY3prTnRXZFR3ZzZvRVhXNjhITmhwN2gySXdVRUhuNm9HSzY2THlEdnR0UHFhS2ZROE5hcm01Q0h5bXYxaFVxSG5VVk5EU0txckVPZjYwUnNBYV9haFFBQmpjV0Z0S3hJWEtMS01XSkFNRHlhU2Q1MDFoNjdoQXlWTVJPcDBoM2ZwOTByRlE?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-10-29T12:39:43+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Kanada jako członek stowarzyszony UE? Ursula von der Leyen przedstawiła pomysł",
+    "summary": "Ursula von der Leyen poinformowała w czwartek, że ze względu na położenie geograficzne Kanada nie może uzyskać pełnego członkostwa w Unii Europejskiej. Rozważana jest jednak możliwość przyznania jej statusu pierwszego członka stowarzyszonego UE.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/swiat/artykuly/11338257,kanada-nie-wejdzie-do-ue-nowa-propozycja.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljL/mluY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk/9CMDAwMDAwMDAwMDAwNzY5MjM0NS9maWxlcy9mbGF/nYS1rYW5hZHktMzc0MDE4NjIuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Business Insider Polska"
+    ],
+    "published": "2026-10-29T15:23:27.268000+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+    "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+    "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
+    "source": "BBC News",
+    "also": [
+     "RMF24"
+    ],
+    "published": "2026-10-28T19:15:58+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Awantura w parlamencie Armenii. W ruch poszły pięści i krzesła",
+    "summary": "W parlamencie Armenii doszło do masowej bójki między przedstawicielami rządzącej partii Umowa Obywatelska a opozycyjną Silną Armenią. Starcie rozpoczęło się podczas przemówienia posła Tarona Chakhoyana. Słowna sprzeczka szybko przerodziła się w przemoc fizyczną.",
+    "link": "https://wydarzenia.interia.pl/zagranica/news-awantura-w-parlamencie-armenii-w-ruch-poszly-piesci-i-krzesl,nId,23565972",
+    "image": "https://i.iplsc.com/-/000NGZAAMQRO2CGC-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-10-29T13:01:14+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Eight of England’s nine water companies still failing on environment, report finds",
+    "summary": "Angela Eagle tells industry ‘people are sick of excuses’ as pollution levels remain high despite billions in investment Angela Eagle, the environment secretary, has summoned water industry bosses to Whitehall after a report found that the environmental performance of the big companies has worsened despite investment.",
+    "link": "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
+    "image": "https://i.guim.co.uk/img/media/3469bc3aca870abf752bda691c7b14a87a4fd375/123_1044_3497_2795/master/3497.jpg?width=140&quality=85&auto=format&fit=max&s=bce002b16fd6427cf8fe07b314341449",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-10-29T16:39:48+00:00",
+    "topic": "klimat"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Explainer: How could Israel break the election deadlock?",
+    "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmd1MXZMRF9mb3JPLXFuaUViRXVEX0ZpdUF1LXBWRFZPWkt2VE1TLVlsZk54ckJUd0huTlBSd3ctUm50T2xxRmtPNnQ2Znhaak1sR09jWkgxMDFiV09scHUzek5MbmI4SXRWRzdWMnBuNnVzUnRNbWdUcHFsTENKeU5rZWlrYVN1NXZDX2kzMjN4TWNKelRaX2R3?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg",
+    "source": "Reuters",
+    "also": [
+     "BBC News",
+     "NPR",
+     "The New York Times"
+    ],
+    "published": "2026-10-29T09:55:26+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil",
+    "summary": "Flávio Bolsonaro arriving at Miami Opa-Locka Airport on Wednesday.",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
+    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "Euronews",
+     "The Guardian",
+     "The New York Times"
+    ],
+    "published": "2026-10-28T21:46:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Alaska's governor orders a probe into Peltola's Senate campaign over spoiler candidate controversy",
+    "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-10-29T16:29:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "2 college students found dead after going missing during Colorado hike",
+    "summary": "Kaden Matsuda and Jackson Donlon were on a trip in Rocky Mountains last weekend when heavy snowstorm hit Two Colorado college students have been found dead after going missing during a hiking trip in the Rocky Mountains last weekend when a heavy snowstorm hit, authorities said.",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlFZeWY5SWlCeEVsQ3ppSzI3MnFtd1UyM21lanpwWU82XzJXMWNpc1VjaXp2MFBPUkhnbjI5N2Q3UnNzYzdBVGM3XzgwN0R3WlV4VW5za0VxbGFlb2NsYzlQZWhpdjNsN0w0NGVPUDREMldwOHcweHdPWXlyWFRDem5ZUnZselJEbS1tSmFNQzVFLUY3LXlwRlVCTHE0NkQtbVEzYUxzZlFZbmViaHdlM2VrQ3M?oc=5",
+    "image": "https://i.guim.co.uk/img/media/a4612653477766e1289d0e3c8c3c053ece5950e9/813_0_6454_5164/master/6454.jpg?width=140&quality=85&auto=format&fit=max&s=de77395fc7827f02a3a86855eaf3ad0b",
+    "source": "Associated Press",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-10-29T15:48:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Hong Kong leader apologises for deadly Tai Po fire, pledges reform",
+    "summary": "Smoke rising from the Wang Fuk Court apartment complex in Tai Po, Hong Kong, last November.",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG5CSk5rbFRVazFYVEpXdWU2cTE2R2h4OFZaZUI5VU81Y3JFQzVPenJybnhDeUlNWGNuSl9MdVlSbmU4bXRYaVB1aTZyLWliQTBCaE5ka0F2elN1XzllVVZRSGFXUnJOdXlqTkRFVUhGSWNfTGJ5N0VpdUpQQlBqQXZUU3BJY0dMYTd3Yk9YN1UxZ1lmV1hoejNn?oc=5",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/int-hongkong-fire-bvcf/int-hongkong-fire-bvcf-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-10-29T15:13:48+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+    "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+    "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7d18/live/3bba8dd0-d367-11f1-8799-171d5bd36a81.png",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-10-29T08:23:31+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+    "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3ae0/live/865a2400-d343-11f1-ad8b-790d6224b426.jpg",
+    "source": "BBC News",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-10-29T07:54:33+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Xi Jinping elevates general who led purge of China’s military",
+    "summary": "Zhang Shengmin appointed to Communist Party politburo as it moves to tighten discipline and crack down on corruption",
+    "link": "https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1",
+    "image": null,
+    "source": "Financial Times",
+    "also": [
+     "NPR"
+    ],
+    "published": "2026-10-29T16:10:12+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "What to Make of Israel’s Ambiguous Election",
+    "summary": "Benjamin Netanyahu in Jerusalem yesterday.",
+    "link": "https://www.nytimes.com/2026/10/28/world/israel-election-results-spain-train.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-theworld-israel-election-01-vchb-promo/29int-theworld-israel-election-01-vchb-promo-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-10-29T05:04:25+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b7/live/70bc5130-cc91-11f1-94e6-edd4c60b2e1d.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-10-29T09:30:03+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "A Marathon Runner’s Hard Lesson",
+    "summary": "Temperatures approached 80 degrees Fahrenheit during this year’s Chicago marathon.",
+    "link": "https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-29T16:57:11+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "‘Why has the Chancellor left the wealthiest untouched?’ – our money and economics writers answered your questions",
+    "summary": "The Guardian’s money and economics editors Hilary Osborne and Heather Stewart answered your questions on energy prices, tax thresholds and the global events pressuring the economy.",
+    "link": "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart",
+    "image": "https://i.guim.co.uk/img/media/345ff6d846c4d5dcf2a4ca5cc7a5f35fbcb0f07f/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=1f22dedad92f5b3b799250e895008148",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-10-29T16:32:51+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Wszystkie - PAP",
+    "summary": "Przed nami kolejne pochmurne i wilgotne dni. W wielu miejscach słońce będzie miało problem z przebiciem się przez niskie chmury. Prognoza pogody na Wszystkich Świętych wskazuje jednak, że nie we wszystkich regionach niebo będzie całkowicie zasnute.",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UGsxdmNUaHV1VUNodHJSemM1QW5sanRoZC1jdk9FYlBiQ0VDcHhJeFJpZFo2eTcyc2RGNDRwN3VEd0VOMnp0SjBpTm9GcjN3aHNVaDhn?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/23/8f/zdjecie-ilustracyjne-fot-636x421-238fe6a7.jpg",
+    "source": "PAP",
+    "also": [
+     "RMF24",
+     "Radio Kraków",
+     "TVN24"
+    ],
+    "published": "2026-10-29T12:56:14+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Autostrada A2 między Łodzią a Warszawą zostanie poszerzona. Podano szczegóły przebudowy",
+    "summary": "Przebudowa autostrady A2 między Strykowem i Warszawą rozpocznie się 4 listopada od zmiany organizacji ruchu na całym 92-km odcinku trasy. Pierwsze dwa poszerzone fragmenty mają zostać oddane do użytku w końcu 2027 r.",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMUNUT09qZEJsM1I0ai1LS0pOT3NVVmxnbW9kX3JBeDc1TE9feU5kM2xTRTBtSW84a0l1UHpSV2lubklEaWZxQXNhV0tHWkZITjZ2WTJ0WDNia3BLbEJpTWVHU3JnbXZSN1FVYU5Rd3JHRF8wRjhVOEt1dm5hWjJrOUVKR2Q0TTZBa19qZnZIZVFMd1pFYXlTNHQ4aGNCMC1JdEZ0dnBWY1pZd1IxNmhNMGtCQnAyZw?oc=5",
+    "image": "http://galeria.bankier.pl/p/3/7/9f5a6e7de5378f-948-568-55-579-4399-2639.jpg",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-10-29T15:33:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "MON reaguje na doniesienia „Rz”: dane ws. liczby pilotów F-16 mylne; jest więcej osób z kwalifikacjami",
+    "summary": "Ministerstwo Obrony Narodowej wydało komunikat ws. artykułu o pilotach polskich F-16, opublikowanego w \"Rzeczpospolitej\". Wskazano w nim m.in. zbyt małą liczbę przeszkolonych osób, przez co środki na zakup i modernizację sprzętu nie mogą być wykorzystywane we właściwy sposób.",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHNtZTFxWFhleVRSWGFrSWlYTGVUeml3OElSQWM1czhOSzNVYnItWDI5MTY2Ui1keEdQeWlhak1VcmhqQjA0bF84dkFVcjBkZzN1Rk03aDdweUR0czJBZmJqZFJJbzhPUzBPdWo2dlN6NUh0a25fQm5IOGxUWFkzNGRqYndhUkVMZThqbXpEMjN1SFVQX2lZWTQ1RWZMbWxTUXhIRmFsbVBZZXdrOUJZZmd5NEF0cC03LUc0dUExRzNWT1RC?oc=5",
+    "image": "https://i.iplsc.com/-/000NH0BCVJ1KPYMC-C321.webp",
+    "source": "PAP",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-10-29T13:30:40+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Rejestracja auta bez wychodzenia z domu? Minister podał termin",
+    "summary": "Polacy będą mogli od 2027 roku rejestrować swoje pojazdy w pełni elektronicznie, za pośrednictwem aplikacji mObywatel, z dostawą tablic i dowodu rejestracyjnego kurierem - ogłosił wicepremier i minister cyfryzacji Krzysztof Gawkowski.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-rejestracja-auta-bez-wychodzenia-z-domu-minister-podal-termi,nIdn,1023971",
+    "image": "https://rmf.rmffm.pl/news/attachments/c9/bc/krzysztof-gawkowski-szef-resortu-cyfryzacji-piotr-nowak-636x421-c9bc72ae.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVN24"
+    ],
+    "published": "2026-10-29T15:50:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "„To kiełbasa wyborcza”. Ks. Kobyliński o projekcie Lewicy ws. likwidacji Funduszu Kościelnego",
+    "summary": "- Nowa Lewica nie ma żadnego moralnego prawa, żeby reformować finanse Kościoła – powiedział ks. prof. Andrzej Kobyliński w RMF24. Duchowny popiera reformę finansowania Kościołów, ale krytykuje inicjatywę partii.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-to-kielbasa-wyborcza-ks-kobylinski-o-projekcie-lewicy-ws-lik,nIdn,1023956",
+    "image": "https://rmf.rmffm.pl/news/attachments/55/23/zdjecie-ilust-636x421-55230317.jpg",
+    "source": "RMF24",
+    "also": [
+     "Rzeczpospolita"
+    ],
+    "published": "2026-10-29T13:51:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Prezes Agencji Oceny Technologii Medycznych i Taryfikacji podał się do dymisji",
+    "summary": "Daniel Rutkowski złożył dymisje ze stanowiska dyrektora Agencji Oceny Technologii Medycznych i Taryfikacji - potwierdził dla Interii dyrektor komunikacji w agencji Krzysztof Bąk. To właśnie ta instytucja ma odpowiadać za ujawnienie zarobków lekarzy.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-prezes-agencji-oceny-technologii-medycznych-i-taryfikacji-po,nIdn,1023947",
+    "image": "https://rmf.rmffm.pl/news/attachments/eb/e7/prezes-agencji-oceny-technologii-medycznych-i-taryfikacji-daniel-rutkowski-fot-636x421-ebe747a7.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-10-29T12:58:00+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Sąd uchylił decyzję w sprawie Zbigniewa Ziobry",
+    "summary": "Sąd Apelacyjny w Warszawie uchylił postanowienie Sądu Okręgowego w sprawie doprowadzenia przez policję Zbigniewa Ziobry na posiedzenie komisji śledczej ds. Pegasusa. Decyzja dotyczy postanowienia z września 2025 roku, po którym były minister sprawiedliwości został doprowadzony do Sejmu.",
+    "link": "https://tvn24.pl/polska/komisja-ds-pegasusa-sad-uchylil-decyzje-w-sprawie-doprowadzenia-zbigniewa-ziobry-st9312762?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-zbigniew-ziobro-ph9222308/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-10-29T16:16:40+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Lewica chce likwidacji Funduszu Kościelnego. \"Mamy zapis w umowie koalicyjnej\"",
+    "summary": "- Lewica nie jest przeciwko wiernym, nie jest przeciwko wierze, ale proszę państwa, cierpliwość się kończy. Ile można wołać o państwo świeckie - powiedział w czwartek Włodzimierz Czarzasty, marszałek Sejmu i przewodniczący Nowej Lewicy.",
+    "link": "https://www.polsatnews.pl/wiadomosc/2026-10-29/lewica-chce-likwidacji-funduszu-koscielnego-mamy-zapis-w-umowie-koalicyjnej/",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/oa/oajbc41gy4ueujj3wvm59m9bcfgs3w5v.png",
+    "source": "Polsat News",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-10-29T11:30:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Pionierzy, którzy zmienili historię medycyny",
+    "summary": "Pionierzy, którzy zmienili historię medycyny atkacz czw., 10/29/2026 - 10:33 Jaki obraz mamy w głowie, gdy myślimy o chirurgach przygotowujących się do operacji? Sterylne pomieszczenie, sterylne ubrania, mycie rąk, a na koniec jeszcze sterylne rękawiczki.",
+    "link": "https://naukawpolsce.pl/aktualnosci/news%2C115686%2Cpionierzy-ktorzy-zmienili-historie-medycyny.html",
+    "image": "https://naukawpolsce.pl/sites/default/files/styles/ksiazka_16_24_/public/202610/ks.jpg.webp?itok=f1Tc5_VM",
+    "source": "Nauka w Polsce",
+    "also": [],
+    "published": "2026-10-29T09:33:03+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Jeden numer dla dwóch obcych osób. \"Jednostkowy przypadek\"",
+    "summary": "Klientowi sieci telekomunikacyjnej Plus przydarzyła się niestandardowa sytuacja: jego numer został zdublowany przez konkurencyjną sieć Play i przypisany innej osobie. \"Jest to jednostkowy przypadek, wynikający z niewłaściwego oznaczenia dostępności numeru\" - przekazała redakcji biznesowej tvn24.pl firma Play.",
+    "link": "https://tvn24.pl/biznes/z-kraju/klienci-dwoch-sieci-telekomunikacyjnych-wspoldzielili-numer-jednostkowy-przypadek-st9312010?source=rss",
+    "image": "https://tvn24.pl/biznes/najnowsze/cdn-zdjecie-telefon-ph9312699/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-10-29T16:53:49+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Został postrzelony podczas próby ucieczki, zmarł w szpitalu. Dwaj policjanci z zarzutami",
+    "summary": "51-latek został postrzelony przez policjanta podczas próby ucieczki i zmarł w szpitalu. W tej sprawie trwa śledztwo. Dwaj funkcjonariusze usłyszeli zarzuty.",
+    "link": "https://tvn24.pl/tvnwarszawa/okolice/ostrow-mazowiecka-ostroleka-zostal-postrzelony-podczas-proby-ucieczki-zmarl-w-szpitalu-dwaj-policjanci-z-zarzutami-st9312750?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-6517083-policjant-zdjecie-ilustracyjne-ph8977056/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-10-29T16:26:06+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Notowania gwałtownie spadają po wynikach. Gigant na drodze do niechlubnego rekordu",
+    "summary": "Notowania Alphabet, właściciela Google, spadają o 12 proc., co zapowiada największy w historii spadek po publikacji wyników finansowych.",
+    "link": "https://businessinsider.com.pl/gielda/wiadomosci/zjazd-na-akcjach-alphabet-wlasciciel-google-rozczarowal/g878v4t",
+    "image": "https://cdn.businessinsider.com.pl/1/Fi_k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jMjNlOWJiOGQ4Njc0MGMxNjBjYTlmZDA1N2VjOThlOC5qcGeSlQMAPs0H0M0EZZMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-10-29T16:23:26+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Padł historyczny rekord. Zatwierdzono miliardy na klimat, ale potrzeby są jeszcze większe",
+    "summary": "Zielony Fundusz Klimatyczny (GCF) zatwierdził rekordowe finansowanie w wysokości niemal 2 mld dolarów na realizację 21 projektów. Tym samym łączna wartość środków przyznanych w tym roku osiągnęła 3,2 mld dolarów.",
+    "link": "https://www.rp.pl/polityka/art45416701-padl-historyczny-rekord-zatwierdzono-miliardy-na-klimat-ale-potrzeby-sa-jeszcze-wieksze",
+    "image": "https://i.gremicdn.pl/image/free/6479083e7525d8b488cce5a78531de46/?t=crop:5500:2404:nowe:0:631,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-10-29T15:39:40+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Pensje na uczelniach wzrosną od 2027 roku? Jest projekt rozporządzenia",
+    "summary": "Projekt rozporządzenia Ministerstwa Nauki, skierowany do konsultacji publicznych, przewiduje, że od 1 stycznia 2027 r. minimalne wynagrodzenie zasadnicze profesora na uczelni publicznej wzrośnie o 290 zł – z 9650 zł do 9940 zł brutto.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11338225,podwyzki-wynagrodzen-na-uczelniach-2027.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGlj/LmluY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMv/Rk9CMDAwMDAwMDAwMDAwNzY5MjI4OC9maWxlcy91/Y3plbG5pYS0zOTI2OTM4MC5qcGciLCJ3IjozODQwfQ",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-10-29T14:46:01.527000+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Biskup tarnowski Andrzej Jeż skazany. Precedensowy wyrok",
+    "summary": "Na tę decyzję sądu w Tarnowie czekała cała Polska. Sąd wydał wyrok w sprawie biskupa tarnowskiego. Andrzej Jeż był oskarżony o to, że zbyt późno powiadomił organy ścigania o dwóch podległych mu księżach pedofilach.",
+    "link": "https://radiokrakow.pl/wiadomosci/tarnow/historyczny-wyrok-w-tarnowie-dzis-sad-zdecyduje-o-losie-biskupa-andrzeja-jeza/187028",
+    "image": "https://rmf.rmffm.pl/news/attachments/9b/24/biskup-andrzej-jez-fot-636x421-9b24f75c.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "Polsat News",
+     "RMF24",
+     "RMF24 Kraków"
+    ],
+    "published": "2026-10-29T05:10:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Pierwszy taki wyrok w Polsce. Biskup skazany za zwlekanie z powiadomieniem prokuratury o pedofilach",
+    "summary": "Ordynariusz tarnowski bp Andrzej Jeż jest pierwszym biskupem oskarżonym o zbyt pďż˝źne powiadomienie prokuratury o pedofilii w Kościele. I pierwszym, ktďż˝ry ktďż˝ry został za to skazany.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33102311,pierwszy-taki-wyrok-w-polsce-biskup-skazany-za-zwlekanie-z.html",
+    "image": "https://bi.im-g.pl/im/b7/18/1f/z32607671IHG,Ordynariusz-tarnowski-bp-Andrzej-Jez-przed-sadem--.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-10-29T09:31:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Politechnika Krakowska uhonorowana srebrnym medalem „Cracoviae Merenti”",
+    "summary": "Politechnika Krakowska im. Tadeusza Kościuszki otrzymała srebrny medal „Cracoviae Merenti”, jedno z najważniejszych wyróżnień przyznawanych przez miasto. Podczas uroczystości podkreślano wkład uczelni w rozwój Krakowa, kształcenie inżynierów, ochronę zabytków oraz współpracę z miejskimi instytucjami i…",
+    "link": "https://lovekrakow.pl/politechnika-krakowska-uhonorowana-srebrnym-medalem-cracoviae-merenti",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/df1a08c4a90f569ba4a38e6ce9267f1b.jpg.webp?itok=kZIFa6G-",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-10-29T16:18:39+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "86-latka zaatakowana w Bieżanowie. Napastnik zabrał jej plecak",
+    "summary": "86-latka potrzebowała pomocy szpitalnej po tym, jak została zaatakowana i okradziona. Policjanci zatrzymali 46-letniego mężczyznę podejrzanego o rozbój.",
+    "link": "https://lovekrakow.pl/86-latka-zaatakowana-w-biezanowie-napastnik-zabral-jej-plecak",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/5f515ef05e3c7e590abd12bb30a3c3e8.png.webp?itok=oF4B_Fol",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-10-29T14:49:34+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Niedźwiedź widziany blisko popularnej trasy turystycznej w podkrakowskim powiecie",
+    "summary": "Niedźwiedź zaobserwowany w rejonie szczytu Pękalówka (masyw Kotonia) tuż przy żółtym szlaku. Nadleśnictwo Myślenice wydało pilny komunikat i prosi turystów o szczególną ostrożność.",
+    "link": "https://lovekrakow.pl/niedzwiedz-widziany-blisko-popularnej-trasy-turystycznej-w-podkrakowskim-powiecie",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/67918c8a42136eb8a8298ec7de6bc7cd.jpeg.webp?itok=AmL6QTDo",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-10-29T14:01:24+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Sportowym autem wjechał w przystanek. 22-latkowi grozi 8 lat więzienia",
+    "summary": "22-letni kierowca, który we wtorek potrącił 73-letniego pieszego na rynku w Nowym Sączu, usłyszał zarzut sprowadzenia bezpośredniego niebezpieczeństwa katastrofy w ruchu lądowym. Według wstępnej opinii biegłego młody mężczyzna mógł celowo wprowadzić sportowy samochód w poślizg.",
+    "link": "https://radiokrakow.pl/wiadomosci/nowy-sacz/sportowym-autem-wjechal-w-przystanek-22-latkowi-grozi-8-lat-wiezienia/187058",
+    "image": "https://radiokrakow.pl/media/article/187058/71c858a10e7a69b8e0b57e37b4d01d22.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-10-29T16:34:25+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Anna Jagiellonka. Wawel pokazuje nieznane oblicza królowej",
+    "summary": "Wystawa \"Anna Jagiellonka. Wszystkie twarze królowej\" na Zamku Królewskim na Wawelu pozwala spojrzeć na jedną z najważniejszych postaci końca dynastii Jagiellonów z wielu perspektyw.",
+    "link": "https://radiokrakow.pl/audycje/publicystyka/przed-hejnalem/anna-jagiellonka-wawel-pokazuje-nieznane-oblicza-krolowej/187053",
+    "image": "https://radiokrakow.pl/media/article/187053/37cf40456ca03895dc45fc2eb7c31eac.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-10-29T15:12:31+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Ksiądz skrzywdził prawie 100 chłopców, a biskup to ukrywał. Dziś został skazany. „Nie ma ludzi równych i równiejszych”",
+    "summary": "Sąd uznał biskupa diecezji tarnowskiej Andrzeja Jeża za winnego niepowiadomienia organów ścigania o przestępstwach popełnianych przez podległych mu księży.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11338168,ksiadz-skrzywdzil-prawie-100-chlopcow-a-biskup-to-ukrywal-dzis-zosta.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2R/ncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzY5MjIwMy/9maWxlcy9zZWR6aWEtb2dsYXN6YS13eXJvay13LXNwcmF3aWUtYmlza/3VwYS1hbmRyemVqYS1qZXphLTM5Mjk4NTY3LmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-10-29T13:28:59.841000+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Śnieg wyraźnie widać na mapach pogodowych. Nie tylko w górach",
+    "summary": "Zima nie zaczeka do grudnia. Może się okazać, że na początku listopada śnieg spadnie również na nizinach. Jeden model pogodowy wskazał możliwe opady między innymi na Mazowszu, Lubelszczyźnie i Ziemi Łódzkiej, a nie tylko na południu Małopolski czy Podkarpacia. Najbliższe dni na pewno nie będą przyjemne.",
+    "link": "https://www.polsatnews.pl/wiadomosc/2026-10-29/snieg-wyraznie-widac-na-mapach-pogodowych-nie-tylko-w-gorach/",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/wf/wf6igiu1y9xq39a4zg23tizupdy6ua9w.jpg",
+    "source": "Polsat News",
+    "also": [],
+    "published": "2026-10-29T14:43:00+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Łukasz Gibała brata się z działaczami PiS w Krynicy. Dostał od nich poparcie w wyborach",
+    "summary": "Łukasz Gibała odebrał Nagrodę Krynica Forum 2026. Kongres w Beskidzie Sądeckim przyciąga głďż˝wnie politykďż˝w Prawa i Sprawiedliwości. Nowy prezydent Krakowa otrzymał od tej formacji wsparcie w ostatnich wyborach.",
+    "link": "https://zakopane.wyborcza.pl/zakopane/7,179294,33102903,lukasz-gibala-brata-sie-z-dzialaczami-pis-w-krynicy-dostal.html",
+    "image": "https://bi.im-g.pl/im/72/91/1f/z33102962IHG,Prezydent-Krakowa-Lukasz-Gibala-i-wicemarszalek-Ma.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-10-29T07:19:00+00:00",
+    "topic": "polityka"
+   }
+  ]
+ }
+}

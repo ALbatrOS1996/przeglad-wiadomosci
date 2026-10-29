@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Prasówka</title>
+<meta name="description" content="Poranny przegląd najważniejszych wiadomości: Europa, świat, Polska, Kraków.">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1115" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="brand">
+      <div class="today" id="todayLabel"></div>
+      <h1>Prasówka</h1>
+    </div>
+    <button class="icon-btn" id="archiveBtn" aria-label="Archiwum wydań" title="Archiwum wydań">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4.5" width="18" height="16" rx="3"/><path d="M3 9.5h18M8 2.8v3.4M16 2.8v3.4"/><path d="M7.5 13.5h3M7.5 17h6"/></svg>
+    </button>
+  </header>
+
+  <nav class="cats" id="cats" role="tablist" aria-label="Kategorie"></nav>
+
+  <div class="notice" id="notice" hidden></div>
+
+  <main id="main">
+    <section class="hero-sec" id="heroSec">
+      <div class="sec-head">
+        <h2>Najważniejsze</h2>
+        <span class="edition" id="editionLabel"></span>
+      </div>
+      <div class="carousel" id="carousel"></div>
+      <div class="dots" id="dots"></div>
+    </section>
+
+    <section class="list-sec">
+      <div class="sec-head">
+        <h2>Przegląd dnia</h2>
+        <span class="count" id="count"></span>
+      </div>
+      <div class="topics" id="topics"></div>
+      <div class="list" id="list"></div>
+    </section>
+  </main>
+
+  <footer class="foot" id="foot"></footer>
+</div>
+
+<dialog class="sheet article" id="article" aria-label="Wiadomość">
+  <div class="art-hero" id="artHero">
+    <button class="round-btn back" data-close aria-label="Zamknij">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>
+    </button>
+    <button class="round-btn share" id="shareBtn" aria-label="Udostępnij">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12M7.5 7.5L12 3l4.5 4.5"/><path d="M5 12.5V19a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6.5"/></svg>
+    </button>
+    <div class="art-hero-text">
+      <span class="pill" id="artTopic"></span>
+      <h2 id="artTitle"></h2>
+      <div class="meta light" id="artMeta"></div>
+    </div>
+  </div>
+  <div class="art-body">
+    <div class="src-row">
+      <span class="avatar" id="artAvatar"></span>
+      <span class="src-name" id="artSource"></span>
+    </div>
+    <p class="art-summary" id="artSummary"></p>
+    <p class="also" id="artAlso"></p>
+    <a class="cta" id="artLink" target="_blank" rel="noopener noreferrer">
+      Czytaj w źródle
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M9 7h8v8"/></svg>
+    </a>
+  </div>
+</dialog>
+
+<dialog class="sheet archive" id="archive" aria-labelledby="archTitle">
+  <div class="grabber"></div>
+  <div class="arch-head">
+    <h2 id="archTitle">Archiwum wydań</h2>
+    <button class="icon-btn small" data-close aria-label="Zamknij">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </div>
+  <p class="arch-note">Prasówka przechowuje dzisiejsze wydanie i trzy poprzednie dni.</p>
+  <div class="arch-list" id="archList"></div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
