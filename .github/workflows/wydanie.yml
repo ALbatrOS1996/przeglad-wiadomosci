@@ -39,7 +39,7 @@ jobs:
           fi
       - name: Zapisz w repozytorium
         run: |
-          git config user.name "prasowka-bot"
+          git config user.name "kronika-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A docs/data
           if git diff --cached --quiet; then echo "Bez zmian."; exit 0; fi

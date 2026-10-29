@@ -1,4 +1,4 @@
-"""Generuje poranne wydanie Prasówki: docs/data/RRRR-MM-DD.json + docs/data/index.json.
+"""Generuje poranne wydanie Kroniki: docs/data/RRRR-MM-DD.json + docs/data/index.json.
 
 Uruchamianie:
   python scripts/generuj.py              – generuje wydanie na dziś (nadpisuje istniejące)
@@ -306,7 +306,7 @@ def claude_select(cat, cands, n):
     for i, c in enumerate(cands):
         lines.append(f"[{i}] ({c['source']}) {c['title']}\n    {c['raw_summary'][:450] or '(brak leadu – tylko nagłówek)'}")
     prompt = (
-        f"Jesteś redaktorem porannej prasówki dla polskiego czytelnika (nauczyciela historii z Krakowa). "
+        f"Jesteś redaktorem porannego przeglądu wiadomości dla polskiego czytelnika (nauczyciela historii z Krakowa). "
         f"Kategoria: {names[cat]}. Poniżej kandydaci z ostatniej doby z renomowanych źródeł.\n\n"
         f"Wybierz {n} najważniejszych wiadomości tak, by wydanie było różnorodne: nie tylko polityka i wojna, ale też "
         f"gospodarka, kultura, nauka, społeczeństwo, zdrowie, klimat, technologie, sport – proporcjonalnie do wagi wydarzeń. "

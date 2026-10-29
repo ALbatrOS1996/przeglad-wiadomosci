@@ -1,4 +1,4 @@
-const SHELL = "prasowka-v1";
+const SHELL = "kronika-v2";
 const FILES = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icon.svg"];
 
 self.addEventListener("install", (e) => {
