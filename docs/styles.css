@@ -52,7 +52,7 @@ img { display: block; }
   padding: max(18px, env(safe-area-inset-top)) 20px 6px;
 }
 .today { font-size: 13px; color: var(--muted); font-weight: 500; }
-.top h1 { margin: 0; font-size: 30px; line-height: 1.1; font-weight: 800; letter-spacing: -.03em; }
+.top h1 { margin: 0; font-size: clamp(23px, 6.6vw, 30px); line-height: 1.1; font-weight: 800; letter-spacing: -.03em; }
 .icon-btn {
   width: 48px; height: 48px; border-radius: 50%; border: 0; background: var(--surface-2);
   display: grid; place-items: center; cursor: pointer; flex: none; transition: background .15s;

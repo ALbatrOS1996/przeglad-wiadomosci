@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Kronika",
-  "short_name": "Kronika",
+  "name": "Przegląd wiadomości",
+  "short_name": "Przegląd",
   "description": "Poranny przegląd najważniejszych wiadomości: Europa, świat, Polska, Kraków.",
   "lang": "pl",
   "start_url": "./",

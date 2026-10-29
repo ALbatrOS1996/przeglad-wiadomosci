@@ -230,7 +230,7 @@ document.addEventListener("click", (e) => {
   if (t.dataset.cat) {
     state.cat = t.dataset.cat;
     state.topic = null;
-    store.set("kronika.cat", state.cat);
+    store.set("przeglad.cat", state.cat);
     render();
   } else if (t.dataset.topic !== undefined) {
     state.topic = t.dataset.topic || null;
@@ -260,7 +260,7 @@ function showError() {
 
 async function init() {
   $("todayLabel").textContent = cap(dayFmt.format(new Date()));
-  const saved = store.get("kronika.cat");
+  const saved = store.get("przeglad.cat");
   if (CATS.some((c) => c.id === saved)) state.cat = saved;
   try {
     const idx = await getJSON("data/index.json");

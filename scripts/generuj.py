@@ -1,4 +1,4 @@
-"""Generuje poranne wydanie Kroniki: docs/data/RRRR-MM-DD.json + docs/data/index.json.
+"""Generuje poranne wydanie Przeglądu wiadomości: docs/data/RRRR-MM-DD.json + docs/data/index.json.
 
 Uruchamianie:
   python scripts/generuj.py              – generuje wydanie na dziś (nadpisuje istniejące)

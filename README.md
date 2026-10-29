@@ -1,4 +1,4 @@
-# Kronika
+# Przegląd wiadomości
 
 Poranny przegląd wiadomości w czterech kategoriach: Europa, Świat, Polska, Kraków.
 
