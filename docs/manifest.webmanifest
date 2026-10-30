@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Przegląd wiadomości",
   "short_name": "Przegląd",
-  "description": "Poranny przegląd najważniejszych wiadomości: Europa, świat, Polska, Kraków.",
+  "description": "Poranny przegląd najważniejszych wiadomości: Europa, świat, Polska, Kraków, kultura.",
   "lang": "pl",
   "start_url": "./",
   "scope": "./",

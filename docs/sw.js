@@ -1,4 +1,4 @@
-const SHELL = "przeglad-v3";
+const SHELL = "przeglad-v4";
 const FILES = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icon.svg"];
 
 self.addEventListener("install", (e) => {

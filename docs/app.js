@@ -5,8 +5,9 @@ const CATS = [
   { id: "swiat", label: "Świat" },
   { id: "polska", label: "Polska" },
   { id: "krakow", label: "Kraków" },
+  { id: "kultura", label: "Kultura" },
 ];
-const CAT_COLORS = { europa: ["#4c95ff", "#1446a0"], swiat: ["#2bc4a8", "#0b5e57"], polska: ["#ff6b6f", "#9b1c22"], krakow: ["#a98bff", "#4a2aa6"] };
+const CAT_COLORS = { europa: ["#4c95ff", "#1446a0"], swiat: ["#2bc4a8", "#0b5e57"], polska: ["#ff6b6f", "#9b1c22"], krakow: ["#a98bff", "#4a2aa6"], kultura: ["#ffb347", "#a8501a"] };
 const HERO_COUNT = 4;
 
 const state = { index: [], edition: null, date: null, cat: "europa", topic: null, cache: {} };
@@ -98,7 +99,18 @@ function renderCats() {
     const n = state.edition?.categories?.[c.id]?.length ?? 0;
     return `<button class="cat" role="tab" aria-selected="${c.id === state.cat}" data-cat="${c.id}" title="${n} wiadomości">${c.label}</button>`;
   }).join("");
+  // na wąskim ekranie nie wszystkie zakładki się mieszczą – wybrana ma być widoczna
+  const cats = $("cats"), sel = cats.querySelector('[aria-selected="true"]');
+  if (sel) cats.scrollLeft = Math.max(0, sel.offsetLeft + sel.offsetWidth - cats.clientWidth + 20);
+  fadeCats();
 }
+
+function fadeCats() {
+  const c = $("cats");
+  c.classList.toggle("more", c.scrollLeft + c.clientWidth < c.scrollWidth - 4);
+}
+$("cats").addEventListener("scroll", fadeCats, { passive: true });
+addEventListener("resize", fadeCats);
 
 function renderNotice() {
   const n = $("notice");

@@ -1,6 +1,6 @@
 # Przegląd wiadomości
 
-Poranny przegląd wiadomości w czterech kategoriach: Europa, Świat, Polska, Kraków.
+Poranny przegląd wiadomości w pięciu kategoriach: Europa, Świat, Polska, Kraków, Kultura (muzea, sztuka, film, muzyka, książki, teatr, historia – polska i zagraniczna).
 
 - `docs/` – aplikacja (PWA) publikowana przez GitHub Pages; wydania w `docs/data/RRRR-MM-DD.json`
 - `scripts/zrodla.py` – lista źródeł RSS i słowa kluczowe (kategorie, tematy)

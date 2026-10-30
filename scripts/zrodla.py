@@ -3,9 +3,12 @@
 #   pl    – polskie serwisy ogólne: Kraków / Polska / Europa / Świat wg słów kluczowych
 #   world – serwisy zagraniczne i działy „świat”: Europa albo Świat wg słów kluczowych
 #   eu    – serwisy europejskie: Europa (chyba że tekst wyraźnie dotyczy innego regionu)
+#   kul   – serwisy kulturalne: zawsze Kultura (pl: True – źródło polskie, do równowagi kraj/zagranica)
 # topic – podpowiedź tematu, gdy serwis jest tematyczny
 # hours – jak daleko wstecz brać wpisy (ośrodki analityczne publikują rzadziej)
 # gnews – kanał z Google News (sam nagłówek, link przekierowuje do źródła)
+# strict – (Kultura) bierz tylko wpisy, w których są słowa kluczowe z działów kultury
+# sub – (Kultura) dział domyślny, gdy słowa kluczowe nic nie wskażą
 
 def gnews(query, lang="pl"):
     if lang == "pl":
@@ -32,8 +35,6 @@ FEEDS = [
     {"name": "Newsweek Polska", "url": "https://www.newsweek.pl/rss.xml", "scope": "pl", "w": 2.5},
     {"name": "Dziennik Gazeta Prawna", "url": "https://www.gazetaprawna.pl/.feed", "scope": "pl", "w": 2.5},
     {"name": "Rzeczpospolita", "url": "https://www.rp.pl/rss_main", "scope": "pl", "w": 2.5},
-    {"name": "RMF24 Kultura", "url": "https://www.rmf24.pl/kultura/feed", "scope": "pl", "w": 2.5, "topic": "kultura"},
-    {"name": "Onet Kultura", "url": "https://kultura.onet.pl/.feed", "scope": "pl", "w": 2, "topic": "kultura"},
     {"name": "RMF24 Ekonomia", "url": "https://www.rmf24.pl/ekonomia/feed", "scope": "pl", "w": 2.5, "topic": "gospodarka"},
     {"name": "money.pl", "url": "https://www.money.pl/rss/rss.xml", "scope": "pl", "w": 2.5, "topic": "gospodarka"},
     {"name": "Business Insider Polska", "url": "https://businessinsider.com.pl/.feed", "scope": "pl", "w": 2.5, "topic": "gospodarka"},
@@ -73,11 +74,35 @@ FEEDS = [
     {"name": "Financial Times", "url": "https://www.ft.com/world?format=rss", "scope": "world", "w": 3},
     {"name": "RMF24", "url": "https://www.rmf24.pl/fakty/swiat/feed", "scope": "world", "w": 3},
     {"name": "TVN24", "url": "https://tvn24.pl/swiat.xml", "scope": "world", "w": 2.5},
-    {"name": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml", "scope": "world", "w": 2.5, "topic": "kultura"},
-    {"name": "The Guardian", "url": "https://www.theguardian.com/culture/rss", "scope": "world", "w": 2.5, "topic": "kultura"},
     {"name": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml", "scope": "world", "w": 2.5, "topic": "nauka"},
     {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "scope": "world", "w": 3, "topic": "nauka"},
     {"name": "National Geographic", "url": gnews("site:nationalgeographic.com+when:3d", "en"), "scope": "world", "w": 2.5, "topic": "nauka", "gnews": True, "hours": 72},
+
+    # ── Kultura: Polska ──
+    {"name": "PAP", "url": gnews("site:pap.pl+kultura+when:2d"), "scope": "kul", "pl": True, "w": 3, "gnews": True, "strict": True, "hours": 48},
+    {"name": "RMF24 Kultura", "url": "https://www.rmf24.pl/kultura/feed", "scope": "kul", "strict": True, "pl": True, "w": 2.5},
+    {"name": "Wyborcza Kultura", "url": "https://wyborcza.pl/pub/rss/kultura.xml", "scope": "kul", "strict": True, "pl": True, "w": 2.5},
+    {"name": "Onet Kultura", "url": "https://kultura.onet.pl/.feed", "scope": "kul", "strict": True, "pl": True, "w": 2},
+    {"name": "Muzeum Narodowe w Krakowie", "url": "https://www.mnk.pl/rss", "scope": "kul", "pl": True, "w": 3, "sub": "muzea", "hours": 96},
+    {"name": "Dzieje.pl", "url": "https://dzieje.pl/rss.xml", "scope": "kul", "strict": True, "pl": True, "w": 2.5, "hours": 48},
+    {"name": "Culture.pl", "url": gnews("site:culture.pl+when:3d"), "scope": "kul", "strict": True, "pl": True, "w": 2.5, "gnews": True, "hours": 96},
+    {"name": "Magazyn Szum", "url": "https://magazynszum.pl/feed/", "scope": "kul", "pl": True, "w": 2.5, "sub": "sztuka", "hours": 72},
+    {"name": "Niezła sztuka", "url": "https://niezlasztuka.net/feed/", "scope": "kul", "pl": True, "w": 2, "sub": "sztuka", "hours": 96},
+
+    # ── Kultura: świat ──
+    {"name": "The Art Newspaper", "url": "https://www.theartnewspaper.com/rss.xml", "scope": "kul", "w": 3, "sub": "sztuka"},
+    {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", "scope": "kul", "strict": True, "w": 3},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/artanddesign/rss", "scope": "kul", "w": 3, "sub": "sztuka"},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/culture/rss", "scope": "kul", "strict": True, "w": 2.5},
+    {"name": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml", "scope": "kul", "w": 3, "sub": "sztuka"},
+    {"name": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml", "scope": "kul", "strict": True, "w": 2.5},
+    {"name": "Smithsonian Magazine", "url": "https://www.smithsonianmag.com/rss/arts-culture/", "scope": "kul", "w": 2.5, "hours": 96},
+    {"name": "Artnet News", "url": "https://news.artnet.com/feed", "scope": "kul", "w": 2.5, "sub": "sztuka"},
+    {"name": "ARTnews", "url": "https://www.artnews.com/feed/", "scope": "kul", "w": 2.5, "sub": "sztuka"},
+    {"name": "Hyperallergic", "url": "https://hyperallergic.com/feed/", "scope": "kul", "w": 2.5, "sub": "sztuka"},
+    {"name": "Le Monde", "url": "https://www.lemonde.fr/culture/rss_full.xml", "scope": "kul", "strict": True, "w": 2.5},
+    {"name": "Euronews Culture", "url": "https://www.euronews.com/rss?level=vertical&name=culture", "scope": "kul", "strict": True, "w": 2},
+    {"name": "France 24", "url": "https://www.france24.com/en/culture/rss", "scope": "kul", "strict": True, "w": 2},
 ]
 
 # ── Słowa kluczowe (małe litery, dopasowanie po początku wyrazu) ──
@@ -162,6 +187,32 @@ TOPICS = {
                       "inwestycj miejsk", "remont", "budow", "drog", "road", "rower", "bike", "park", "festyn",
                       "1 listopada", "wszystkich świętych", "cmentarz", "cemeter", "ślub", "kobiet", "women", "prawa człowieka",
                       "human rights", "ubóst", "pover", "bezdomn", "homeless"],
+}
+
+# działy w kategorii Kultura (kolejność = pierwszeństwo przy remisie)
+CULTURE = {
+    "muzea": ["muze", "museum", "wystaw", "exhibit", "kolekcj", "collection", "zbiorów", "zbiory", "zabyt", "heritage",
+              "dziedzictw", "unesco", "archeolog", "archaeolog", "konserwac", "conserv", "restaur", "zamek", "zamku", "castle",
+              "pałac", "palace", "wawel", "louvre", "luwr", "kurator", "curator", "skarb", "treasure", "artefakt", "artifact",
+              "artefact", "relikt", "manuskrypt", "manuscript", "rękopis"],
+    "sztuka": ["sztuk", "art ", "arts", "artyst", "artist", "malar", "paint", "obraz", "rzeźb", "sculpt", "galeri", "gallery",
+               "biennale", "aukcj", "auction", "sotheby", "christie", "grafik", "fotograf", "photograph", "architekt",
+               "architect", "design", "instalacj", "installation", "documenta", "mural", "ceramik", "ceramic"],
+    "film": ["film", "kino", "kinow", "cinema", "movie", "serial", "netflix", "hbo", "oscar", "reżyser", "director", "aktor",
+             "actor", "actress", "hollywood", "box office", "berlinale", "cannes", "sundance", "star trek", "dokument"],
+    "muzyka": ["muzyk", "music", "koncert", "concert", "album", "płyt", "piosen", "song", "zespoł", "zespół", "band ",
+               "orkiestr", "orchestra", "filharmon", "philharmon", "jazz", "rock", "rap", "chopin", "kompozytor", "composer",
+               "grammy", "singer", "piosenkar", "wokalist", "trasa koncert", "tour"],
+    "literatura": ["książk", "book", "literat", "pisarz", "pisark", "writer", "novel", "powieś", "poezj", "poet", "wiersz",
+                   "noblist", "nobel", "booker", "nike", "wydawnic", "publisher", "reportaż", "bibliotek", "library", "author"],
+    "teatr": ["teatr", "theatre", "theater", "opera", "balet", "ballet", "taniec", "dance", "spektakl", "broadway", "scen",
+              "stage", "musical", "dramat"],
+    "historia": ["histor", "rocznic", "anniversar", "pamięc", "upamiętn", "wojenn", "powstan", "ipn", "średniow", "medieval",
+                 "starożyt", "ancient", "cesarz", "emperor", "król", "king", "dynast", "xix w", "xviii w", "xvii w", "xvi w"],
+}
+CULTURE_LABELS = {
+    "muzea": "Muzea i zabytki", "sztuka": "Sztuka", "film": "Film i seriale", "muzyka": "Muzyka", "literatura": "Książki",
+    "teatr": "Teatr i taniec", "historia": "Historia",
 }
 
 TOPIC_LABELS = {

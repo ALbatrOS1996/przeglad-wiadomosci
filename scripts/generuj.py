@@ -21,14 +21,19 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from zrodla import FEEDS, KRAKOW, EUROPE, WORLD, POLAND, TOPICS, TOPIC_LABELS  # noqa: E402
+from zrodla import FEEDS, KRAKOW, EUROPE, WORLD, POLAND, TOPICS, TOPIC_LABELS, CULTURE, CULTURE_LABELS  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "docs" / "data"
 KEEP_DAYS = 4  # dzisiejsze wydanie + 3 dni wstecz
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
-CATS = ["europa", "swiat", "polska", "krakow"]
-TARGET = {"europa": 12, "swiat": 12, "polska": 14, "krakow": 10}
+CATS = ["europa", "swiat", "polska", "krakow", "kultura"]
+TARGET = {"europa": 12, "swiat": 12, "polska": 14, "krakow": 10, "kultura": 14}
+# w działach kultury trafiają się kryminał, plotki i telewizja rozrywkowa – to nie jest wiadomość o kulturze
+CULTURE_JUNK = (r"(zamordowa|zabójst|murder|killed|police|policj|prokurat|chorob|disease|amputac|szpital|hospital|"
+                r"reality|traitors|big brother|taniec z gwiazdami|love island|bake off|strictly|celebryt|plotk|rozw[óo]d|divorce|"
+                r"ślub|wedding|ciąż|pregnan|odchudz|diet|stadium|stadion|recipe|horoscope|trump|wybor|election)")
+CULTURE_BONUS = {"muzea": 0.8, "sztuka": 0.4}  # muzea i sztuka wyżej w rankingu Kultury
 MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
 
 
@@ -174,6 +179,8 @@ def classify_region(feed, text, title):
     k, e, w, p = (kw_hits(text, KRAKOW), kw_hits(text, EUROPE), kw_hits(text, WORLD), kw_hits(text, POLAND))
     te, tw = kw_hits(title, EUROPE), kw_hits(title, WORLD)
     scope = feed["scope"]
+    if scope == "kul":
+        return "kultura"
     if scope == "krk":
         return "krakow"
     if scope == "pl":
@@ -190,6 +197,15 @@ def classify_region(feed, text, title):
     if scope == "eu":
         return "swiat" if w > e else "europa"
     return "europa" if e > w else "swiat"
+
+
+def culture_section(feed, text, title):
+    """Dział w kategorii Kultura; None, gdy wpis ze źródła „strict” nie dotyczy kultury."""
+    scores = {t: kw_hits(text, words) + kw_hits(title, words) for t, words in CULTURE.items()}
+    best = max(scores, key=scores.get)
+    if scores[best]:
+        return best
+    return None if feed.get("strict") else feed.get("sub", "kultura")
 
 
 def classify_topic(feed, text, title):
@@ -221,6 +237,12 @@ def geo_key(title):
 STOP = set("oraz które który która przez jako jest będzie został została zostało także tylko jednak może mogą ponad podczas "
            "after about their there which would could while with from that this have been were will into over says said "
            "dlaczego czego kiedy gdzie jakie jaki jaka".split())
+
+
+def names(title):
+    """Nazwy własne z nagłówka (słowa z wielkiej litery poza pierwszym) – do wyłapania tego samego wydarzenia w dwóch językach."""
+    words = re.findall(r"[\wąćęłńóśźżĄĆĘŁŃÓŚŹŻ]{4,}", title)[1:]
+    return {w.lower()[:6] for w in words if w[0].isupper()}
 
 
 def stems(title):
@@ -301,15 +323,23 @@ def claude_select(cat, cands, n):
     import anthropic
 
     names = {"europa": "Europa (bez Polski)", "swiat": "Świat (poza Europą lub o znaczeniu globalnym)",
-             "polska": "Polska", "krakow": "Kraków i Małopolska"}
+             "polska": "Polska", "krakow": "Kraków i Małopolska",
+             "kultura": "Kultura: muzea, wystawy, sztuka, zabytki, film, muzyka, książki, teatr, historia – polska i zagraniczna"}
+    if cat == "kultura":
+        variety = ("różnorodne: w pierwszej kolejności muzea, wystawy, sztuka i zabytki, ale też film, muzyka, książki, teatr "
+                   "i historia; mniej więcej połowa wiadomości o kulturze polskiej, połowa o zagranicznej")
+        topics = list(CULTURE_LABELS)
+    else:
+        variety = ("różnorodne: nie tylko polityka i wojna, ale też gospodarka, kultura, nauka, społeczeństwo, zdrowie, "
+                   "klimat, technologie, sport – proporcjonalnie do wagi wydarzeń")
+        topics = list(TOPIC_LABELS)
     lines = []
     for i, c in enumerate(cands):
         lines.append(f"[{i}] ({c['source']}) {c['title']}\n    {c['raw_summary'][:450] or '(brak leadu – tylko nagłówek)'}")
     prompt = (
         f"Jesteś redaktorem porannego przeglądu wiadomości dla polskiego czytelnika (nauczyciela historii z Krakowa). "
         f"Kategoria: {names[cat]}. Poniżej kandydaci z ostatniej doby z renomowanych źródeł.\n\n"
-        f"Wybierz {n} najważniejszych wiadomości tak, by wydanie było różnorodne: nie tylko polityka i wojna, ale też "
-        f"gospodarka, kultura, nauka, społeczeństwo, zdrowie, klimat, technologie, sport – proporcjonalnie do wagi wydarzeń. "
+        f"Wybierz {n} najważniejszych wiadomości tak, by wydanie było {variety}. "
         f"Pomiń duplikaty tego samego wydarzenia (wybierz najlepsze źródło), plotki, horoskopy, treści sponsorowane, "
         f"porady zakupowe i wiadomości bez znaczenia. Jeśli kandydat nie pasuje do kategorii, pomiń go.\n\n"
         f"Dla każdej wybranej podaj: id, tytuł po polsku (rzeczowy, bez clickbaitu), streszczenie po polsku w 2–3 "
@@ -325,7 +355,7 @@ def claude_select(cat, cands, n):
                 "id": {"type": "integer"},
                 "title": {"type": "string"},
                 "summary": {"type": "string"},
-                "topic": {"type": "string", "enum": list(TOPIC_LABELS)},
+                "topic": {"type": "string", "enum": topics},
             },
             "required": ["id", "title", "summary", "topic"],
             "additionalProperties": False,
@@ -395,6 +425,13 @@ def main():
             text = f" {title} {summary} ".lower()
             if re.search(r"(horoskop|sponsorowan|partner materiału|artykuł partnerski|promocj[ae] w|kod rabatowy|quiz|^ ?live|na żywo|transmisj|przepis|sałat|kulinar|ciast[oa]|tart[ay] |przekąsk|obiad|audycja|podcast|galeria|zdjęcia:|^ ?watch:|^ ?wideo|^ ?video|lotto|eurojackpot|multi multi|kup teraz|wyprzedaż|black friday|newsletter|ranking kont|ranking lokat|program tv|tv guide)", text):
                 continue
+            region = classify_region(feed, text, f" {title} ".lower())
+            if region == "kultura":
+                topic = culture_section(feed, text, f" {title} ".lower())
+                if topic is None or len(title) < 15 or re.search(CULTURE_JUNK, text):
+                    continue
+            else:
+                topic = classify_topic(feed, text, f" {title} ".lower())
             pool.append({
                 "title": title,
                 "raw_summary": shorten(summary, 600),
@@ -403,8 +440,9 @@ def main():
                 "image": None if feed.get("gnews") else fix_image(it.get("image")),
                 "source": feed["name"],
                 "published": it["date"].isoformat() if it["date"] else None,
-                "region": classify_region(feed, text, f" {title} ".lower()),
-                "topic": classify_topic(feed, text, f" {title} ".lower()),
+                "region": region,
+                "topic": topic,
+                "pl": bool(feed.get("pl")),
                 "_w": feed["w"],
                 "_age": max(age_h, 0),
                 "_stems": stems(title),
@@ -436,10 +474,12 @@ def main():
     for c in uniq:
         c["score"] = (c["_w"] + 1.6 * (len(c["_coverage"]) - 1) + (1.0 if c["summary"] else -1.5)
                       + (0.6 if c["image"] else 0) - min(c["_age"], 48) / 16)
+        if c["region"] == "kultura":
+            c["score"] += CULTURE_BONUS.get(c["topic"], 0)
 
     use_ai = bool(os.environ.get("ANTHROPIC_API_KEY")) and not args.no_ai
     edition = {"date": today, "generated": now_w.isoformat(timespec="minutes"), "mode": "ai" if use_ai else "rss",
-               "topics": TOPIC_LABELS, "categories": {}}
+               "topics": {**TOPIC_LABELS, **CULTURE_LABELS}, "categories": {}}
     for cat in CATS:
         cands = [c for c in uniq if c["region"] == cat]
         n = TARGET[cat]
@@ -452,6 +492,14 @@ def main():
             except Exception as e:
                 print(f"  {cat}: Claude niedostępny ({e}) – tryb RSS", file=sys.stderr)
                 edition["mode"] = "mixed"
+        if not chosen and cat == "kultura":
+            # mniej więcej po połowie: kultura polska i zagraniczna
+            good = [c for c in cands if c["summary"] or c["_w"] >= 3]
+            chosen = pick([c for c in good if not c["pl"]], n // 2)
+            seen = [names(c["title"]) for c in chosen]
+            pl = [c for c in good if c["pl"] and not any(len(names(c["title"]) & s) >= 2 for s in seen)]
+            chosen = sorted(chosen + pick(pl, n - len(chosen)), key=lambda x: -x["score"])
+            print(f"  {cat}: {len(chosen)} z {len(cands)} kandydatów")
         if not chosen:
             chosen = pick([c for c in cands if c["summary"] or c["_w"] >= 3.5], n)
             print(f"  {cat}: {len(chosen)} z {len(cands)} kandydatów")

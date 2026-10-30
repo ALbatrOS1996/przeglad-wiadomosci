@@ -67,6 +67,8 @@ img { display: block; }
   backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
 }
 .cats::-webkit-scrollbar { display: none; }
+/* zakładki za prawą krawędzią – delikatne wygaszenie podpowiada, że można przewinąć */
+.cats.more { mask-image: linear-gradient(to right, #000 calc(100% - 44px), transparent); -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 44px), transparent); }
 .cat {
   flex: none; border: 0; border-radius: 999px; padding: 10px 18px; background: var(--surface-2);
   color: var(--ink-2); font-weight: 600; font-size: 15px; cursor: pointer; transition: background .15s, color .15s;
