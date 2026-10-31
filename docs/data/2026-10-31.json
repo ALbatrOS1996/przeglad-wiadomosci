@@ -1,0 +1,736 @@
+{
+ "date": "2026-10-31",
+ "generated": "2026-10-31T06:15+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "US approves sale of 500 Patriot missiles to Ukraine",
+    "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "Financial Times",
+     "France 24"
+    ],
+    "published": "2026-10-31T00:40:43+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Pope Leo becomes first pontiff to cast ballot in US election",
+    "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXNBbkd1Q2VaanlIakk1Q29CbDEybTR1YWxnZE5BU1ZrdmJVMmRONGFBeGxvSHYtUWZTU1NWTHREWVNEaUlJTkdrZ2FJOEdkTzByN3NDRmhSSFNBTUk3WGV2aHRQMzdjamJMMzYwQWRqSU1ZenI2UEdoUV8xM25KRU80NXB2S05QY0Fmb1E1YURrSFNwWFlDZjVYaVBtMWdl?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg",
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "BBC News"
+    ],
+    "published": "2026-10-30T17:19:14+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+    "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+    "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [
+     "Financial Times",
+     "France 24"
+    ],
+    "published": "2026-10-30T16:26:11+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Russia’s top independent newspaper shuts down, blaming pressure from authorities",
+    "summary": "Kremlin crackdown drives Novaya Gazeta to end operations",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnJwMnRCZE44NXp1NVZ1OWQycV9wa3QwdzhGVTdWV2dKSy04azNTNS1GT0pobmNpRnE1cW5PU1h0MDlPMlpyTVBrQmpyQWttZHhSc3Mzc04zUWhVeVFILUdodWFOTXY3YWF4UHh2VlVRck84Z2FUZ0d3RGZPbVQ5bG9SMHdleWN3MFZlTzV1Z2ktVWozTENIUkJQek5EcHJ4LVVHeUREb3c2QWlGajZqbnc1OUxTSVk?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Euronews",
+     "Financial Times"
+    ],
+    "published": "2026-10-30T14:51:06+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Spain’s latest deadly train crash puts human error and systemic failure under scrutiny",
+    "summary": "Emergency workers were still searching for survivors and victims at the site of the crash on Thursday.",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGkwSHI5NE1aaU1SekdVcF93SDdITGRHeEYxa1N6OC1oU2RpVXBuM2JiZWdpbUg2VDFBNW0tWGFfYW10ZnZjY0E5YlppQnpBbGtOd3ZSeVRfLWc0aTVRWGF4UTFldk9NSXp1Qk5lckdJa05abGJkYzF4a1FQVTd5UGoxTUVqUFJFQlVQc0htR1hHOTRWWVhyWGdXdFF3aU0?oc=5",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-10-30T18:53:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+    "summary": "Activists call for people to make their anger known over poor public services including education and housing Europe live – latest updates Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of…",
+    "link": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+    "image": "https://i.guim.co.uk/img/media/f9bcca919390196c72d4b51a3bee7cfc21271ac9/356_0_6772_5418/master/6772.jpg?width=140&quality=85&auto=format&fit=max&s=5715ad8fcfcd8353438cc59f7867a9fc",
+    "source": "The Guardian",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-10-30T14:42:46+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Italy: Thousands protest rising living costs and defence spending in general strike",
+    "summary": "Thousands of protesters marched through Rome, Italy, on Friday, 30 October, during a general strike called by the left-wing Unione Sindacale di Base (USB) trade union.",
+    "link": "https://www.euronews.com/video/2026/10/30/italy-thousands-protest-rising-living-costs-and-defence-spending-in-general-strike",
+    "image": "https://s.france24.com/media/display/a7fade1c-d454-11f1-9f72-bf1914cabd52/w:1024/p:16x9/5ad92d1275fbe13539773162bc09435bb3f99834.jpg",
+    "source": "Euronews",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-10-30T13:26:01+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Ukraine war briefing: Moscow’s Lavrov snubbed at G20 in Atlanta",
+    "summary": "Russian foreign minister heavily criticised by EU foreign policy chief, and plans for the traditional ‘family photo’ abandoned. What we know on day 1,711 The EU’s foreign policy chief has accused Russian foreign minister Sergei Lavrov of presenting “lies” in G20 meetings in Atlanta about the Ukrainian conflict and…",
+    "link": "https://www.theguardian.com/world/2026/oct/31/ukraine-war-briefing-moscows-lavrov-snubbed-at-g20-in-atlanta",
+    "image": "https://i.guim.co.uk/img/media/fd7f1ff47174ac5892165fcc97821201039de801/563_0_3732_2987/master/3732.jpg?width=140&quality=85&auto=format&fit=max&s=53517d28548c7abdbb1aa7f3e59bda8e",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-10-31T04:26:03+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Wanted: New Central Bank Chief. Expertise and Political Acumen Required.",
+    "summary": "The European Central Bank president, Christine Lagarde, will step down in February.",
+    "link": "https://www.nytimes.com/2026/10/31/business/european-central-bank-lagarde-succession.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Biz-ECB-Next-01-cqtz/30Biz-ECB-Next-01-cqtz-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-31T04:01:05+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery",
+    "summary": "Prime Minister Andy Burnham of Britain in Glasgow on Friday.",
+    "link": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
+    "image": "https://static01.nyt.com/images/2026/11/30/multimedia/30int-uk-slavery-apology-mhgb/30int-uk-slavery-apology-mhgb-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-31T03:32:20+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Raport: Wynagrodzenia polskich doktorantów jednymi z najniższych w Europie",
+    "summary": "Raport: Wynagrodzenia polskich doktorantów jednymi z najniższych w Europie tryton pt., 10/30/2026 - 12:03 2 minuty",
+    "link": "https://naukawpolsce.pl/aktualnosci/news%2C115712%2Craport-wynagrodzenia-polskich-doktorantow-jednymi-z-najnizszych-w-europie",
+    "image": "https://naukawpolsce.pl/sites/default/files/styles/new_720_x_405/public/202610/AdobeStock_437914138.jpg?itok=sD5THIMJ",
+    "source": "Nauka w Polsce",
+    "also": [
+     "PAP"
+    ],
+    "published": "2026-10-30T11:03:03+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Distaste for Lavrov Forces U.S. to Cancel G20 Photo Session in Atlanta",
+    "summary": "Many European diplomats believe that Russian officials like Sergey Lavrov should be shunned over Moscow’s war in Ukraine.",
+    "link": "https://www.nytimes.com/2026/10/30/us/politics/lavrov-russia-photo-rubio.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-G20-photo-bkgf/30dc-G20-photo-bkgf-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-30T20:12:18+00:00",
+    "topic": "polityka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Christa Pike describes constant pain in first statement since her failed execution",
+    "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVm5NR0RFMnRfVl9iLTBjVjZuUXNORENJZUpkOXotbW1rTER0MDk3aG9fZ3FtM1Q5RnRVQks2SjVLVGl4Qm0yeXRVZmdBVnBiUzJ0RnhUeW9wc1RnM0ZZdFY1UnRsVFdoUENOemQ2ZnJhZFhHTkp1dnFUN3RHdEZXQnVNTW1tdy1QYkZpb0tDYXVkRG1TN1pWc3JuUVdYaXk3MkRUYUtmRmM?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg",
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera",
+     "BBC News",
+     "Euronews"
+    ],
+    "published": "2026-10-30T21:28:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Kolejny ambasador RP składa rezygnację",
+    "summary": "Paweł Soloch złożył rezygnację z funkcji ambasadora RP w Rumunii - decyzja ma związek z wydarzeniami w Trybunale Konstytucyjnym. Wcześniej dymisję złożył ambasador Polski w Chinach Jakub Kumoch.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-kolejny-ambasador-rp-sklada-rezygnacje,nIdn,1024184",
+    "image": "https://rmf.rmffm.pl/news/attachments/32/a4/bukareszt-636x421-32a445f6.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia",
+     "Polsat News",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-10-31T00:09:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz",
+    "summary": "Iran's Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press"
+    ],
+    "published": "2026-10-30T20:40:06+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Brazil summons Argentine diplomat over role in Bolsonaro's flight to US, sources say",
+    "summary": "The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEdXcVBBSkg5UFVrS1ZYNHVNZmRVY1RyYm9waktjMHlReXluWFZZVHY0OTQ3R0NucGVCQWxtYlZOejFhQ1MxSk9FeU1pWG94Z2RGME4zempoOE5USU42eHM1SW9oYTRfUHk2SzBpeHF6MW1qRENOdDlYQmVWazhhejg2NDdPcGNKVDBIMW0weHFoV0I5c1JVS2hMaU9rRTgtU2dCZUFtZ08tZXJGT3BMZVcxbktGbkRwSS1EUTZXblQ1aXRScWc?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press"
+    ],
+    "published": "2026-10-30T19:45:24+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+    "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-10-31T01:04:00+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "US judge orders ethics investigation into DOJ lawyers in golf course dispute",
+    "summary": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links.",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkNsQ0tXT2NqMFdsb21wYXk5blRTbXYyb2VBYTF0S21wMjFabmt6U0VNbWVEQjFZaEhERzdhMkV0SkhZU0tMSV9LUVlpZU1QR25TZVNUY1dYdjdEOVFMSHc2UUIxVUJBOE16MURGRlU5NVBqblRERXViYjhUdURDZVljWDNrZzJCd3JxVlNweFkxZ2FKaGZOUmJqWmhYc3dvbVMwSDlLQVBwRHZBUnRDMEdDTG5sTW5GLUw0RzhsUXlKUlVU?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-10-30T18:14:52+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Israel’s election results are in. Here’s what could happen next",
+    "summary": "Election campaign posters for Prime Minister Benjamin Netanyahu’s Likud party in Adora, an Israeli settlement in the occupied West Bank, on Tuesday.",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWVVeUpwMzVxRDdSZ3V5aEdiRjFqYnhtek9XSEh3WVRjNkpjdVFkY3JSS0o5NC0yWEd5V0ctWkhycWt5dHJKdFNSM1Y0bnI3dGExanhKMTQxeWxYWkxzM0tkWXVpb19qczU4b3JmNExfZTRjZGdNbm45VjhnRHcxTEo5eTFKNlpmN3RFbl9rT3cxckM3VHlDS1RmSGpZYllOTmpSdXJyMA?oc=5",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29Int-Israel-Voter-Data-vtlz/29Int-Israel-Voter-Data-vtlz-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-10-30T07:35:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+    "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a56b/live/5a0952f0-d487-11f1-80bc-6d398902272f.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-10-31T04:32:07+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+    "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+    "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-10-31T02:39:25+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Global nature talks reach deal but money remains an issue",
+    "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+    "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-10-31T01:27:05+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
+    "summary": "Liu Yandong, a former vice premier of China who was one of the country’s highest-ranking female officials, died in Beijing on Wednesday.",
+    "link": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31obit-liu-02-wcfq/31obit-liu-02-wcfq-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-31T04:12:04+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
+    "summary": "The remains of Communist soldiers found at a park in Ho Chi Minh City, lined up for a memorial service.",
+    "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00int-vietnam-graves-mtjp/00int-vietnam-graves-mtjp-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-31T04:01:13+00:00",
+    "topic": "bezpieczeństwo"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Manifestacja przed Trybunałem Konstytucyjnym - PAP",
+    "summary": "– To postanowienie jest niezgodne z prawem. To, co się dzieje, to jest zamach stanu – komentuje wydarzenie z TK posłanka PiS Anna Milczanowska. – Pani Korwin-Piotrowska dla mnie jest nikim, ta pani przekreśliła całkiem swoją karierę – dodaje.",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGVvd2dpc3V0ZlVPdWx2RWFzYU5WSEFRa1NVOUFkV0NMdGxUWUxMSGFrS0IyaFJLTWYyek5DYzF6dHEwdC1zYjRGYkV0TTBkRXNJZFBvZ09vaEpHckE1eGpQWk1EeWJKSFlaRFhJNTgwV0R6QUtHQzdvR3NpQW01aXYwQUFwUno3ZjFpYVFR?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/89/0f/prezydent-rp-karol-nawrocki-fot-636x421-890fccf0.jpg",
+    "source": "PAP",
+    "also": [
+     "Interia",
+     "Polsat News",
+     "RMF24",
+     "Rzeczpospolita"
+    ],
+    "published": "2026-10-30T11:40:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Prezydent Karol Nawrocki wszedł do siedziby Trybunału Konstytucyjnego; wzajemne oskarżenia o atak fizyczny [WIDEO]",
+    "summary": "Prezydent Karol Nawrocki w towarzystwie Pierwszego Prezesa Sądu Najwyższego Zbigniewa Kapińskiego przybył do budynku Trybunału Konstytucyjnego. Wcześniej polski przywódca odbył rozmowę z prezesem TK Bogdanem Święczkowskim.",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckM2bUs1UnJPNm9COFpVZ1p5TG13MDFjdlV2UkxlR05KVEtVM2dZX3NyTTlMWnBNZlhXSG9BRFFaZno3Vk40NkdqLU1RVWpGX3JOTVlTOWVrNXlJZUJNTG1hdE5JaXBXNXl0a1AzdThfTEpPdTNfTTVfZkkyS1BvVDRmY1o3eV82MW82VFlwTlNpNnJCUnQxYXNoYW96b2V1c1E?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/91/b0/maciej-berek-radek-pietruszka-636x421-91b041c1.jpg",
+    "source": "PAP",
+    "also": [
+     "Polsat News",
+     "RMF24"
+    ],
+    "published": "2026-10-30T23:55:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Anna Korwin-Piotrowska: w siedzibie Trybunału Konstytucyjnego jest siedmiu sędziów, licząc mnie",
+    "summary": "Jeżeli przyjazd prezydenta Nawrockiego ma na celu uspokojenie emocji przed budynkiem Trybunału Konstytucyjnego, sędziowie TK są skłonni się z nim spotkać - przekazała Anna Korwin-Piotrowska w rozmowie z TVN24.",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUZBdUJUT0JyWjg4NWtTblBkckg2Z2pGU3lyS2FKZmZFcnEwaElmZXBSN0pqSERnNVhCUHdVc1RvY1dpaW9fenVrVURPRFFTU3MtLW15eFk4RGVHWm1JaTgtU3p0elhFZUFBVXZiSy12T1YwMlZSZUNKa085WWlnbWVLYzJ1cldtWXQ2UnBZVFpHNXJyS1pLalM3OV9TU3NIQVJROTF1MFZWSEJ4X3NFVG1R?oc=5",
+    "image": "https://i.gremicdn.pl/image/free/9983325b7dbc5e66693cd4cb4bdf7e77/warszawa-30-10-2026-policja-przed-siedziba-trybunalu-konstytucyjnego?t=resize:fill:600:300,enlarge:1",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska",
+     "Rzeczpospolita"
+    ],
+    "published": "2026-10-30T18:50:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension",
+    "summary": "President Karol Nawrocki seen struggling to gain entry to court building in Warsaw amid long-running row over the court’s legitimacy Riot police were locked in a tense standoff with protesters outside Poland’s constitutional court on Friday night after its top judge was suspended in the latest escalation in a…",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTN6V2ZLYWRNNzFWb3hYckNxQzgzMXZlTHY2MGN3NldSRW1BUGEtX0NUVTRzREhQcTdldGtuNkFVRzY4ZFlYRUYzS2Q0Y0tuT1hYbmpVMmZ4T3pjQjB4Si1sRndxN1haVVJ6dnlVbElWRW5vWC00Mnd6dnRsNkFsZXc2WUlRTnlxM3pmNHBUN1BERGdJcElnb1hrbGpudHFMbzJaWGxrdmx1T1c3cDJYOUplUnk?oc=5",
+    "image": "https://i.guim.co.uk/img/media/b595186b872d72d05a5c01e8ce0be90bb9af8d06/1355_185_5926_4743/master/5926.jpg?width=140&quality=85&auto=format&fit=max&s=694d71b1d782d4dd5f332088dec4289e",
+    "source": "Associated Press",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-10-30T20:15:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "„Tylko prezydent, sam”. Korwin-Piotrowska zaprasza Nawrockiego do TK",
+    "summary": "Z uwagi na eskalację protestów pod Trybunałem Konstytucyjnym i obawę o życie i zdrowie osób wewnątrz gmachu i wokół niego nie ma zgody na wjazd kogokolwiek na teren TK – oświadczyła w piątek PAP sędzia TK Anna Korwin-Piotrowska, która zarządziła przerwę w czynnościach prezesa i wiceprezesa TK.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-tylko-prezydent-sam-korwin-piotrowska-zaprasza-nawrockiego-d,nIdn,1024176",
+    "image": "https://rmf.rmffm.pl/news/attachments/77/e3/sedziba-trybunalu-konstytucyjnego-fot-636x421-77e3b6a4.jpg",
+    "source": "RMF24",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-10-30T21:56:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "„Innej drogi nie ma”. Premier zabrał głos ws. Trybunału Konstytucyjnego",
+    "summary": "Przywracanie rządów prawa jest naszym obowiązkiem - napisał w serwisie X premier Donald Tusk. W ten sposób odniósł się do policyjnej interwencji na terenie Trybunału Konstytucyjnego. Innej drogi nie ma - skomentował szef rządu.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-innej-drogi-nie-ma-premier-zabral-glos-ws-trybunalu-konstytu,nIdn,1024163",
+    "image": "https://rmf.rmffm.pl/news/attachments/e2/2d/fot-636x421-e22d2dc2.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-10-30T18:55:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "„Największy i najdroższy” dron dla polskiej armii. Wiemy, kiedy przybędzie",
+    "summary": "Pierwszy dron MQ-9B SkyGuardian trafi w styczniu do 12. Bazy Bezzałogowych Statków Powietrznych w Mirosławcu – poinformował w piątek wicepremier, szef MON Władysław Kosiniak-Kamysz. Dodał, że to „największy i najdroższy” bezzałogowiec, jaki będzie na wyposażeniu polskiej armii.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-najwiekszy-i-najdrozszy-dron-dla-polskiej-armii-wiemy-kiedy-,nIdn,1024132",
+    "image": "https://rmf.rmffm.pl/news/attachments/73/fe/mon-pierwszy-dron-mq-9b-skyguardian-trafi-do-miroslawca-w-styczniu-zdjecie-ilustracyjne-fot-636x421-73fe1499.jpg",
+    "source": "RMF24",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-10-30T14:22:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Prezydent opuścił TK. \"Zwołuję pilne konsultacje sił parlamentarnych\"",
+    "summary": "W sobotę przed godz. 5 prezydent Karol Nawrocki opuścił budynek Trybunału Konstytucyjnego - poinformował sędzia Maciej Taborowski. Szef gabinetu prezydenta RP Paweł Szefernaker odczytał oświadczenie, w którym Nawrocki poinformował o \"zwołaniu pilnych konsultacji sił parlamentarnych\".",
+    "link": "https://wiadomosci.wp.pl/prezydent-opuscil-tk-zwoluje-pilne-konsultacje-sil-parlamentarnych-7345844539910592a",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c9312cc4-f297-4dd9-a372-c0987fe25f02",
+    "source": "Wirtualna Polska",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-10-31T04:00:53+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Sędziowie wybrani przez obecną władzę przejmują kontrolę nad TK",
+    "summary": "Trwa największy do tej pory kryzys wokół Trybunału Konstytucyjnego. Wywołały go dwa zarządzania o zawieszeniu w czynnościach prezesa TK Bogdana Święczkowskiego i wiceprezesa TK Bartłomieja Sochańskiego. Prezydent Karol Nawrocki zdecydował o przerwaniu podróży do Senegalu i powrocie do Polski.",
+    "link": "https://businessinsider.com.pl/wiadomosci/sedziowie-wybrani-przez-obecna-wladze-przejmuja-kontrole-nad-tk/9ybtf5n",
+    "image": "https://ocdn.eu/pulscms-transforms/1/NjOk9kpTURBXy9mODIwNGFjNWJlM2EyNzY1ZjA5NWM2MDliY2I1Y2YyNi5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-10-30T17:35:37+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Bogusław Oleksy zrezygnował, nie podał powodu. JSW bez prezesa",
+    "summary": "Bogusław Oleksy zrezygnował ze stanowiska prezesa Jastrzębskiej Spółki Węglowej. Odejście następuje w trudnym momencie dla jednej z największych firm kontrolowanych przez Skarb Państwa.",
+    "link": "https://www.rmf24.pl/fakty/ekonomia/news-boguslaw-oleksy-zrezygnowal-nie-podal-powodu-jsw-bez-prezesa,nIdn,1024144",
+    "image": "https://rmf.rmffm.pl/news/attachments/d5/94/kopalnia-wegla-kamiennego-jastrzebskiej-spolki-weglowej-pniowek-w-pawlowicach-fot-636x421-d594d7d1.jpg",
+    "source": "RMF24 Ekonomia",
+    "also": [
+     "Business Insider Polska"
+    ],
+    "published": "2026-10-30T15:45:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Cmentarz jak muzeum sztuki nowoczesnej. Nekropolia w Mediolanie jest pełna arcydzieł",
+    "summary": "Cmentarz Monumentalny w Mediolanie jest niezwykły, także dlatego, że znajduje się tam mnóstwo zabytkowych pomników i mauzoleów projektowanych przez znanych rzeźbiarzy i architektów. Szczególnie warte uwagi są te, które powstały w XX w.",
+    "link": "https://sukces.rp.pl/sztuka/art45416371-cmentarz-jak-muzeum-sztuki-nowoczesnej-nekropolia-w-mediolanie-jest-pelna-arcydziel",
+    "image": "https://i.gremicdn.pl/image/free/f00654def62d68c764842c5c84e67d5f/?t=crop:2000:874:nowe:0:313,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-10-31T05:00:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Drastyczny spadek populacji dzikich zwierząt na świecie. „Nasza przyroda obumiera”",
+    "summary": "Nowy raport organizacji WWF „Living Planet Report 2026” alarmuje: w ciągu ostatnich 52 lat średnia liczebność populacji dzikich zwierząt spadła o 73 proc. Wśród przyczyn jego autorzy wymieniają m.in. utratę i degradację siedlisk, nadmierną eksploatację zasobów oraz zmiany klimatu wywołane działalnością człowieka.",
+    "link": "https://klimat.rp.pl/klimat/art45369961-drastyczny-spadek-populacji-dzikich-zwierzat-na-swiecie-nasza-przyroda-obumiera",
+    "image": "https://i.gremicdn.pl/image/free/07278911e962648660cb60d426e1b922/?t=crop:2000:874:nowe:0:229,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-10-31T05:00:00+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Afera Zondacrypto. Przeszukania w siedzibach fundacji Ziobry i Wiplera",
+    "summary": "- Trwają przeszukania w siedzibach fundacji, które przyjmowały środki z giełdy Zondacrypto - potwierdziła Interii rzeczniczka prokuratora generalnego Anna Adamiak. Działania dotyczą Instytutu Polski Suwerennej, związanego ze Zbigniewem Ziobrą, oraz fundacji Dobry Rząd posła Przemysława Wiplera.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-afera-zondacrypto-przeszukania-w-siedzibach-fundacji-ziobry,nId,23566518",
+    "image": "https://i.iplsc.com/-/000MSZYKQ2YQTYAK-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-10-30T11:16:42+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Górnik – Legia 0:0. Klasyk w Zabrzu rozczarował, piłkarzy żegnały gwizdy",
+    "summary": "Górnik oddał 18 strzałów, ale ani razu nie trafił w bramkę. Legia z kolei świetnie się broniła, więc zobaczyliśmy mecz, po którym niejednego kibica mogła zaboleć głowa.",
+    "link": "https://sport.rp.pl/pilka-nozna/art45424721-gornik-legia-0-0-klasyk-w-zabrzu-rozczarowal-pilkarzy-zegnaly-gwizdy",
+    "image": "https://i.gremicdn.pl/image/free/ac32144a825b19237dbb3d5bc9a3e78b/?t=crop:2549:1114:nowe:0:3.2353156391031,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-10-30T22:13:11+00:00",
+    "topic": "sport"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "S7 w Krakowie. Otwarto przejazd estakadami węzła Mistrzejowice",
+    "summary": "Kolejny ważny etap budowy drogi ekspresowej S7 w Krakowie. W piątek, 30 października, kierowcom udostępniono przejazd głównymi estakadami węzła Mistrzejowice. Do ruchu oddano niespełna 3 kilometry trasy, jednak przejazd odbywa się jeszcze przez teren trwającej budowy.",
+    "link": "https://radiokrakow.pl/galerie/s7-w-krakowie-otwarto-przejazd-estakadami-wezla-mistrzejowice/187112",
+    "image": "https://rmf.rmffm.pl/news/attachments/3e/0e/fot-636x421-3e0e0e34.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "RMF24",
+     "RMF24 Kraków"
+    ],
+    "published": "2026-10-30T14:22:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Atak nożownika w krakowskiej aptece. Trzy farmaceutki ranne, napastnik obezwładniony",
+    "summary": "Atak nożownika w Krakowie. Napastnik zranił trzy osoby w aptece przy ulicy Kronikarza Galla. Jak ustaliło Radio Kraków, ranne osoby to farmaceutki, pracownice apteki.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/atak-nozownika-w-krakowskiej-aptece-trzy-farmaceutki-ranne-napastnik-obezwladniony/187084",
+    "image": "https://rmf.rmffm.pl/news/attachments/75/a1/fot-636x421-75a12ed9.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "RMF24 Kraków"
+    ],
+    "published": "2026-10-30T08:51:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Po tragedii na Solnej mieszkańcy żądają zmian. Prokuratura ujawnia nowe informacje",
+    "summary": "Śledczy mają już wyniki sekcji zwłok, przesłuchali praktycznie wszystkich świadków, ale wciąż czekają na cztery opinie biegłych.",
+    "link": "https://lovekrakow.pl/po-tragedii-na-solnej-mieszkancy-zadaja-zmian-prokuratura-ujawnia-nowe-informacje",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/366cdb6a72ea931e150ccd17616a3048.jpg.webp?itok=16uM-ZVF",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-10-30T17:30:02+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Zawirowania w Cracovii. Rada nadzorcza odwołała prezesa",
+    "summary": "Murat Colak nie jest już prezesem Cracovii. Turek stracił stanowisko w piątek, w czasie posiedzenia rady nadzorczej. W środę zabrał głos w sprawie sytuacji klubu.",
+    "link": "https://lovekrakow.pl/zawirowania-w-cracovii-rada-nadzorcza-odwolala-prezesa",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-01/f1deb384926daa29c7f78d03079b4777.webp?itok=uaXpiPwJ",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-10-30T16:09:24+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Ile ruchu naprawdę potrzeba, żeby schudnąć - spacer, schody i codzienna aktywność",
+    "summary": "Godzina na siłowni każdego dnia czy po prostu spacer z Podgórza na Kazimierz? Jeśli odkładasz odchudzanie, bo ciągle brakuje Ci czasu na treningi, mamy dobrą wiadomość: żeby schudnąć, nie musisz spędzać godzin na siłowni ani przygotowywać się do maratonu.",
+    "link": "https://lovekrakow.pl/ile-ruchu-naprawde-potrzeba-zeby-schudnac-spacer-schody-i-codzienna-aktywnosc",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/afefad0bd4fbe5374e87a76fa5208009.jpg.webp?itok=G0aM5KDK",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-10-30T15:25:34+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Biskup Jeż skazany. Sąd zabierze mu 25 proc. pensji. Ale ile naprawdę zarabia?",
+    "summary": "Bp Andrzej Jeż zadeklarował przed sądem, że zarabia 4800 zł brutto. Od tej pensji ma być potrącane 25 proc. - To najbardziej nonsensowna rzecz w całym wyroku. Nie uwzględnia realnych dochodďż˝w biskupďż˝w - mďż˝wi ks. prof. Andrzej Kobyliński.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33107840,biskup-jez-skazany-sad-zabierze-mu-25-proc-pensji-ale-ile.html",
+    "image": "https://bi.im-g.pl/im/b7/18/1f/z32607671IHG,Ordynariusz-tarnowski-bp-Andrzej-Jez-przed-sadem--.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-10-31T05:01:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Tarnów świętuje niepodległość wcześniej niż reszta Polski. Na rynku zatańczono poloneza",
+    "summary": "Uroczystym polonezem na rynku Tarnów rozpoczął świętowanie odzyskania niepodległości. To właśnie dziś - 30 października - w Tarnowie obchodzone jest święto „Pierwsze Niepodległe”, upamiętniające pionierski zryw niepodległościowy, który doprowadził do tego, że Tarnów jako pierwsze miasto na ziemiach polskich odzyskał…",
+    "link": "https://radiokrakow.pl/wiadomosci/tarnow/tarnow-swietuje-niepodleglosc-wczesniej-niz-reszta-polski-na-rynku-zatanczono-poloneza/187102",
+    "image": "https://radiokrakow.pl/media/article/187102/06586d3ee26d8e79ca12461cc32381c7.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-10-30T20:21:12+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Orkisz. Nie tylko doskonałe źródło magnezu. Zobacz, co kryje w sobie to najzdrowsze zboże",
+    "summary": "Orkisz należy do najstarszych gatunków pszenicy. Współczesne badania naukowe dowodzą, że jest najzdrowszy ze wszystkich rodzajów zbóż. Posiada optymalną ilość wszelkich niezbędnych do życia składników odżywczych: wysokowartościowego białka, węglowodanów, nienasyconych kwasów tłuszczowych, składników mineralnych…",
+    "link": "https://gazetakrakowska.pl/orkisz-nie-tylko-doskonale-zrodlo-magnezu-zobacz-co-kryje-w-sobie-to-najzdrowsze-zboze/ar/c17-18052297",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/31/1e/654b544869f63_o,size,640x400,q,71,h,e32df8.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-10-30T13:29:51+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Inwazyjny gatunek szerszenia rozgaszcza się w Polsce. \"Znajdziemy więcej gniazd\"",
+    "summary": "- Samice, które przezimują, zakładają nowe gniazda - każda swoje - mówił prof. Paweł Migdał z Uniwersytetu Przyrodniczego we Wrocławiu na temat szerszeni żółtonogich (Vespa velutina). Ten inwazyjny gatunek został w październiku odkryty w Małopolsce.",
+    "link": "https://www.polsatnews.pl/wiadomosc/2026-10-30/inwazyjny-gatunek-szerszenia-rozgaszcza-sie-w-polsce-znajdziemy-wiecej-gniazd/",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/nk/nk78ksg6ic97a73tu49ok3z7931vbeoc.jpg",
+    "source": "Polsat News",
+    "also": [],
+    "published": "2026-10-30T13:49:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "24-latek zranił farmaceutkę nożem. Atak w krakowskiej aptece",
+    "summary": "Gdy farmaceutka prďż˝bowała pomďż˝c rannemu mężczyźnie, ktďż˝ry przyszedł do jednej z krakowskich aptek, ten zaatakował ją przy użyciu noża.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33107333,24-latek-zranil-farmaceutke-nozem-atak-w-krakowskiej-aptece.html",
+    "image": "https://bi.im-g.pl/im/8d/89/1f/z33068941IHG,Policja--zdjecie-ilustracyjne-.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-10-30T09:57:00+00:00",
+    "topic": "bezpieczeństwo"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "MoMA, Centre Pompidou, and M+ Form an Unprecedented Alliance",
+    "summary": "Plus, Bill Koch's art treasures head to auction, Dallas Art Fair moves venues, and more industry intel.",
+    "link": "https://news.artnet.com/market/industry-intel-oct-30-2830288",
+    "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/1_Joint-Portrait-3.jpg",
+    "source": "Artnet News",
+    "also": [
+     "ARTnews",
+     "Hyperallergic"
+    ],
+    "published": "2026-10-30T13:20:28+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Sir Patrick Stewart: A life in pictures",
+    "summary": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
+    "link": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/85f7/live/793dcad0-d3ff-11f1-b497-e5f21e10c3e0.jpg",
+    "source": "BBC News",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-10-30T03:54:39+00:00",
+    "topic": "teatr"
+   },
+   {
+    "title": "Australia’s best photos of the month – October 2026",
+    "summary": "Dolly Parton, tulips and outback life all feature in the best images captured across the country in October Apartments, community centres and a pink outdoor toilet: Australia’s 2026 National Architecture award winners – in pictures",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/oct/31/australias-best-photos-of-the-month-october-2026",
+    "image": "https://i.guim.co.uk/img/media/042a18bf20be936a7a77403845cbe93f96658786/319_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=1a1943fdae48a59efc635a2758709ef6",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-10-30T23:00:26+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Art Toronto reflects Canadian art community’s focus on sustaining domestic ecosystem",
+    "summary": "With around 80% of its exhibitors based in Canada, this edition of the country’s biggest art fair reflects the current “elbows up” attitude of a nation embroiled in a trade war with its neighbour",
+    "link": "https://www.theartnewspaper.com/2026/10/30/art-toronto-fair-report-canadian-art-focus",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/196fd4420de4a7c8036d52cd7dd272ea0e8e48c8-2000x3000.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-10-30T22:14:18+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Visual war and the underwater secrets of the Inca",
+    "summary": "Archaeologists have uncovered how the Inca transformed a coastal landscape into a display of imperial power, with submerged remains revealing more about the site",
+    "link": "https://www.theartnewspaper.com/2026/10/30/visual-war-and-the-underwater-secrets-of-the-inca",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/335c5b4de5df4d21a831a955953cf3f8b896fa0a-727x945.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-10-30T15:00:55+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "W górach nieopodal Samarkandy odkryto prehistoryczne malowidła naskalne oraz osadę z epoki brązu",
+    "summary": "Archeolodzy odkryli w obwodzie samarkandzkim w Uzbekistanie malowidła naskalne, które mogą pochodzić z mezolitu i neolitu, oraz pozostałości osady z epoki brązu - poinformowała Agencja Ochrony Dziedzictwa Kulturowego Uzbekistanu.",
+    "link": "https://dzieje.pl/wiadomosci/w-gorach-nieopodal-samarkandy-odkryto-prehistoryczne-malowidla-naskalne-oraz-osade-z",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202610/Nuratau_mountains_and_Aydar_lake.jpg?itok=526mZQvG",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-10-30T18:23:49+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
+    "summary": "Senators Blumenthal and Cornyn submitted their briefs in support of the HEAR Act in September.",
+    "link": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
+    "image": null,
+    "source": "ARTnews",
+    "also": [],
+    "published": "2026-10-31T03:25:07+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "At the Metropolitan Museum of Art, Visitors Enjoy the Music",
+    "summary": "Christone Ingram, a Mississippi blues musician known as Kingfish, performed in October, as part of the new season of the “Met Live Arts” program.",
+    "link": "https://www.nytimes.com/2026/10/30/arts/design/museum-met-live-performances.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01sp-finearts-metlive-01-fqpv/01sp-finearts-metlive-01-fqpv-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-30T09:00:41+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Nagroda Orła Jana Karskiego dla Parlamentu Europejskiego",
+    "summary": "Nagroda Orła Jana Karskiego dla Parlamentu Europejskiego zostanie wręczona 6 listopada w Teatrze Polskim w Warszawie. Odbierze ją jego przewodnicząca Roberta Metsola.",
+    "link": "https://dzieje.pl/wiadomosci/nagroda-orla-jana-karskiego-dla-parlamentu-europejskiego",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202610/pap_20240918_1ED.jpg?itok=WN1ykRZz",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-10-30T16:16:46+00:00",
+    "topic": "teatr"
+   },
+   {
+    "title": "Ikona brytyjskiego konceptualizmu Susan Hiller w warszawskiej Zachęcie",
+    "summary": "Sztukę ikony brytyjskiego konceptualizmu Susan Hiller można oglądać w warszawskiej Zachęcie — Narodowej Galerii Sztuki. Wystawa gromadzi prace ze wszystkich okresów jej twórczości, takie jak „Die Gedanken sind frei”, „Dzikie talenty”, „Na krawędzi” czy „The J. Street",
+    "link": "https://dzieje.pl/wiadomosci/ikona-brytyjskiego-konceptualizmu-susan-hiller-w-warszawskiej-zachecie",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202610/pap_20261029_1DH.jpg?itok=u0toJYts",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-10-30T08:08:14+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "W horrorach przeraża jako \"Zakonnica\". Tak naprawdę wygląda gwiazda kultowego horroru",
+    "summary": "Choć jej wygląd miał być przeszkodą w karierze, Bonnie Aarons udało się zostać jedną z najbardziej rozpoznawalnych postaci w historii horroru. Jak wygląda bez przerażającej charakteryzacji?",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,30323480,w-horrorach-przeraza-jako-zakonnica-tak-naprawde-wyglada.html",
+    "image": "https://bi.im-g.pl/im/27/a5/1e/z32134695IHG,Zakonnica.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-10-30T14:08:00+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Wpadka HBO. Plakat zniknął z sieci. \"Aż strach teraz odpalić serial\"",
+    "summary": "Harry Potter znowu budzi dyskusje. HBO Max opublikowało polski plakat zapowiadający wyczekiwany serial. Chwilę później go usunięto.",
+    "link": "https://kultura.gazeta.pl/kultura/7,127222,33106801,wpadka-hbo-plakat-zniknal-z-sieci-az-strach-teraz-odpalic.html",
+    "image": "https://bi.im-g.pl/im/75/79/1f/z33002613IHG,Serial--Harry-Potter-i-kamien-filozoficzny----Harr.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-10-30T12:00:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Pamiętacie Sashę Strunin? Reprezentowała Polskę na Eurowizji, a potem zniknęła. Tym się dziś zajmuje",
+    "summary": "Aleksandra Strunin przed laty podbijała polską scenę muzyczną. Jej piosenki rozbrzmiewały w radiu, a występy przyciągały uwagę widzów. Z czasem wokalistka The Jet Set zniknęła z muzycznych wydarzeń. Czym dziś zajmuje się Sasha Strunin? Jej nowa droga zawodowa może zaskoczyć fanów.",
+    "link": "https://kultura.gazeta.pl/kultura/7,197031,33105171,pamietacie-sashe-strunin-reprezentowala-polske-na-eurowizji.html",
+    "image": "https://bi.im-g.pl/im/7d/92/1f/z33105277IHG,The-Jet-Set---Time-To-Party--LIVE----Poland---Semi.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-10-30T10:01:00+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "\"Są takie odejścia, na które nie godzimy się nigdy\" [FRAGMENT KSIĄŻKI]",
+    "summary": "\"Są takie odejścia, na które nie godzimy się nigdy\". Dzień Wszystkich Świętych pozwala nam na powrót do wspomnień, które na co dzień odsuwamy na bok. Myślimy o tych, którzy odeszli, o niewypowiedzianych słowach i chwilach, których nie da się ponownie razem przeżyć. Ks.",
+    "link": "https://kultura.onet.pl/fragmenty-ksiazek/sa-takie-odejscia-na-ktore-nie-godzimy-sie-nigdy-fragment-ksiazki/jbtpeve",
+    "image": "https://cdn.kultura.onet.pl/1/QUEk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xYjQ1YzdmNi00MGNhLTQ3ODgtOTQzMS1iNWU0OTQ3MjIzN2MuanBlZ5KVAwDMsc0WM80MfJMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-10-30T15:01:01+00:00",
+    "topic": "literatura"
+   }
+  ]
+ }
+}
