@@ -1,0 +1,708 @@
+{
+ "date": "2026-11-01",
+ "generated": "2026-11-01T06:19+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Trump: mogę zaprosić Zełenskiego na szczyt G20",
+    "summary": "Prezydent USA Donald Trump powiedział, że jest skłonny zaprosić prezydenta Ukrainy Wołodymyra Zełenskiego na szczyt G20 w Miami w grudniu. Ocenił przy tym, że wojna w Ukrainie zakończy się w \"niezbyt odległej przyszłości\".",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGtkbk9VTVY0MHROV1psX2p1eU83SDdLSVNaQnkzdVhnVlpEb1FxVFdlWXlFeHNwNy01WG0wU2RmMlpUWjBWSnd5R2Jzck43UTJVeTZqMUxmRFhwYVEzMEJhZUYyZmc0NjZyRDVpUHgtVE1oZnFDWjdWMXMzRGUyX0tORlFlX1U?oc=5",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-donald-trump-przybyl-do-mar-a-lago-na-przyjecie-z-okazji-halloween-ph9316427/alternates/LANDSCAPE_1280",
+    "source": "PAP",
+    "also": [
+     "Interia",
+     "TVN24"
+    ],
+    "published": "2026-11-01T02:01:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Shops looted as German cost of living protests turn violent",
+    "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera",
+     "Associated Press"
+    ],
+    "published": "2026-11-01T01:59:57+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+    "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "NPR"
+    ],
+    "published": "2026-11-01T01:25:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "US approves sale of 500 Patriot missiles to Ukraine",
+    "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-10-31T12:21:25+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Netherlands coast guard rescues 38 people adrift in a rubber boat",
+    "summary": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkt1aVMycEZUbnN2eUlXOGtxRGlOYnB0a2lGc3JSSkR4ZXEtbEw1ZU9BcXFhOE1taG10M0FKS1Mwc2FHX0lHV0dlVEpsNTdMR2ZIVTk2UzdOcUVaNTZPWE5vejcxOThjcTZUeXlITEZ4LWdLa3hQcDBWSV96ZTZ6WmJOWFBmSFlLalR6UTdrMzl5WnB2NTZWRg?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-10-31T14:42:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+    "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+    "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-01T00:55:06+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Hitler’s Eagle’s Nest retreat was torched in an arson attack. Should it be rebuilt?",
+    "summary": "With the far right resurgent in Germany, experts are divided as to whether the dictator’s former mountaintop retreat is better restored or left a ruin One of the last structural relics of Adolf Hitler’s dictatorship was conceived to project indomitable power. Last month it was destroyed in a suspected arson attack.",
+    "link": "https://www.theguardian.com/world/2026/nov/01/hitler-eagles-nest-retreat-arson-attack-should-it-be-rebuilt",
+    "image": "https://i.guim.co.uk/img/media/db43ab223a2b877b7acf51b94708744928c7f1cc/236_0_858_686/master/858.jpg?width=140&quality=85&auto=format&fit=max&s=11c7df12d9abd7d3ec61e165c848934d",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-01T05:00:04+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+    "summary": "Hailie Uren, a clinical pharmacologist, measured a patient’s blood pressure in Dnipro, Ukraine, last month.",
+    "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-31T22:54:18+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Szef litewskiego MSZ: Jeśli zajdzie potrzeba, Litwa i Polska będą walczyć ramię w ramię",
+    "summary": "Sprawdzamy, co się dzieje np. w kaliningradzkich bazach wojskowych. Jaki jest stan sił zbrojnych i sprzętu oraz co tam robią. Wiemy, że nie są gotowi – mówi „Rzeczpospolitej” Kęstutis Budrys, minister spraw zagranicznych Litwy. Zwraca jednak uwagę na możliwe szybkie wzmocnienie tych baz.",
+    "link": "https://www.rp.pl/dyplomacja/art45420671-szef-litewskiego-msz-jesli-zajdzie-potrzeba-litwa-i-polska-beda-walczyc-ramie-w-ramie",
+    "image": "https://i.gremicdn.pl/image/free/cba32a0a2bbed53817c5d83b2c2b086a/?t=crop:5000:2186:nowe:0:729,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-01T05:00:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Były prezydent Serbii ugościł Orbana w swoim domu. \"Wrócimy!\"",
+    "summary": "Aleksandar Vuczić, były prezydent Serbii, którego obóz przegrał przed tygodniem wybory parlamentarne w tym kraju, gościł w swoim domu rodzinnym pod Belgradem byłego premiera Węgier Viktora Orbana. W zamieszczonym w sieci nagraniu zapewnił, że obaj \"jeszcze wrócą\".",
+    "link": "https://tvn24.pl/swiat/byly-prezydent-serbii-ugoscil-orbana-w-swoim-domu-wrocimy-st9316419?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-aleksandar-vuczic-i-viktor-orban-ph9316418/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-10-31T23:55:11+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Testimonies from Oleshky",
+    "summary": "American Filmmaker Zarina Zabrisky has lived and reported across the Dnipro River in Ukrainian controlled Kherson for the past three years. She’s been speaking to France 24’s Gavin Lee about the events of the past 24 hours.",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261031-testimonies-from-oleshky",
+    "image": "https://s.france24.com/media/display/bff7a79c-d53b-11f1-8be7-a575454bc579/w:1024/p:16x9/AP26304492932574.jpg",
+    "source": "France 24",
+    "also": [],
+    "published": "2026-10-31T23:54:21+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "UK charity shop profits plummet amid shift in secondhand clothes market",
+    "summary": "British Heart Foundation describes ‘exceptionally challenging’ trading after Oxfam’s retail profit reportedly fell 23% amid rise of platforms such as Vinted Profits at some of the UK’s best-known charity shops have plummeted as they face a number of pressures, including from online secondhand clothes platforms…",
+    "link": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market",
+    "image": "https://i.guim.co.uk/img/media/96af588f30bb56de819cd5be243b9f7784fab473/26_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=d361795511aaccc711e179a445804418",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-10-31T15:10:52+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "FBI links North Korea to theft of $6 billion from Binance",
+    "summary": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "Deutsche Welle"
+    ],
+    "published": "2026-10-31T21:44:23+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Binance says it has covered $6 billion of $6.3 billion stolen in hack",
+    "summary": "Cryptocurrency exchange says withdrawals expected to resume on Sunday as FBI blames North Korean state-sponsored group TraderTraitor Cryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.3bn hack of its platform by a group the FBI identified as being backed by North Korea.",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
+    "image": "https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=140&quality=85&auto=format&fit=max&s=6a7cfc1b21df806cb00a9c0f6face02f",
+    "source": "Reuters",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-10-31T14:59:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group",
+    "summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action.",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUlKZ0JzU2NIcmNFckRsU1l6akpveTNUNHhUbnNyMHhkOUxXbWk0RDJWVnQ0Ti1MQVI0QnhSQnpPZmUyWVNUQktDVGxVbmFMaERuY0tlVDIyN0xYMkpxbHkteUhEVnpCNlAxYVY2SXBEWnFYREJzYWFLTThWOXYxbkNzRjk2OEo3UmtvSnBMRDNDc3BDbW04ak9PUDRWanlpcFNFdG1YWjdSdw?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-10-31T20:14:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Economy",
+    "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoUWt4dWxvU1RzYXlYYmhJZkNpLTAtOHZ2UkFLQ09VUUt4UlA1MWZsc3JlWEtXQ0wwOVhCb0FZWDIzN1p1?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-10-31T10:06:31+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+    "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+    "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-01T01:37:26+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+    "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+    "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-01T00:12:07+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
+    "summary": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
+    "link": "https://www.nytimes.com/2026/11/01/world/asia/hes-the-top-snake-catcher-and-business-is-booming-theres-just-one-problem.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-01T04:01:15+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’",
+    "summary": "A public spat has cast Democratic tensions in the spotlight as the close US Senate race draws to a head Abdul El-Sayed, the Democratic nominee for Michigan’s tightly fought US Senate race, wants Democratic congresswoman Haley Stevens to stay away from his campaign events.",
+    "link": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+    "image": "https://i.guim.co.uk/img/media/caeaea960a76da981f528171c51ccb376fbd0424/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=14c9d21f92998c9d4ec2f1b004a98a88",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-01T03:56:49+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "India’s Congress Party Plans Mass Protest in New Delhi",
+    "summary": "A cutout of Rahul Gandhi, leader of the Indian National Congress, in New Delhi on Saturday, ahead of a protest organized by the party.",
+    "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-gkcm/01int-india-protest-gkcm-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-01T03:44:51+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Ławrow o zaproszeniu Polski na G20: złamanie zasad dyplomacji",
+    "summary": "Według rosyjskiego ministra spraw zagranicznych Siergieja Ławrowa uczestnictwo Polski w spotkaniu G20 jest \"bezproduktywne\". W tym roku Polska uczestniczy w rozmowach na specjalne zaproszenie USA, które przewodzą rozmowom.",
+    "link": "https://tvn24.pl/swiat/spotkanie-g20-siergiej-lawrow-o-udziale-polski-nic-nie-wnosi-st9315411?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-szef-rosyjskiej-dyplomacji-siergiej-lawrow-ph9195727/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-10-31T07:47:42+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+    "summary": "Changpeng Zhao, the founder of Binance, the world’s largest cryptocurrency exchange, in 2025.",
+    "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-31T23:05:42+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+    "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+    "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7665/live/9d4c36f0-d378-11f1-bf63-739fb2907d03.png",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-10-31T22:07:56+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Nowy komunikat sędzi Anny Korwin-Piotrowskiej. Dotyczy prac Trybunału Konstytucyjnego",
+    "summary": "Na stronie Trybunału Konstytucyjnego pojawił się komunikat Anny Korwin-Piotrowskiej. Sędzia, która poinformowała w piątek, że przejęła obowiązki prezesa, sprecyzowała w nim zasady organizacji pracy.",
+    "link": "https://tvn24.pl/polska/trybunal-konstytucyjny-nowy-komunikat-sedzi-anny-korwin-piotrowskiej-st9316400?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-warszawa-31-10-2026-policja-przed-trybunalem-konstytucyjnym-w-warszawie-ph9316382/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Business Insider Polska",
+     "Interia",
+     "Rzeczpospolita"
+    ],
+    "published": "2026-10-31T22:20:15+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Orędzie premiera Donalda Tuska. \"W pewnych sprawach nie może być kompromisu\"",
+    "summary": "Atak na Trybunał jest kolejną odsłoną procesu niszczenia rządów prawa w Polsce przez PiS i prezydentów Dudę i Nawrockiego - powiedział premier Donald Tusk w orędziu. - Niektórzy gapie, symetryści, proponują, aby dla załagodzenia sprawy złodziej i ofiara podzielili się po równo zawartością torebki.",
+    "link": "https://tvn24.pl/polska/oredzie-premiera-donalda-tuska-st9316323?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-donald-tusk-ph9316328/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Interia",
+     "Polsat News",
+     "Rzeczpospolita"
+    ],
+    "published": "2026-10-31T19:07:09+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "W sobotę o godzinie 20. premier Donald Tusk wygłosi orędzie",
+    "summary": "Premier Donald Tusk wygłosi w sobotę o godz. 20 orędzie - poinformowała Kancelaria Premiera na platformie X. Decyzja szefa rządu ma związek z kryzysem wokół Trybunału Konstytucyjnego.",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnNFT1NPOUhCSVkxSDBSdkZjcmZfaGZaT1MweEpFUy0wTlNVNi13dUZ4Y1ZrVUZFaWtGQW1hYkl6VWI1NlhlOG1wRVpYRFBQWEc2bGJUNHhDZkhlZ0xDWXBCTFozdnd5Z2M2WTdzendPY1NXUGU3MFdnLUEtV1VST19tbHBVLS10X2h4R0Vwa18xbnlDOC01ZUhR?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/e4/ce/premier-donald-tusk-636x421-e4ce3c72.jpg",
+    "source": "PAP",
+    "also": [
+     "Interia",
+     "RMF24"
+    ],
+    "published": "2026-10-31T15:29:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Bitwa na zarządzenia. Święczkowski odpowiada Korwin-Piotrowskiej",
+    "summary": "Odsunięty przez kierującą Trybunałem Konstytucyjnym sędzię Anna Korwin-Piotrowską ze stanowiska prezesa TK Bogdan Święczkowski wydał w sobotę zarządzenie w sprawie ustalenia dni wolnych od pracy. Jest ono reakcją na wcześniejsze decyzje Korwin-Piotrowskiej.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-bitwa-na-zarzadzenia-swieczkowski-odpowiada-korwin-piotrowsk,nIdn,1024219",
+    "image": "https://rmf.rmffm.pl/news/attachments/54/90/fot-636x421-54906350.jpg",
+    "source": "RMF24",
+    "also": [
+     "Business Insider Polska",
+     "Polsat News"
+    ],
+    "published": "2026-10-31T13:05:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Tusk defends suspension of Poland’s Constitutional Tribunal president as protesters gather again",
+    "summary": "Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in certain matters, there can be no compromise”.",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVVIM1owQ1djXzREamhGRFhZUHl5ZTBxN1FYUjBuZW5HVG90TGZfY2R5c1lkVmplYkhGbUNIZ3Q5Z3NXUEdzWndIS29xZzFINmVlcmZOV3hFcDZnS3JBRDZUdFBhTUh6VlVFY19vOUNjXzluSzNXRV82NWlrNXpteTNDemRDMnlSTzgxdmdydWJOWkkwUmw5b1J0cHZnZXYwcXFqdlFfVnZTQQ?oc=5",
+    "image": "https://i.guim.co.uk/img/media/3b129224829f45ad8165dd6ba27eac4f0f3868d3/1836_207_4200_3362/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=9ffeb99469f8508997a196e3e6a685fc",
+    "source": "Associated Press",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-10-31T19:49:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Kryzys wokół TK. Dlaczego KO nie wzięła udziału w konsultacjach u prezydenta?",
+    "summary": "Prezydent Karol Nawrocki w nocy z piątku na sobotę pojawił się w Trybunale Konstytucyjnym po tym, jak pojawiła się informacja o zarządzeniu przerwy w czynnościach prezesa TK Bogdana Święczkowskiego i wiceprezesa TK Bartłomieja Sochańskiego, a Anna Korwin-Piotrowska została ogłoszona osobą kierującą TK.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-kryzys-wokol-tk-dlaczego-ko-nie-wziela-udzialu-w-konsultacja,nIdn,1024253",
+    "image": "https://rmf.rmffm.pl/news/attachments/73/5a/policjanci-przed-trybunalem-konstytucyjnym-w-polsce-636x421-735ad828.jpg",
+    "source": "RMF24",
+    "also": [
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-10-31T20:56:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Sąd Najwyższy zwołuje pilne zgromadzenie ws. „omówienia zagrożeń”",
+    "summary": "Pierwszy Prezes Sądu Najwyższego Zbigniew Kapiński zwołał na 3 listopada Zgromadzenie Ogólne Sędziów Sądu Najwyższego. W porządku obrad znalazło się omówienie zagrożeń dla porządku konstytucyjnego w Polsce, w tym niezależności władzy sądowniczej i prawidłowego funkcjonowania organów państwa.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-sad-najwyzszy-zwoluje-pilne-zgromadzenie-ws-omowienia-zagroz,nIdn,1024251",
+    "image": "https://rmf.rmffm.pl/news/attachments/b9/15/zdjecie-ilustracyjne-636x421-b915d626.jpg",
+    "source": "RMF24",
+    "also": [
+     "Rzeczpospolita"
+    ],
+    "published": "2026-10-31T20:25:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Polacy znali go z \"Króla Lwa\". Nie żyje aktor Paweł Tucholski",
+    "summary": "W wieku 57 lat zmarł ceniony aktor teatralny, dubbingowy i filmowy Paweł Tucholski. Widzowie usłyszeli go m.in. jako dorosłego Simbę w polskiej wersji animacji Disneya Król Lew. Nie mogę uwierzyć... że tak młodo i nagle zabrakło go wśród nas - żegnała go w mediach społecznościowych aktorka Katarzyna Skrzynecka.",
+    "link": "https://www.polsatnews.pl/wiadomosc/2026-10-31/pawel-tucholski/",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/no/nodyh3ka5q9deg5mb6guifkrrudocwn2.jpg",
+    "source": "Polsat News",
+    "also": [
+     "Onet Kultura"
+    ],
+    "published": "2026-10-31T20:27:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Jest nowe zarządzenie Anny Korwin-Piotrowskiej. Ujawniamy",
+    "summary": "Anna Korwin-Piotrowska rozpoczęła urzędowanie od bezprecedensowych decyzji. Po odsunięciu od czynności prezesa Bogdana Święczkowskiego i wiceprezesa Bartłomieja Sochańskiego wydała zarządzenie. Większość pracowników ma nie przychodzić do pracy.",
+    "link": "https://businessinsider.com.pl/prawo/bezpardonowe-decyzje-anny-korwin-piotrowskiej-pracownicy-musza-zostac-w-domach/7nwmjpy",
+    "image": "https://ocdn.eu/pulscms-transforms/1/iIuk9kpTURBXy8yNjMzYTIzMTMyODI1MGQyYTk2ODE3OGM4MzQ3YWUzYi5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-10-31T10:06:23+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Psycholożka: śmierć nie jest końcem relacji, można ją pielęgnować w naszej pamięci",
+    "summary": "Psycholożka: śmierć nie jest końcem relacji, można ją pielęgnować w naszej pamięci tryton sob., 10/31/2026 - 09:10 3 minuty",
+    "link": "https://naukawpolsce.pl/aktualnosci/news%2C115691%2Cpsycholozka-smierc-nie-jest-koncem-relacji-mozna-ja-pielegnowac-w-naszej",
+    "image": "https://naukawpolsce.pl/sites/default/files/styles/new_720_x_405/public/202610/AdobeStock_608186095.jpg?itok=I_4m854Y",
+    "source": "Nauka w Polsce",
+    "also": [
+     "PAP"
+    ],
+    "published": "2026-10-31T08:10:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Jak opóźnić wejście w drugi próg podatkowy? Ekspert ma trzy sposoby",
+    "summary": "Listopadowa pensja dla części Polaków może być dużo niższa niż dotychczasowa. Podobnie ta grudniowa. Powód? Wejście w drugi próg podatkowy, co dotyka już w tym roku kilku milionów z nas. Zapytaliśmy eksperta, czy ten przykry moment da się jakoś opóźnić. Okazuje się, że są na to w pełni legalne sposoby.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/czy-da-sie-opoznic-wejscie-w-drugi-prog-podatkowy-ekspert-wskazuje-trzy-sposoby/cgephdg",
+    "image": "https://ocdn.eu/pulscms-transforms/1/NDZk9kpTURBXy84MTk0MmIxNzc0NGUzNmRmZjdhYTMyMWJjMWQ1MzNkNi5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-01T05:00:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zamieszanie wokół Trybunału Konstytucyjnego. Prawniczy węzeł gordyjski próbują rozplątać eksperci",
+    "summary": "Przejęcie kierownictwa przez sędziego o najdłuższym stażu, czyli sędzię Annę Korwin-Piotrowską jest w pełni uzasadnione - ocenił były prezes Trybunału Konstytucyjnego profesor Jerzy Stępień. Natomiast zdaniem profesora Marcina Matczaka zawieszenie prezesa Bogdana Święczkowskiego odbyło się \"bez podstawy prawnej\".",
+    "link": "https://tvn24.pl/polska/sytuacja-trybunalu-konstytucyjnego-takie-sa-stanowiska-ekspertow-st9316422?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-warszawa-31-10-2026-policja-przed-trybunalem-konstytucyjnym-w-warszawie-ph9316128/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-01T03:41:16+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Psycholożka: żałoba nie ma daty ważności, a Wszystkich Świętych może nasilać poczucie straty",
+    "summary": "Psycholożka: żałoba nie ma daty ważności, a Wszystkich Świętych może nasilać poczucie straty tryton ndz., 11/01/2026 - 05:15 3 minuty",
+    "link": "https://naukawpolsce.pl/aktualnosci/news%2C115722%2Cpsycholozka-zaloba-nie-ma-daty-waznosci-wszystkich-swietych-moze-nasilac",
+    "image": "https://naukawpolsce.pl/sites/default/files/styles/new_720_x_405/public/202610/pap_20251101_0E1.jpg?itok=Ypjc4cAf",
+    "source": "Nauka w Polsce",
+    "also": [],
+    "published": "2026-11-01T04:15:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Bronisław Komorowski o Karolu Nawrockim w TK: Niezrozumiałe, po co to było",
+    "summary": "Piątkowe wydarzenia w Trybunale Konstytucyjnym to „jakaś szansa na przesilenie (...) tak jak w każdej chorobie” – ocenił były prezydent RP Bronisław Komorowski. Wyraził przy tym nadzieję, że owo przesilenie zakończy się „nie zgonem pacjenta, tylko ozdrowieniem – choćby częściowym i na określony czas”.",
+    "link": "https://www.rp.pl/polityka/art45426561-bronislaw-komorowski-o-karolu-nawrockim-w-tk-niezrozumiale-po-co-to-bylo",
+    "image": "https://i.gremicdn.pl/image/free/1596a0c3c76617d9971b8e2ca52743cb/?t=crop:2192:958:nowe:0:249,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-10-31T21:36:07+00:00",
+    "topic": "zdrowie"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Kryzys w Trybunale Konstytucyjnym. Zakończyły się konsultacje u prezydenta. Co wydarzy się dalej?",
+    "summary": "Wygaszenie kadencji wszystkich obecnych sędziów Trybunału Konstytucyjnego i wybór nowego składu – to propozycje przedstawione w sobotę po rozmowach z prezydentem Karolem Nawrockim przez przedstawicieli Razem i Konfederacji.",
+    "link": "https://radiokrakow.pl/wiadomosci/kryzys-w-trybunale-konstytucyjnym-prezydent-rozmawia-z-liderami-partii-korwin-piotrowska-oskarza-go-o-uzycie-sily/187150",
+    "image": "https://i.iplsc.com/-/000NHA7A8APTX9JV-C321.webp",
+    "source": "Radio Kraków",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-10-31T14:17:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Sposoby na dodatkową emeryturę",
+    "summary": "System emerytalny w Polsce opiera się na kilku filarach. Coraz częściej mówi się o tym, że świadczenia z ZUS mogą nie wystarczyć, aby utrzymać dotychczasowy standard życia. W obliczu tych wyzwań wielu Polaków zaczyna szukać alternatywnych metod zabezpieczenia swojej przyszłości finansowej.",
+    "link": "https://lovekrakow.pl/sposoby-na-dodatkowa-emeryture",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/e5d8e604c2ece00dee1d345921c392d3.jpg.webp?itok=D-DomnVL",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-10-31T23:01:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Jop wskazał na źródło problemów Wisły. „To słabe tłumaczenie”",
+    "summary": "Biała Gwiazda w dalszym ciągu czeka na pierwsze wyjazdowe zwycięstwo. – Wynik jest trochę za wysoki – komentował porażkę 1:3 z Lechem Poznań Mariusz Jop.",
+    "link": "https://lovekrakow.pl/jop-wskazal-na-zrodlo-problemow-wisly-to-slabe-tlumaczenie",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-05/a83dac325c2b5bc5d4b359b9c5ccb039.jpg.webp?h=4362216e&itok=zETP6Dfq",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-10-31T19:28:48+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Fatum Wisły z jedenastu metrów. Beniaminek zderzył się z mistrzem",
+    "summary": "Marcel Łubik robił wiele, aby Wisła zapunktowała w Poznaniu, ale Lech był niczym rozpędzona maszyna. Wiślacy przegrali 1:3 i po raz trzeci w tym sezonie zmarnowali rzut karny.",
+    "link": "https://lovekrakow.pl/fatum-wisly-z-jedenastu-metrow-beniaminek-zderzyl-sie-z-mistrzem",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/1b948db2179c4d5079e83299de3c5536.jpg.webp?itok=Sjue0ILh",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-10-31T18:27:50+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "105 złotych zostanie w kieszeni. Od 1 listopada tańszy bilet roczny studenta",
+    "summary": "Zamiast 470 złotych – 365 złotych za roczny bilet komunikacji miejskiej. Od 1 listopada studenci posiadający ważną Kartę Krakowską będą mogli podróżować autobusami i tramwajami za złotówkę dziennie. Warunkiem skorzystania z ulgi jest rozliczanie podatków w Krakowie i wskazanie miasta jako miejsca zamieszkania.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/105-zlotych-zostanie-w-kieszeni-krakow-obniza-cene-biletu-rocznego-dla-studentow/187158",
+    "image": "https://radiokrakow.pl/media/article/187158/f698de1ea1707f2d4a59e857bcd699a1.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-10-31T21:26:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Czy Twoje dziecko dobrze widzi? Nie przegap pierwszych sygnałów! cz. 2",
+    "summary": "Mrużenie oczu, siadanie blisko telewizora, pochylanie głowy nad książką – czy to tylko dziecięce przyzwyczajenia, czy pierwsze sygnały problemów ze wzrokiem? W drugiej części rozmowy z lek. Tomaszem Tomczykiem, okulistą, podpowiadamy rodzicom, na co zwracać uwagę i kiedy warto skonsultować się ze specjalistą.",
+    "link": "https://radiokrakow.pl/audycje/nauka/magazyn-medyczny/czy-twoje-dziecko-dobrze-widzi-nie-przegap-pierwszych-sygnalow-cz-2/187141",
+    "image": "https://radiokrakow.pl/media/article/187141/9ceac60dc2ddee22e900c23f5786cdf4.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-10-31T14:05:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Chrystus w Strefie Gazy. Teatr Barakah pyta o Boga",
+    "summary": "Co usłyszał Chrystus od Boga i czy na pewno był to jego głos? Jak traktować śmierć Zbawiciela - jako ofiarę czy przemoc? Prapremiera spektaklu \"Ostatnie Kuszenie Chrystusa. Ewangelia Wątpliwości\" w reżyserii Michała Telegi 5 listopada w Teatrze Barakah.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33102220,chrystus-w-strefie-gazy-teatr-barakah-pyta-o-boga.html",
+    "image": "https://bi.im-g.pl/im/ac/a8/1e/z32149420IHG,Rzezba-Jezusa-Chrystusa---zdjecie-ilustracyjne.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-10-31T18:03:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "\"Mierni, ale ulegli wypierają osobowości\". Agata Duda-Gracz wystawia Krakowowi gorzki rachunek",
+    "summary": "Kraków narodowej sztuce, czyli tryumf miernoty\", najnowszy spektakl Agaty Dudy-Gracz, to wielki zamysł wykraczający poza pudełko sceny, momentami wspaniały, chwilami nużący i przegadany, ale Kraków pokocha to przedstawienie.",
+    "link": "https://www.newsweek.pl/kultura/tryumf-miernoty-krakow-pokocha-ten-spektakl-dudy-gracz/nv5x85k",
+    "image": "https://ocdn.eu/pulscms-transforms/1/AGNk9kpTURBXy83ZTRjNTA2ZjQwZTZmYjMwYzFjMWNlMWZiOWQ3MjI3NC5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-10-31T06:28:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Biskup Jeż skazany. Sąd zabierze mu 25 proc. pensji. Ale ile naprawdę zarabia?",
+    "summary": "Bp Andrzej Jeż zadeklarował przed sądem, że zarabia 4800 zł brutto. Od tej pensji ma być potrącane 25 proc. - To najbardziej nonsensowna rzecz w całym wyroku. Nie uwzględnia realnych dochodďż˝w biskupďż˝w - mďż˝wi ks. prof. Andrzej Kobyliński.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33107840,biskup-jez-skazany-sad-zabierze-mu-25-proc-pensji-ale-ile.html",
+    "image": "https://bi.im-g.pl/im/b7/18/1f/z32607671IHG,Ordynariusz-tarnowski-bp-Andrzej-Jez-przed-sadem--.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-10-31T05:01:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Naukowiec: zlikwidowane w Małopolsce gniazdo szerszenia żółtonogiego mieściło ok. tysiąca owadów",
+    "summary": "",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjZSeHBNM3l1UktwRnpTbDlCOG5WX011S0pSOGFQRV8xOWVuNUMwOThpdVNUMXdFc2xKYU5lWFBwTkl5MDRtTVJfYkxzR2dZcmtmZE0xc2xlYU1tZjZBMjdZZnRaS1ZZSHplVjNiWVMwZ1hCMDBEbVd3OFpyeU1GbmdpU2tVLWlaM2hjenlJU284Zy0wUjgwVUpQanhfbU13QXYyWGFEUG82dzRyX0RxU0ZncUg3TVk5d3JxZ20xR1psYXBN?oc=5",
+    "image": null,
+    "source": "PAP",
+    "also": [],
+    "published": "2026-10-31T07:20:02+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Japan’s Jimi Halloween, a celebration of all things mundane – in pictures",
+    "summary": "While Halloween is traditionally a family-oriented holiday and an occasion for children to dress up and go trick-or-treating, a unique spin on spooky season is taking off in Japan. ‘Jimi Halloween’ or ‘Mundane Halloween’ sees adult participants dress up as ordinary people in everyday life.",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/01/japan-jimi-halloween-celebration-of-all-things-mundane-tokyo-shibuya-in-pictures",
+    "image": "https://i.guim.co.uk/img/media/c57f5ff4701fc9c02e33a8e13ceec013c4fc77b8/387_0_4218_3374/master/4218.jpg?width=140&quality=85&auto=format&fit=max&s=bb34d85d92b8bcde743688a0e50dae51",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-01T00:32:29+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Spéléologues urbains à Paris : « C’est tellement inexploré qu’on pourrait croiser Xavier Dupont de Ligonnès »",
+    "summary": "Des passionnés de souterrains descendent en rappel et clandestinement dans les entrailles de Paris pour explorer l’envers de la ville et son histoire. Des expéditions risquées mais à fort potentiel poétique au cœur d’un immense réseau de carrières et de galeries, bien au-delà des catacombes.",
+    "link": "https://www.lemonde.fr/m-perso/article/2026/11/01/speleologues-urbains-a-paris-c-est-tellement-inexplore-qu-on-pourrait-croiser-xavier-dupont-de-ligonnes_6804007_4497916.html",
+    "image": "https://img.lemde.fr/2026/10/23/136/0/6000/3000/644/322/60/0/397cec1_upload-1-tcgrcueaarng-hl-upadovani-986040.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-01T04:15:10+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "‘A whitewashing of minds’: the mania and myth of Geoffrey Bardon and the painting men of Papunya",
+    "summary": "Bardon has largely remained in popular consciousness as the synonymous hero and martyr of the art movement’s origin story. But a new biography is unravelling the myth, and the madness, behind the tale Like many foundation stories, the white Australian narrative about the birth of the globally celebrated Western Desert…",
+    "link": "https://www.theguardian.com/artanddesign/ng-interactive/2026/nov/01/geoffrey-bardon-aboriginal-dot-painting-papunya",
+    "image": "https://i.guim.co.uk/img/media/f51ae18ac9aa0bf36a5277e156a04bbc56386ac6/0_77_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=0d825a3fb7632e27e2aa3a0342ec4b7e",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-10-31T19:00:51+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "The La Brea Tar Pits Faces a Huge Task in its Remodel",
+    "summary": "Visitors gathering around a Columbian mammoth display inside the museum at La Brea Tar Pits. A much larger Columbian mammoth, Zed, will be on view in the museum when it reopens after its major renovation.",
+    "link": "https://www.nytimes.com/2026/10/31/arts/design/los-angeles-la-brea-tar-pits-renovation.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01sp-finearts-labrea-01-fmvk/01sp-finearts-labrea-01-fmvk-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-31T09:00:06+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Lio, chanteuse : « J’ai été soumise aux hommes, ce qui ne m’a pas empêchée de tourner les talons »",
+    "summary": "« Je ne serais pas arrivée là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. La chanteuse pop rend hommage au courage de sa mère.",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/01/lio-chanteuse-j-ai-ete-soumise-aux-hommes-ce-qui-ne-m-a-pas-empechee-de-tourner-les-talons_6804019_3246.html",
+    "image": "https://img.lemde.fr/2026/10/30/2459/0/5464/2732/644/322/60/0/7abd08c_upload-1-xnwwksys8a9l-013894-020.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-01T04:45:04+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Nathan Fielder, coréalisateur de « You Can See Everything », qui pourrait devenir le premier documentaire nommé à l’Oscar du meilleur film",
+    "summary": "« Elle ou il s’est fait remarquer. » Coup de projecteur sur une femme ou un homme qui a marqué l’actualité. Cette semaine, l’humoriste, acteur et réalisateur canadien qui connaît un énorme succès avec son film sur Elizabeth Holmes, ancienne gloire de la Silicon Valley condamnée pour escroquerie.",
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/01/nathan-fielder-corealisateur-de-you-can-see-everything-qui-pourrait-devenir-le-premier-documentaire-nomme-a-l-oscar-du-meilleur-film_6803900_4500055.html",
+    "image": "https://img.lemde.fr/2026/10/27/157/0/1500/750/644/322/60/0/4e50aa0_ftp-1-jbjwnlgvl6nt-449555-3528093.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-01T03:30:05+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Why Does Culture Feel So Monotonous? A Walking Tour Reveals the Math.",
+    "summary": "Chain storefronts on a London street reflect what Lauren Leek calls the “flattening” of modern consumer culture.",
+    "link": "https://www.nytimes.com/2026/10/31/arts/lauren-leek-algorithms-culture.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31cul-data-scientist-hbml/31cul-data-scientist-hbml-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-10-31T18:44:43+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Szukałem tego, czego nie ma - 115 lat temu urodził się Włodzimierz Sedlak; współtwórca bioelektroniki",
+    "summary": "„Szukałem tego, czego nie ma…” - 31 października 1911 roku urodził się Włodzimierz Sedlak, ksiądz katolicki, biolog-teoretyk, współtwórca bioelektroniki; uczony interdyscyplinarny, zajmujący się m.in. archeologią, geologią, paleontologią, paleobiochemią; badający pochodzenie życia i człowieka.",
+    "link": "https://dzieje.pl/wiadomosci/szukalem-tego-czego-nie-ma-115-lat-temu-urodzil-sie-wlodzimierz-sedlak-wspoltworca",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202610/sedlak%20kopia.jpg?itok=ocaYJ6s_",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-10-31T07:40:57+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Netflix zaszalał z premierami na listopad. Polacy zacierają ręce. Na te nowości warto było czekać",
+    "summary": "Netflix na listopad 2026 przygotował sporo nowości. Wśród premier znalazły się polskie seriale, thrillery, dramaty i długo wyczekiwane kontynuacje popularnych produkcji. Nie zabraknie znanych aktorów i historii inspirowanych prawdziwymi wydarzeniami. Co warto obejrzeć?",
+    "link": "https://kultura.gazeta.pl/kultura/7,127222,33105562,netflix-zaszalal-z-premierami-na-listopad-polacy-zacieraja.html",
+    "image": "https://bi.im-g.pl/im/7f/92/1f/z33105791IHG,Znieczulenie---Oficjalny-zwiastun---Netflix.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-10-31T16:22:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "W telewizji rozpoznała zabójcę siostry. Potem zaprosiła go do domu. Nowy thriller podbija Netfliksa",
+    "summary": "Po ponad 3 latach od sukcesu \"Ukochanego dziecka\" twórcy serialu powracają z nową, równie wciągającą produkcją. Tym razem w centrum wydarzeń staje pisarka próbująca dowieść, kto pozbawił życia jej młodszą siostrę. Czy wytypowany przez nią dziennikarz faktycznie jest tym, którego szuka?",
+    "link": "https://kultura.gazeta.pl/kultura/7,127222,33104082,w-telewizji-rozpoznala-zabojce-siostry-potem-zaprosila-go-do.html",
+    "image": "https://bi.im-g.pl/im/17/92/1f/z33104151IHG,kadr-ze-zwiastuna-serialu--Pulapka-.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-10-31T15:19:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Bracia z Mazowsza podbili Hollywood. Ich przygoda z kinem zaczęła się od zastawienia zegarka i konia",
+    "summary": "Dziś chyba nie ma osoby, która nie znałaby przynajmniej kilku produkcji stworzonych pod szyldem Warner Bros. Mało kto jednak wie, że trzech z czterech założycieli słynnej wytwórni filmowej przyszło na świat w niewielkiej wsi na terenie Polski. Skąd dokładnie pochodzili i jak to się stało, że podbili Fabrykę Snów?",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33099481,bracia-z-mazowsza-podbili-hollywood-ich-przygoda-z-kinem-zaczela.html",
+    "image": "https://bi.im-g.pl/im/6b/90/1f/z33099627IHG,Bracia-Warner-i-upamietniajacy-ich-mural-w-Krasnos.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-10-31T09:22:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Dyniami straszono na polskiej wsi na długo przed modą na Halloween",
+    "summary": "Choć wydrążona i podświetlona dynia kojarzy się dziś przede wszystkim z Halloween, podobne zabawy znano na polskich wsiach już przed II wojną światową, a sama dynia pojawiła się na ziemiach polskich już w XVI wieku.",
+    "link": "https://dzieje.pl/wiadomosci/dyniami-straszono-na-polskiej-wsi-na-dlugo-przed-moda-na-halloween",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202610/3_131_0_-_215_27197988.jpg?h=5eee306a&itok=00Hc2I3a",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-10-31T09:16:24+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Dr Aleksander Laskowski: obserwuję zanik rytuałów — a zatem i muzyki — towarzyszącej odchodzeniu",
+    "summary": "Muzyka religijna dawnych epok ze strefy sacrum dzisiaj przeniosła się w przestrzeń przeżycia estetycznego. Obserwuję zanik rytuałów — a zatem i muzyki — towarzyszącej odchodzeniu — powiedział PAP muzykolog, krytyk muzyczny, rzecznik Narodowego Instytutu Fryderyka Chopina dr Aleksander Laskowski.",
+    "link": "https://dzieje.pl/wiadomosci/dr-aleksander-laskowski-obserwuje-zanik-rytualow-zatem-i-muzyki-towarzyszacej",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202610/pap_20220919_297.jpg?itok=zEVIZgT6",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-10-31T08:59:11+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "\"Odrzania\", czyli jak zakochałem się w olsztynowaniu",
+    "summary": "Zachwycająca książka. Po jej przeczytaniu z pewnością pojadę do Olsztyna, by, używając słów jej autora, trochę tam poolsztynować.",
+    "link": "https://kultura.onet.pl/ksiazki/odrzania-czyli-jak-zakochalem-sie-w-olsztynowaniu/5v1qtdh",
+    "image": "https://cdn.kultura.onet.pl/1/7Zak9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zOTJlYmI4NmJkNDFhODA3ZjhiOWQxODhlNjdlODVlMy5wbmeSlQMAAM0GwM0DzJMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-10-31T15:23:12+00:00",
+    "topic": "literatura"
+   }
+  ]
+ }
+}
