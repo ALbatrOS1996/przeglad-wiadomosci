@@ -1,0 +1,719 @@
+{
+ "date": "2026-11-02",
+ "generated": "2026-11-02T06:29+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Wybory w Bułgarii. Są wyniki exit poll",
+    "summary": "Sondaże exit poll z wyborów prezydenckich w Bułgarii dają zwycięstwo Ilianie Jotowej, która dotychczas pełniła obowiązki głowy państwa. Jest z tej samej opcji politycznej co rząd.",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yWkxFaEZyODhWNVZYaGRHbTh3Y1J3c1BvMTExOW9Ua0RRSC1HQTRPbVkxeXppSU0wVTJFR1NsWnd4VnRvbE9SdzlkZFg5Sy1HZmFhN0RXLVdScUtJMDlIY29KZHJUS3hXOVhIVEVxMTJsc0hPd1Ew?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/01/12/iliana-jotowa-wygrala-wybory-prezydenckie-w-bulgarii-wynika-z-sondazy-exit-poll-fot-636x421-0112490c.jpg",
+    "source": "PAP",
+    "also": [
+     "Interia",
+     "RMF24",
+     "TVN24"
+    ],
+    "published": "2026-11-01T18:46:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+    "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+    "source": "Reuters",
+    "also": [
+     "BBC News",
+     "Politico Europe"
+    ],
+    "published": "2026-11-01T20:10:29+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+    "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+    "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+    "source": "BBC News",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-02T01:18:27+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+    "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg",
+    "source": "BBC News",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-02T00:15:30+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
+    "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-01T23:24:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Pożar na pokładzie samolotu. Zapalił się powerbank",
+    "summary": "W samolocie linii Ryanair lecącym w niedzielę z lotniska Bruksela Charleroi do Lizbony wybuchł pożar. Pojawił się w jednym z bagaży podręcznych, a jego przyczyną miał być powerbank.",
+    "link": "https://tvn24.pl/swiat/portugalia-pozar-na-pokladzie-samolotu-zapalil-sie-powerbank-st9317333?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-551772-ryanair-ph8265378/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-02T04:58:33+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Initial results suggest Yotova wins runoff to become Bulgaria’s first elected female president",
+    "summary": "Iliana Iotova has won Bulgaria’s presidential runoff, becoming the country’s first elected female president.",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-01T21:48:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+    "summary": "Protests in France have helped inspire youth demonstrations elsewhere in Europe, from Portugal and Italy to Germany. Germany saw particularly large rallies on Saturday, led by a youth initiative whose name roughly translates as “Gen Z has got this”.",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
+    "image": "https://s.france24.com/media/display/7b7566f6-d5d4-11f1-94ac-bf1914cabd52/w:1024/p:16x9/EN-20261101-090621-090756-CS.jpg",
+    "source": "Associated Press",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-01T10:55:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Nie żyje Ciara Mageean. Świat sportu opłakuje irlandzką mistrzynię Europy",
+    "summary": "Miała zaledwie 34 lata.",
+    "link": "https://www.rmf24.pl/fakty/sport/news-nie-zyje-ciara-mageean-swiat-sportu-oplakuje-irlandzka-mistr,nIdn,1024292",
+    "image": "https://rmf.rmffm.pl/news/attachments/fa/30/ciara-mageean-irlandzka-mistrzyni-europy-miala-34-lata-fot-636x421-fa30f9a4.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-01T15:59:00+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Trzęsienie ziemi w TK. Komisja Europejska zabiera głos: Stanowisko przekazane RMF FM",
+    "summary": "Komisja Europejska zabrała głos w sprawie kryzysu wokół Trybunału Konstytucyjnego. W rozmowie z POLITICO unijny komisarz Michael McGrath wskazał, kto ma kompetencje do wyboru nowych sędziów TK, i podkreślił konieczność przestrzegania prawa.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-trzesienie-ziemi-w-tk-komisja-europejska-zabiera-glos-stanow,nIdn,1024257",
+    "image": "https://rmf.rmffm.pl/news/attachments/98/78/zdj-636x421-9878417f.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-01T05:30:00+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
+    "summary": "FIFA’s president, Gianni Infantino, relocated from Switzerland to Miami ahead of the 2026 World Cup.",
+    "link": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Infantino-Tax-01-ctzl/02Biz-Infantino-Tax-01-ctzl-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-02T05:01:08+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean",
+    "summary": "A Guardian investigation has found that despite a recommendation to slow down, leading shipping companies continue to travel above advised speeds in a key habitat for cetaceans Marine biologist Alice Barbarioli waits with her camera trained on the horizon.",
+    "link": "https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean",
+    "image": "https://i.guim.co.uk/img/media/51d8aa479dc82ad7c40d3d6b50c5dbf131c9fa29/1234_539_4326_3461/master/4326.jpg?width=140&quality=85&auto=format&fit=max&s=34ee22e6e517a67b3806bc10c222884c",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-02T05:00:32+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "US judge dismisses Trump election lawsuit in Alaska",
+    "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "BBC News",
+     "The Guardian"
+    ],
+    "published": "2026-11-01T21:22:38+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Trump says US, Canada have 'concept' of a new trade deal",
+    "summary": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections.",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkdVQi1MWlZSQ24xUkR6aC12d0llYjlUWlFDcmVuX1ByZk5tZ3JoQ3NTd01CM2piUFV2MGlEMWdCSnRTV1ExRDFUVGhYNjVVU2ZQT3lIS1UxbEVxSzNfZmdlY2duVXkySm8yNGNpbWRCdXpOMEF4ZFk3NXlJME5yZmRJTVVnVXUwa3VmcVBwWkNIejVkVjYtQWlYblJmdmVZbzI0eHR6YlMwTUJpWTZyR3hwZ1g?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press"
+    ],
+    "published": "2026-11-01T21:11:43+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says",
+    "summary": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUt0RmpPekdDMExKQXItLU5tRTg2MG9ZSEpxandUT0g2YVhjRUlSX2loTnBYMU5KX29NcXg3eU5Ja1hTOUpzZl9vWXVTQ3plbTRLQ25RUnY0T3Q0blgwNzhuYkdWN1p6R2xjejNjTWZFVHlFTy16SXl6eEh2d2hTRlpXY0gtdHpnbEY2UGlJbVFzUXBHNDFyaHhRWnhfRGVCcVVRZ0tvZkJqMk9jS1hQQy1iTk95eHhXcUlwUG13?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press"
+    ],
+    "published": "2026-11-01T20:26:38+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "2026 Midterm Election Results: Senate, House and Governor Races",
+    "summary": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-02T04:15:59+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+    "summary": "Endorsement was met with backlash from the party, condemning Stevens for her ‘betrayal’ Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival, Mike Rogers, in an extraordinary rebuke of her party’s nominee on the eve of the midterm elections.",
+    "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+    "image": "https://i.guim.co.uk/img/media/b74ef59dc193fbb01caa37d843c2625eeb29b433/111_0_2177_1741/master/2177.jpg?width=140&quality=85&auto=format&fit=max&s=cbf9e604b50c2516b75ee1714194ef1f",
+    "source": "The Guardian",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-02T00:12:17+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "All nine people aboard business jet that crashed in Florida have died",
+    "summary": "Aircraft had departed Austin-Bergstrom international airport and was headed to the Bahamas when it crashed A business jet carrying nine people nose-dived into a South Florida neighborhood Sunday and erupted into a giant fireball that appeared to just miss homes near a busy roadway, killing everyone onboard.",
+    "link": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
+    "image": "https://i.guim.co.uk/img/media/6b98eb6ba8db5d985571296e8bcfa0fd6065e89d/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=7feadce8816993de0f8c0d7715fb5274",
+    "source": "The Guardian",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-11-01T21:13:23+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Boliwia: prezydent ogłosił stan wyjątkowy w związku z fenomenem El Nino",
+    "summary": "Rodrigo Paz, prezydent Boliwii, ogłosił stan wyjątkowy. Decyzja jest związana z wyjątkowo silną anomalią El Nino. Wywołuje ona poważne obawy także w innych krajach Ameryki Łacińskiej.",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJtbEk2TE1zYzdkdnZZX2JLcm9jZXhDY0FYSEdhZm1mTFRadVpNMkJvN3JkVjZaQzU2TWxPbmFwMld3R0NCYlNRZXQxX1RKZTlwd3h2QUVHS3dCS1MxOHZldmJ0RGV4d242SHV1Z3dHejJOZ0drSjM4SUZ2M0FvdlpPY3JHLUlQN3RZdFAtMlpOU0E4aVdidE5ENDBtSzQ1T29OcEYtem1KV1lVdGtCOUNHNnhHdGRhZFVMS0JCVGJ0Tm5Z?oc=5",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-ulewy-doprowadzily-do-powodzi-na-wyspie-santa-cruz-w-archipelagu-galapagos-ph9316699/alternates/LANDSCAPE_1280",
+    "source": "PAP",
+    "also": [
+     "TVN24"
+    ],
+    "published": "2026-11-01T10:09:42+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Thousands of volunteers build 108 stupas in a day in Bhutan’s Gelephu Mindfulness City",
+    "summary": "Bhutan is building a 'mindfulness' city to drive economic growth and persuade more young people to stay.",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQREhzdGRZYXhNQ1RTTld2VmhPbHFfUXRxWHJwOHYybGxLLXJNOTZZM2ktQm94Q0FneW1NQ0htMzV6SnpNWUVpUW9CdzBWNVJtcTRYT0lBVkFGTVlRamxiUFRUbnJrLUlucG51Y0hxRFJGdm50NmN2MmhHcEpCZUxOMEl0X0p4UFRTS2RGYnVwamhiZkJjN2RHcTI1X2VpNExBTHAxTnlNcERwVUE?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-01T18:27:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Kimi Antonelli becomes youngest F1 champion as Max Verstappen wins race",
+    "summary": "Mercedes driver Kimi Antonelli made history and become the youngest Formula 1 world champion. The 20-year-old driver finished third in the Mexico City Grand Prix race behind Max Verstappen and Lewis Hamilton.",
+    "link": "https://www.euronews.com/2026/11/02/kimi-antonelli-becomes-youngest-f1-champion-as-max-verstappen-wins-race",
+    "image": "https://images.euronews.com/articles/stories/09/97/56/97/1200x675_cmsv2_b916c290-75a4-5bea-a531-eb58dc0c27e9-9975697.jpg",
+    "source": "Euronews",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-02T04:54:49+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Democrats have high hopes for midterms, but polls have let them down before",
+    "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+    "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ae1b/live/eaba2bb0-d48e-11f1-9a20-f717db279e3e.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-02T00:25:12+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "China’s Message to Its Rivals: You Need What We Make",
+    "summary": "Assembling a tunnel boring machine at a factory in China. Beijing recently moved to control the exports of dozens of technologies, including such machines.",
+    "link": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-02T05:00:08+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
+    "summary": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
+    "link": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-02T00:22:34+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Wszystkie - PAP",
+    "summary": "Dzień Wszystkich Świętych, przypadający w niedzielę, budzi wiele pytań i wątpliwości. Czy za 1 listopada w tym roku należy się dodatkowy dzień wolny od pracy? Podobne pytanie dotyczące 2 listopada zadają sobie uczniowie szkół i ich rodzice. Wyjaśniamy, jakie są zasady.",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UGsxdmNUaHV1VUNodHJSemM1QW5sanRoZC1jdk9FYlBiQ0VDcHhJeFJpZFo2eTcyc2RGNDRwN3VEd0VOMnp0SjBpTm9GcjN3aHNVaDhn?oc=5",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/70/5f/5bd842526d595_o,size,640x400,q,71,h,594978.jpg",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska",
+     "Dzieje.pl",
+     "Gazeta Krakowska",
+     "Interia"
+    ],
+    "published": "2026-11-01T20:07:22+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "KPRP złoży zawiadomienia do prokuratury ws. naruszenia nietykalności Nawrockiego",
+    "summary": "Kancelaria prezydenta podejmie działania związane ze złożeniem zawiadomień do prokuratury wobec Anny Korwin-Piotrowskiej, Macieja Berka i Krystiana Markiewicza w związku z m.in. naruszeniem nietykalności prezydenta Karola Nawrockiego - zapowiedział rzecznik głowy państwa Rafał Leśkiewicz.",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1pWeUxmaFAyWnd3N2xjcnZ4TWZpc19WZTROQTVPNGxvTzJMWmE5SFI2UUFaTEdVa0dydjVRTFFVbTFKTU5pSC03LWNNdjNicFF0N0ZHMGZqTUNXWHJLNEpiMWJfOFNyY2NwMVVsMDk3S3E2VWtOejI1TnBtTUlWRW9HVUR0VTZCYW1tR1Y0NVlPRmJtNndBbkN5Z2pYLTNQaW5CZm9CdkM4M0tQYmJ1ck16S3dWWW93WkE?oc=5",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-karol-nawrocki-ph9315362/alternates/LANDSCAPE_1280",
+    "source": "PAP",
+    "also": [
+     "TVN24",
+     "TVP Info"
+    ],
+    "published": "2026-11-01T19:16:09+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Byli prezesi Trybunału Konstytucyjnego o kryzysie: nie istnieje inna droga. Jest też drugi list",
+    "summary": "Prezydent Karol Nawrocki podjął \"bezpośrednią próbę naruszenia autonomii sądu konstytucyjnego\" - ocenili byli prezesi Trybunału Konstytucyjnego. We wspólnym oświadczeniu napisali, że \"nie istnieje inna droga pozwalająca na zakończenia kryzysu konstytucyjnego i przywrócenie społeczeństwu Trybunału Konstytucyjnego\".",
+    "link": "https://tvn24.pl/polska/kryzys-w-trybunale-konstytucyjnym-oswiadczenie-bylych-prezesow-st9316506?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-kryzys-w-trybunale-konstytucyjnym-ph9316440/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Interia",
+     "TVP Info"
+    ],
+    "published": "2026-11-01T07:35:22+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Rzecznik prezydenta o naruszeniu nietykalności. Korwin-Piotrowska zabrała głos",
+    "summary": "Sędzia Anna Korwin-Piotrowska przekazała w Polsat News, że nie wyklucza złożenia zawiadomienia o naruszeniu jej nietykalności przez prezydenta podczas protestów przed siedzibą TK. Odniosła się również do zapowiadanego wniosku przeciwko niej dotyczącego z kolei naruszenia nietykalności Karola Nawrockiego.",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEphTXpHaUtMZ0lDVXBPR1IyMGZKZG9HSzVkU213R29hbmpaS094MkJvSUMtX01GQ0lBXzlMRDJ0aXhGLU9CYU1WTnAyWDYwdnNDTGhzUk1kakhYZlBaUzhzQ2lRLWlvODVzMFBxYkcwbWlhenJyMXNkUnl2amN0VGNMVXVOZEs5bGMyYk4xdFMxZVBQdlNhblR3bVlLWllzM1NSSDFFel9vQ0Fq?oc=5",
+    "image": "https://i.iplsc.com/-/000NHDE3RGW8FIBX-C321.webp",
+    "source": "PAP",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-01T16:55:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Katastrofa samolotu na Florydzie. Załoga nadała sygnał \"mayday\"",
+    "summary": "Samolot z dziewięcioma osobami na pokładzie rozbił się w hrabstwie Palm Beach na Florydzie - poinformowała Federalna Administracja Lotnictwa. - Wyglądało to jak spadająca rakieta - powiedział gubernator Florydy Ron DeSantis. Jest zapis łączności między kontrolą ruchu lotniczego a kokpitem.",
+    "link": "https://tvn24.pl/swiat/katastrofa-samolotu-na-florydzie-na-pokladzie-bylo-dziewiec-osob-st9317305?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-moment-katastrofy-samolotu-na-florydzie-ph9317334/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-01T21:01:39+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Korwin-Piotrowska zapowiada w sprawie Święczkowskiego. \"W poniedziałek\"",
+    "summary": "-Podniesionym głosem wypowiedział słowa: \"idzie prezydent\" - relacjonowała w TVN24 sędzia Anna Korwin-Piotrowska, opisując nocne wejście Karola Nawrockiego do Trybunału Konstytucyjnego.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-korwin-piotrowska-zapowiada-w-sprawie-swieczkowskiego-w-poni,nId,23567390",
+    "image": "https://i.iplsc.com/-/000NHD8I42VC16RC-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-01T19:32:58+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Polska puka do G20, politycy wyważają drzwi do TK. Niszczymy swój najlepszy moment w historii [OPINIA]",
+    "summary": "Polska ma dziś szansę wejść do pierwszej ligi światowej gospodarki. Zachwycamy inwestorów, doganiamy Zachód, a Waszyngton widzi dla nas miejsce przy stole największych potęg. Tymczasem nasi politycy, zamiast wykorzystać historyczną szansę, urządzają kolejną bitwę o Trybunał Konstytucyjny.",
+    "link": "https://businessinsider.com.pl/wiadomosci/polska-na-progu-swiatowej-elity-gospodarczej-politycy-ryzykuja-sukces/lcx7f1z",
+    "image": "https://ocdn.eu/pulscms-transforms/1/XpNk9kpTURBXy9kNDUzNDE5YmRhNmMyNjE0YmJlYTc2OGI4NjA5M2JlZi5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-02T05:15:48+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zwrot akcji w sprawie małego atomu. Państwowy fundusz chce sojuszu z Michałem Sołowowem",
+    "summary": "Państwowy fundusz szuka swojego miejsca w atomowym biznesie Michała Sołowowa. Jak ustalił Business Insider Polska, PFR rozważa inwestycję bezpośrednio w spółkę miliardera, zamiast wejścia do jego wspólnego przedsięwzięcia z Orlenem. To pozwoliłoby funduszowi uczestniczyć również w zagranicznych projektach atomowych.",
+    "link": "https://businessinsider.com.pl/biznes/michal-solowow-przyciaga-inwestorow-do-atomowego-biznesu-pfr-zmienia-strategie/qmy73w5",
+    "image": "https://ocdn.eu/pulscms-transforms/1/pEQk9kpTURBXy9lNDBhMmNjODJjZTQzZGY2OTYxM2ZmZDUxMWNhMDc0My5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-02T05:09:34+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Drogi gaz nie zatrzymał produkcji. Co planują koncerny?",
+    "summary": "Drożejący gaz zwiększa presję na polskie firmy, ale nie wszystkie odczuwają ją w takim samym stopniu. Azoty muszą liczyć się z wysokimi kosztami surowca, KGHM i Kęty utrzymują produkcję, a Orlen i Unimot rozwijają alternatywne źródła gazu.",
+    "link": "https://energia.rp.pl/paliwa/art45429311-drogi-gaz-nie-zatrzymal-produkcji-co-planuja-koncerny",
+    "image": "https://i.gremicdn.pl/image/free/02b94ba89f704c31de5890da8ff51e33/?t=crop:2712:1186:nowe:0:313,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-02T05:01:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Grochal: Donald Tusk będzie tylko podgrzewał konflikt z Karolem Nawrockim",
+    "summary": "Donald Tusk ma plan na wybory parlamentarne 2027 r. Będzie podgrzewał konflikt z Nawrockim, próbując ustawić go jako starcie Polski proeuropejskiej i Polski prorosyjskiej.",
+    "link": "https://www.newsweek.pl/opinie/grochal-donald-tusk-bedzie-tylko-podgrzewal-konflikt-z-karolem-nawrockim/9248q94",
+    "image": "https://ocdn.eu/pulscms-transforms/1/yw7k9kpTURBXy9iNzE0ZDRlZDg2Njc0OTZhYWNjYTdjNzRiZGU3ZmU3Yi5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-11-02T05:00:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Młodzi Polacy częściej widzą zagrożenie niż szansę w AI",
+    "summary": "Co łączy młodych z pokolenia Z ze starszymi od nich pracownicami biur? Ich wspólną obawą jest poczucie zagrożenia ze strony sztucznej inteligencji.",
+    "link": "https://www.rp.pl/praca/art45426751-mlodzi-polacy-czesciej-widza-zagrozenie-niz-szanse-w-ai",
+    "image": "https://i.gremicdn.pl/image/free/ec30e5159048f942b1eab1f1da5baca3/mlodzi-boja-sie-ai-na-rynku-pracy?t=crop:6000:2623:nowe:0:689,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-02T04:45:00+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Nieoczekiwane wsparcie dla republikanów. Demokratka poparła ich kandydata",
+    "summary": "Kongresmenka Partii Demokratycznej Haley Stevens nieoczekiwanie poparła kandydata Partii Republikańskiej Mike'a Rogersa walczącego o mandat senatora w Michigan, jednym ze stanów, w których wynik wyborów będzie kluczowy dla ukształtowania większości w Senacie.",
+    "link": "https://www.rp.pl/polityka/art45429641-nieoczekiwane-wsparcie-dla-republikanow-demokratka-poparla-ich-kandydata",
+    "image": "https://i.gremicdn.pl/image/free/f58d0e817cc8f006779dca144f94ca4a/mike-rogers-i-haley-stevens?t=crop:3840:1679:nowe:0:441,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-02T04:43:58+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Polska pod szarą zasłoną. Kiedy chmury nam odpuszczą? Prognoza pogody",
+    "summary": "Wyż, który steruje pogodą w Polsce, uwięził nad krajem sporą porcję wilgoci. Skutkuje to tworzeniem się niskich chmur i ponurą, chłodną aurą. Na horyzoncie widać jednak pewną zmianę.",
+    "link": "https://tvn24.pl/tvnmeteo/prognoza/polska-pod-szara-zaslona-kiedy-chmury-nam-odpuszcza-prognoza-pogody-st9317157?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-jesien-pochmurno-ponuro-ph9317160/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-01T18:00:00+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Badaczka: z cyfrowym życiem po śmierci łatwo przekroczyć granicę",
+    "summary": "Badaczka: z cyfrowym życiem po śmierci łatwo przekroczyć granicę tryton ndz., 11/01/2026 - 19:15 4 minuty",
+    "link": "https://naukawpolsce.pl/aktualnosci/news%2C115727%2Cbadaczka-z-cyfrowym-zyciem-po-smierci-latwo-przekroczyc-granice.html",
+    "image": "https://naukawpolsce.pl/sites/default/files/styles/new_720_x_405/public/202611/AdobeStock_1995963710.jpeg?itok=8av_V6G9",
+    "source": "Nauka w Polsce",
+    "also": [],
+    "published": "2026-11-01T18:15:00+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Kadrowe trzęsienie ziemi w Krakowskim Holdingu Komunalnym. Prezes i cały zarząd do odwołania",
+    "summary": "To może być ostatni dzień obecnego zarządu Krakowskiego Holdingu Komunalnego. Przed południem rada nadzorcza spółki ma odwołać jej prezesa Bogusława Kośmidera z Koalicji Obywatelskiej, byłego zastępcę prezydenta Jacka Majchrowskiego. Stanowisko mają stracić również wiceprezes oraz trzech członków zarządu.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/kadrowe-trzesienie-ziemi-w-krakowskim-holdingu-komunalnym-prezes-i-caly-zarzad-do-odwolania/187182",
+    "image": "https://radiokrakow.pl/media/article/187182/043a3b17d1d6b0c0659e8f5a0c3a2637.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-02T05:24:47+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Myślenice szukają miejsca na schronisko dla zwierząt. Sprawę utrudniają protesty mieszkańców",
+    "summary": "Myślenice chcą budować schronisko dla zwierząt, ale mają problem z lokalizacją. Trzy zaproponowane miejsca na terenie gminy zostały oprotestowane przez okolicznych mieszkańców, mimo że wszystkie spełniają wymogi dotyczące odległości od domów i zakładów pracy.",
+    "link": "https://radiokrakow.pl/wiadomosci/myslenice/myslenice-szukaja-miejsca-na-schronisko-dla-zwierzat-sprawe-utrudniaja-protesty-mieszkancow/187181",
+    "image": "https://radiokrakow.pl/media/article/187181/cb8ffa80163ad4a0390fb928ec951e16.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-02T05:05:47+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Nie samymi wycinkami żyje Kraków. W całym mieście sadzą teraz na potęgę",
+    "summary": "Zarząd Zieleni Miejskiej wykorzystuje sprzyjające warunki i sadzi dziesiątki drzew w różnych miejscach w Krakowie. Tylko w samym Parku Jordana przybędzie ich 36.",
+    "link": "https://lovekrakow.pl/nie-samymi-wycinkami-zyje-krakow-w-calym-miescie-sadza-teraz-na-potege",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/c2cc84d1ebe013b0b2ee7a7d2aeed534.jpg.webp?itok=iNVNgN0r",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-01T17:00:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Połączyła ich Krynica-Zdrój, a dzieli ich 50 lat. Tak wyglądała Patrycja Tuchlińska, gdy poznała milionera Józefa Wojciechowskiego",
+    "summary": "Patrycja Tuchlińska od lat tworzy udany związek z miliarderem Józefem Wojciechowskim. Był modelka chętnie dzieli się z internautami urywkami ze swojego barwnego życia. Para poznała się w luksusowym Hotelu Czarny Potok w Krynicy-Zdroju w 2018 roku. Od tego czasu są nierozłączni i mają dwójkę dzieci.",
+    "link": "https://gazetakrakowska.pl/polaczyla-ich-krynicazdroj-a-dzieli-ich-50-lat-tak-wygladala-patrycja-tuchlinska-gdy-poznala-milionera-jozefa-wojciechowskiego/ar/c6-17197525",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/a4/cc/64515f1f3aa61_o,size,640x400,q,71,h,793fb5.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-02T00:10:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Ostatni szum wody w Krakowie. Część elementów trafi do magazynów",
+    "summary": "Spadek temperatur oznacza koniec sezonu wodnego w Krakowie. Urzędnicy wyłączają tężnie solankowe oraz fontanny. W tle trwają już prace nad nową infrastrukturą, która stanie na Rynku Głównym.",
+    "link": "https://lovekrakow.pl/ostatni-szum-wody-w-krakowie-czesc-elementow-trafi-do-magazynow",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/5544b628e2d7aa1c4dde8b2859a7dcf4.jpg.webp?itok=z-VZS78S",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-01T15:00:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zatrudniają osoby z zespołem Downa, tracą tysiące złotych. Resort: \"Zdajemy sobie sprawę z problemďż˝w\"",
+    "summary": "Jedni pracownicy z zespołem Downa mają w orzeczeniach kod uprawniający do wyższych dopłat z PFRON, inni nie. Choć potrzebują podobnego wsparcia. Krakowska kawiarnia pokazuje absurd systemu.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33105284,krakowska-kawiarnia-zatrudniajaca-osoby-z-zespolem-downa-placi.html",
+    "image": "https://bi.im-g.pl/im/05/13/1c/z29441541IHG,Kawiarnia-Spoleczna-Kaffka.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-11-02T05:01:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Krakowska firma urośnie dzięki atomowi? Budimex przedstawił nową strategię",
+    "summary": "Budimex zaprezentował strategię do 2030 roku. Jedną z kluczowych ról w planach grupy odegrać może krakowski Mostostal, zaangażowany w budowę elektrowni jądrowej.",
+    "link": "https://lovekrakow.pl/krakowska-firma-urosnie-dzieki-atomowi-budimex-przedstawil-nowa-strategie",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2023-10/171116feccff5087346ecad12b11a75464698bb9.jpg.webp?h=c6cb2754&itok=g96RVbEj",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-01T13:00:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "ADHD: Jedna diagnoza to za mało? Kiedy objawy mają drugie dno",
+    "summary": "ADHD, autyzm, depresja, zaburzenia lękowe. Czasem jedna diagnoza nie wyjaśnia wszystkich trudności, z którymi mierzy się człowiek. Pojawia się kolejna. Ale czy rzeczywiście mamy do czynienia z dwoma zaburzeniami? A może różne objawy mają wspólne źródło, nakładają się na siebie albo prowadzą do błędnego rozpoznania?",
+    "link": "https://radiokrakow.pl/podcasty/wieczorna-terapia/jedna-diagnoza-to-za-malo-kiedy-objawy-maja-drugie-dno/187121",
+    "image": "https://radiokrakow.pl/media/article/187121/c16a03deb577423af399c4237dca6e8c.jpg",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-01T21:00:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Krzysztof Pietraszewski, dyrektor artystyczny Sacrum Profanum: \"Przyjdźcie wyposażeni w ciekawość, my zajmiemy się resztą\"",
+    "summary": "\"Weźmiemy na sztandary muzykę, wolność wypowiedzi oraz swobodę artystyczną i zaprosimy Państwa na koncert w formie marszu\" - zapowiada Krzysztof Pietraszewski, dyrektor artystyczny Sacrum Profanum. 24. edycja festiwalu odbędzie się między 6 a 11 listopada.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33102200,krzysztof-pietraszewski-dyrektor-artystyczny-sacrum-profanum.html",
+    "image": "https://bi.im-g.pl/im/8a/91/1f/z33102218IHG,-Wezmiemy-na-sztandary-muzyke--wolnosc-wypowiedzi-.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-11-01T17:46:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Tajemnicze odkrycie w polskim mieście. Sieć tuneli pod zakładem pogrzebowym",
+    "summary": "Pod zakładem pogrzebowym przy ulicy Bernardyńskiej w Tarnowie natrafiono na znalezisko - informuje portal \"Tarnów Nasze Miasto\". Właściciele kamienicy podczas remontu piwnicy znaleźli tajne przejście. Ekspert wskazał z kolei, gdzie mogły prowadzić tunele. To nie jest jedyna tajemnica, którą skrywał budynek.",
+    "link": "https://wydarzenia.interia.pl/malopolskie/news-tajemnicze-odkrycie-w-polskim-miescie-siec-tuneli-pod-zaklad,nId,23567074",
+    "image": "https://i.iplsc.com/-/000NHBT86AXVMHI7-C321.webp",
+    "source": "Interia",
+    "also": [],
+    "published": "2026-11-01T11:58:35+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Local Artists Speak to Baltimore’s Long and Complex History",
+    "summary": "Jerrell Gibbs and Devin Allen are two Baltimore artists who incorporate their beloved city into their work.",
+    "link": "https://www.nytimes.com/2026/10/29/arts/design/artists-baltimore-history.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01sp-finearts-baltimore-hpzc/01sp-finearts-baltimore-hpzc-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-01T18:02:15+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Swarms of Butterflies Land at New York’s Natural History Museum",
+    "summary": "The cartoonist Peter Kuper in “Monarch’s Journey,” his immersive installation at the American Museum of Natural History.",
+    "link": "https://www.nytimes.com/2026/11/01/arts/design/butterflies-american-museum-natural-history.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01sp-finearts-butterflies-03-khmw/01sp-finearts-butterflies-03-khmw-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-01T10:00:28+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Museums Turn to A.I. to Create Personalized Tour Experiences",
+    "summary": "A visitor to the Cleveland Museum of Art uses its Paint the Past interactive.",
+    "link": "https://www.nytimes.com/2026/11/01/arts/design/technology-museum-ai-guides.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01sp-finearts-tech-03-jbgl/01sp-finearts-tech-03-jbgl-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-01T10:00:18+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Halloween, midterms and cafe culture: photos of the weekend",
+    "summary": "The Guardian’s picture editors select photographs from around the world",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/01/halloween-midterms-and-cafe-culture-photos-of-the-weekend",
+    "image": "https://i.guim.co.uk/img/media/5ae85e29c766939fe83c03360f7ce45b1ab69713/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=6965c0c92b580638ca3f22cad9c70f2c",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-01T14:56:29+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Comment le cinéma français s’est réinventé avec les acteurs et réalisateurs d’origine maghrébine",
+    "summary": "Au Musée national de l’histoire de l’immigration, à Paris, l’événement « Une histoire du cinéma français : héritages maghrébins » revisite soixante ans de production de films et de récits, dans une France postcoloniale.",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/02/comment-le-cinema-francais-s-est-reinvente-avec-les-acteurs-et-realisateurs-d-origine-maghrebine_6804882_3246.html",
+    "image": "https://img.lemde.fr/2026/10/29/368/0/3000/1500/644/322/60/0/74b41d6_upload-1-fngazkywqkqc-epppd-expo-cinema-28octobre2026-photographe-quentin-chevrier-1.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-02T05:00:29+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Cytat dnia. Michał Żebrowski: Odbierają mnie jako zarozumiałego buca, który uważa siebie za...",
+    "summary": "Michał Żebrowski od lat kojarzy się z poważnymi, wyrazistymi rolami. Jak się okazuje, jego ekranowy wizerunek wpływa również na to, jak postrzegają go ludzie poza planem filmowym. Aktor przyznał, że nie zawsze są to pochlebne opinie.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114628,33103924,cytat-dnia-michal-zebrowski-odbieraja-mnie-jako.html",
+    "image": "https://bi.im-g.pl/im/44/92/1f/z33103940IHG,Michal-Zebrowski.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-02T04:49:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Pitchfork Music Festival Paris 2026 : nos six coups de cœur",
+    "summary": "Les journalistes du service culture du « Monde » proposent une sélection d’artistes à l’affiche de la 15ᵉ édition du rendez-vous parisien dédié à l’avant-garde, qui se déroule du 2 au 8 novembre.",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/02/pitchfork-music-festival-paris-2026-nos-six-coups-de-c-ur_6804804_3246.html",
+    "image": "https://img.lemde.fr/2026/10/30/161/0/2000/1000/644/322/60/0/27d987d_upload-1-84ziowtnklx6-pitchfork-music-festival-copie.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-02T03:30:09+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Sir Tom Jones mentors Welsh singer to victory on The Voice UK",
+    "summary": "Cate McHugh was congratulated by her coach Sir Tom Jones after she was crowned winner on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/c8y56vp10075o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bfd0/live/28b38530-d5fa-11f1-b437-279121eb1cd9.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-01T11:46:17+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Ta piosenka Lady Pank ma ponad 40 lat. Kim była \"Kryzysowa narzeczona\"? \"To nie tylko przebój\"",
+    "summary": "Choć to jedna z pierwszych piosenek Lady Pank, dziś uchodzi za najpopularniejszą. Zespół promował nią swój debiutancki album studyjny, który rozpoczął jego ponad 40-letnią karierę. Jak powstała \"Kryzysowa narzeczona\" i kim była bohaterka ponadczasowego szlagieru? Autor tekstu rzucił na tę kwestię zupełnie inne światło.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114526,33106263,ta-piosenka-lady-pank-ma-ponad-40-lat-kim-byla-kryzysowa-narzeczona.html",
+    "image": "https://bi.im-g.pl/im/70/92/1f/z33106288IHG,Kim-jest--Kryzysowa-narzeczona--z-hitu-Lady-Pank-.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-01T15:23:00+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Tę balladę w PRL-u nucili wszyscy. Jantar musiała \"zmusić\" Hołdysa do duetu",
+    "summary": "Ona była już wielką gwiazdą, on dopiero stawiał pierwsze kroki na profesjonalnej scenie. Współpraca z Anną Jantar była dla Zbigniewa Hołdysa szansą, by dotrzeć do szerszego grona słuchaczy. Jednak, gdy mu ją zaproponowała, nie był wcale przekonany. Jak powstawała jedna z najpiękniejszych ballad w PRL-u?",
+    "link": "https://kultura.gazeta.pl/kultura/7,114526,32366199,te-ballade-w-prl-u-nucili-wszyscy-jantar-musiala-zmusic.html",
+    "image": "https://bi.im-g.pl/im/7c/5e/1d/z30796156IHG,Anna-Jantar.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-01T12:04:00+00:00",
+    "topic": "teatr"
+   },
+   {
+    "title": "\"Dziedzictwo\", odcinek 1062. Co wydarzy się w serialu?",
+    "summary": "Przed widzami 1062. odcinka serialu \"Dziedzictwo\" sporo atrakcji. Co tym razem czeka bohaterów popularnego serialu? Otóż Domownicy łączą siły, aby zebrać fundusze na spłatę długu. Gdy odkrywają, że zebrana kwota nie wystarcza, Cennet z radością informuje, że Pelin sprzedała rodzinną biżuterię. Poyraz ma żal do matki.",
+    "link": "https://kultura.onet.pl/telewizja/seriale-zagraniczne/dziedzictwo-odcinek-1062-co-wydarzy-sie-w-serialu/ddt8edy",
+    "image": "https://cdn.kultura.onet.pl/1/uFwk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82M2E4OTRhMjU3ZjI1MWU4OTcyYjI5ZjBhZDZhYzE3Yi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-01T06:02:42+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Z Belgii do USA po marzenia. Twórcy Lucky Luke’a zmienili historię komiksu",
+    "summary": "W historii cywilizacji zachodniej bywały miejsca i epoki, w których talent kumulował się w niezwykłym natężeniu ze względu na szczególny splot okoliczności kulturowych. Tak było choćby w Atenach w V wieku p.n.e., w elżbietańskim Londynie, w Berlinie lat 20.",
+    "link": "https://kultura.onet.pl/z-belgii-do-usa-po-marzenia-tworcy-lucky-lukea-zmienili-historie-komiksu/e11bzp2",
+    "image": "https://cdn.kultura.onet.pl/1/mmnk9lLaHR0cDovL29jZG4uZXUvaW1hZ2VzL3B1bHNjbXMvT0dRN01EQV8vZjNjYzQ2ZmFjYWEyYjljMDAyNmQ0MGRmNzVkMDQ3NDkuanBnkpUDFQDNAjDNATuTBc0JYM0GQN4AAqEwB6ExBA",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-01T18:06:25+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Cmentarz na Rossie – 250 lat historii zapisanej w kamieniu",
+    "summary": "W tym roku mija 250 lat od pierwszego pochówku na wileńskiej Rossie, najstarszego cmentarza miasta i - jak podkreśliła Jurga Jackevicziute-Meszkiene z Wileńskiej Agencji Odnowy Starego Miasta (VASS) - nekropolii, która jest historią Polaków, Litwinów i innych narodów dawnej",
+    "link": "https://dzieje.pl/wiadomosci/cmentarz-na-rossie-250-lat-historii-zapisanej-w-kamieniu",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/3_1_0_2_268_67912.jpg?h=3ac0caee&itok=zgHTFDBy",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-01T07:30:13+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Zostawili po sobie niezapomniane przeboje. Te gwiazdy muzyki odeszły w ostatnim roku",
+    "summary": "Jedni przez dekady wypełniali sale koncertowe, inni podbijali listy przebojów i zdobywali najważniejsze muzyczne nagrody. W dniu Wszystkich Świętych wspominamy Magdę Umer, Dolly Parton, Bonnie Tyler, Michała Urbaniaka i innych artystów, którzy odeszli w ostatnim roku.",
+    "link": "https://kultura.onet.pl/muzyka/wiadomosci/umer-tyler-parton-w-ostatnim-roku-swiat-muzyki-stracil-wielkie-gwiazdy/mdnpc7j",
+    "image": "https://cdn.kultura.onet.pl/1/JJCk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85NzlhYTYyNDBjNzZlYzJlMDEwOWY0ZmZmOWZkNjc5MC5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-01T11:39:54+00:00",
+    "topic": "muzyka"
+   }
+  ]
+ }
+}
