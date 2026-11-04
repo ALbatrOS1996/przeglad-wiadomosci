@@ -1,0 +1,725 @@
+{
+ "date": "2026-11-04",
+ "generated": "2026-11-04T06:28+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Spanish transport minister resigns days after deadly train crash",
+    "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [
+     "Politico Europe",
+     "Reuters",
+     "The Guardian",
+     "The New York Times"
+    ],
+    "published": "2026-11-03T22:45:59+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Bomb threats cause flight disruptions across Europe",
+    "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeEp0ZjhzQkM4OXZhWk84akpsUXdZaFFOV0VvOVlWOFRFRWhVLU8xcXl6R0pXNEZscERia2NydnU2NHcwYTFCQXhrUHBmLVJhSnllbjBJSDdMUlVzRWFPdG1tM2xkZlFhcGtoWDcyaXByYlIybnNkYWNwNy12V2tzeE5FVXFfcjM0YWxtY2hsU2x0dVdCLVkxNjRrb0JGem5LOG1BY1hULUx1Zw?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png",
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "BBC News",
+     "The New York Times"
+    ],
+    "published": "2026-11-03T17:38:50+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Zlecił podpalenie stacji Starlink w Polsce. Zatrzymanie w Niemczech",
+    "summary": "Sześć tygodni po podpaleniu naziemnej stacji systemu łączności satelitarnej Starlink w Polsce w Badenii-Wirtembergii zatrzymano kolejnego podejrzanego. To obywatel Turcji, który miał zlecić operację. Wobec mężczyzny zastosowano areszt i wszczęto odrębne postępowanie karne.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-zlecil-podpalenie-stacji-starlink-w-polsce-zatrzymanie-w-nie,nIdn,1024650",
+    "image": "https://rmf.rmffm.pl/news/attachments/f1/5d/zdj-636x421-f15d62a8.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia",
+     "TVP Info"
+    ],
+    "published": "2026-11-03T18:53:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Poland Beefs Up Security at Border With Russia",
+    "summary": "Prime Minister Donald Tusk in October. He accused Russia on Tuesday of provoking tensions at the countries’ border.",
+    "link": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-POLAND-RUSSIA-01-cgwz/03int-POLAND-RUSSIA-01-cgwz-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-03T18:18:07+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Tenerife striker De Miguel dies after on-field collision",
+    "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png",
+    "source": "BBC News",
+    "also": [
+     "Reuters"
+    ],
+    "published": "2026-11-03T09:09:18+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Alarm bombowy na Lotnisku Chopina i w Modlinie. Dwa samoloty sprawdzają pirotechnicy. Utrudnienia w Warszawie",
+    "summary": "Alarmy bombowe na dwóch lotniskach obsługujących Warszawę. We wtorek, 3 listopada, służby rozpoczęły sprawdzanie samolotu SAS, który przyleciał z Kopenhagi na Lotnisko Chopina. Jeden z pasów startowych został zamknięty.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11339982,alarm-bombowy-lotnisko-chopina-modlin-ewakuacja-samolotow.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLml/uY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMD/AwMDAwMDAwMDAwNzY5NTAyNS9maWxlcy9sb3RuaXNrb/y1jaG9waW5hLTM5MzA0NDcxLmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-03T11:47:06.398000+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+    "summary": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absence The UK has apologised to Ukrainian child refugees who were told to study Russian in English schools, as it launched funding for a new GCSE in Ukrainian.",
+    "link": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
+    "image": "https://i.guim.co.uk/img/media/b8b0aec11536af2c3c7b7cf86a5da84b4af00125/454_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=74b474865059c12e3680ed91f940a352",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-04T05:00:25+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-03T20:53:03+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+    "summary": "Growing number of countries are resisting Russia’s reintegration into international hockey after a sports court lifted a ban on competition Canada has joined a coalition of countries refusing to play ⁠ice ​hockey teams from Russia, with prime minister Mark Carney saying Russian skaters will not be able to compete in…",
+    "link": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+    "image": "https://i.guim.co.uk/img/media/f0bbcfe146440a78d027f9f2fbcb5c78f9284465/493_0_4911_3931/master/4911.jpg?width=140&quality=85&auto=format&fit=max&s=e53d6466eac9b04a0121cc2a905364e3",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-04T01:31:46+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
+    "summary": "King Charles III with Commonwealth officials in Osbourn, Antigua and Barbuda, on Monday.",
+    "link": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-king-commonwealth-meeting-01-fzvc/03int-king-commonwealth-meeting-01-fzvc-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-03T22:19:16+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Chińczycy sprzedali w Europie więcej samochodów niż Japonia. Motorem wzrostu są hybrydy",
+    "summary": "Jeszcze pięć lat temu chińskie marki miały zaledwie 1 proc. europejskiego rynku nowych samochodów. Teraz po raz pierwszy w historii wyprzedziły w całym kwartale producentów z Japonii. We wrześniu ich udział był jeszcze większy – a w Polsce przekroczył 15 proc.",
+    "link": "https://moto.rp.pl/tu-i-teraz/art45436261-chinczycy-sprzedali-w-europie-wiecej-samochodow-niz-japonia-motorem-wzrostu-sa-hybrydy",
+    "image": "https://i.gremicdn.pl/image/free/fab07dc728a3879c46c1d1aeccf65c68/?t=crop:2048:895:nowe:0:235,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-04T04:00:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Why are fridges being hacked and what could be next? - The Latest",
+    "summary": "Supermarket fridges and freezers in several European countries have malfunctioned after a reported cyber-attack, with their thermostats remotely cranked up. It is unclear who is behind the latest apparent attack but the EU has condemned what it said was ‘a deliberate attempt to disrupt our food supply’.",
+    "link": "https://www.theguardian.com/news/video/2026/nov/03/why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
+    "image": "https://i.guim.co.uk/img/media/4fa58ad998dd2a9ac5b65218b63f738f79b99865/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=05aa387ccfa9da39d990a2001f4e066f",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-03T19:12:31+00:00",
+    "topic": "technologie"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
+    "summary": "Democrats flip seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; Trump says he will accept results in a dire night for Republicans Track live results from all 50 states Democrats win control of Senate as US voters reject Trump’s agenda As we bring you the latest from around the country, Donald…",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+    "image": "https://i.guim.co.uk/img/media/2caf8037204f882b7aa19cde62094ae5685774af/620_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=849ad19e43978aeeab54115deaadd5de",
+    "source": "The Guardian",
+    "also": [
+     "Al Jazeera",
+     "Euronews",
+     "Financial Times"
+    ],
+    "published": "2026-11-04T05:14:50+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Keisha Lance Bottoms wins Georgia race, becomes first Black woman elected governor of US state",
+    "summary": "Bottoms, a former adviser to former President Joe Biden, beat Republican Rick Jackson to win the Georgia governor's race",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjNiZEFaaFhyeXBNMFF4TkRucHlfMXBuWlZvNXQzZnloSTFwUkJYaVlZZEY1cS02c1N1TXV5SHkwLXBxbWJIeFVQWjVUaXVZNFVjQ0ZqblJzNzVpS0hlV0lyU294ampxQkFtY0JKTTZjdGRGcmV1OWFDdmJjV1BmT090MXJnWXVudTJBcWFQbVVmSXlRLXBERGpmRnVucmlHUk0zRE9wYm9sbnkybmhjQmVUTHd2UE1D?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press"
+    ],
+    "published": "2026-11-04T02:33:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "US has no immediate plan to strike Iran, Trump tells FT",
+    "summary": "President says position with Tehran is ‘brilliant’ in interview just hours before midterm polls close",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0FkNGEyakJsS3Z6clp1MWY0LURUZFRrUTVmWlBQRVQ4NTJVQzJyei1qcDVVMjRXbEJiYlVXSnQtdTZ1ZUJuRGZOYno5bUNQM0tpSEsxUWJ1ampYcm0zYnZMZ3dKRzdQMlVyRDlpNTBpMlZ1a2RLamxrMU9EVFdKaHNHMzVWTkQ5QjRna0R0MmZBUjZKcjItTg?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Financial Times"
+    ],
+    "published": "2026-11-03T23:48:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Trump claims US will end military aid to Israel by end of this year",
+    "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters sceptical of US support for Israel and the…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+    "image": "https://i.guim.co.uk/img/media/60b8ee8c7578d9966d060062362646a8be71b3ad/225_0_2339_1872/master/2339.jpg?width=140&quality=85&auto=format&fit=max&s=03ec41256beb29a0268c0a565964ade0",
+    "source": "The Guardian",
+    "also": [
+     "Al Jazeera",
+     "Financial Times"
+    ],
+    "published": "2026-11-03T17:17:11+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "South Carolina elects Democratic senator for first time in almost three decades",
+    "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5e5f/live/0aeeffa0-d804-11f1-85f7-474f0be56cef.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-04T03:24:34+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "US moves to drop frog embryo smuggling charges against Harvard scientist",
+    "summary": "Kseniia Petrova, a Russian-born scientist at Harvard, seen after she was released from U.S. federal custody in Boston in 2025.",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0dKN280eVFUYW9OUjJSNHpodGQ3RW5FQkxVZ2dnUEMzWXRoZ0JGQmlGcGd2YVpBVVY3by1XcWIydzVBOWMyY2VRNUozWVdHbEg4dmFEd0ZoV0ZpR1FpZnk4OHFYMkFwU2hzeTZLWjNLNVljV3ZUdEtlNXJQQS1QMS1kUVdYTmJEd1NMamZNdXQ5OUtiZnlwRUlUWHlLTGJi?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-PETROVA-DISMISS-topart-01-whtj/03SCI-PETROVA-DISMISS-topart-01-whtj-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-04T00:14:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race",
+    "summary": "Acton is the first Democrat to become governor of Ohio since 2006.",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHRnVE8wNVB6dmFhLWpYUkstZHdzeTlIeE1YUnA3ODlJN0tfb04xV1lDZkQyakhUUS0wS0gtLW91SlJJNXBCMUs1OWJKclRsWHk3b0JQSkRINlF2WTVWR2xFYXdiekIzUk1mVGZ1ZlV0R281R1FMQlRGYXJxZUJ4U0Fac3lBNG1DLWtQbjVkWkViazlLak1mUmJTaUdBWFRHczdXZGRwV0hkMGFN?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-04T04:54:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Sherrod Brown flips Senate seat in Ohio for Democrats by ousting Sen. Jon Husted",
+    "summary": "More than $500m was spent on the contest, making it one of the most expensive Senate races in US history.",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWNmRmxWU2Q3SzRwQzRSck1YTzJ5SjY5Wk9idmktQU5PWHM1WURaU0duYUEyQllaTmZGdk8wZkpfUHFkc05RWWpMQUJhQjc1Zk9zOERycmNpOGxtWGYtV0lIX1VZVndJaVlWV0UzeDJpaUxacmtMTFZlMWE4UElGV09wNHR4NDJHUXpqT1BtUm5RLXR0a3JlQ25LcEFXaXc?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-04T04:38:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
+    "summary": "A 2024 United Nations report said proceeds from North Korean cyberattacks had \"reportedly helped to fund the country's development of weapons of mass destruction\".",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTQ2OEJBMGZkOXY0S1pkeEpQU1ZEUTAySjQwekdEM0FNY3JickJzSnZOMnNqM1NtbWFnYkNxMXp4S0dvcER5VHRlcVpZb2lSSlRMUm9JdDJrWGVIOVFlUHlFeGQzUlp0bE9sOVpCWVUzbmZmZU9SUWtzN29DMmxITzBwYllTSlFqWG4zVnRabUJJMjQ?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-04T03:35:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "US strikes Iranian island ahead of midterm elections",
+    "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+    "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
+    "source": "BBC News",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-03T11:33:33+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+    "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03fb/live/ecd52fb0-d800-11f1-b851-6586c863d7ea.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-04T03:46:10+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Uber pays its drivers ‘wages’ and is liable for $81m payroll tax bill, Australia’s high court rules",
+    "summary": "Rideshare company unsuccessfully argued it didn’t employ workers and claimed money paid was not wages under NSW law The rideshare behemoth Uber has suffered a bruising loss in Australia’s high court that will cost it more than $80m in unpaid taxes.",
+    "link": "https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/2b959aefe84ff2a6d38f181aea03bca0665222e5/0_0_4445_3556/master/4445.jpg?width=140&quality=85&auto=format&fit=max&s=07006e258383ff7af704376471f500e7",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-04T02:15:01+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Tusk: Jestem gotów na spotkanie z Nawrockim „w cztery oczy”",
+    "summary": "- Jestem gotów na spotkanie w cztery oczy - powiedział Donald Tusk podczas wieczornej konferencji prasowej po zakończeniu posiedzenia Rady Bezpieczeństwa Narodowego. Premier ogłosił, że zaproponował Karolowi Nawrockiemu rozmowę w sprawie sporu toczącego się wokół Trybunału Konstytucyjnego.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-tusk-jestem-gotow-na-spotkanie-z-nawrockim-w-cztery-oczy,nIdn,1024656",
+    "image": "https://rmf.rmffm.pl/news/attachments/b7/51/donald-tusk-na-konferencji-prasowej-636x421-b7518c9f.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia",
+     "Polsat News"
+    ],
+    "published": "2026-11-03T19:35:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Nagroda jubileuszowa dla nowego pracownika. Są wyjaśnienia RIO -",
+    "summary": "Samo udokumentowanie 35-letniego stażu pracy nie gwarantuje nowo zatrudnionemu pracownikowi samorządowemu prawa do nagrody jubileuszowej. Jeżeli wymagany okres uprawniający do świadczenia upłynął jeszcze przed podjęciem pracy w danej jednostce, pracodawca nie może wypłacić nagrody za ten jubileusz.",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVZSSGxRdTJCZmV2V3FFcWtsWTVxN2JINkhHaXRxY0VtdENQTHMwRk9mTlpuLWFJNXVqMktvckhuOGJ2VFBiSXdnWUR0VHE2TWM4eThXVlBtUkI4RDNyUjJhV29PZlJsRTV3R1R4TkNrald6V2Z0UGVzX0NZNmU4clpDRjNIbkNZX09nWHpybmJuQm5nNV9xWUpWdE1nLW1NMDhN?oc=5",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwM/DAwMDAwMDAwNzY5NTY4OC9maWxlcy9uYWdyb2RhLWp1YmlsZXVzem93YS0yMDI0LWp1YmlsZXVzei1vZHByYXdhLW/VtZXJ5dGFsbmEtMjAyNC1idWR6ZXRvd2thLXctYnVkemV0b3djZS1zbHV6YmEtY3l3aWxuYS1wcmFjb3duaWstc2F/tb3J6YWRvd3ktbmF1Y3p5Y2llbC0zODE4NDc2NC1jcm9wLTViZmY0NzdkLTM5MzA0OTA3LmpwZyIsInciOjM4NDB9",
+    "source": "PAP",
+    "also": [
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-11-03T13:05:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "„Światełko dla Trybunału”. Milczące protesty w miastach Polski",
+    "summary": "Tysiące protestujących.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-swiatelko-dla-trybunalu-milczace-protesty-w-miastach-polski,nIdn,1024665",
+    "image": "https://rmf.rmffm.pl/news/attachments/e3/59/uczestnicy-manifestacji-ph-swiatelko-dla-trybunalu-konstytucyjnego-pod-palacem-prezydenckim-w-warszawie-fot-636x421-e359a4c8.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-03T20:50:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Premier Tusk: złożyłem kontrasygnatę pod propozycjami nowych członków zarządu NBP",
+    "summary": "Złożyłem kontrasygnatę pod propozycjami czterech nowych członków zarządu Narodowego Banku Polskiego – poinformował we wtorek premier Donald Tusk.",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRTZobXdNcG8wMkZUa1h4TmlTdDRyTzVNZmFUR0lMYUQyMVgxUXRVSTBYckNsWEd3a2loZzN3TlVJc0stM1BROF80alZOUm9zNi0wc2lXN3BoX2ptcUh2WmV2clJCWVBMaFVTN2xWbEFwb1R3QjA4U1YwLTJhVW8xa242clhxRUhCaFZULXpJM0NtN19UQ3NkTWYwQ1Zob2p0MXdudUxFRThpa19hTVo4cg?oc=5",
+    "image": "http://galeria.bankier.pl/p/5/e/3dc459e427a1ce-948-568-0-71-2048-1228.jpg",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-03T11:47:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Jest szósty wniosek o uchylenie immunitetu Bogdanowi Święczkowskiemu",
+    "summary": "Skierowałem do Trybunału Konstytucyjnego kolejny, szósty już wniosek o uchylenie immunitetu Bogdanowi Święczkowskiemu, dołączając go do pięciu wniosków przekazanych w piątek – oświadczył Waldemar Żurek, minister sprawiedliwości i prokuratora generalny.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-jest-szosty-wniosek-o-uchylenie-immunitetu-bogdanowi-swieczk,nIdn,1024629",
+    "image": "https://rmf.rmffm.pl/news/attachments/d1/52/bogdan-swieczkowski-636x421-d1524ba6.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-03T14:49:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Karol Nawrocki oskarża Donalda Tuska. \"Nielegalne działania wobec TK\"",
+    "summary": "Prezydent Karol Nawrocki podczas wtorkowego posiedzenia Rady Bezpieczeństwa Narodowego oskarżył premiera Donalda Tuska o nielegalne działania wobec Trybunału Konstytucyjnego. Zarzucił również szefowi rządu niszczenie wizerunku Polski na arenie międzynarodowej.",
+    "link": "https://businessinsider.com.pl/prawo/nawrocki-ostro-o-tusku-zostala-juz-panu-wylacznie-przemoc/p0npdp6",
+    "image": "https://ocdn.eu/pulscms-transforms/1/V9yk9kpTURBXy81MWNiNTdlOWRjOWE2YmQ5Y2M5NTVhOTY3NzBhMTQxYy5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-03T17:00:51+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Wybierz najlepsze ujęcie sportowych emocji! Ruszyło głosowanie internautów w Wielkim Konkursie Fotograficznym National Geographic",
+    "summary": "Znamy już efekty pracy jury 22. edycji Wielkiego Konkursu Fotograficznego National Geographic Polska. Teraz los konkursu spoczywa w rękach internautów – wystartowało głosowanie online w 4 kategoriach. Dołącz do grona jurorów i zdecyduj, które prace zasługują na zwycięstwo w kategorii „Sport – dynamika i emocje”.",
+    "link": "https://www.national-geographic.pl/fotografia/wybierz-najlepsze-ujecie-sportowych-emocji-ruszylo-glosowanie-internautow-w-wielkim-konkursie-fotograficznym-national-geographic/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/54/wkf_6.jpg",
+    "source": "National Geographic Polska",
+    "also": [
+     "National Geographic"
+    ],
+    "published": "2026-11-03T12:29:26+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Powietrzna tragedia u stóp Mount Everestu. Dwa śmigłowce zderzyły się podczas lądowania",
+    "summary": "W bazie górskiej pod Mount Everestem doszło do tragicznego powietrznego wypadku. W trakcie lądowania zderzyły się dwa helikoptery transportujące turystów. W katastrofie zmarł obywatel Indii, a Nowozelandczyk odniósł obrażenia.",
+    "link": "https://www.national-geographic.pl/traveler/adventure/powietrzna-tragedia-u-stop-mount-everestu-dwa-smiglowce-zderzyly-sie-podczas-ladowania/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/54/powietrzna-tragedia-u-stop-mount-everestu-dwa-smiglowce-zderzyly-sie-podczas-ladowania.jpg",
+    "source": "National Geographic Polska",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-03T10:03:49+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Michał Płociński: Trzęsienie ziemi w Pasie Biblijnym. Demokraci odbijają tradycjonalistyczne bastiony",
+    "summary": "Przegrana republikanów w Teksasie i Kansas to nie jest zwykła polityczna zmiana – to przewrót o skali, którą w polskich realiach można przyrównać do tego, jakby PiS z dnia na dzień straciło Podkarpacie. Upadają twierdze od dekad uznawane za niemożliwe do zdobycia.",
+    "link": "https://www.rp.pl/komentarze/art45441591-michal-plocinski-trzesienie-ziemi-w-pasie-biblijnym-demokraci-odbijaja-tradycjonalistyczne-bastiony",
+    "image": "https://i.gremicdn.pl/image/free/84f07b7cfd59b080274f1b6214a8babd/?t=crop:2868:1253:nowe:0:0,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-04T05:27:14+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Nawet 600 zł dopłaty do prądu za wcześniejsze miesiące. Termin mija 30 listopada",
+    "summary": "Rachunki już zapłacone, a część pieniędzy nadal można odzyskać. Osoby korzystające w domu z wybranych urządzeń medycznych mogą wystąpić o dopłatę do prądu, która za kilka miesięcy sięga 600 zł. Nabór kończy się 30 listopada 2026 r., a przy składaniu wniosku liczy się także okres, którego dotyczy pomoc.",
+    "link": "https://www.gazetaprawna.pl/praca/emerytury-i-renty/artykuly/11340014,doplate-do-pradu-za-wczesniejsze-miesiace-mozna-otrzymac-na-wniosek-do-30-listopada.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL/2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzY5NT/A2MC9maWxlcy9yYWNodW5lay16YS1wcmFkLWRva3VtZW50eS1rYWx/rdWxhdG9yLXBpZW5pYWR6ZS0zOTMwNDYzNS5qcGciLCJ3IjozODQwfQ",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-04T05:12:39.142000+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Demokratyczny pastor odbija Kansas. Republikanie wygrywali tam przez 94 lata",
+    "summary": "Demokrata Adam Hamilton wygrał w wyborach do Senatu w stanie Kansas. Ten stan od prawie wieku wybierał do Senatu wyłącznie republikanów.",
+    "link": "https://www.rp.pl/polityka/art45441571-demokratyczny-pastor-odbija-kansas-republikanie-wygrywali-tam-przez-94-lata",
+    "image": "https://i.gremicdn.pl/image/free/75ea2c44664a95577aa6c484ed62957d/?t=crop:5616:2455:nowe:0:644,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-04T05:05:35+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Dominikana zbuduje cztery nowe porty. Liczy, że przypłynie wtedy więcej turystów",
+    "summary": "Dominikana planuje zwiększyć liczbę terminali obsługujących statki wycieczkowe z siedmiu do jedenastu, rozwijając projekty w prowincjach Samaná, Barahona i Montecristi i w Santo Domingo.",
+    "link": "https://turystyka.rp.pl/nowe-trendy/art45438421-dominikana-zbuduje-cztery-nowe-porty-liczy-ze-przyplynie-wtedy-wiecej-turystow",
+    "image": "https://i.gremicdn.pl/image/free/e117599cf36eed2b1e17eac8d134c415/?t=crop:5000:2186:nowe:0:657,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-04T05:00:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Kontrole darowizn i gigantyczne kary. Reguły skarbówki się zmieniły",
+    "summary": "Wystarczyło, że darczyńca nie podał imienia i nazwiska, a fiskus uznawał, że przekazane pieniądze nie są darowizną. W efekcie streamer, youtuber, a nawet rodzic zbierający w internecie środki na leczenie dziecka mógł zostać zobowiązany do zapłaty PIT od otrzymanych wpłat.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11339752,kontrole-darowizn-i-gigantyczne-kary-reguly-skarbowki-sie-zmienily.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuL/nBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMD/AwNzQ1MzU5NC9maWxlcy91cnphZC1za2FyYm93eS1rb250cm9/sYS1kb2t1bWVudG93LTM4OTM0OTUyLmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-04T04:22:43.643000+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zwrot w Stanach Zjednoczonych. Demokraci przejmują Kongres",
+    "summary": "Demokraci zdobywają Senat, a tym samym przejmują pełną kontrolę nad Kongresem - podało NBC News. Według szacunków portalu Partia Demokratyczna zdobędzie 255 miejsc w Izbie Reprezentantów. CNN podaje z kolei, że ugrupowanie zdobyło już 51 mandatów senatorskich, a więc większość.",
+    "link": "https://wydarzenia.interia.pl/zagranica/news-zwrot-w-stanach-zjednoczonych-demokraci-przejmuja-kongres,nId,23568555",
+    "image": "https://i.iplsc.com/-/000NHSEVA8BVK530-C321.webp",
+    "source": "Interia",
+    "also": [],
+    "published": "2026-11-04T05:01:10+00:00",
+    "topic": "polityka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Kraków: ciężarówka zerwała sieć trakcyjną. Są utrudnienia dla pasażerów komunikacji miejskiej",
+    "summary": "Uszkodzenia zerwanej rano sieci trakcyjnej oraz sygnalizatora na alei Pokoju są znacznie większe niż początkowo sądzono. Na miejscu cały czas pracują ekipy, starając się przywrócić jej funkcjonowanie, ale nie ma pewności, czy naprawę uda się zakończyć do końca dnia.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/krakow-ciezarowka-zerwala-siec-trakcyjna-sa-utrudnienia-dla-pasazerow-komunikacji-miejskiej/187233",
+    "image": "https://rmf.rmffm.pl/news/attachments/f3/d7/zdjecie-pogladowe-636x421-f3d769cb.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "RMF24",
+     "RMF24 Kraków"
+    ],
+    "published": "2026-11-03T08:11:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Kicz czy ikona polskiego dizajnu? „Obywatelka Cepelia” nagrodzona Marką Radia Kraków",
+    "summary": "Znamy Markę Radia Kraków za październik. Nagrodziliśmy \"Obywatelkę Cepelię\", pierwszą w Polsce przekrojową wystawę o jednym z fenomenów polskiego dizajnu czasów PRL.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/kicz-czy-ikona-polskiego-dizajnu-obywatelka-cepelia-nagrodzona-marka-radia-krakow/187271",
+    "image": "https://radiokrakow.pl/media/article/187271/38bc43abf06cc169437903170e199bf2.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-04T05:09:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Ile kosztuje gram złota? Jak czytać cenę sztabki",
+    "summary": "Cena złota zmienia się codziennie, a sztabka zawsze kosztuje więcej niż sam kruszec. Wyjaśniamy, skąd biorą się te różnice i co sprawdzić przed zakupem.",
+    "link": "https://lovekrakow.pl/ile-kosztuje-gram-zlota-jak-czytac-cene-sztabki",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/162fd4533fe802aff08bba81b5ef5979.jpg.webp?itok=ljgxQLVY",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-03T17:01:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Kibice Wieczystej oskarżają Górnika. Zabrzanie odpowiadają",
+    "summary": "Klub Przyjaciół Wieczystej Kraków zapowiedział, że odwołuje wyjazd na najbliższy mecz do Zabrza. Uważają, że Górnik postawił ich przed faktem dokonanym. Redakcja LoveKraków.pl poprosiła o wyjaśnienia wicemistrza Polski.",
+    "link": "https://lovekrakow.pl/kibice-wieczystej-oskarzaja-gornika-zabrzanie-odpowiadaja",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-09/45652406170344c4a8ad784913bbf457.jpg.webp?h=4362216e&itok=jUGOg6rq",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-03T14:48:36+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Fałszywy alarm bombowy w Olkuszu. 35-latek trafił do aresztu",
+    "summary": "Zgłoszenie o podłożeniu ładunków wybuchowych w czterech miejscach w Olkuszu postawiło na nogi służby. Alarm okazał się fałszywy, a 35-letni mężczyzna został aresztowany.",
+    "link": "https://lovekrakow.pl/falszywy-alarm-bombowy-w-olkuszu-35-latek-trafil-do-aresztu",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-02/308ce1b12181f22f83ac06045512f4c8.jpg.webp?h=1656f6d3&itok=5FpGeTgN",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-03T13:50:13+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Nowy wymiar kolesiostwa w Krakowie. Łukasz Gibała podpisał z kolegą Andrzeja Dudy umowę o wolontariacie",
+    "summary": "Były asystent prezydenta Andrzeja Dudy trzęsie krakowskim urzędem. Oficjalnie jest wolontariuszem, ale w magistracie dostał do dyspozycji gabinet byłej wiceprezydentki. Nowy prezydent Łukasz Gibała wprowadził też do urzędu troje swoich bliskich wspďż˝łpracownikďż˝w.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33114771,z-kancelarii-andrzeja-dudy-do-gabinetu-prezydenta-lukasza-gibaly.html",
+    "image": "https://bi.im-g.pl/im/70/0f/1a/z27325296IHG,Marcin-Kedryna--byly-doradca-Andrzeja-Dudy.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-11-04T04:55:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Akademia Tarnowska chce uruchomić nowe kierunki studiów. Komisja akredytacyjna ma zastrzeżenia",
+    "summary": "Dziennikarstwo, logopedia i humanistyka cyfrowa – te trzy kierunki chciałaby uruchomić Akademia Tarnowska. Polska Komisja Akredytacyjna zgłosiła jednak zastrzeżenia do wszystkich propozycji. Uczelnia poprawia dokumentację i liczy na zgodę na prowadzenie studiów dziennikarskich I stopnia oraz logopedii.",
+    "link": "https://radiokrakow.pl/wiadomosci/tarnow/akademia-tarnowska-chce-uruchomic-nowe-kierunki-studiow-komisja-akredytacyjna-ma-zastrzezenia/187267",
+    "image": "https://radiokrakow.pl/media/article/187267/182d22ac27781f0505245133bcce3b79.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-03T18:20:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Kapsalon, czyli holenderski kebab z pieczarkami. Palce lizać!",
+    "summary": "Kapsalon, czyli holenderski kebab-gyros.",
+    "link": "https://gazetakrakowska.pl/kapsalon-czyli-holenderski-kebab-z-pieczarkami-palce-lizac/ar/c17-13545285",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/d2/d5/5bb4cf8585638_o,size,640x400,q,71,h,621125.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-03T13:01:22+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Rozgrzewająca, pyszna i… zdrowa! Dietetyk podpowiada, jak przygotować idealną herbatę na jesień",
+    "summary": "Rozgrzewająca herbata to jeden z najlepszych pomysłów na chłodne, jesienne dni. Polacy uwielbiają ten napój, a na sklepowych półkach znaleźć można wiele rodzajów herbat. Liściaste, w saszetkach, rooibos, zielona, czerwona, owocowa – mają nie tylko różny smak, ale i właściwości. Która z nich jest najlepsza na jesień?",
+    "link": "https://gazetakrakowska.pl/rozgrzewajaca-pyszna-i-zdrowa-dietetyk-podpowiada-jak-przygotowac-idealna-herbate-na-jesien/ar/c17-18057373",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/41/3f/654ce881c9c5b_o,size,640x400,q,71,h,bbf934.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-03T13:00:22+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Smaki dzieciństwa: blok czekoladowy. W PRL to był rarytas! Zrób go w domu, a przypomnisz sobie młode lata",
+    "summary": "Blok czekoladowy, domowe krówki, lody calypso, kostka kawowa, piszinger... Pamiętacie te smaki dzieciństwa? Dziś odczarujemy blok czekoladowy, który w czasach PRL gospodynie przygotowywały na bazie margaryny. Bo z masłem był problem. Nie oszukujmy się: nie był to smak, którym zachwycalibyśmy się dzisiaj.",
+    "link": "https://gazetakrakowska.pl/smaki-dziecinstwa-blok-czekoladowy-w-prl-to-byl-rarytas-zrob-go-w-domu-a-przypomnisz-sobie-mlode-lata/ar/c17-13999759",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/76/04/5c9b290ee0a3e_o,size,640x400,q,71,h,829ae8.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-03T12:59:06+00:00",
+    "topic": "społeczeństwo"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Former High Museum of Art executive sentenced to 12 months in prison for embezzlement",
+    "summary": "Brady Lum, the chief operating officer for almost seven years, stole more than $600,000 from the Atlanta institution",
+    "link": "https://www.theartnewspaper.com/2026/11/03/high-museum-art-chief-operating-officer-sentenced-embezzling-funds",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/e2080b69aa4d680f49ae2dd08b15908ee4a45a80-1280x914.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [
+     "ARTnews"
+    ],
+    "published": "2026-11-03T16:44:30+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Constantinople to Istanbul review – you won’t want to leave this lavish celebration of double imperial splendour",
+    "summary": "V&A, London Treasures from the two world-defining cultures that somehow coexisted in one mighty city keep on dazzling in this gorgeous, unmissable show Two empires compete to bewitch you in this exhibition that offers a double bubble of beauty.",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/04/constantinople-to-istanbul-review-v-and-a-london",
+    "image": "https://i.guim.co.uk/img/media/e5b43015fc2e949cfe3a3cfa08755978a2544c88/546_347_4693_3754/master/4693.jpg?width=140&quality=85&auto=format&fit=max&s=67a07412ca2ce64ae37fe1eb54a757a9",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-04T00:01:18+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "‘May every data centre crumble to dust!’ How can we stop the tech bros, tyrants and tycoons? With quilts!",
+    "summary": "Taking aim at every modern malaise, anarchist artist CJ Reay is going viral with his witty, call-to-arms slogans on beautiful tapestries. Altogether now: ‘Tyrants of today will be the compost of tomorrow!’ CJ Reay quilted so hard all summer that now he needs glasses.",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/04/anarchist-artist-cj-reay-quilts-tech-bros-data-centre",
+    "image": "https://i.guim.co.uk/img/media/f6d20876dd125012f3d8f3d917bbbc0b044c69f9/3_106_1569_1255/master/1569.jpg?width=140&quality=85&auto=format&fit=max&s=737c20a9f753fd11f68d0ab79360a33b",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-04T05:00:25+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "„Dziady” Mai Kleczewskiej – spektakl, który wywołał burzę – w TVP Kultura",
+    "summary": "Telewizyjną wersję „Dziadów” w reżyserii Mai Kleczewskiej – spektaklu Teatru im. Słowackiego w Krakowie, który pięć lat temu wywołał głośną",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZkRXcWJpS0NFUkZLNndIazctRmR0TVk1SjZENzFPSlI2cEMzVjk0RVZFUEh4MV9vVzVjZm5fRjVsX3lkdkVYMEswVlFpZ2RxS0dfMER0aWM1UHJfMW9qU0VuQ3ZFZXFzbExEdU1pMERndEk5UjdWTWZvYUE0VTFRcDgyM011Z2RUbE10Qmt4R2xOVWdmaFczMGVfcG5jT0NZaHNiNDlxbzNZeFJNWU9KTjBwUTJmc0k4Z29HOHMtcw?oc=5",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20220217_34K.jpg?h=8b550583&itok=SakNvWY9",
+    "source": "PAP",
+    "also": [
+     "Dzieje.pl"
+    ],
+    "published": "2026-11-03T07:12:26+00:00",
+    "topic": "teatr"
+   },
+   {
+    "title": "« Manger les images », au MuCEM : quand l’art devient un objet de gourmandise",
+    "summary": "Peintures, sculptures, films, amulettes, biscuits… Au total, 430 œuvres et objets divers, religieux ou profanes, anciens ou contemporains, rassemblés au musée marseillais illustrent une curieuse et troublante pratique : l’iconophagie.",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/04/manger-les-images-au-mucem-quand-l-art-devient-un-objet-de-gourmandise_6806037_3246.html",
+    "image": "https://img.lemde.fr/2026/10/30/548/0/3307/1653/644/322/60/0/3f04857_upload-1-59ch0yavfved-12-cranes-sucre-19e-mexique-musee-quai-branly-rmn-c-germain.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-04T05:00:05+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "A collection of intimate interviews with the late Jo Spence provides further texture to her life and legacy",
+    "summary": "The transcribed recordings of the British photographer cover many aspects of her life and at times feel like eavesdropping",
+    "link": "https://www.theartnewspaper.com/2026/11/03/a-collection-of-intimate-interviews-with-the-late-jo-spence-provides-further-texture-to-her-life-and-legacy",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/93fabd4637c8fc5bda5c5014be182a0f3e215f31-1088x1476.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-03T14:10:58+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "New York Studio School revamp unearths long-forgotten murals",
+    "summary": "A renovation project at the historic building—the original home of the Whitney Museum of American Art—has uncovered works by Robert E. Locher and Cecily Brown",
+    "link": "https://www.theartnewspaper.com/2026/11/03/new-york-studio-school-revamp-unearths-long-forgotten-murals",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/68dca2a824fef7849615ca938cc71017c90171ab-960x823.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-03T19:25:00+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Pamela Howard obituary",
+    "summary": "Set designer for the Royal Shakespeare Company and National Theatre who had an insatiable curiosity about other cultures There was upheaval in the world of British theatre design in the 1980s when, said Peter Hall , director and founder of the Royal Shakespeare Company and Laurence Olivier’s successor at the National…",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/03/pamela-howard-obituary",
+    "image": "https://i.guim.co.uk/img/media/79fec7825f5739b551b7e5edd44f5063a735e6ce/496_131_1502_1202/master/1502.jpg?width=140&quality=85&auto=format&fit=max&s=772771ab12cd06ed8d0790051e69b878",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-03T21:58:33+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "„Na mój obraz i podobieństwo” Beaty Ewy Białeckiej w MCSW Elektrownia w Radomiu",
+    "summary": "; ; a:2:{i:0;s:1:\"4\";i:1;s:5:\"25436\";}; Beata Ewa Białecka, \"Na mój obraz i podobieństwo\", widok wystawy, Mazowieckie Centrum Sztuki Współczesnej „Elektrownia” w Radomiu, fot. Tomasz Mosionek; ; 0; ; ; ; ; Beata Ewa Białecka; ; ; ; Na mój obraz i podobieństwo; Mazowieckie Centrum Sztuki Współczesnej „Elektrownia” w…",
+    "link": "https://magazynszum.pl/na-moj-obraz-i-podobienstwo-beaty-ewy-bialeckiej-w-mcsw-elektrownia-w-radomiu/",
+    "image": "https://magazynszum.pl/wp-content/uploads/2026/11/wystawa-beata-bialecka-fot.-tomasz-mosionek-1440x912.jpg",
+    "source": "Magazyn Szum",
+    "also": [],
+    "published": "2026-11-04T05:00:32+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Zakończył się remont XVIII-wiecznej siedziby muzeum w Skoczowie",
+    "summary": "Zakończył się remont zabytkowej kamienicy w Skoczowie, w którym mieści się Muzeum im. Gustawa Morcinka. Rzecznik starostwa cieszyńskiego Dorota Kohut powiedziała, że odnowiono elewację i wymieniono stolarkę okienną. Placówka od wtorku znów przyjmuje zwiedzających.",
+    "link": "https://dzieje.pl/wiadomosci/zakonczyl-sie-remont-xviii-wiecznej-siedziby-muzeum-w-skoczowie",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/POL_Skocz%C3%B3w_Fabryczna_5_-_Muzeum_im._Gustawa_Morcinka_1.JPG?h=3a824b70&itok=JtMtJ-HO",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-03T11:59:20+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "W PE w Brukseli uczono 120-lecie powstania Szkoły Głównej Handlowej",
+    "summary": "W Parlamencie Europejskim w Brukseli zainaugurowano we wtorek wystawę z okazji 120-lecie powstania Szkoły Głównej Handlowej w Warszawie. Jesteśmy młodzi, dynamiczni, rozwijamy się - powiedział rektor uczelni, prof. Piotr Wachowiak",
+    "link": "https://dzieje.pl/wiadomosci/w-pe-w-brukseli-uczono-120-lecie-powstania-szkoly-glownej-handlowej",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/3_27_0_-_523_46377.jpg?h=8df8bb89&itok=ssjCSfj6",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-03T16:25:30+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Jeden z najlepszych horrorów 2026 roku do obejrzenia w domu. \"Bez momentu nudy\"",
+    "summary": "\"Straszny\", \"zabawny\", \"prześliczny\", \"najlepszy z serii\" - piszą widzowie po seansie jednego z najciekawszych filmów grozy, jakie pojawiły się w tym roku na wielkim ekranie. Najnowszy horror Zacha Creggera jest już dostępny w Polsce do obejrzenia bez wychodzenia z domu.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33113235,jeden-z-najlepszych-horrorow-2026-roku-do-obejrzenia-w-domu.html",
+    "image": "https://bi.im-g.pl/im/36/8c/1f/z33079862IHG,-Resident-Evil----kadr-z-filmu.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-03T13:28:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Gitarzysta The Doors w żałobie po śmierci żony. Przeżyli razem ponad pół wieku",
+    "summary": "Robby Krieger, legendarny gitarzysta i współzałożyciel zespołu The Doors, przeżywa osobistą tragedię. W mediach społecznościowych pożegnał swą żonę, Lynn Krieger. \"Będę za nią tak bardzo tęsknił\" — napisał.",
+    "link": "https://kultura.onet.pl/muzyka/wiadomosci/gitarzysta-the-doors-w-zalobie-po-smierci-zony-przezyli-razem-ponad-pol-wieku/eqzybzq",
+    "image": "https://cdn.kultura.onet.pl/1/QRek9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wYTNmZTFjNTljNGM4NjViZTVmNzQxZWZiYTc3YzYyMi5qcGeSlQPNA6zNAYLNEZPNCeKTBc0JYM0GQN4AAqEwB6ExBA",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-03T19:58:40+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Ponad 200 spotkań podczas Targów Książki w Katowicach",
+    "summary": "Ponad 200 spotkań autorskich, debat i wydarzeń literackich zaplanowano podczas Targów Książki w Katowicach, które odbędą się 6–8 listopada w Międzynarodowym Centrum Kongresowym. W wydarzeniu weźmie udział blisko 150 wystawców. Po raz pierwszy zostanie też przyznana Literacka Nagroda",
+    "link": "https://dzieje.pl/dzieje-sie/ponad-200-spotkan-podczas-targow-ksiazki-w-katowicach",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20241108_13J.jpg?itok=V2EDQtJK",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-03T11:54:52+00:00",
+    "topic": "literatura"
+   }
+  ]
+ }
+}
