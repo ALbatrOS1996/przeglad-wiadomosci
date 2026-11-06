@@ -1,0 +1,733 @@
+{
+ "date": "2026-11-06",
+ "generated": "2026-11-06T06:29+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "New wave of bomb hoaxes hits dozens of flights across Europe",
+    "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have disrupted at least 34 flights across Europe this week, with some forced to make emergency landings, as questions mount…",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
+    "image": "https://i.guim.co.uk/img/media/8be530b5c237fee6a55ec439ba8a4e0c218f7f83/663_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=1a63489bf12b9e911ce58e10795eba5f",
+    "source": "Reuters",
+    "also": [
+     "France 24",
+     "The Guardian"
+    ],
+    "published": "2026-11-05T22:58:37+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Melania Trump hosting Russian and Ukrainian delegations at the White House",
+    "summary": "On Wednesday, Ukraine gave Melania Trump an award for her \"significant personal contribution to humanitarian support\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [
+     "Euronews",
+     "The Guardian"
+    ],
+    "published": "2026-11-05T13:09:12+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Bank of England raises rates for first time since 2023, says more may come",
+    "summary": "The Bank of England’s governor, Andrew Bailey, second from left, at a news conference in London on Thursday.",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUY3RVZDLURQel9mZWtEbWI5aEp6eEEyTU50ck5TOHhTenFuSUhVaGlxX0Z1UHF4cUxxeE1tdTZpMjEzaVlaaUQ2TENfVHVYVndJNWFLclNVemtIaEF0RFBWcE55anJ2cnJYT29jWEk5aHJId2NFOFdvNFBPcTZYTnV4UjhmdHotdm1ITmFNWEt5MVltUjlmOThrbWJXdjU0WEhsWllZRE5aam5WX0w2dQ?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Boe-Rates-Sub-bgkv/05Boe-Rates-Sub-bgkv-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "The Guardian",
+     "The New York Times"
+    ],
+    "published": "2026-11-05T12:52:09+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Portugal great Ronaldo retires from international duty",
+    "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4d20/live/89113660-d925-11f1-b441-2b33b063138f.jpg",
+    "source": "BBC News",
+    "also": [
+     "Associated Press",
+     "Reuters"
+    ],
+    "published": "2026-11-05T12:28:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "French bank Credit Mutuel Arkea says €100 million missing after cyberattack",
+    "summary": "French regional bank Crédit Mutuel Arkéa said Wednesday it had been hit by a cyberattack that led to fraudulent transfers worth around 100 million euros ($112 million). The bank said the attack, which has since been \"contained\", allowed hackers to access its own accounts and transfer funds to other banks.",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObnU2SlpvVWVvS09oNFhpM25OcnhQeDhHLVF5SC1HSjZSY2dUMVZ1eFlyX1J6OGxyQVctbVRGRnF6X2luaFhnZVlaTmRnaTl3MXd2YnVONS1fbFZhQ2xBUFZmR3JETFQwTWh6cjF1Ty0yMjFlTjRDN2QwVzFFekhPZTMwY19la3QxdldNUUhFbFVoRjNtOXdFSTNlMzBHRU1JRnlaWUxUY01RVHUyeTUtYjZDSDhPUjFlOXcwV3B5Nkkzakh0c1E?oc=5",
+    "image": "https://s.france24.com/media/display/2b159f36-d922-11f1-a71c-695cb59fade5/w:1024/p:16x9/capture-f04d7e6e.jpg",
+    "source": "Reuters",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-05T22:25:38+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes",
+    "summary": "With flights disrupted, how concerned should you be about your travel plans? More than 30 planes have been subjected to security alerts or diversions this week , with at least 25 more bomb threats on Thursday disrupting civil aviation across Europe.",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblN6SXBxQ2x2LUZZYXBQd1ZlLTc5SE9sOXZYV0JyelE0X0p5RlNFOHV2MzR5T1lTTHZORlRzWmdVQndTcjhESjhvbV84eU1IeXZsVmwwV2VNMElhbTlJVFhzMV9fRy02Z01jX2Z0X1hTbFVwV3lzVUhKUURQQkYtU3Voc2RpOHFSNHRDNXUzb2NsWVB0dHRoN19wU0dvTVd6OEhnV1VYclpqdw?oc=5",
+    "image": "https://i.guim.co.uk/img/media/cad7d5cf133b84d17ea06a41d048740349d697a6/2137_0_4954_3965/master/4954.jpg?width=140&quality=85&auto=format&fit=max&s=ae6466dec9b8029ae8fa4511db4a74de",
+    "source": "Associated Press",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-05T21:56:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+    "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-05T19:08:08+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Paraguayan president resigns amid bank collapse leaving 3M people without access to bank accounts",
+    "summary": "Santiago Peña resigned as president of Paraguay amid the Ueno Bank crisis and was later impeached over an alleged conflict of interest. Vice President Pedro Alliana will take office, while millions of Paraguayans wait to recover their deposits.",
+    "link": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a",
+    "image": "https://images.euronews.com/articles/stories/09/98/16/96/1200x675_cmsv2_ed899007-c2f1-5746-abba-f36e052778eb-9981696.jpg",
+    "source": "Euronews",
+    "also": [
+     "Al Jazeera",
+     "NPR"
+    ],
+    "published": "2026-11-05T18:49:20+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Slashing number of police forces in England and Wales is only option, says Met chief",
+    "summary": "Mark Rowley calls for ‘revolution’ in policing as major review is expected to propose regional ‘super forces’ Police are heading for failure unless the number of forces in England and Wales is slashed, with their ability to catch criminals collapsing and public confidence falling, Britain’s top officer will say on…",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
+    "image": "https://i.guim.co.uk/img/media/eb10e2a0a0598f3bf3e36ed8fca7857698ffdefb/210_0_3125_2500/master/3125.jpg?width=140&quality=85&auto=format&fit=max&s=5659d4ce3acd1cffafbed5bfba1db720",
+    "source": "The Guardian",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-11-06T00:04:37+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
+    "summary": "Dag Hammarskjöld, the secretary general of the United Nations, in London in the mid-1950s.",
+    "link": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-un-sweden-dag-02-clbz/00int-un-sweden-dag-02-clbz-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-06T05:01:06+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+    "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said.",
+    "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+    "image": "https://i.guim.co.uk/img/media/c8e02014efcb6621df0185a3b2dd97463db96479/238_75_789_631/master/789.jpg?width=140&quality=85&auto=format&fit=max&s=bfce97c63034fd949cbcc621f93c55c2",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-06T01:22:49+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
+    "summary": "Klaus-Michael Kühne in an undated photo. He was a major philanthropist in culture and education.",
+    "link": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/obituaries/05kuhne_bw/05kuhne_bw-mediumSquareAt3X.png",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-05T21:16:14+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison",
+    "summary": "Pro-democracy activist Joshua Wong arriving at prison after a hearing for 47 opposition activists charged with violating the national security law in Hong Kong in 2021.",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVJKOWdMTUYyUUxqRVNtLXBGc2hjTTYwa3NQa0FNVXpKb3dnQzFySkJIY2I1MkhmZ0pscjE5SlFaQjEwZUROUjA2TlJlT1RVSjdYVkVycHZXcndMdW5Ic2Jtc1R3VW8wbWdvMm9BR2haOGZQblF6MjloYVFkU0t0ZU1tUTFkb1lVdm1QTl8tY3FFN2tBdGRMN3p6RUlLQ2NyZ184ejJJelYzVzdiNVVV?oc=5",
+    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-hongkong-joshua-hlwt/00int-hongkong-joshua-hlwt-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "Euronews",
+     "NPR",
+     "The Guardian",
+     "The New York Times"
+    ],
+    "published": "2026-11-06T02:40:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Details of Russell Brand's convictions",
+    "summary": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFZ0cDliQmlmYXNmVFZqZ1RGMUxfUnFkMmY2ZlJQckV2Z0dJOFhZcjR6a0djM2tJWWEteTV3MDFZakthZnhIR3FzU1RkcWFKakJiVmRBa1djYWRpNU5WRlNfLW02Q0tuNzlzYWFpSmJNa0hnVWVPaEMyN2dDWmIxUjVaN3hKNWZ4NUVDdXI1Vl8yV21pdG9EeQ?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00cul-russell-brand-timeline-HFO1-mcbz/00cul-russell-brand-timeline-HFO1-mcbz-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "NPR",
+     "The New York Times"
+    ],
+    "published": "2026-11-05T16:10:54+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Trump says Oval Office to become national monument",
+    "summary": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects.",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmpHaGcydVUtZWxPRVpuc21LWjdwd3VYcUdnRndlOVlTUlNfeHBYWU5yZEJpekt5RzVVZ29EOVo5UDNuM0lQck1BX3RnMTdhOEt4UGY2bXhpajlTZl9lZmR0U1hxeDEwTVhKQTh0c0liNE9zelpYN2xPZzFyUHd6RmM5bFVrQXhVMDZNMWVrcy1LTnM?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "National Geographic"
+    ],
+    "published": "2026-11-05T23:01:44+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "2026 U.S. House Election Results",
+    "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brought a series of dramatic developments…",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+    "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d",
+    "source": "Associated Press",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-06T05:23:15+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Paraguay President Peña under investigation, faces removal from office over bank collapse",
+    "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-06T00:46:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+    "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+    "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg",
+    "source": "BBC News",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-06T00:02:57+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+    "summary": "President Santiago Peña of Paraguay at the United Nations in New York in September.",
+    "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-06T03:34:12+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Trump zagroził Iranowi. \"Być może będę musiał to zrobić\"",
+    "summary": "Prezydent USA Donald Trump zagroził zniszczeniem reszty Iranu. - Być może będę musiał to zrobić. Wkrótce się przekonacie - powiedział. Amerykański przywódca poinformował też, że nie zamierza zwalniać Pete'a Hegsetha z funkcji szefa Pentagonu, choć tak doradzają mu ludzie, z którymi rozmawia.",
+    "link": "https://wydarzenia.interia.pl/bliski-wschod/news-trump-zagrozil-iranowi-byc-moze-bede-musial-to-zrobic,nId,23569731",
+    "image": "https://i.iplsc.com/-/000NI57XQCF5I3XG-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-06T04:31:52+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+    "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+    "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-05T23:16:53+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+    "summary": "Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to the strait of Hormuz, its defence ministry has said, after…",
+    "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+    "image": "https://i.guim.co.uk/img/media/93931aed9b2c9de66c5e7d47a1df4c3d0c323131/535_0_1928_1542/master/1928.jpg?width=140&quality=85&auto=format&fit=max&s=b8afb3a4798ee0b6949ac7c1dfdf9107",
+    "source": "The Guardian",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-05T04:22:49+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+    "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+    "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3dca/live/cb01af10-d8ed-11f1-b7ca-cbaa67b24b8c.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-06T01:22:39+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Alabama, Florida and Indiana carry out executions on same day",
+    "summary": "Unusual instance of three states administering the death penalty on the same day previously happened in 2010 Alabama, Florida and Indiana all carried out executions on Thursday in an unusual instance of three states administering the death penalty on the same day.",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
+    "image": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/623_0_4319_3456/master/4319.jpg?width=140&quality=85&auto=format&fit=max&s=ec9a25fd3f45ad8ab384b471268e9b6b",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-06T00:27:20+00:00",
+    "topic": "zdrowie"
+   }
+  ],
+  "polska": [
+   {
+    "title": "PiS chciało odwołania Kierwińskiego. Sejmowa komisja podjęła decyzję",
+    "summary": "Sejmowa Komisja Administracji i Spraw Wewnętrznych negatywnie zaopiniowała poselski wniosek o wotum nieufności wobec Marcina Kierwińskiego. Z propozycją w tej sprawie wyszli posłowie PiS. To pokłosie m.in. sytuacji przed Trybunałem Konstytucyjnym.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-pis-chcialo-odwolania-kierwinskiego-sejmowa-komisja-podjela,nId,23569580",
+    "image": "https://i.iplsc.com/-/000NI4VAXS7KBVIW-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News",
+     "TVP Info"
+    ],
+    "published": "2026-11-05T19:50:17+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "PSL chce resetu konstytucyjnego. Skończy się jak z dwukadencyjnością?",
+    "summary": "Przygotowaliśmy projekt zmiany Konstytucji RP - powiedział podczas Kongresu Polskiego Samorządu wicepremier, szef MON Władysław Kosiniak-Kamysz. Jak zaznaczył, chodzi o nadzwyczajne odnowienie składu Trybunału Konstytucyjnego.",
+    "link": "https://www.rmf24.pl/rozmowy/rozmowa-o-7/news-psl-chce-resetu-konstytucyjnego-skonczy-sie-jak-z-dwukadency,nIdn,1024969",
+    "image": "https://rmf.rmffm.pl/news/attachments/89/c8/jacek-karnowski-fot-636x421-89c89e14.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-06T05:00:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Prokuratura: w czwartek wpłynęło 13 zawiadomień ws. działań w Trybunale Konstytucyjnym",
+    "summary": "Pozytywna ocena.",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOODVGRFhVQUszMWVnUV96YWFKcUdrX0M5NURsVEFJa1g4WDNESVRUc2R5M0RyVmswX2taTzlmaXZvU2taMGgxNHMwOERQRElnLWVhWF9yYUZJTjFRdENnM3V0RUlsZUpWWVBkRzJuS0ZvbzB2VFNFZTZoUkpNT3JJb3R5X3BBaHVNdXJxbTNDdXY3dmlrRGF1cVA2NnlpbzYyWTdTR3JLTFkwTFlKa0lmeEpPQ2VzaUNTRzk5Yw?oc=5",
+    "image": "http://s16.tvp.pl/images2/6/a/c/uid_6ac62928b26a4e098a98f1f8965fec59_width_1280_play_0_pos_0_gs_0_height_720.jpg",
+    "source": "PAP",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-05T17:20:17+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Przewodnicząca PE rozpoczęła wizytę w Polsce, spotkała się z premierem Tuskiem",
+    "summary": "W piątek wystąpienie w Sejmie.",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1EyLXNGYWVTeVpvSEtfNWh1RWR6ZXd0N3RicWtBd1RoVXdSZDFhVlBFeHdtZFN0WFA1VmNFVGdldEdHTDJydWUtM0JuclpaMkZ0VGhheGNxdk9mOTBkMzVQU1pLNUU5c1lVd3E5bnZSX3JncXFMNUdINzZOeGxodl9QRnIwaXg4Y2F2WnpBdEszWV9kektiWWxxdXY3T1ctb1ZuSXo1NGJZcUZXSXhkR3ZWdGdDMlVxLUVVeQ?oc=5",
+    "image": "http://s20.tvp.pl/images2/0/7/2/uid_07282c2450d049a984a1d85475f50ffa_width_1280_play_0_pos_0_gs_0_height_720.jpg",
+    "source": "PAP",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-05T17:19:06+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Będzie zmiana w podatkach? Sejm zdecydował",
+    "summary": "Sejm po raz drugi uchwalił ustawę, która podnosi próg PIT do 130 tys. zł, dodaje nową, 24-proc. stawkę PIT, a także podnosi stawkę CIT dla największych firm do 22 proc. i obniża limit ryczałtu.",
+    "link": "https://www.rmf24.pl/fakty/ekonomia/news-bedzie-zmiana-w-podatkach-sejm-zdecydowal,nIdn,1025033",
+    "image": "https://rmf.rmffm.pl/news/attachments/e4/0a/radek-pietruszka-636x421-e40a7247.jpg",
+    "source": "RMF24",
+    "also": [
+     "Business Insider Polska"
+    ],
+    "published": "2026-11-05T20:30:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "„Zawsze szuka takiej trochę trzeciej drogi”. Kosiniak-Kamysz rozmawiał z Mentzenem o TK",
+    "summary": "Donald Tusk zapewnił w czwartek, że ufa Władysławowi Kosiniakowi-Kamyszowi. Wicepremier i szef MON spotkał się tego dnia ze Sławomirem Mentzenem, aby rozmawiać o kryzysie wokół Trybunału Konstytucyjnego. Premier dopytywany o spotkanie z prezydentem przekazał, że czeka na wiadomość w tej sprawie.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-zawsze-szuka-takiej-troche-trzeciej-drogi-kosiniak-kamysz-ro,nIdn,1025030",
+    "image": "https://rmf.rmffm.pl/news/attachments/c3/f6/east-news-zdjecie-ze-spotkania-kosiniaka-kamysza-z-mentzenem-x-wladyslaw-kosiniak-kamysz-at-kosiniakkamysz-636x421-c3f62de8.jpg",
+    "source": "RMF24",
+    "also": [
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-05T19:59:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "USA przeniosą żołnierzy z Polski. Wiadomo, do jakiego kraju",
+    "summary": "Do litewskiego Podbrodzia trafi około 50 żołnierzy amerykańskich, którzy obecnie przebywają w Polsce. Informację tę przekazał w czwartek premier Litwy Mindaugas Sinkeviczius.",
+    "link": "https://businessinsider.com.pl/wiadomosci/usa-przeniosa-zolnierzy-z-polski-okolo-50-trafi-na-litwe/jdqzmce",
+    "image": "https://ocdn.eu/pulscms-transforms/1/IYPk9kpTURBXy82NjU3NzRkODJlNTBkNjhiNDU2MmU0NWI3MjBjMTcxOC5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-05T15:57:21+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Leasing samochodu. Czy warto się spieszyć i wziąć auto jeszcze w 2026 r.? Wyjaśniamy",
+    "summary": "Wielu przedsiębiorców pod koniec roku szuka kosztów, aby zmniejszyć swój dochód do opodatkowania. Jednym ze sposobów na wygenerowanie kosztów są zakupy, w tym zakup nowego samochodu firmowego. Wybór często pada na leasing. Sprawdziliśmy, czy warto się pospieszyć oraz jak ustawić parametry leasingu.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/leasing-samochodu-do-firmy-co-warto-wiedziec-przed-2027-rokiem/twxe9bm",
+    "image": "https://ocdn.eu/pulscms-transforms/1/0iAk9kpTURBXy8yMTk5YzA1YTBiZTZjNjQzNTIwODk0NjRkZjcyNjIxMC5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-06T05:24:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Reset Trybunału Konstytucyjnego. PSL wywołuje burzę",
+    "summary": "Pomysł PSL na reset Trybunału Konstytucyjnego budzi kontrowersje. Nie wszyscy jednak krytykują pomysł, aby to Zgromadzenie Narodowe najpierw uznało trwałą niezdolność TK do wykonywania zadań, a potem wybrało nowych sędziów. Oto dwugłos prawników.",
+    "link": "https://businessinsider.com.pl/prawo/reset-trybunalu-konstytucyjnego-kto-popiera-a-kto-krytykuje-pomysl-psl/q2by8s3",
+    "image": "https://ocdn.eu/pulscms-transforms/1/9fEk9kpTURBXy9mYjJhNzE0NDhlYzYzYTUxNWYxN2RiMmNkMTE3YmI1NC5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-06T05:17:20+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Grochal: Przy prezydencie w siedzibie TK był ktoś jeszcze. To on jest następnym celem Żurka",
+    "summary": "Obecność w TK Zbigniewa Kapińskiego, zawiadującego pracami Sądu Najwyższego, była nieprzypadkowa. Słusznie odczytał, że skoro Żurek bierze się za porządki w Trybunale, to za chwilę przyjdzie kolej i na niego, a droga do podważenia nielegalnych izb w SN (na co są wyroki europejskich trybunałów), ma wieść właśnie przez…",
+    "link": "https://www.newsweek.pl/polska/polityka/przy-karolu-nawrockim-byl-prezes-sn-kapinski-wie-ze-zurek-na-niego-poluje/emxq4dy",
+    "image": "https://ocdn.eu/pulscms-transforms/1/wKbk9kpTURBXy84NTdjYzFmNDMyY2I5NWMxYWJlOTQxN2M1MTlmZjA5Yy5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-11-06T05:00:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Janusz Lewandowski: Nowa perspektywa finansowa Unii rodzi się w bólach",
+    "summary": "Im szybsze wdrożenie budżetu UE na lata 2028–2034, być może ostatniego tak korzystnego dla Polski (123 mld euro!), tym lepiej. Bo to pieniądz, który od 2004 r. zmienia nasz kraj na lepsze!",
+    "link": "https://www.rp.pl/publicystyka/art45449001-janusz-lewandowski-nowa-perspektywa-finansowa-unii-rodzi-sie-w-bolach",
+    "image": "https://i.gremicdn.pl/image/free/e645fcc6724afd020347a7234293a14d/?t=crop:4256:1861:nowe:0:486,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-06T04:15:00+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Marek Żydowicz: Nie udawajmy, że AI w kinie nie ma",
+    "summary": "Staram się by każdy festiwal miał myśl przewodnią. W tym roku będzie to temat sztucznej inteligencji, poznamy opinie wybitnych twórców na jej temat – mówi Marek Żydowicz, twórca i dyrektor ToruńCAMERIMAGE",
+    "link": "https://www.rp.pl/film/art45449871-marek-zydowicz-nie-udawajmy-ze-ai-w-kinie-nie-ma",
+    "image": "https://i.gremicdn.pl/image/free/7f147db7e54bd145147fa3e83d459651/marek-zydowicz?t=crop:3598:1573:nowe:0:0,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-06T04:06:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Jesień w akademickim stylu. Nowa kolekcja Jonathana Andersona dla Uniqlo",
+    "summary": "Na co dzień pełni funkcję dyrektora kreatywnego domu mody Dior, ale jego wszechstronność nie zna granic – nowa kolekcja Jonathana Andersona dla japońskiej marki Uniqlo czerpie z akademickiego stylu w duchu tradycyjnych angielskich uczelni. Jednak ubrania na jesień i zimę przypadną do gustu nie tylko studentom.",
+    "link": "https://sukces.rp.pl/moda/art45443961-jesien-w-akademickim-stylu-nowa-kolekcja-jonathana-andersona-dla-uniqlo",
+    "image": "https://i.gremicdn.pl/image/free/018b37af0794b61b80fffbb1159ce5c9/?t=crop:2000:873:nowe:0:387.63155021834,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-06T04:00:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Polacy ocenili Niemcy, a Niemcy Polskę. Jedna kwestia dzieli nas wyraźnie",
+    "summary": "35 lat po podpisaniu traktatu o dobrym sąsiedztwie relacje polsko-niemieckie są oceniane dobrze. Najnowsze badanie Barometr Polska-Niemcy 2026 pokazuje jednak, że oba narody inaczej patrzą na kwestie historyczne, bezpieczeństwo i wzajemne korzyści.",
+    "link": "https://www.polsatnews.pl/wiadomosc/2026-11-06/polacy-ocenili-niemcy-a-niemcy-polske-jedna-kwestia-dzieli-nas-wyraznie/",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/ra/rah6chrwaqb7i6dgie3nqhx249mnoi54.jpg",
+    "source": "Polsat News",
+    "also": [],
+    "published": "2026-11-06T05:22:00+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Wojciech Król zatrzymany na sali rozpraw. Poseł trafi do aresztu",
+    "summary": "Sąd Okręgowy w Katowicach zmienił wcześniejszą decyzję sądu rejonowego i postanowił w czwartek o aresztowaniu posła Wojciecha Króla (KO), któremu Prokuratura Europejska zarzuca korupcję.",
+    "link": "https://radiokrakow.pl/wiadomosci/kraj/wojciech-krol-zatrzymany-na-sali-rozpraw-posel-trafi-do-aresztu/187357",
+    "image": "https://rmf.rmffm.pl/news/attachments/14/af/jarek-praszkiewicz-636x421-14afbd0b.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "Polsat News",
+     "RMF24",
+     "TVP Info"
+    ],
+    "published": "2026-11-05T14:55:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "„Ekstazy. Bernini na Wawelu”. Wyjątkowa wystawa o sztuce baroku [WIDEO]",
+    "summary": "Wystawę „Ekstazy. Bernini na Wawelu” poświęconą jednemu z ważnych tematów sztuki baroku - przedstawianiu stanów ekstatycznych - oglądać będzie można od piątku w Zamku Królewskim na Wawelu. Przez cały miesiąc wstęp na nią jest bezpłatny w ramach akcji „Darmowy Listopad”.",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUxkSlRIMVREQ0pDYVpwbmVZNkhqa29oSHVUQ3dsMUhmN3BDb3lSbVZuSWpabEl2RWhETDc5cW1lTlZCMHFYOFhYWXNLOEdKLWhUZ1d5emc4akJJUlNTQUhnZy1QTS1HLXh4d0UxMnNoVXFYVVB4Zmt4WjIxM3p2aVoweFo0bkVrb093aFRiQXBsaU9CXzNzcFpRakQ?oc=5",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20261105_0A8.jpg?h=69ac4591&itok=39xlBJh6",
+    "source": "PAP",
+    "also": [
+     "Dzieje.pl",
+     "Radio Kraków"
+    ],
+    "published": "2026-11-05T18:43:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Współtwórca Bazyliki św. Piotra i watykańskiej kolumnady. Bernini na Wawelu",
+    "summary": "Po raz pierwszy w Polsce prezentujemy wystawę Berniniego. Jego dziełem jest baldachim nad grobem św. Piotra wewnątrz Bazyliki św. Piotra i ołtarz główny – mówi Joanna Sędziwy, kustosz i kuratorka zbiorów rzeźby w Zamku Królewskim na Wawelu, kuratorka wystawy „Ekstazy. Bernini na Wawelu”",
+    "link": "https://www.rp.pl/kultura/art45444471-wspoltworca-bazyliki-sw-piotra-i-watykanskiej-kolumnady-bernini-na-wawelu",
+    "image": "https://i.gremicdn.pl/image/free/fe0bba3f3c24c05406861aa491d183b0/?t=crop:4145:1812:nowe:0:476,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-06T04:01:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Wielki mistrz baroku na Wawelu. Niezwykła wystawa dostępna bezpłatnie przez cały listopad",
+    "summary": "Wystawę „Ekstazy. Bernini na Wawelu” poświęconą jednemu z ważnych tematów sztuki baroku - przedstawianiu stanów ekstatycznych - oglądać będzie można od piątku w Zamku Królewskim na Wawelu. Przez cały miesiąc wstęp na nią jest bezpłatny w ramach akcji „Darmowy Listopad”.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/wielki-mistrz-baroku-na-wawelu-niezwykla-wystawa-dostepna-bezplatnie-przez-caly-listopad/187367",
+    "image": "https://radiokrakow.pl/media/article/187367/22f5a240e3fc4ce493a21e2f59c2e533.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-06T05:10:54+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Spokojny ostatni trening Wisły przed derbami. „Są na naszych meczach, to jest dobre miejsce”",
+    "summary": "Wisła na swoim stadionie wygrała wszystkie mecze, ale zdaniem Mariusza Jopa derby są tak specyficzną rywalizacją, że ostatnie wyniki, a także serie nie mają znaczenia.",
+    "link": "https://lovekrakow.pl/spokojny-ostatni-trening-wisly-przed-derbami-sa-na-naszych-meczach-to-jest-dobre-miejsce",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/36da18f561f26839800d7bc390d1f4ec.jpg.webp?itok=t6ubvBPp",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-05T18:00:01+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Zapadła tymczasowa decyzja w kwestii Centrum Muzyki. W 2027 roku obiekt zostanie w rękach spółki",
+    "summary": "Podczas wysłuchania publicznego w magistracie wiceprezydent Jan Hoffman potwierdził, że strony doszły do wstępnego kompromisu w sprawie Centrum Muzyki. Nowy obiekt ma pozostać tymczasowo w rękach miejskiej spółki ARMK.",
+    "link": "https://lovekrakow.pl/zapadla-tymczasowa-decyzja-w-kwestii-centrum-muzyki-w-2027-roku-obiekt-zostanie-w-rekach-spolki",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-05/4723be079d5cfb2e35fb5f29b1b474bd.JPG.webp?itok=APv5vjr2",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-05T17:15:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Były szef krakowskiej PO nie będzie już doradzał prezydentowi",
+    "summary": "Szczęsny Filipiak, w przeszłości przewodniczący krakowskiej Platformy Obywatelskiej, przestał pełnić funkcję społecznego doradcy prezydenta Krakowa. Informację o zakończeniu współpracy przekazał w mediach społecznościowych Łukasz Gibała.",
+    "link": "https://lovekrakow.pl/byly-szef-krakowskiej-po-nie-bedzie-juz-doradzal-prezydentowi",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2025-11/a4757699acf1ff52f5fbecd5a46271c1.jpg.webp?itok=OTmjbZpm",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-05T16:55:01+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "\"Nazwała mnie miękkim facetem\". Były profesor UJ oskarża swoją szefową o mobbing",
+    "summary": "Proponowała mi wspďż˝łpracę \"jak kiedyś Polska ze Związkiem Radzieckim\", i było jasne, że to ja miałem być Polską. Mďż˝wiła, że jestem \"miękkim facetem\" - były profesor Uniwersytetu Jagiellońskiego oskarżył swoją byłą szefową o mobbing. Sprawą zajmuje się prokuratura i sąd pracy.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33081656,nazwala-mnie-miekkim-facetem-byly-profesor-uj-oskarza-swoja.html",
+    "image": "https://bi.im-g.pl/im/ab/0a/1a/z27304875IHG,Collegium-Novum-UJ.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-11-06T04:56:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wojciechowski ma słabość do młodszych i pięknych kobiet! Zamienił Laurę Michnowicz na Patrycję Tuchlińską. Oto kobiety milionera",
+    "summary": "Józef Wojciechowski to znany deweloper z Warszawy, który jest także właścicielem popularnego hotelu w Krynicy-Zdroju, do którego przyjeżdżają na wypoczynek celebryci czy aktorzy. Jeden z najbogatszych Polaków lubi otaczać się pięknymi i sporo młodszymi kobietami.",
+    "link": "https://gazetakrakowska.pl/wojciechowski-ma-slabosc-do-mlodszych-i-pieknych-kobiet-zamienil-laure-michnowicz-na-patrycje-tuchlinska-oto-kobiety-milionera/ar/c15-17484633",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/94/d4/6446746745dcc_o,size,640x400,q,71,h,6b20f4.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-05T19:31:28+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Cyberataki na chłodnie. Grzesiowski: to ostrzeżenie dla całego systemu",
+    "summary": "Przejęcie sterowania chłodnią może doprowadzić do zniszczenia żywności, leków lub preparatów krwi. Dr Paweł Grzesiowski potwierdza zgłoszenie ataku z Polski dotyczące branży spożywczej.",
+    "link": "https://radiokrakow.pl/audycje/publicystyka/co-niesie-dzien/cyberataki-na-chlodnie-grzesiowski-to-ostrzezenie-dla-calego-systemu/187364",
+    "image": "https://radiokrakow.pl/media/article/187364/b24c56c2911605abf4d678f568cfa776.jpg",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-05T20:39:58+00:00",
+    "topic": "technologie"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Kraków/ „Rytuał” – główne pasmo koncertów 24. festiwalu Sacrum Profanum",
+    "summary": "„Rytuał” – to tytuł głównego pasma koncertów 24. Festiwalu Sacrum Profanum, który w Krakowie rozpocznie się w piątek i potrwa do 11 listopada. W Narodowe Święto Niepodległości organizatorzy zaś zapraszają na Marsz Niepodległej Muzyki.",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1B4MEVDZzZLVlhsWHZPV1o5ZGlmcUZldG4xa2k5V2pONllPZURPbGRycE4tUXBXV3hTRF9HaUt1TTJfdFNGd2lzYkJKaUlhT2dHZGJDemQ2VEFDREZoaXJLX3pNaDJHX2hkU1dXNDFSUW02OEtiZ01ZcmJHVGJ2bTJwQmsyS2U3MEhaU1pHcUFfZ2hIUnJvMjhaTWxrdWxRem4zbkhMZHBVOUZCbDYzNTI0MVJvRHdEbDZ1LUFn?oc=5",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/cdd6b9f971e36c5c857e445f75c2ddddogloszenie1080-x-1080.jpg?h=36a4e2f7&itok=CNVa7JOY",
+    "source": "PAP",
+    "also": [
+     "Dzieje.pl"
+    ],
+    "published": "2026-11-05T15:26:43+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Powerhouse Parramatta opens this weekend – and it’s dazzling inside and out",
+    "summary": "Coups de théâtre abound in the $915m addition to western Sydney’s skyline, which opens on Saturday with five new exhibitions – and a 23-day festival Get our weekend culture and lifestyle email Dubbed the “Opera House of western Sydney”, Powerhouse Parramatta’s white lattice exoskeleton, composed from 1,300 individual…",
+    "link": "https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival",
+    "image": "https://i.guim.co.uk/img/media/f98712649872f00498ef7bae039a13ef7ee16f70/605_0_6623_5301/master/6623.jpg?width=140&quality=85&auto=format&fit=max&s=95930b57eb532e9b0f8777ff5d602f8d",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-05T23:00:36+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Lost Georgia O’Keeffe Painting Turns Up in Closet, Heads to Auction",
+    "summary": "The newly resurfaced work is expected to realize around $3 million when it crosses the block at Christie’s.",
+    "link": "https://news.artnet.com/market/lost-georgia-okeeffe-abiquiu-christies-2832664",
+    "image": null,
+    "source": "Artnet News",
+    "also": [
+     "ARTnews"
+    ],
+    "published": "2026-11-05T19:19:33+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Lucien Smith, Art-World Star, Died From Accidental Drug Overdose",
+    "summary": "The artist Lucien Smith in New York City in 2016.",
+    "link": "https://www.nytimes.com/2026/11/05/arts/design/artist-lucien-smith-cause-of-death.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/arts/05cul-lucien-smith-death/05cul-lucien-smith-death-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-06T00:05:21+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
+    "summary": "Portraying the humour, passion and grit that took the actor from bit parts to Oscar glory, this making-of tale is even more mythic than the original movie For fun, excitement and the transcendental thrill of success, there’s nothing to touch this very enjoyable drama about the making of Sylvester Stallone’s…",
+    "link": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+    "image": "https://i.guim.co.uk/img/media/67d68a8bf99e04203df58627bce4bccf21e969cc/385_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=ad052ae7e64d767c4f2ef8acc6771c97",
+    "source": "The Guardian",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-05T11:00:22+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "ICA Miami selects architect to renovate recently acquired building",
+    "summary": "The 30,000-sq.-ft building will double the museum’s space, allowing for the first-ever permanent display of its collection",
+    "link": "https://www.theartnewspaper.com/2026/11/05/ica-miami-taps-gensler-to-renovate-new-building",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/7d4774ee31b9dd74bfcddde95fd8cbc66dc09204-2000x1116.png?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-05T15:00:00+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Chroniques sur France Inter et France 2, seul-en-scène, roman… Jessé, l’envol d’un humoriste queer et cinglant",
+    "summary": "Dans ses billets hebdomadaires, l’artiste joue de son personnage d’homosexuel flamboyant pour balancer avec le sourire des vannes trash qui n’épargnent personne, ne se privant pas de prendre parti contre les violences policières ou l’extrême droite.",
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/06/chroniques-sur-france-inter-et-france-2-seul-en-scene-roman-jesse-l-envol-d-un-humoriste-queer-et-cinglant_6807722_4500055.html",
+    "image": "https://img.lemde.fr/2026/11/03/0/0/1500/750/644/322/60/0/2314bf6_ftp-1-vezfwyzxpetq-450656-3528260.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-06T05:00:20+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "One museum visit a month could improve health, new report finds",
+    "summary": "Art Fund calls for greater investment in museums as research suggests regular visits could reduce depression, dementia risk and stress",
+    "link": "https://www.theartnewspaper.com/2026/11/05/one-museum-visit-a-month-could-improve-health-new-report-finds",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/591f31d96f9bf959ee23f0139d54c23687d5ffbe-8179x5455.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-05T12:48:02+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "„Wojna wszystkich ze wszystkimi” to kolejny dzień twojego życia. Na marginesie wystawy Adama Kozickiego w Muzeum Sztuki Nowoczesnej w Warszawie",
+    "summary": "Mateusz Górniak ; Warto jest schodzić do piwnicy, warto jest zaglądać w oczy mieszkańcom podziemnych światów, warto zjeść modem od internetu na podwieczorek. Warto uprawiać tak archaiczne medium jak malarstwo i warto za jego pomocą ćpać, przefiltrowywać i zwracać na płótna tą naszą współczesność.…",
+    "link": "https://magazynszum.pl/wojna-wszystkich-ze-wszystkimi-to-kolejny-dzien-twojego-zycia-na-marginesie-wystawy-adama-kozickiego-w-muzeum-sztuki-nowoczesnej-w-warszawie/",
+    "image": "https://magazynszum.pl/wp-content/uploads/2026/11/msn-ak-140926-017-1440x1080.jpg",
+    "source": "Magazyn Szum",
+    "also": [],
+    "published": "2026-11-06T05:00:01+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Cytat dnia. Mikołaj Roznerski: Łatwiej jest spotkać kogoś, z kim będziesz tylko uprawiać seks, niż...",
+    "summary": "Mikołaj Roznerski nie zawsze chętnie opowiada o swoim życiu uczuciowym. Aktor ma za sobą kilka głośnych związków, a jego relacje wielokrotnie przyciągały uwagę mediów. W jednej z rozmów podzielił się refleksją na temat zakochania. Jego słowa dają do myślenia.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114628,33113451,cytat-dnia-mikolaj-roznerski-latwiej-jest-spotkac-kogos-z.html",
+    "image": "https://bi.im-g.pl/im/ab/94/1f/z33113515IHG,Mikolaj-Roznerski.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-06T05:11:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Muzyczna podróż przez stulecie, czyli 71. Krakowskie Zaduszki Jazzowe [RELACJA]",
+    "summary": "Wypełniona po brzegi sala Filharmonii im. Karola Szymanowskiego, wybitni artyści i muzyczna podróż przez całe stulecie krakowskiego jazzu. Koncert \"100 lat Jazzu w Krakowie\", zorganizowany w ramach 71.",
+    "link": "https://kultura.onet.pl/muzyka/koncerty/jazzowa-podroz-przez-stulecie-tak-swietowano-w-krakowie/qfdmv8s",
+    "image": "https://cdn.kultura.onet.pl/1/REpk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82NGI0Y2UyOGNmMDgxNmNhNWRiMzM4MjQxNzY4ZWI3OS5qcGeSlQNqzQL-zQ5fzQgUkwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-06T05:00:00+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Centralne Obchody Tysiąclecia Państwa Polskiego",
+    "summary": "Co wspólnego mają bitwa pod Grunwaldem, powstanie styczniowe, założenie Uniwersytetu Jagiellońskiego i manifest Polskiego Komitetu Wyzwolenia Narodowego? Wszystkie te wydarzenia zostały wykorzystane przez ekipę Władysława Gomułki dla celów propagandowych, ale w centrum tej skoordynowanej akcji były obchody Tysiąclecia…",
+    "link": "https://dzieje.pl/ksiazki/centralne-obchody-tysiaclecia-panstwa-polskiego",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/hamerlak.jpg?itok=5m2ujoVR",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-05T20:22:10+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Spis treści #46",
+    "summary": "Aleksy Wójtowicz ; Kto w październiku miał szczęście, a kto pecha – i co wspólnego mają z tym ustawy? O kim i o czym Muzeum Sztuki wyprodukowało serial? Czy zwrot ludowy bardziej jest mrocznym widmem czy nową nadzieją i dlaczego nie da się zobaczyć wszystkiego?; a:2:{i:0;s:5:\"25448\";i:1;s:5:\"19766\";}; Kadr z filmu…",
+    "link": "https://magazynszum.pl/spis-tresci-46/",
+    "image": "https://magazynszum.pl/wp-content/uploads/2026/11/zobaczysz-wszystko-02.jpg",
+    "source": "Magazyn Szum",
+    "also": [],
+    "published": "2026-11-06T05:00:34+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Obchody X Światowego Dnia Ubogich",
+    "summary": "Wspólne posiłki, warsztaty, spotkania edukacyjne i spektakl przygotowany przez osoby w kryzysie bezdomności to tylko kilka wydarzeń, które odbędą się w Łodzi z okazji obchodzonego 15 listopada X Światowego Dnia Ubogich. Obchody rozpoczną się w sobotę.",
+    "link": "https://dzieje.pl/wiadomosci/obchody-x-swiatowego-dnia-ubogich",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20251116_0N2.jpg?itok=wMXMcm01",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-05T14:54:15+00:00",
+    "topic": "teatr"
+   }
+  ]
+ }
+}
