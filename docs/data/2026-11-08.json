@@ -1,0 +1,733 @@
+{
+ "date": "2026-11-08",
+ "generated": "2026-11-08T12:28+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Who’s who at Cop31: key players at the climate talks",
+    "summary": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting? Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021 , while in opposition, before his successful election campaign.",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+    "image": "https://i.guim.co.uk/img/media/72678bea25c1a92a183def8f6052f58a39fa3e5a/790_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=5c03e71c63752f13b18521a75650ceb4",
+    "source": "The Guardian",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-08T11:00:16+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+    "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
+    "source": "BBC News",
+    "also": [
+     "Associated Press"
+    ],
+    "published": "2026-11-07T12:49:36+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "How the deadly shooting in Krakow unfolded",
+    "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+    "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-08T09:29:24+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Groził papieżowi śmiercią. Argentyńskie służby dokonały zatrzymania",
+    "summary": "Zatrzymano osobę, która formułowała groźby śmierci wobec papieża Leona XIV - przekazała w sobotę wieczorem argentyńska agencja wywiadowcza SIDE. Papież w niedzielę przybędzie do Argentyny w ramach trwającej pielgrzymki do Ameryki Południowej.",
+    "link": "https://wydarzenia.interia.pl/zagranica/news-grozil-papiezowi-smiercia-argentynskie-sluzby-dokonaly-zatrz,nId,23570668",
+    "image": "https://i.iplsc.com/-/000NIDG4EKMF8WXX-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-08T06:57:35+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+    "summary": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks on its energy network.",
+    "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
+    "image": "https://s.france24.com/media/display/50e433a2-daa4-11f1-b5c1-1beafce15fea/w:1024/p:16x9/EN-20261107-120558-120735-CS.jpg",
+    "source": "Euronews",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-07T21:45:27+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+    "summary": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absent As the planet faces unprecedented human-caused global heating, heads of government are meeting for the next fortnight for the latest round of climate talks.",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+    "image": "https://i.guim.co.uk/img/media/d6b690af57abc6ab43cbd2a94e2f483c2480349a/18_0_4233_3386/master/4233.jpg?width=140&quality=85&auto=format&fit=max&s=22b10412ecce3e9b3d0e2aabef403808",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-08T11:00:38+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
+    "summary": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949 For almost eight decades the artists’ model Louise Cansot, the subject of the novel winning France’s most prestigious literary prize this year, was one of Paris’s forgotten murder…",
+    "link": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
+    "image": "https://i.guim.co.uk/img/media/64568384f0ba20fb1fa5662cf34b808631acc22a/0_205_1343_1074/master/1343.jpg?width=140&quality=85&auto=format&fit=max&s=7b9fbb0b581c17a5876924b0212d3339",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-08T11:00:38+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+    "summary": "Catholic clergy members gathered for prayer last month after a march for social rights and justice in La Matanza, Buenos Aires Province, Argentina.",
+    "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-08T10:00:57+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "My parents chose to die together and I was left to grieve alone",
+    "summary": "Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving behind their only child.",
+    "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-08T01:10:21+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+    "summary": "King Charles III walking in the rain with Brig. Gen. Telbert Benjamin of the Antigua and Barbuda Defense Force this past week in St. John’s, the capital of Antigua and Barbuda.",
+    "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-08T05:55:55+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "With Hopes Low and Temperatures High, Climate Summit Opens in Turkey",
+    "summary": "A sign advertised the upcoming United Nations climate summit at the Istanbul airport in Turkey, which will host the meeting starting on Monday.",
+    "link": "https://www.nytimes.com/2026/11/08/climate/with-hopes-low-and-temperatures-high-climate-summit-opens-in-turkey.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-01-mgpv/08CLI-COP31-01-mgpv-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-08T10:01:37+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Nad straganami dachy dawnych hangarów, za rzeką drewniane domy. Ryga zaskakiwała mnie z każdym krokiem spaceru",
+    "summary": "Od potężnych hal targowych przez kupiecką starówkę po secesyjne kamienice i drewniane domki – w Rydze co chwilę podnoszę głowę. Po drodze próbuję łotewskich kiszonek i oglądam miasto z pokładu łodzi.",
+    "link": "https://www.national-geographic.pl/traveler/kierunki/nad-straganami-dachy-dawnych-hangarow-za-rzeka-drewniane-domy-ryga-zaskakiwala-mnie-z-kazdym-krokiem-spaceru/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/55/ryga.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-08T09:42:00+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+    "summary": "Gadi Eisenkot, shown in Tel Aviv last month, has the daunting task of forming an Israeli coalition from disparate parties.",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "Deutsche Welle",
+     "NPR",
+     "The Guardian"
+    ],
+    "published": "2026-11-07T22:49:13+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Trump says he wants UFC chief Dana White for White House press secretary",
+    "summary": "US president signals combative approach in wake of midterms drubbing of his party",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "Euronews",
+     "Financial Times"
+    ],
+    "published": "2026-11-07T18:56:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [
+     "Financial Times",
+     "NPR"
+    ],
+    "published": "2026-11-07T22:19:59+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "US military says it disabled cargo vessel in Gulf of Oman",
+    "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press"
+    ],
+    "published": "2026-11-07T21:22:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "2026 U.S. House Election Results",
+    "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or…",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+    "image": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=030d6b177625782a5ee646ba1c1d9571",
+    "source": "Associated Press",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-08T11:15:54+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Canada",
+    "summary": "The new Congress controlled by Democrats will face President Trump’s veto powers.",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vQi1sTVJQRVgxYXRkd1Jwcjk3eGN4TFFkODJ1Ry0zN25QTEx3WnhuLUxCNGZEWUFRMHFGelBja05YSmc?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-canada-letter-cqlt/07int-canada-letter-cqlt-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-08T08:57:34+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Atlanta",
+    "summary": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoakctbEt4SW1XSVhZNU9XUmhlOTA5X2IzZTltdkYtbnk3RkFJQnNGZ05KWUV3QjlHQ3hQZFpKYTNkR2t0?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Deutsche Welle"
+    ],
+    "published": "2026-11-08T10:37:48+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Silne trzęsienie ziemi w Japonii. Wybuchła panika, jest wielu rannych",
+    "summary": "Trzęsienie ziemi o magnitudzie 5,7 (według amerykańskiej Służby Geologicznej 5,5) nawiedziło w niedzielę nad ranem centralne rejony Japonii. Według wstępnych informacji co najmniej 22 osoby zostały ranne. Wśród ludności wybuchła panika.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-silne-trzesienie-ziemi-w-japonii-wybuchla-panika-jest-wielu-,nIdn,1025291",
+    "image": "https://rmf.rmffm.pl/news/attachments/11/cf/trzesienie-ziemi-o-magnitudzie-57-w-japonii-co-najmniej-22-osoby-ranne-636x421-11cff7c5.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-08T05:35:00+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "US offers $20m reward for information about Iran's nuclear programme",
+    "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-07T18:14:38+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+    "summary": "A boy being treated after being injured in a strike near Sanaa, Yemen, on Saturday.",
+    "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "National Geographic"
+    ],
+    "published": "2026-11-07T16:39:31+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "From the overblown to the ordinary? Met Gala 2027 to celebrate ‘poetics of everyday’",
+    "summary": "Event regarded as Oscars of fashion industry replaces John Galliano retrospective with homage to the ‘extra ordinary’ A few months after the planned John Galliano Met Gala retrospective was cancelled amid a backlash focused on the designer’s past, a more commonplace theme has been announced: “ extraORDINARY : fashion…",
+    "link": "https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday",
+    "image": "https://i.guim.co.uk/img/media/c301bdbb21a9e2f1c4b07740c4b8e30b97cecc51/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=ff2c8e89e8e03a1545c66fe716313b48",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-08T08:00:36+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Countryside managers prepare for climate change",
+    "summary": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/67c2/live/fa52ad30-d91c-11f1-ad94-e17fee4cd332.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-08T07:16:55+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "- Polska Agencja Prasowa SA",
+    "summary": "Decyzja agencji S&P Global o obniżce perspektywy ratingu to kolejny mocny sygnał ostrzegawczy wskazujący na konieczność stabilizacji niezrównoważonych finansów publicznych — ocenił Kamil Pastor, ekonomista PKO BP.",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ReXlXdS1HTFRRWVg2TldjMUduN0JYNU9Ga28yTFNBYTVfbWprOXpSYzNRZDdOaDhDdVY2UmZNQW5PdDUycFFFeS1FMEVwVUpJZWFpWTRadWJ1QQ?oc=5",
+    "image": "https://ocdn.eu/pulscms-transforms/1/mFGk9kpTURBXy8xOWQwYmIwNjI5NjkwZGZiYWVkYzk4MWE3NGI5YWJiMC5qcGeRkwLNBLAA3gABoTAB",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska"
+    ],
+    "published": "2026-11-07T20:45:05+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+    "summary": "Emergency responders at an area near Krakow’s main market square after a shooting in the Polish city on Saturday.",
+    "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-zbcg/07int-poland-shooting-zbcg-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-07T23:36:18+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Dorożkarze poszkodowani w strzelaninie na Rynku. Dwoje walczy o życie",
+    "summary": "",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRTBwUnV1VjRJd0FaLW5jUDlUbzUtVDFxZkNOTENjay01dFFPellDVGFMZjlWTnlyMkJNa0RWd2dKNEhPRFhWNEZPNG9jVHVRSEV4VFVOeXg1T3J6amxGVFBrLS1ueE41ajZ0SVhsU1J3YTBNVG9wQ0Fmdy1VU1czY1BuM09WZ1pBV2NiTG16Q0RNZnpwTF8wYmE5ZTlza1I4MVU5S3ZVbldWQQ?oc=5",
+    "image": "http://s18.tvp.pl/images2/8/0/7/uid_807bf5ce719948df830bee75b004b624_width_1280_play_0_pos_0_gs_0_height_720.jpg",
+    "source": "PAP",
+    "also": [
+     "Radio Kraków",
+     "TVP Info"
+    ],
+    "published": "2026-11-08T05:37:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Briton among six dead after gunman opens fire in Kraków market square",
+    "summary": "Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ views Six people were killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city.",
+    "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+    "image": "https://i.guim.co.uk/img/media/3d8244fe8422d5c0105861b7f544fc699f6bec58/1148_0_5909_4727/master/5909.jpg?width=140&quality=85&auto=format&fit=max&s=b7d1642fd15c5cebd5634447ffb2e131",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-08T09:30:22+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Katowice/ Nowa metoda operacji wady szczęki pozwala precyzyjniej ustawić kości pacjenta",
+    "summary": "Katowice/ Nowa metoda operacji wady szczęki pozwala precyzyjniej ustawić kości pacjenta tryton sob., 11/07/2026 - 16:10 4 minuty",
+    "link": "https://naukawpolsce.pl/aktualnosci/news%2C115814%2Ckatowice-nowa-metoda-operacji-wady-szczeki-pozwala-precyzyjniej-ustawic",
+    "image": "https://naukawpolsce.pl/sites/default/files/styles/new_720_x_405/public/202611/AdobeStock_47012113%20operation.jpg?itok=sspXiTU3",
+    "source": "Nauka w Polsce",
+    "also": [
+     "PAP"
+    ],
+    "published": "2026-11-07T15:10:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Kończysz 65 lat? ZUS sam przeliczy twoją emeryturę. Można zyskać nawet 900 zł",
+    "summary": "Kwota w decyzji z ZUS może się zmienić jeszcze długo po przejściu na emeryturę. Czasem wystarczy odszukać dokument od dawnego pracodawcy, a część kobiet dostaje nowe wyliczenie po 65. urodzinach. Po takim przeliczeniu mowa o średnio około 900 zł więcej miesięcznie.",
+    "link": "https://www.gazetaprawna.pl/praca/emerytury-i-renty/artykuly/11342159,kiedy-zus-moze-podwyzszyc-twoja-emeryture.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2Ru/LnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAw/MDAwNzY5ODA3Ni9maWxlcy9zZW5pb3JrYS1lbWVyeXR1cmEt/ZG9rdW1lbnQtenVzLTM5MzExNjcwLmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-08T11:18:45.122000+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Odstawienie Ozempicu może mieć nieoczekiwane skutki. Nie chodzi tylko o powrót kilogramów",
+    "summary": "Ponowny przyrost masy ciała to tylko część problemu. Naukowcy badają, jak odstawienie leków z grupy GLP-1 może wpływać na serce, poziom cukru we krwi oraz inne korzyści zdrowotne, które wykraczają daleko poza utratę zbędnych kilogramów.",
+    "link": "https://www.national-geographic.pl/nauka/odstawienie-ozempicu-moze-miec-nieoczekiwane-skutki-nie-chodzi-tylko-o-powrot-kilogramow/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/55/leki-z-grupy-glp-1.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-08T11:16:36+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Poznał sekrety kuchni dyktatorów. \"W podróż zabierają ze sobą pudełeczka albo kucharza\"",
+    "summary": "Ludzie, którzy mogą sobie pozwolić absolutnie na każde jedzenie na świecie, zazwyczaj proszą o to, co gotowała im mamusia, kiedy byli dziećmi. I zazwyczaj to nie jest kuchnia niesamowitych, wyszukanych potraw — mówi w \"Rachunku sumienia\" dziennikarz i pisarz Witold Szabłowski, autor książki \"Kucharze dyktatorów\".",
+    "link": "https://www.newsweek.pl/polska/polityka/kuchnia-dyktatorow-musza-miec-kontrole-nad-calym-procesem/e2tzcl3",
+    "image": "https://ocdn.eu/pulscms-transforms/1/xLbk9kpTURBXy84ZTY4MTc0NWEzOGU2YzYxOGI5YWEwOTQ4Y2FiNjkyZS5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-11-08T11:00:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Nowy trend na rynku pracy. Przodują w nim zwłaszcza młodzi pracownicy. Eksperci ostrzegają",
+    "summary": "Polacy boją się brać zwolnienia lekarskie. Przychodzą więc do pracy przemęczeni, zasmarkani i w złym stanie. Grupą, która najczęściej stawia się w pracy mimo złego samopoczucia, są młodzi. Wbrew pozorom pracodawcy tracą więcej na mniej wydajnych pracownikach, niż gdyby ci poszli na L4.",
+    "link": "https://www.gazetaprawna.pl/praca/rynek-pracy/artykuly/11342165,nowy-trend-na-rynku-pracy-przoduja-w-nim-zwlaszcza-mlodzi-pracownicy.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLn/BsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAw/NzY5ODA4Mi9maWxlcy9jaG9yeS1wcmFjb3duaWstMzc5ODkyMj/ktY3JvcC0wNmZkZTQ2Yy0zOTMxMTY2MC5qcGciLCJ3IjozODQwfQ",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-08T10:44:49.434000+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Prezes Wärtsilä: Polska potrzebuje miksu technologii, nie elektryfikacji za wszelką cenę",
+    "summary": "Systemy ciepłownicze mogą wykorzystywać energię odnawialną w okresach wysokiej produkcji z wiatru i słońca, gdy ceny energii są niższe, a następnie magazynować wytworzone ciepło do późniejszego wykorzystania - mówi prezes fińskiej spółki Wärtsilä Håkan Agnevall",
+    "link": "https://energia.rp.pl/energetyka/art45441401-prezes-waertsilae-polska-potrzebuje-miksu-technologii-nie-elektryfikacji-za-wszelka-cene",
+    "image": "https://i.gremicdn.pl/image/free/9a5240cfe0d1bbc98ba3297340b8ea22/?t=crop:2048:895:nowe:0:44.579310344828,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-08T10:42:17+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Doomscrolling wpędza nas w pułapkę niekończącego się stresu. Naukowcy ostrzegają",
+    "summary": "Dlaczego tak trudno oderwać się od niepokojących wiadomości? Badania pokazują, że doomscrolling może napędzać błędne koło stresu i lęku. Naukowcy wyjaśniają, co dzieje się w mózgu podczas oglądania drastycznych treści i jak chronić się przed ich wpływem.",
+    "link": "https://www.national-geographic.pl/nauka/doomscrolling-wpedza-nas-w-pulapke-niekonczacego-sie-stresu-naukowcy-ostrzegaja/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/55/doomscrolling.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-08T10:24:54+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Pogrzeby państwowe bez zasad. KPRM wytknęła błędy Ministerstwu Kultury",
+    "summary": "MKiDN przez lata refundowało koszty pogrzebów państwowych na podstawie nieformalnych reguł, bez wewnętrznego regulaminu i jasno określonych procedur. Takie wnioski płyną z kontroli KPRM, do wyników której dotarła „Rzeczpospolita”. W jej efekcie resort wprowadził nowe procedury.",
+    "link": "https://www.rp.pl/spoleczenstwo/art45452491-pogrzeby-panstwowe-bez-zasad-kprm-wytknela-bledy-ministerstwu-kultury",
+    "image": "https://i.gremicdn.pl/image/free/e938288b00b2f233881e809a4ef1cb28/?t=crop:5468:2389:nowe:0:1255,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-08T10:00:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Radosław Ditrich: SAFE był i jest dla nas korzystny. Nie dajcie się zwieść",
+    "summary": "Media społecznościowe rozgrzała informacja o tym, że przez umocnienie się euro, wartość naszej pożyczki wzrosła o 8 mld zł. To ma oznaczać, że kredyt na wojsko będzie droższy. Czy to powód do obaw?",
+    "link": "https://www.rp.pl/komentarze/art45457941-radoslaw-ditrich-safe-byl-i-jest-dla-nas-korzystny-nie-dajcie-sie-zwiesc",
+    "image": "https://i.gremicdn.pl/image/free/d36706c1f9c8763e47683b2291f8618f/?t=crop:2048:895:nowe:0:128,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-08T09:10:21+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Poland launches terrorism probe into mass shooting in Krakow",
+    "summary": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the 24-year-old suspect, who used a semi-automatic rifle in his killing spree, was “fascinated by far-right ideologies”.",
+    "link": "https://www.france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting",
+    "image": "https://s.france24.com/media/display/f1250eae-db5d-11f1-9d08-a575454bc579/w:1024/p:16x9/df1b226879aa9026b8f83a806b14523cef6d3728.jpg",
+    "source": "France 24",
+    "also": [],
+    "published": "2026-11-08T08:59:56+00:00",
+    "topic": "bezpieczeństwo"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Hejnał mariacki nie wybrzmiał w Krakowie. Pierwszy raz od 1939 r.",
+    "summary": "W geście żałoby po zamachu w Krakowie przez 12 godzin nie był odgrywany hejnał mariacki. Rzecznik małopolskich strażaków przekazał, że po raz pierwszy od 1939 r. melodia nie zabrzmiała z wieży. W niedzielę o godz. 9 hejnał ponownie został odegrany.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR20tNjBieEFhVU5IVW1iTmZmMjkwNWVNWlc2VDdQa2xRQlhZOHd4QTRYaTVuSkozdmo5Yy1BMDZGd0dFOHZzXzR4QlVwVG9PM1ptalU3X0xndnBBQkV0Ym1iYnJ0UC1tRWNZSlBwSW83TWt5d3ZCcHVZYTVmUElkRFZacktDU3BrcXk0dlR4ZHdmeVg0ak4wZUZVMThYa3p3R3JUX05TNEUyaHB6SkVza2toWkluZmxv?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/d0/dd/fot-636x421-d0ddddcb.jpg",
+    "source": "PAP",
+    "also": [
+     "Polsat News",
+     "RMF24",
+     "RMF24 Kraków",
+     "TVP Info"
+    ],
+    "published": "2026-11-08T07:56:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Prokurator wszczął śledztwo ws. zamachu w Krakowie i ofiar w Ostrowcu Świętokrzyskim [ZDJĘCIA]",
+    "summary": "Czyn o charakterze terrorystycznym - tak prokuratura zakwalifikowała sobotni atak w Krakowie, w sprawie którego wszczęła w niedzielę śledztwo. Prowadzi je Wydział Przestępczości Zorganizowanej Prokuratury Krajowej.",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0VoVUFNbERZOHBVbUN4RG96b1EtXzFmcUlLakpQMVFObjJua0g2UGtWanFHRGV2STBjVnM0V1F2NWdsdGRIUGxPeExnZzZGR0pTR2JGdURfR0M3Znl2MS1DSzBMVHFxanV1UkxYQXQ1WjJHR2F3NnhHSHNEVVM3Umc0OTVycmtTa2dHZkltT0pfcEZuTDR0TUZENWN6Y2RwYm56NlpsbFRUal8xWTlsRFYwZw?oc=5",
+    "image": "https://i.gremicdn.pl/image/free/c5dbfbdc727a82ee2fff2e55c8f06bac/?t=crop:5424:2371:nowe:0:622,resize:fill:600:300,enlarge:1",
+    "source": "PAP",
+    "also": [
+     "Polsat News",
+     "Rzeczpospolita",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-08T10:53:17+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Sześć ofiar śmiertelnych strzelaniny na Rynku Głównym w Krakowie. Napastnik zatrzymany",
+    "summary": "Na krakowskim rynku doszło do strzelaniny - przekazał polsatnews.pl rzecznik tamtejszej policji. Przed Kościołem Mariackim pracują ratownicy medyczni, na rynku lądował śmigłowiec Lotniczego Pogotowia Ratunkowego.",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUE5JbHVoQjFkazM1MFg3ajhyTll3US1VckVHakl4ZmpIRzVhZnJoTEJkY2Y1UjhnTHJOejZER3VDWVVzZEtxV25zZ0Q2OEgtVUk5RjhFMGdoMW5icVdnT3FkVGhDNFc5dk8xMVRvZ3JubUxXOXZMZUhuaVM4a3doVW1EY0dacGtlaHRDSWNZQ3Vlb3FJSzhjaWxIaE44dFA0SzZkOXo0c3VUTThiME9tV012ZF9SN0U?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/fc/76/wczoraj-po-strzelaninie-na-plycie-rynku-glownego-w-krakowie-ladowal-smiglowiec-lpr-636x421-fc7603f1.jpg",
+    "source": "PAP",
+    "also": [
+     "Polsat News",
+     "RMF24",
+     "RMF24 Kraków"
+    ],
+    "published": "2026-11-08T00:04:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Znamy nazwiska bohaterskich policjantów z Krakowa. Premier Donald Tusk: „Cała Polska trzyma za Was kciuki”",
+    "summary": "Starszy posterunkowy Jakub Kulik i starszy posterunkowy Artur Morański - to nazwiska dwóch policjantów, których odwagę docenił premier Donald Tusk. Funkcjonariusze, narażając własne życie, prawdopodobnie uratowali wiele osób. Obaj są w poważnym stanie.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/znamy-nazwiska-bohaterskich-policjantow-z-krakowa-premier-donald-tusk-cala-polska-trzyma-za-was-kciuki/187452",
+    "image": "https://rmf.rmffm.pl/news/attachments/1b/de/miejsce-zatrzymania-sprawcy-ataku-przy-ulicy-stradomskiej-w-krakowie-fot-636x421-1bde2cbe.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "Polsat News",
+     "RMF24",
+     "RMF24 Kraków"
+    ],
+    "published": "2026-11-07T22:02:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Ambasador USA reaguje na tragedię w Krakowie. „Uderza rozmiar szoku”",
+    "summary": "– Jesteśmy w szoku – mówi money.pl Wiesław Jopek, prezes Krakowskiej Kongregacji Kupieckiej, po tragicznej strzelaninie na Rynku Głównym. Przedsiębiorcy indywidualnie decydują o otwieraniu lokali. Tymczasem policja zapowiada ponowne zamknięcie części centrum miasta.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-ambasador-usa-reaguje-na-tragedie-w-krakowie-uderza-rozmiar-,nIdn,1025319",
+    "image": "https://rmf.rmffm.pl/news/attachments/10/93/tom-rose-zdj-636x421-10939f77.jpg",
+    "source": "RMF24",
+    "also": [
+     "Wyborcza Kraków",
+     "money.pl"
+    ],
+    "published": "2026-11-08T11:05:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Strzelanina w Krakowie: sprawca użył karabinka samopowtarzalnego AR-15",
+    "summary": "Jak wynika z informacji opublikowanych przez małopolską policję, sprawca strzelaniny w Krakowie posługiwał się karabinkiem samopowtarzalnym zbliżonym do amerykańskiego AR-15.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/strzelanina-w-krakowie-sprawca-uzyl-karabinka-samopowtarzalnego-ar-15/187446",
+    "image": "https://rmf.rmffm.pl/news/attachments/4f/dc/mezczyzna-w-koszulce-z-fot-patrick-t-636x421-4fdce583.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "RMF24",
+     "RMF24 Kraków"
+    ],
+    "published": "2026-11-07T20:13:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Śledztwo po ataku na Rynku w Krakowie. Prokuratura: Czyn o charakterze terrorystycznym",
+    "summary": "Na krakowski Rynek w sobotę po godz. 15 wjechało czarne Subaru. Kierowca zaczął strzelać do przechodniďż˝w. Zabił pięć osďż˝b, szďż˝sta zmarła w szpitalu. Rany odniosło 16 osďż˝b, w tym pięcioro obcokrajowcďż˝w.",
+    "link": "https://www.rmf24.pl/regiony/krakow/news-sledztwo-po-ataku-na-rynku-w-krakowie-prokuratura-czyn-o-cha,nIdn,1025312",
+    "image": "https://rmf.rmffm.pl/news/attachments/d9/88/akcja-sluzb-na-rynku-w-krakowie-fot-636x421-d9882ca9.jpg",
+    "source": "RMF24",
+    "also": [
+     "Wyborcza Kraków"
+    ],
+    "published": "2026-11-08T09:13:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "W Krakowie znów padły policyjne strzały. Mężczyzna z nożem na Kapelance",
+    "summary": "23-latek został zatrzymany.",
+    "link": "https://www.rmf24.pl/regiony/krakow/news-w-krakowie-znow-padly-policyjne-strzaly-mezczyzna-z-nozem-na,nIdn,1025290",
+    "image": "https://rmf.rmffm.pl/news/attachments/b9/e9/fot-636x421-b9e90a90.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-08T05:54:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Nowe informacje o strzelaninie w Krakowie. Wojewoda o przebiegu akcji i ofiarach",
+    "summary": "Wojewoda małopolski podczas porannego briefingu przekazał najnowsze dane na temat stanu osďż˝b rannych w ataku w Krakowie. Krzysztof Klęczar przekazał także informacje o narodowości ofiar śmiertelnych.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33122511,nowe-informacje-o-ofiarach-strzelaniny-w-krakowie-wojewoda.html",
+    "image": "https://bi.im-g.pl/im/96/96/1f/z33122454IHG,Wojewoda-malopolski-Krzysztof-Kleczar.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-08T10:52:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Świadkowie strzelaniny na krakowskim Rynku ujawniają szczegóły. „Słyszeliśmy 20 strzałów”",
+    "summary": "Szliśmy do sklepu, gdy usłyszeliśmy strzały. Ludzie zaczęli biec, turyści z innych krajów nie wiedzieli, co się dzieje. Usłyszeliśmy 20 strzałów” – opowiada w rozmowie z „Faktem” świadek ataku, pan Aleksander.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11342081,swiadkowie-strzelaniny-na-krakowskim-rynku-ujawniaja-szczegoly-slysz.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncHN0Y/XRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzY5ODAwNC9maWxlcy9zdH/J6ZWxhbmluYS1uYS1yeW5rdS13LWtyYWtvd2llLXN3aWFka293aWUtemRhcnp/lbmlhLXpkcmFkemFqYS1zemN6ZWdvbHktMzkzMTExODMuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-07T17:44:12.784000+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Phil Collins Knew He Was ‘Lucky,’ if Not Cool",
+    "summary": "When the Rock & Roll Hall of Fame inducts Collins as a solo artist this month, it will recognize a hitmaker whose popularity often overshadowed his intensity.",
+    "link": "https://www.nytimes.com/2026/11/08/arts/music/phil-collins-knew-he-was-lucky-if-not-cool.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08cul-phil-collins-promo-cfmt/08cul-phil-collins-promo-cfmt-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-08T10:00:37+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "\"La Promesa - pałac tajemnic\", odcinek 516. Co wydarzy się w serialu?",
+    "summary": "Marcelo przejmuje obowiązki Santosa i trafia do służby u Curra jako lokaj. Lorenzo wpada na trop możliwej przyczyny zatrucia żołnierzy. Prasa chwali Catalinę i Pelaya za ich postawę podczas przyjęcia. Co jeszcze wydarzy się w serialu \"La Promesa - pałac tajemnic\"? Emisja 516.",
+    "link": "https://kultura.onet.pl/telewizja/seriale-zagraniczne/la-promesa-palac-tajemnic-odcinek-516-co-wydarzy-sie-w-serialu/m4pw93m",
+    "image": "https://cdn.kultura.onet.pl/1/KZIk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wNTYwZGQwNTBhMGM2OGZmZjJlOGE3YjAyNzkzMjk1OC5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-08T06:03:57+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "8 listopada oddział MNK Sukiennice będzie nieczynny",
+    "summary": "W związku z wydarzeniami 7 listopada 2026 r. w Krakowie informujemy, że 8 listopada 2026 r. oddział MNK Sukiennice będzie nieczynny dla zwiedzających.",
+    "link": "https://mnk.pl/8-listopada-oddzial-mnk-sukiennice-bedzie-nieczynny/",
+    "image": "https://mnk.pl/wp-content/uploads/2026/11/IMG_3226.jpeg",
+    "source": "Muzeum Narodowe w Krakowie",
+    "also": [],
+    "published": "2026-11-07T22:08:47+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Pokochałam ten serial od pierwszego odcinka. Dziwne, że nie jest o nim głośno",
+    "summary": "O najnowszym serialu Apple TV+ niewiele się mówi, a szkoda. Jest to jedna z najlepszych produkcji odcinkowych, jakie zadebiutowały na małym ekranie w 2026 roku.",
+    "link": "https://kultura.gazeta.pl/kultura/7,198697,33116083,pokochalam-ten-serial-od-pierwszego-odcinka-dziwne-ze-nie.html",
+    "image": "https://bi.im-g.pl/im/d4/94/1f/z33116116IHG,-Malutkie-cuda----kadr-z-serialu.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-08T07:00:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Ten film to największa klapa w historii Hollywood. Aktor obwinia krytyków",
+    "summary": "Najnowsza produkcja reżysera oscarowego \"Birdmana\" przyniosła setki milionów dolarów strat. Jeden z głównych aktorów, którzy pojawili się w filmie, obwinia za porażkę krytyków.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33115366,ten-film-to-najwieksza-klapa-w-historii-hollywood-aktor-obwinia.html",
+    "image": "https://bi.im-g.pl/im/20/94/1f/z33115936IHG,-Digger----kadr-z-filmu.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-08T06:00:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Antonin Baudry, réalisateur : « Pour faire des films, j’ai sauté dans le vide »",
+    "summary": "« Je ne serais pas arrivé là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. Le réalisateur de « La Bataille de Gaulle » revient sur son choix d’abandonner sa carrière de diplomate.",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/08/antonin-baudry-realisateur-pour-faire-des-films-j-ai-saute-dans-le-vide_6808395_3246.html",
+    "image": "https://img.lemde.fr/2026/11/05/343/0/7299/3649/644/322/60/0/d399d41_upload-1-pzfewsxmksut-000-b3g874g.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-08T05:00:05+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "‘My reward for waiting in the cold was this painting-like view of the ghat’: Priya Ojha’s best phone picture",
+    "summary": "There was dense fog over ​a sacred Indian river, but the photographer would not be deterred … When Priya Ojha first arrived at Yamuna Ghat in New Delhi, late in December 2021, she was disappointed.",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/07/painting-like-picture-of-yamuna-ghat-india-priya-ojha-best-phone-picture",
+    "image": "https://i.guim.co.uk/img/media/0c78de09318d4be6d07532400bc4168a0715a707/47_0_1406_1125/master/1406.jpg?width=140&quality=85&auto=format&fit=max&s=b05b4fb72a6110fd0cf4ea04aa748530",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-07T11:00:09+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "« Super-rafales, un phénomène sous surveillance », sur Arte : voyage au centre des mégatempêtes",
+    "summary": "A l’occasion de la COP31 sur le climat, des scientifiques passionnés décryptent ces phénomènes météorologiques récents et violents dans un documentaire spectaculaire.",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/07/super-rafales-un-phenomene-sous-surveillance-sur-arte-voyage-au-centre-des-megatempetes_6808297_3246.html",
+    "image": "https://img.lemde.fr/2026/11/02/1040/0/7677/3838/644/322/60/0/c6c713f_upload-1-k0wgoymiftxo-super-rafales2c-un-phc3a9nomc3a8ne-sous-surveillance-quadruple-columns-of-calamity.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-07T16:30:10+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Opisała mroczną stronę w historii Szwecji. \"Nie istnieją państwa nieskazitelne\" [WYWIAD]",
+    "summary": "Co zostaje z domu, kiedy ktoś odbiera do niego prawo? Kiedy woda zalewa wioski, przykrywa domy, cmentarze, ścieżki z dziecięcych lat, zamieniając znajomy krajobraz w zupełnie obcą przestrzeń?",
+    "link": "https://kultura.onet.pl/ksiazki/opisala-mroczna-strone-w-historii-szwecji-za-dlugo-milczelismy/qelsgxw",
+    "image": "https://cdn.kultura.onet.pl/1/7H2k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mMGI2N2Y0MzYzZmYyMGQyYjIyMmIwNTI2YzI0YjE4NC5wbmeSlQMAG80TiM0K_JMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-08T04:53:00+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Death Row’s Last Meals Anchor a Museum-Wide Survey of Incarceration Art",
+    "summary": "From now through January 2027, the Grand Rapids Art Museum is host to three solo exhibitions of art by or about people once incarcerated within the United States.",
+    "link": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902/",
+    "image": null,
+    "source": "ARTnews",
+    "also": [],
+    "published": "2026-11-07T13:40:00+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "From Wild Horse Nine to Kings of Leon: your complete entertainment guide for the week ahead",
+    "summary": "John Malkovich and Sam Rockwell team up in a typically offbeat Martin McDonagh comedy, and the Followill brothers reach album No 10 in rustic mode Wild Horse Nine Out now John Malkovich looks set to be nominated for an Oscar for his portrayal of an ageing CIA agent with terminal cancer who is sent to Easter Island…",
+    "link": "https://www.theguardian.com/culture/2026/nov/07/going-out-staying-in-wild-horse-nine-kings-of-leon",
+    "image": "https://i.guim.co.uk/img/media/7efb9c619c6940f4a9db01444059a1090d1ccc3e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fbe97f11afc2ee10c5d8eab0bfc99ec8",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-07T06:00:04+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Heartaches and a Mission Statement: 11 Songs We’re Talking About",
+    "summary": "The British singer, songwriter producer and D.J. Shygirl rides speedy break-beats on a new single.",
+    "link": "https://www.nytimes.com/2026/11/07/arts/music/dove-cameron-rex-orange-county-shygirl-songs.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07cul-songs-kgzv/07cul-songs-kgzv-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-07T10:01:47+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Największy spośród piosenkopisarzy - 10 lat temu zmarł Leonard Cohen",
+    "summary": "Był największym spośród piosenkopisarzy, tak określił go Nick Cave. Leonard Cohen — kanadyjski poeta i pieśniarz, autor „Suzanne”, „Hallelujah”, „Dance Me To The End of Love” i „Famous Blue Raincoat” — zmarł 10 lat temu, 7 listopada 2016 r., w Los Angeles w wieku 82 lat.",
+    "link": "https://dzieje.pl/wiadomosci/najwiekszy-sposrod-piosenkopisarzy-10-lat-temu-zmarl-leonard-cohen",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_19850301_008.jpg?itok=PWmhFisF",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-07T09:34:22+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Stary Teatr reaguje na tragedię w Krakowie. \"Jesteśmy wstrząśnięci\"",
+    "summary": "Narodowy Stary Teatr im. Heleny Modrzejewskiej w Krakowie odwołał wszystkie spektakle zaplanowane na dzisiejszy wieczór. W opublikowanym komunikacie powołał się na tragiczne wydarzenia w mieście oraz troskę o bezpieczeństwo. Zamknięte zostały również kasy.",
+    "link": "https://kultura.onet.pl/teatr/stary-teatr-reaguje-na-tragedie-w-krakowie-jestesmy-wstrzasnieci/ewgghvh",
+    "image": "https://cdn.kultura.onet.pl/1/i40k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMmY1M2Q2NWVjZTk4YTZmN2NlM2VkZTA3MjAyODVkZi5wbmeSlQMAAM0GaM0DmpMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-07T16:21:12+00:00",
+    "topic": "teatr"
+   }
+  ]
+ }
+}
