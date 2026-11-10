@@ -1,0 +1,751 @@
+{
+ "date": "2026-11-10",
+ "generated": "2026-11-10T13:54+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Russell Brand is sentenced to 10 1/2 years in British prison for rape and sexual assault",
+    "summary": "Russell Brand outside the London court last month as the trial was underway.",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3k5bUZCVzZ3bmpKMWtIVlVJM3YxWHRkUFpyQ0hjNE1WNWpUUkhwNldwZ0tkSmZxLWFUNzlZSzFSUjdIallGc3hDazdfMkUteWhyUFFhdmVFUTJscWNNQXJfMk5KRmdfN0Z5RTJ1anNrYWl2RXVpWlljR3AzMnhnc1FGVHd2elp2UW93Zkh6VDJvOTBDRWF2MERMclFObmJtNUdQdkk0VVJEVzFVWEZTdHJOVQ?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/09cul-russell-brand-sentencing-ktbl/09cul-russell-brand-sentencing-ktbl-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News",
+     "Euronews",
+     "France 24",
+     "NPR"
+    ],
+    "published": "2026-11-10T03:44:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "France accuses Iran of supermarket fridge hacking",
+    "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+    "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera",
+     "France 24",
+     "NPR",
+     "Reuters"
+    ],
+    "published": "2026-11-09T20:20:08+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+    "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe Europe live – latest updates US officials have said they are seeking a “final end” to the war between Russia and Ukraine, beginning with trilateral talks in Abu Dhabi on Tuesday, the…",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
+    "image": "https://i.guim.co.uk/img/media/83dc5bf0e0260881e9cd595c706a20cd0b0a8604/761_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c7b5181f4b6713c17b9829e20be81363",
+    "source": "Associated Press",
+    "also": [
+     "NPR",
+     "The Guardian"
+    ],
+    "published": "2026-11-10T11:46:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+    "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4b3c/live/e82766a0-dd04-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [
+     "Financial Times",
+     "The New York Times"
+    ],
+    "published": "2026-11-10T09:07:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Karambol na autostradzie w Bułgarii. 11 osób nie żyje, 50 zostało rannych",
+    "summary": "Jedenaście osób zginęło, a kilkadziesiąt trafiło do szpitali po karambolu z udziałem kilkudziesięciu pojazdów na autostradzie A1 w Bułgarii. Według agencji Reutera prawdopodobną przyczyną wypadku była gęsta mgła.",
+    "link": "https://www.rp.pl/wypadki/art45470761-karambol-na-autostradzie-w-bulgarii-11-osob-nie-zyje-50-zostalo-rannych",
+    "image": "https://i.gremicdn.pl/image/free/2ee492e77a85e20d729fc023cbba9c5d/?t=crop:2560:1119:nowe:0:160,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "Interia",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-10T11:19:45+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Hungary detains Viktor Orban's brother in people-smuggling probe, PM says",
+    "summary": "Arrest made by anti-corruption body set up to investigate alleged graft during former PM’s 16-year rule Hungarian authorities have detained a brother of Viktor Orbán as part of an investigation into people-smuggling, the prime minister, Péter Magyar , has said.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWtlUHNkRXpscUFMakl1dkxJREs1WktlV2NDWlRkc09FSjlGX3Y4ZjZGSkkzTy1ob0NuWktjc2dYVDVZZmwtdUZqd2dtTXFnbHdZVG5DYndNNWo3N1FpekpWTWkwVEdCUHVnQ19PUUhUZ3NMUEVsREFfVkh3V2ZSZ2FBS2dkQ0Uyak4zYmN1Zzh2eGtYZC01R25wN1hZUVlOdjZhbHUxZkFtS0hIMGZ0X0ZOLUU5MFAw?oc=5",
+    "image": "https://i.guim.co.uk/img/media/604e93edac296e07e502466ba760aa86b3b2e3b2/363_0_661_529/master/661.jpg?width=140&quality=85&auto=format&fit=max&s=64644d1e13002b88988b90a7fae6311d",
+    "source": "Reuters",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-10T07:26:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+    "summary": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
+    "link": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-eu-2092-rdf",
+    "image": "https://s.france24.com/media/display/8e77aaca-dc82-11f1-9693-a575454bc579/w:1024/p:16x9/2026-11-05T090059Z-1254041086-RC26DNA29012-RTRMADP-3-UKRAINE-CRISIS-USA-RUSSIA.jpg",
+    "source": "Deutsche Welle",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-09T23:46:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Disruption warning amid huge security operation in Dublin for EU meetings",
+    "summary": "Irish police say it is going to be the largest security operation in the history of the state.",
+    "link": "https://www.bbc.co.uk/news/articles/cxdd8vvll870o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a032/live/65995330-dc44-11f1-95cf-a38331e6cb4b.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-10T06:26:46+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "‘Double amputees run marathons,’ says Badenoch as she proposes £36bn cuts to disability and other benefits – UK politics live",
+    "summary": "Conservative leader launches Welfare That Works policy document Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher.",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/fd4ac543ecc001e3687386d0783003e964a14e4b/128_165_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=21f0f247c8cda5a3a4b4e693ee3e700e",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-10T12:33:38+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+    "summary": "US-led talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a…",
+    "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/107e559a07afa91b8a10b4e3226ef062b4051e0e/63_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=77ca63dc298bd7c55a13748902e04061",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-10T12:28:11+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "France’s response to protests is making Islamophobia worse. But ministers won’t even utter the word | Kamélia Ouaissa",
+    "summary": "French people like me live in fear because far-right hate speech goes unchecked. The consequences can be deadly Anger at the dilapidated state of schools may have been the starting point for the unrest that has rocked France for over a month, but the protest movement has grown into something much bigger.",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/10/france-protests-response-islamophobia-far-right-hate-speech",
+    "image": "https://i.guim.co.uk/img/media/ed488050a3bec61a70cccd5ebf401b6078b3e759/252_0_4381_3507/master/4381.jpg?width=140&quality=85&auto=format&fit=max&s=c0b5716e7607176b724ecb77a7f07820",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-10T11:22:05+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
+    "summary": "A soldier on a U.S. Army Bradley fighting vehicle during a NATO military exercise near Hohenfels, Germany, last month.",
+    "link": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-nato-troops-01-bwqz/00int-nato-troops-01-bwqz-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-10T11:01:02+00:00",
+    "topic": "bezpieczeństwo"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "M. John Harrison wins the 2026 Booker Prize for sci-fi novel ‘The End of Everything’",
+    "summary": "The book uses dark humour and elusive narratives to cast a futuristic lens on modern politics post-calamity.",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnJraF9HTXpzRnVEeXQyT3pILWYyTzJFdlJ6WUF0TEhyNjZZdHhUZk9FejQ3dlE5TV9sWlZlNmlnZ2VRS3R5SURSTnhFTkwtdGVaX2dpdlREeFdqcGhNOUJZMFItUFhxZnVsNnY1YWVmaDgyMUljYm5YM0g1ZGc1TE9LZkJqQ1l4Q0labHRHMU4?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09tbr-booker-prize-flcv/09tbr-booker-prize-flcv-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera",
+     "BBC News",
+     "Euronews Culture",
+     "France 24"
+    ],
+    "published": "2026-11-10T00:25:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "FBI is looking at Nvidia CEO Jensen Huang's affair with an alleged Chinese agent, Trump says",
+    "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWY3b0NNRFBNRG5jZVdXM05URnhOV19vQ24zV29la0k2S3FzZmN4ZzB3WlRwSXJMbHB6RE90MFVEZ2p4UUhMQUFlV0RMdmVZZUUxeFFEa2ljZTFlTlhXOFozaEczRlpPS2dmRXgxcGw2ZWdpNVJQVEltazV5UUZMUmpNMUdoX2NJRG1wVnJhbFRCTHBwbE1LcjZnMk4?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+    "source": "Associated Press",
+    "also": [
+     "BBC News",
+     "Euronews",
+     "The Guardian"
+    ],
+    "published": "2026-11-10T04:11:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "US aircraft evacuated from second British base due to Iran threat, WSJ reports",
+    "summary": "Bombers were withdrawn from RAF Fairford in October after an Iran-linked security incident.",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFRRSTBsbG02aEtlczAwSUpUMTd3ZkFRQUp6emg3SHZpclZSTXZiQUl6TWRMUVJuZ0U5T1MtdFhkblNEYWtiN1B5YnBtNnVaSVFyV1NqTk5Jd1g5SHU5eWFjWk45TWVYLUdJbi0zb2R2c2tZMXlvT2tZMVRaUjd1ek51NTFQcWJ2SXpMMkZqZ29UbkRkTWlyNmpleE5aOTJlZ3FDb21FQVRyNlVoalM3MWVUdw?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "Politico Europe"
+    ],
+    "published": "2026-11-10T04:58:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Too big to fire",
+    "summary": "Should Jensen Huang stay or go?",
+    "link": "https://www.ft.com/content/e1c37583-0b76-48ab-96b7-8e7da453fa88?syn-25a6b1a6=1",
+    "image": "https://static01.nyt.com/images/2026/11/09/science/09SCI-UNKNOWNS-LOST-top2/09SCI-UNKNOWNS-LOST-top2-mediumSquareAt3X.jpg",
+    "source": "Financial Times",
+    "also": [
+     "Al Jazeera",
+     "The New York Times"
+    ],
+    "published": "2026-11-10T07:10:16+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+    "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+    "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-10T12:25:48+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports",
+    "summary": "Jensen Huang, the chief executive of Nvidia, in March.",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-theworld-nvidia-01-wkfl-promo/10int-theworld-nvidia-01-wkfl-promo-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-10T12:14:40+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "'Cruise for life' ship seized in Singapore",
+    "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/54ec/live/78680920-dca3-11f1-93a0-e3acb3757eea.jpg",
+    "source": "BBC News",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-11-10T01:49:06+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
+    "summary": "Prime Minister Anthony Albanese of Australia announced recommendations to prevent future breaches after OpenAI models went rogue and gained unauthorized access to government systems this year.",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-oz-ai-kcbj/10int-oz-ai-kcbj-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-10T01:30:00+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "France blames Iran for a cyberattack that heated supermarket refrigerators",
+    "summary": "A supermarket last month in Névez, in western France, after a cyberattack that caused refrigerators to malfunction.",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3MxdFVOdmN3Y2lHVWlZVHRIdjJLbElKcTl6YnN0N3RwZXZXalAySVdselJLaEVMSXp5Q3MzVU9UNWxBSmhMWXJCYzF2bV94bEgzM0x2UUpwbS1CWUgtaDBpVmEwRTluSGNtVlE1N2QyWTJURWg5OUpFTy1WQm41RWEyYUxfWXhoZjVEUVNVbldOX3UySFh1VjctSWNqN0NPaTMwVlprWF82UVg0OVE?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-france-1-qpzc/09int-france-1-qpzc-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-10T01:17:00+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Kazachstan/ Archeolodzy odkryli złotą figurkę niedźwiedzia z IV–III wieku p.n.e.",
+    "summary": "Kazachstan/ Archeolodzy odkryli złotą figurkę niedźwiedzia z IV–III wieku p.n.e. tryton wt., 11/10/2026 - 09:10 3 minuty",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVlaUnhjZFlDLVQwUTdlWUd6amhUYXdjTjYxNVBDZlVsUVhPWklLYTFMM3hMZVNhb1FUY1FkM1ljd3BDeFhvaEZuSWhtb04yRUhQbmpoMnFZU0xCcUNwSC11NHVfZHpKa0VoR1c3QjZIeTJqMTN6RjdLbk1QZ3N6TzR3cTc1Smh5dzlPanR0Q21yMTRSQ3FVaGlkMXFtSEc1amtmX1FXbVdqdE5jd1VBNnF2X1NRVmJvOXVQSlVMYVMxS1dIbGY1NF9KOA?oc=5",
+    "image": null,
+    "source": "PAP",
+    "also": [
+     "Nauka w Polsce"
+    ],
+    "published": "2026-11-10T08:10:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+    "summary": "Campaign over Prop 40, as measure was known, was most expensive in state history, flush with Silicon Valley dollars California billionaires won a contentious ballot measure campaign, defeating a proposed one-time tax on their wealth.",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+    "image": "https://i.guim.co.uk/img/media/026aa3fdbb690df527b92e025e1f71eeafb7876b/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=962fb4fb032105acbfe9d9031d8ba874",
+    "source": "The Guardian",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-10T02:54:54+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Trump says more US attacks on Iran 'highly unlikely'",
+    "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-10T09:40:31+00:00",
+    "topic": "bezpieczeństwo"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Nowe ceny paliw na środę i czwartek",
+    "summary": "W środę i w czwartek litr benzyny 95 ma kosztować nie więcej niż 6,10 zł, benzyny 98 – 6,70 zł, a diesla - 7,66 zł - przekazało Ministerstwo Energii.",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qb2dQREVTdWNxZWlieWlHU0lhLTEzNVd6SnlEUVNmTjdMM19OaGh0WWV0TjJHNkRvbGVFdnZxWUpqS0ppODlpY1RBR2s0bjQtWURISnMyQ0gwZXVfWGY2djdGMlA5a28xRDN4c2tOSFZTcGta?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/e9/d3/znamy-nowe-maksymalne-ceny-paliw-zdj-636x421-e9d3d049.jpg",
+    "source": "PAP",
+    "also": [
+     "Polsat News",
+     "RMF24 Ekonomia"
+    ],
+    "published": "2026-11-10T11:53:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Nowy sondaż dla RMF FM: Polacy wskazali, co dalej z Trybunałem Konstytucyjnym",
+    "summary": "Zdaniem 30 proc. badanych należy przeprowadzić reformę Trybunału Konstytucyjnego i wybrać jego skład od nowa - wynika z sondażu Opinia24 dla RMF FM. Co zwraca uwagę, niemal tyle samo ankietowanych nie potrafi stwierdzić, jakie rozwiązanie sporu jest najlepsze. Taką opcję, spośród sześciu możliwych, wskazało 27 proc.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-nowy-sondaz-dla-rmf-fm-polacy-wskazali-co-dalej-z-trybunalem,nIdn,1025442",
+    "image": "https://rmf.rmffm.pl/news/attachments/ef/3c/sondaz-opinia-24-dla-rmf-fm-636x421-ef3cd48e.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia",
+     "TVP Info"
+    ],
+    "published": "2026-11-10T05:40:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wiceminister z PSL usłyszał prokuratorskie zarzuty. Jest komunikat",
+    "summary": "Wiceminister spraw zagranicznych i poseł PSL Władysław Teofil Bartoszewski usłyszał zarzuty - poinformowała Prokuratura Krajowa. Chodzi o m.in. przywłaszczenie miliona funtów, 405 tysięcy euro i około 7 milionów złotych.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-wiceminister-z-psl-uslyszal-prokuratorskie-zarzuty-jest-komu,nId,23571624",
+    "image": "https://i.iplsc.com/-/000NINEBHLK3PBHF-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Bankier.pl",
+     "TVP Info"
+    ],
+    "published": "2026-11-10T08:29:50+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "„Szkody na ponad milion złotych”. Kolejny zarzut dla Piesiewicza",
+    "summary": "Były prezes Polskiego Komitetu Olimpijskiego Radosław Piesiewicz usłyszał kolejne zarzuty dotyczące wystawiania faktur na miliony złotych. Śledztwo obejmuje działalność podmiotów związanych z polską koszykówką i PKOl – podaje TVN24.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-szkody-na-ponad-milion-zlotych-kolejny-zarzut-dla-piesiewicz,nIdn,1025616",
+    "image": "https://rmf.rmffm.pl/news/attachments/8f/e7/radoslaw-piesiewicz-636x421-8fe71ee8.jpg",
+    "source": "RMF24",
+    "also": [
+     "money.pl"
+    ],
+    "published": "2026-11-10T11:55:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zdolność kredytowa Polaków mocno w dół. Alarmujące dane",
+    "summary": "W październiku 2026 r. pogorszyła się zdolność kredytowa przeciętnie zarabiających Polaków. Oznacza to, że osoby planujące zakup mieszkania mogą liczyć na niższe kwoty kredytów hipotecznych, a jednocześnie mają do wyboru mniej lokali mieszczących się w ich budżecie. Najbardziej odczuły to single i bezdzietne pary.",
+    "link": "https://www.rmf24.pl/fakty/ekonomia/news-zdolnosc-kredytowa-polakow-mocno-w-dol-alarmujace-dane,nIdn,1025592",
+    "image": "https://rmf.rmffm.pl/news/attachments/bb/ff/zdjecie-ilustracyjne-636x421-bbfff35b.jpg",
+    "source": "RMF24",
+    "also": [
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-11-10T10:36:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Paul McCartney został miliarderem. Wielki majątek byłego Beatlesa",
+    "summary": "Znany z zespołów The Beatles i Wings angielski muzyk Paul McCartney zajął trzecie miejsce na liście najbogatszych muzyków na świecie – podał magazyn „Forbes”. Majątek autora „Yesterday” i „Hey Jude” to 1,4 mld dol.",
+    "link": "https://www.rp.pl/muzyka-popularna/art45470261-paul-mccartney-zostal-miliarderem-wielki-majatek-bylego-beatlesa",
+    "image": "https://i.gremicdn.pl/image/free/4e1b5172a5045cb389cdac2d158260f5/?t=crop:4000:1749:nowe:0:323.75545851528,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-10T12:06:45+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Najstarszy laureat nagrody Bookera. „To opowieść o apokalipsie”",
+    "summary": "Thriller, kryminał i powieść drogi.",
+    "link": "http://www.tvp.info/96400722/wielka-brytania-rozdanie-nagrod-bookera-booker-prize-dla-michaela-johna-harrisona",
+    "image": "http://s19.tvp.pl/images2/9/2/5/uid_925d99c856994bc2a2bdfcd082c0b808_width_1280_play_0_pos_0_gs_0_height_720.jpg",
+    "source": "TVP Info",
+    "also": [
+     "Onet Kultura"
+    ],
+    "published": "2026-11-10T07:17:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+    "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+    "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2788/live/5536cf80-dcdb-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-10T05:38:53+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+    "summary": "Poles gathering on Monday evening to mourn the victims of a shooting rampage in Krakow.",
+    "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-new2-pqvj/09int-poland-new2-pqvj-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-10T11:29:10+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Dostawa armatohaubic K9 do Polski. Dotychczas takiej nie było",
+    "summary": "Do Polski przybył ciężki sprzęt z Korei Południowej. Na pierwszy rzut oka wygląda to jak jedna z wielu już zrealizowanych dostaw – na statku przybyły nowe czołgi K2 i armatohaubice samobieżne K9. Po raz pierwszy jednak były to najnowsze K9PL.",
+    "link": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art45471201-dostawa-armatohaubic-k9-do-polski-dotychczas-takiej-nie-bylo",
+    "image": "https://i.gremicdn.pl/image/free/2c0dd6cfc0efd879032ed8875e31fe41/?t=crop:1199:524:nowe:0:75,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-10T12:49:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Setki żab w pradziejowej osadzie. Archeolodzy przypuszczali, że to ślady rytuału. Prawda okazała się inna",
+    "summary": "Kości kilkuset żab odkryli archeolodzy w rowie na terenie pradziejowej osady w Wielkiej Brytanii. Takie znalezisko wywołało konsternację i zdziwienie wśród badaczy. Przypuszczano, że miało związek z rytuałami. Prawda zaskoczyła jednak wszystkich.",
+    "link": "https://www.national-geographic.pl/historia/setki-zab-w-pradziejowej-osadzie-archeolodzy-przypuszczali-ze-to-slady-rytualu-prawda-okazala-sie-inna/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/55/setki-zab-w-pradziejowej-osadzie-archeolodzy-przypuszczali-ze-to-slady-rytualu-prawda-okazala-sie-inna.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-10T12:23:18+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Nagły zwrot w pogodzie pozytywnie nas zaskoczy. W tych regionach nawet 18 stopni",
+    "summary": "Chociaż ostatnie noce i poranki były bardzo mroźne, najbliższe dni zapowiadają wyraźną zmianę pogody. Do Polski zacznie napływać cieplejsze powietrze z południa Europy, a w części kraju termometry mogą w przyszłym tygodniu pokazać nawet 18 stopni.",
+    "link": "https://www.rp.pl/kraj/art45470931-nagly-zwrot-w-pogodzie-pozytywnie-nas-zaskoczy-w-tych-regionach-nawet-18-stopni",
+    "image": "https://i.gremicdn.pl/image/free/ff4e3da802e25846ed33a1e6fa5b37dc/?t=resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-10T12:06:59+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Prezydent Karol Nawrocki mianował nowych generałów. Jest komunikat BBN",
+    "summary": "",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkVUMzZscEdYV21CRUd6cUZSQWZGc1VEblBQbFNSN1F4LU5ycGQwUHc2RUVYQXFiTHNGellYcWNFZFM0MExud1NNWW1UZWZoYnFZeDdnSzQtaVVTZVFsaEpCbDIxWTRBZlFMbXU4djZWQkd5NkhkVXlzNnRqeW5fUlVsQ1ZMdFFNVW5UaWhWVWZhamhLZWJLcnI1U0ZzbVRHZlE?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/b3/32/piotr-nowak-636x421-b3324e4d.jpg",
+    "source": "PAP",
+    "also": [
+     "RMF24"
+    ],
+    "published": "2026-11-10T10:20:23+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Przez wieki strzegły granic królestwa, dziś przyciągają turystów. Szlak Orlich Gniazd został Cudem Polski 2026",
+    "summary": "Średniowieczne zamki wznoszące się na wapiennych skałach, ruiny dawnych warowni i malownicze krajobrazy sprawiają, że Szlak Orlich Gniazd należy do najbardziej charakterystycznych tras turystycznych w Polsce.",
+    "link": "https://www.national-geographic.pl/traveler/kierunki/przez-wieki-strzegly-granic-krolestwa-dzis-przyciagaja-turystow-szlak-orlich-gniazd-zostal-cudem-polski-2026/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/55/szlak-orlich-gniazd-jako-cud-polski-2026.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-10T11:40:19+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "W. Żurek ujawnia nowe ustalenia po zamachu w Krakowie. Tłumik w samochodzie sprawcy i ślady zainteresowania Breivikiem",
+    "summary": "Śledczy znaleźli tłumik w samochodzie sprawcy zamachu w Krakowie. Zabezpieczyli także jego komputer, na którym odwiedzane były strony dotyczące Andersa Breivika, norweskiego skrajnie prawicowego terrorysty.",
+    "link": "https://radiokrakow.pl/audycje/publicystyka/poranna-rozmowa-radia-krakow/w-zurek-ujawnia-nowe-ustalenia-po-zamachu-w-krakowie-tlumik-w-samochodzie-sprawcy-i-slady-zainteresowania-breivikiem/187548",
+    "image": "https://rmf.rmffm.pl/news/attachments/55/f6/samochod-636x421-55f6e3d6.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "Bankier.pl",
+     "RMF24",
+     "RMF24 Kraków",
+     "TVP Info"
+    ],
+    "published": "2026-11-10T07:07:42+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Stan osób rannych po strzelaninie w Krakowie jest stabilny",
+    "summary": "We wtorek rano w szpitalach wciąż przebywa 14 z 15 rannych osób postrzelonych przez napastnika w sobotniej strzelaninie na Rynku Głównym w Krakowie. Ich stan jest stabilny. W poniedziałek jedna osoba opuściła szpital — przekazał rzecznik wojewody małopolskiego Maksymilian Kosowski.",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0RuZGs5bEF6NWs5MHhkNTdQaF9YNk1oRzQxQUFfb1Y1ZEw3RmtDd0dZUUE1N2VxY3o0SFZyNXRsNXBuODlfX0hfSzBJMnZBZkJZV0hKdC1xZ3FMX1QwWjlTVDF4RktLM3NCMVpDTTE4aGJMUG5YeGFXZC1zYnpOWkZENEJrUE4xcTBWYmVINHdQX1NtdG9hQ1BXYWxieEdkRjdzLVQ3ZHJ4ZTg?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/fa/39/zespol-lekarzy-ze-szpitala-jana-pawla-ii-w-krakowie-ktory-zajmowal-sie-poszkodowanymi-w-strzelaninie-636x421-fa39d22f.jpg",
+    "source": "PAP",
+    "also": [
+     "RMF24 Kraków",
+     "Radio Kraków"
+    ],
+    "published": "2026-11-10T08:33:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "RTV Euro AGD wstrzymuje reklamy w Republice. Sakiewicz wzywa do bojkotu",
+    "summary": "RTV Euro AGD zdecydowało się wycofać reklamy z Telewizji Republika po relacji stacji z ataku w Krakowie. Tomasz Sakiewicz wezwał klientów sieci do bojkotu i zwrotu zamówionych towarów. W odpowiedzi na decyzję sieci pojawiła się też oferta zakupowa sklepu powiązanego z nadawcą.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11342887,rtv-euro-agd-wstrzymuje-reklamy-w-republice-a-sakiewicz-wzywa-do-bojkotu.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2Ru/LnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAw/MDAwNzY5ODg0MS9maWxlcy9ydHYtZXVyby1hZ2QtaS10b21h/c3otc2FraWV3aWN6LTM5MzEzODE0LmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Bankier.pl",
+     "Business Insider Polska"
+    ],
+    "published": "2026-11-10T09:12:00.917000+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zamach na Rynku Głównym w Krakowie. Policja powołała specgrupę",
+    "summary": "Komendant Wojewódzki Policji w Krakowie nadinsp. Artur Bednarek powołał specjalną grupę funkcjonariuszy, która ma kompleksowo wyjaśnić przebieg sobotniego zdarzenia na Rynku Głównym w Krakowie oraz ustalić motywy sprawcy – poinformowała we wtorek małopolska policja.",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY256RFBRRk56dURza2pGQ3p0cm1jNlJaOU85c1NwRUNwRHAtSEhheU11WEpFazV4Qmw5R2huMks1bDNQWk5nZWlkaHBlLVhodC1IQlRDd2VVSG95ZW83aXNHeHBJckNCQnRwYXFUY3cyRXZWU3pXc241SUs5QndFT2tJT3VKcnRCLWJVZnE1d1RJbld0WkdV?oc=5",
+    "image": null,
+    "source": "PAP",
+    "also": [
+     "Radio Kraków"
+    ],
+    "published": "2026-11-10T12:37:01+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "18 listopada Komisja ds. Służb Specjalnych zapozna się z informacją o zamachu w Krakowie",
+    "summary": "Z informacjami o zamachu w Krakowie zapozna się w przyszłą środę, 18 listopada, sejmowa Komisja ds. Służb Specjalnych – wynika ze zmienionego porządku posiedzenia dostępnego w internecie na stronach Sejmu.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/18-listopada-komisja-ds-sluzb-specjalnych-zapozna-sie-z-informacja-o-zamachu-w-krakowie/187547",
+    "image": "https://rmf.rmffm.pl/news/attachments/c6/ca/krakow-po-sobotniej-strzelaninie-636x421-c6ca23f6.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "RMF24"
+    ],
+    "published": "2026-11-10T06:45:19+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Premier: poszkodowani z Krakowa otrzymają ponadstandardową pomoc",
+    "summary": "",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQblRNLW11NDlBcDRkOU9GMjdCY09JaktXOXMyeWYxN2MzdE5ZTENKUFJNaVd0dUlaMnBxc1N0V0lUR2lPblVEdmp2ZGplWnpIdkVfa2R6OVBFd2doczIyb085X2NZTmRmSHNqRWd0S1pZZmNaczNCaGNRRFRvTEFRTDFJQXpPWGVheXNVaTNOQmF0NVlFa1VEUkpsNlFvV2J0UFhYOXp3cmM1a3Nfc25KVW14blI?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/cf/5f/donald-tusk-fot-636x421-cf5f2a2c.jpg",
+    "source": "PAP",
+    "also": [
+     "RMF24",
+     "TVP Info"
+    ],
+    "published": "2026-11-10T11:40:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "„Za ofiarność i odwagę”. Dwaj policjanci z Krakowa zostali odznaczeni przez prezydenta",
+    "summary": "Prezydent RP Karol Nawrocki zdecydował o nadaniu Krzyży Oficerskich Orderu Odrodzenia Polski starszemu posterunkowemu Jakubowi Kulikowi i starszemu posterunkowemu Arturowi Morańskiemu za wybitne zasługi na rzecz zapewniania porządku i bezpieczeństwa oraz wyjątkową ofiarność i odwagę - przekazał szef BBN Bartosz…",
+    "link": "https://www.rmf24.pl/regiony/krakow/news-za-ofiarnosc-i-odwage-dwaj-policjanci-z-krakowa-zostali-odzn,nIdn,1025507",
+    "image": "https://rmf.rmffm.pl/news/attachments/3d/b9/miejsce-zatrzymania-sprawcy-ataku-fot-636x421-3db9ff53.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-09T18:26:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Zakopane od sierpnia bez porodówki. Oddział ruszy jeszcze w listopadzie?",
+    "summary": "Przerwa miała potrwać do końca wakacji, ale szpitalowi zabrakło lekarzy do obsadzenia dyżurów. Później władze zakopiańskiej lecznicy szykowały się do ponownego otwarcia porodówki, ale w ostatniej chwili zrezygnował lekarz kierujący oddziałem.",
+    "link": "https://lovekrakow.pl/zakopane-od-sierpnia-bez-porodowki-oddzial-ruszy-jeszcze-w-listopadzie",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/4008538af726243b9503adbe5ed98955.JPG.webp?itok=xIH4yw4g",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-10T11:20:01+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Kopić zwolniony z Wieczystej. Dostanie fortunę",
+    "summary": "Żeljko Kopić nie jest już trenerem Wieczystej. Chorwat stracił posadę po słabych wynikach, ale na otarcie łez otrzyma olbrzymią odprawę z kasy krakowskiego klubu.",
+    "link": "https://lovekrakow.pl/kopic-zwolniony-z-wieczystej-dostanie-fortune",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-09/138870a43f86fad434ebdc732279295d.jpg.webp?h=4362216e&itok=7YMfIWOM",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-10T08:19:26+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Będą nagrody dla strażników miejskich. „Na miejscu zachowali się wzorcowo”",
+    "summary": "Kraków planuje nagrody finansowe dla strażników miejskich, którzy pomagali podczas sobotniego zamachu. Zapowiedział je prezydent Łukasz Gibała.",
+    "link": "https://lovekrakow.pl/beda-nagrody-dla-straznikow-miejskich-na-miejscu-zachowali-sie-wzorcowo",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/554a87a0c08cddc0afec28279fa4cf19.jpeg.webp?itok=GfL1EHLn",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-10T07:47:36+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "From Hendrix to Bowie: the trippiest music concert posters – in pictures",
+    "summary": "Günther Kieser is behind some of the most singular music poster designs of the 20th century. Inspired by sculpture, the free-form nature of jazz and psychedelic art, the German artist created works for David Bowie, Jimi Hendrix and Diana Ross and the Supremes, as well as mind-expanding designs for leading brands and…",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/10/gunther-kieser-concert-posters",
+    "image": "https://i.guim.co.uk/img/media/b1d2b1f3c7128bd4fad358c4b5be2045f05a3163/250_0_1773_1420/master/1773.jpg?width=140&quality=85&auto=format&fit=max&s=36efbeb6948ec526fd683bd8b2afc9d6",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-10T12:00:52+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "‘I’m lucky to have grown up around artists’: Cora Sheibani on her path to becoming a jeweller",
+    "summary": "The designer shares her love of books and what luxury means to her",
+    "link": "https://www.theartnewspaper.com/2026/11/10/it-was-hard-to-be-taken-seriously-cora-sheibani-on-growing-up-in-the-art-world-and-becoming-a-jeweller",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/56107dcf943a4f47847a908a6c20b970c2d6ec22-728x1091.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-10T11:50:25+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "‘I’m looking for faces which surprise me’: how Richard Avedon photographed the soul of his subjects",
+    "summary": "Ron Howard’s illuminating Netflix documentary looks back on the career of one of America’s most inventive and versatile photographers Richard Avedon had only taken a couple of frames when he accidentally hit his head on a light being held above him. The Dalai Lama burst into laughter.",
+    "link": "https://www.theguardian.com/film/2026/nov/10/richard-avedon-photography-netflix-documentary",
+    "image": "https://i.guim.co.uk/img/media/c68b486daa29ebd2a8d358b39ad06a60105e317b/1094_0_8998_7200/master/8998.jpg?width=140&quality=85&auto=format&fit=max&s=ca349534578edbba9a7ed357431e7841",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-10T10:00:34+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Paul McCartney becomes a billionaire and world’s third richest musician",
+    "summary": "According to a new analysis by Forbes, the former Beatle now has a net worth of $1.4bn, placing him behind Jay-Z and Taylor Swift Paul McCartney has joined the ranks of the world’s billionaires.",
+    "link": "https://www.theguardian.com/music/2026/nov/09/paul-mccartney-billionaire",
+    "image": "https://i.guim.co.uk/img/media/7a11565459ffd42b9478c7b81e22f1329b6af336/0_2390_5584_4466/master/5584.jpg?width=140&quality=85&auto=format&fit=max&s=986dc35a82e92744e8a6fbdfae2e7031",
+    "source": "The Guardian",
+    "also": [
+     "Euronews Culture"
+    ],
+    "published": "2026-11-09T21:22:33+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Dyrektor MHP: pamięć narodowa powinna być jak zróżnicowany las, a nie jednorodne pole pszenicy",
+    "summary": "Im bardziej będziemy dążyć do jednej kanonicznej wersji historii Polski, tym podatniejsi będziemy na manipulację i polaryzację – ocenia dr hab. Marcin Napiórkowski, dyrektor Muzeum Historii Polski. Dodał, że to jak z jednorodnym polem pszenicy, gdzie wystarczy jeden czynnik i cały",
+    "link": "https://dzieje.pl/wiadomosci/dyrektor-mhp-pamiec-narodowa-powinna-byc-jak-zroznicowany-las-nie-jednorodne-pole",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20261104_13B.jpg?itok=R-Kqf_kA",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-10T09:52:37+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Canada’s proposed federal budget includes tax breaks for artists and $554m funding boost for museums",
+    "summary": "Like the Liberal government’s 2025 budget proposal, this year’s also calls for adopting an artist’s resale right policy",
+    "link": "https://www.theartnewspaper.com/2026/11/09/canada-budget-proposal-tax-break-artists-museum-funding-boost",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/317a87e00b0699b44338def66064bfb2fffe9822-2000x1125.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-09T22:21:31+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Historia jednej fotografii z Bazy Zdjęć PAP: Route 66, droga – symbol Ameryki, ma 100 lat",
+    "summary": "Route 66 kończy 100 lat. Choć nie jest najstarsza, Droga 66 jest najbardziej ikoniczną autostradą w historii Ameryki, a może nawet świata. Obok gwiaździstego sztandaru, Coca-Coli, Elvisa Presleya i McDonalda, Droga 66 jest najbardziej rozpoznawalnym symbolem USA.",
+    "link": "https://dzieje.pl/wiadomosci/historia-jednej-fotografii-z-bazy-zdjec-pap-route-66-droga-symbol-ameryki-ma-100-lat",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20110228_1P5_0.jpg?itok=cPCs9COI",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-10T10:05:09+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Swedish museums restitute objects to Nigeria and Bolivia",
+    "summary": "The objects being returned from museums in Stockholm and Gothenburg include Benin bronzes looted by British troops in 1897 and pre-Colombian sacred objects robbed from graves near La Paz in the 1970s",
+    "link": "https://www.theartnewspaper.com/2026/11/09/swedish-museums-restitute-objects-to-nigeria-and-bolivia",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/9da399efff43bc3ccc5a97f2a1a8c47af5ad777f-3970x2977.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-09T16:47:10+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Gwiazda Hollywood o tragedii w Krakowie. Poruszające słowa na festiwalu",
+    "summary": "Hollywoodzki aktor i reżyser Tim Blake Nelson przyjechał do Torunia promować swój najnowszy film. Prezentację produkcji rozpoczął jednak słowami o tragedii w Krakowie.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33124870,gwiazda-hollywood-o-tragedii-w-krakowie-poruszajace-slowa-na.html",
+    "image": "https://bi.im-g.pl/im/80/97/1f/z33125248IHG,Amanda-Seyfried-i-Tim-Blake-Nelson.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-10T12:00:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Just How Famous Is Yoshitomo Nara?",
+    "summary": "Plus, Lucien Smith’s cause of death, and a museum for sale on Facebook Marketplace.",
+    "link": "https://news.artnet.com/artnet-bulletin/just-how-famous-is-yoshitomo-nara-2834395",
+    "image": null,
+    "source": "Artnet News",
+    "also": [],
+    "published": "2026-11-10T08:00:53+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Keanu Reeves wraca do kultowej roli. Tym razem zobaczymy go w wydaniu, jakiego jeszcze nie było",
+    "summary": "Keanu Reeves powraca jako John Wick. Studio Lionsgate oficjalnie zapowiedziało nowy film o słynnym płatnym zabójcy. Tym razem twórcy pokażą wydarzenia, których nie przedstawiono w żadnej z dotychczasowych części. Zmieni się również forma produkcji, co może zaskoczyć fanów serii.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33123664,keanu-reeves-wraca-do-kultowej-roli-tym-razem-zobaczymy-go.html",
+    "image": "https://bi.im-g.pl/im/70/96/1f/z33123696IHG,Keanu-Reeves.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-10T11:09:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "7 piosenek w 3 sekundy. Widzowie \"Jaka to melodia?\" przecierali oczy. \"Sam Janowski zaniemówił\"",
+    "summary": "W poniedziałkowym odcinku \"Jaka to melodia?\" doszło do niezwykle szybkiego finału. Uczestnik o imieniu Mikołaj wykazał się świetną znajomością muzyki i błyskawicznym refleksem. Wystarczyły mu krótkie fragmenty znanych przebojów, by zdobyć pokaźną sumę pieniędzy.",
+    "link": "https://kultura.gazeta.pl/kultura/7,197031,33125137,7-piosenek-w-3-sekundy-widzowie-jaka-to-melodia-przecierali.html",
+    "image": "https://bi.im-g.pl/im/64/97/1f/z33125220IHG,-Jaka-to-melodia--.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-10T10:10:00+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "„Kosmiczna geometria” w Fundacji Profile",
+    "summary": "; ; a:2:{i:0;s:1:\"4\";i:1;s:5:\"25448\";}; Widok wystawy \"Kosmiczna geometria\", fot. archiwum Fundacji Profile; ; 0; ; ; ; ; Natalia Brandt, Jerzy Budziszewski, Jarosław Kozłowski, Józef Robakowski, Henryk Stażewski, Teresa Tyszkiewicz, Ryszard Waśko, Krzysztof Wodiczko; ; ; ; Kosmiczna geometria; Fundacja Profile…",
+    "link": "https://magazynszum.pl/kosmiczna-geometria-w-fundacji-profile/",
+    "image": "https://magazynszum.pl/wp-content/uploads/2026/11/12-1440x1080.jpg",
+    "source": "Magazyn Szum",
+    "also": [],
+    "published": "2026-11-10T05:00:28+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Był o krok od śmierci. Teraz Phil Collins mówi o powrocie na scenę",
+    "summary": "Jeszcze dwa lata temu jego bliscy żegnali się z nim, gdy walczył o życie po poważnych problemach zdrowotnych. Dziś Phil Collins nie tylko wrócił do lepszej formy, ale także przyznaje, że coraz częściej myśli o ponownym wyjściu na scenę.",
+    "link": "https://kultura.onet.pl/muzyka/wiadomosci/niedawno-walczyl-o-zycie-phil-collins-mysli-o-powrocie-na-scene/ytx9cz7",
+    "image": "https://cdn.kultura.onet.pl/1/nWGk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jMjI5ODNjODkzNWI0YzM4OWRlOTQ0YzJkOTdjMGM1Mi5qcGeSlQPNAavNASHNDzLNCI2TBc0JYM0GQN4AAqEwB6ExBA",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-10T11:33:26+00:00",
+    "topic": "teatr"
+   }
+  ]
+ }
+}
