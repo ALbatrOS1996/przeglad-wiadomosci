@@ -1,0 +1,741 @@
+{
+ "date": "2026-11-11",
+ "generated": "2026-11-11T13:05+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Workers across Spain stage first general strike in 14 years as anger rages over housing",
+    "summary": "Unions stage action over soaring housing costs and low wages ahead of November 29 snap election",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Financial Times",
+     "NPR"
+    ],
+    "published": "2026-11-11T11:20:49+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "US soldier assigned to NATO unit arrested in Britain on suspicion of espionage linked to Russia",
+    "summary": "The F.B.I. director, Kash Patel, said in a statement, “This F.B.I. has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners.”",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE1BdG9yN2hIRmJMbEFZdlEzZi1fUWpETU5WYU44WjJJZEJBTWYxNFF6X1pkSmVQUU1KbnRLWlJuMk9JTjZEd2VScHdHZGMxQTQ0bDgxclBIdmZqWVVPWFlzTjFBM3lUR0lWN04tZ0FfTlY1UTR5eHgya3VRVVQwTy0xZ1h4ZXNpWWI0ZXQ4V0V0WEN3OHlETTE0Zw?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "Euronews",
+     "France 24",
+     "The New York Times"
+    ],
+    "published": "2026-11-10T21:21:51+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Miał szpiegować na rzecz Rosji. Żołnierz USA aresztowany w Wielkiej Brytanii",
+    "summary": "Żołnierz armii USA został zatrzymany w Wielkiej Brytanii - przekazała brytyjska policja. 41-latek jest podejrzewany o szpiegostwo na rzecz Rosji. - Nie tolerujemy nikogo, kto złamie przysięgę złożoną Stanom Zjednoczonym - mówił szef FBI Kash Patel. Amerykańskie służby współpracują z Brytyjczykami w ramach śledztwa.",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkVRTURSbkU1UDJSZE8yVHN1M1FyMTNyNGZPeGRQNlpROGtZMVFwZ01KdWR6YlppYkJqNzJEZWJEZ1VHVHNXa3dwSVl3NElmb2luMU1UOEJ1a2FqOFh5em5oRjFKZVVOMlhvTTBjZzBFcHdMU09reWw3Vk02WVRBSXhUVFhZVnBkSGxIWnU4eE5NZXVpUGVsd3pnV2NUdW9ZZWExWXBPZnNqdw?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/6a/00/zdjecie-ilustracyjne-636x421-6a00116d.jpg",
+    "source": "PAP",
+    "also": [
+     "Interia",
+     "Polsat News",
+     "RMF24"
+    ],
+    "published": "2026-11-10T19:51:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Russia, Ukraine and US start second day of Abu Dhabi peace talks",
+    "summary": "Peace talks between Russia, Ukraine and the US concluded in the United Arab Emirates. The two day talks were the first such meeting since February. DW has the latest updates.",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
+    "image": "https://s.france24.com/media/display/1e5afdd0-ddb0-11f1-b63d-695cb59fade5/w:1024/p:16x9/EN-20261111-080428-080610-CS.jpg",
+    "source": "Reuters",
+    "also": [
+     "Deutsche Welle",
+     "France 24"
+    ],
+    "published": "2026-11-11T11:05:50+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Rozmowy pokojowe ws. Ukrainy w Abu Zabi",
+    "summary": "W Abu Zabi, stolicy Zjednoczonych Emiratów Arabskich, odbyło się trójstronne spotkanie Ukraina-USA-Rosja w ramach negocjacji, które mają określić zasady zakończenia rosyjskiej agresji na Ukrainę. Reuters, powołując się na władze w Kijowie, przekazał, że rozmowy będą kontynuowane w środę.",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pTkEzU1ZwQWFicnUzZElBZnBUTjVpa1BOd3VDelJ2cWtQR1h0d1AyY0tScFRwNUVhV2NNWXFIU2lQWkRFVGZuZWh1OFpaVThWeHVUMDhiRzJqaG1GTmJUZm5UUXdzaHR1eFozaUNYM3I0NHRPRy1oTA?oc=5",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-rozmowy-abu-dhabi-ph9331609/alternates/LANDSCAPE_1280",
+    "source": "PAP",
+    "also": [
+     "TVN24",
+     "TVP Info"
+    ],
+    "published": "2026-11-11T09:43:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Hundreds of schools across Italy, Scotland and Ireland receive bomb threats",
+    "summary": "Incidents appeared to be latest co-ordinated attack aimed at disrupting life in Europe",
+    "link": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1",
+    "image": "https://s.france24.com/media/display/7e32ecea-ddbf-11f1-add3-5f54d898a954/w:1024/p:16x9/AP26297434116174.jpg",
+    "source": "Financial Times",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-11T11:34:49+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "M. John Harrison’s ‘The End of Everything’ Wins Booker Prize",
+    "summary": "M. John Harrison, holding up the Booker Prize trophy.",
+    "link": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/09tbr-booker-prize-flcv/09tbr-booker-prize-flcv-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-11T03:01:42+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Spanish election: How bad is the housing crisis?",
+    "summary": "Your 5-chart guide to the problem that could bring down the Spanish government.",
+    "link": "https://www.politico.eu/article/spain-housing-crisis-election-rising-house-prices-rents/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "image": "https://s.france24.com/media/display/3e42ab36-dda4-11f1-9579-5f54d898a954/w:1024/p:16x9/2026-11-11T042126Z-330483324-RC2DLOAYE7CM-RTRMADP-3-SPAIN-STRIKE.jpg",
+    "source": "Politico Europe",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-11T03:00:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Fico był „w kompletnym szoku” po rozmowie z premierem Ukrainy. „Kropka, skończyliśmy”",
+    "summary": "Odbyłem rozmowę na temat wojny z premierem Ukrainy Serhijem Koreckim i byłem zszokowany - stwierdził premier Słowacji Robert Fico. Jednocześnie zapowiedział, że Słowacja nie zamierza uczestniczyć w finansowaniu kolejnej pożyczki dla Kijowa o wartości 70 mld euro.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-fico-byl-w-kompletnym-szoku-po-rozmowie-z-premierem-ukrainy-,nIdn,1025686",
+    "image": "https://rmf.rmffm.pl/news/attachments/cf/89/andrej-babisz-i-robert-fico-636x421-cf89dac6.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-10T19:50:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Latest news bulletin | November 11th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-midday",
+    "image": "https://images.euronews.com/articles/stories/09/98/83/21/1200x675_cmsv2_1b107cc6-4ea4-5c14-a1c0-6f7dbe6b25f7-9988321.jpg",
+    "source": "Euronews",
+    "also": [
+     "National Geographic"
+    ],
+    "published": "2026-11-11T11:00:15+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Burnham faces Badenoch at PMQs following huge windfarm approval – UK politics live",
+    "summary": "PM to face leader of opposition before leaving for the Cop31 climate crisis summit Here are some more comments on the report for the Casey commission released today looking at how social care is run in England.",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/55fc56fbd66ab9bf6b313f6700d57e0981a17f19/290_0_3395_2716/master/3395.jpg?width=140&quality=85&auto=format&fit=max&s=18076ffe4b10d9d1e294486ca6d05470",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-11T11:59:33+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
+    "summary": "Among the Italian masterpieces sought by the Orléans Fine Arts Museum in France is a Madonna and Child attributed to Lorenzo Costa.",
+    "link": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-france-lost-art-1-tmqf/11int-france-lost-art-1-tmqf-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-11T10:03:50+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Judge jails Thomas Markle, father of Meghan, after he cut off his ankle monitor",
+    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWRHb01HTTFuYmlwb1F5Z1k1YVBYYlVHRGVaSFhFbk9nMzk3MjF0cWZEUE1JOVVwclppT0x1YmVlMGFjMGpnOEI4WWZTN1B3MVRCN2JscHFKeWdIX3JkRXB0U2twcEtZRzktbkc5ZHdHRWlVbTA3a0EtS0tsY0Eyc01HTVRBYkVVUlhmMHlLR0pDTUFnNUZ4T3VCNA?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News",
+     "The Guardian",
+     "The New York Times"
+    ],
+    "published": "2026-11-11T04:01:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Pete Hegseth impeachment effort blocked by House Republicans",
+    "summary": "This live blog is now closed. House Republicans block effort to impeach Pentagon chief Pete Hegseth Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally.",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5",
+    "image": "https://i.guim.co.uk/img/media/90fd5e65c58f923c6fc4059a2197568133881e15/947_0_4715_3774/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=1cdd180aea06c3729397bafc16a133f9",
+    "source": "Associated Press",
+    "also": [
+     "Euronews",
+     "The Guardian"
+    ],
+    "published": "2026-11-10T23:55:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "US judge says Trump’s $10 billion BBC defamation case can proceed",
+    "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXBMT2FsRHRuMzJPbE1qVmxwbUllWmUxZk5ENGVBSGthMGxsUjVDZFhiMEhNalJVdU5ZejhYcVo3SlBtTjZ5d09QVlF6QmdHYkZHSkxFQ2R3SXRTZXZtUU1IcjdoQjctb1FxcTNtalRtcWVqTms1aFhoR1pYRDlfZGhnUWc5b0cxdFVmOWg4WEw3STUwX05PVFZPTm9sTW9xbzc0S2NHQlBNRGd5WExTaHhiQTVXMDA?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e4d6/live/94373140-dd60-11f1-b9df-c32eeeb3cb8f.jpg",
+    "source": "Reuters",
+    "also": [
+     "BBC News",
+     "Euronews"
+    ],
+    "published": "2026-11-10T23:47:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Tearful Smith switches allegiance to Netherlands",
+    "summary": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
+    "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/377b/live/67ea3a00-dda2-11f1-9300-17f869f4b225.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-11T09:45:14+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+    "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b8d6/live/747458d0-dc37-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-11T00:18:07+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Photos of Dakar Youth Olympics, the first Olympic event in Africa",
+    "summary": "Skateboarding in Ngor, a neighborhood of Dakar, Senegal’s coastal capital. Fitness and athletic prowess are all-important in Dakar.",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzNuRTIzNjY1cDdmVU1BRGJFbGJLVHN0NUlzS1pqNGd0Y2FoTG9DeGZSSmRZckdBN1lzUEYtSVY2SDNNSVBBRXAxU2lzNU5vbGdJcGtsQXpFLTlMNHVVU3p3OHJ1a0dOWjUwY2RpWi02M3A0Q3Y0bkJNR0l5UE9aU2VqbTBlMXlQOWRVVnNOR0w5aDQzRGJpb2pRMEhaN3E0ZzRRZmhYSWJRNEtkZ1J5NXNBUERlUldRWUh4ZA?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-senegal-sports-6-wpvh/00int-senegal-sports-6-wpvh-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-10T21:45:00+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Orlen wypowiada umowę z QatarEnergy na dostawy LNG. Jest komunikat spółki",
+    "summary": "Orlen skorzystał z prawa do wypowiedzenia jednej z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego LNG zawartych z QatarEnergy. Powodem, jak wyjaśniono we wtorkowym komunikacie giełdowym koncernu, jest utrzymująca się siła wyższa, skutkująca brakiem dostaw.",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0pfREo1dzBoc0NQSm0zLWRpelpheTh0SmJzZkZwUkFHRmZjcnVlU3VQcXFoaEl3NmR6VHhhT253RjdTSVgwd055TFdaR2RYOXRhLUU5WlcwbndFVHd2SmxDSnc4cGtPUUs2WEViTWNzeERhWDRHcWMtdWdXamtIcTNmVzVDcmZ2ZHdGQTZ5MnI2SXRvT3NWRDhOcFE0bnJ1XzE5NXlB?oc=5",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/xg/xgjpoyu9d5qpvpwoswx3g2yv8ks7vhmp.jpg",
+    "source": "PAP",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-10T21:42:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Iran designates Argentina's navy and air force as 'terrorist organizations'",
+    "summary": "In a tit-for-tat move, Iran has said it now considers Argentina's navy and air force as \"terrorist organizations.\" Tehran claimed Buenos Aires is responsible for further consequences.",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGJGbXpBaU9TM2xZZXVhbFN0MFlBdVdhRGFjR1VkaHNnU2F5NXl6WmpmV01CZ2lXd1NiMlVsUDA2ZThZY3RMWHN5TmRKLTRidmdIYnRVQmdmQXBUQUc3MFNIaTJlYS0yMDNFck4xaTBIQXJ4M3RPQ3JhQzVQQUluMXJ2T1Nycm1zZWoxSkkxUTBoZi1ZWFkwQVR3bE1hRUtlWG9IdmhXUEljR2VrMElQNVVrUTJ1Z3c?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Deutsche Welle"
+    ],
+    "published": "2026-11-11T06:10:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+    "summary": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-11T05:13:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Nvidia hires Wachtell Lipton for Jensen Huang investigation",
+    "summary": "The independent investigation follows reports that the CEO had a romantic relationship with an alleged Chinese spy.",
+    "link": "https://www.politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e80fd8b31abebcfb48715c6176ded127",
+    "source": "Politico Europe",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-10T20:58:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+    "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+    "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-11T11:47:22+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live",
+    "summary": "Trump hails ‘exoneration of a Great American Patriot’ as moves against his defense secretary fail for now House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email Senator Bernie Sanders has confirmed that he will not be supporting senator Chuck Schumer as the Democratic majority leader…",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/b7838838f4e1ef5eb81581e00f7bc4e47c6a741a/303_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=8d25cb1d8f981f5d05abc8909541143e",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-11T11:50:25+00:00",
+    "topic": "polityka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Obchody Święta Niepodległości. Uroczystości w całym kraju",
+    "summary": "W środę 11 listopada w całym kraju odbędą się uroczystości związane z Narodowym Świętem Niepodległości. Główne obchody z udziałem prezydenta Karola Nawrockiego i jego małżonki odbędą się na pl. Piłsudskiego w Warszawie. Prezydent wręczy też odznaczenia państwowe oraz nominacje generalskie.",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR0hLSkNzV193dGNmSzhVMHNfcWlYODRMOFpwR3h6YUNmYjNiY2lFRlNmRmx1YmlpZG4zTE1MaWMyUmV1MlpQbGJRVy0zZ0I4UzVRSmduLURKTXBwbkJTMUd5ZVRqdFlsd3NtQlFGVHNCTVgzX2pCVkxQMVhhZVczcFZWUlZ5UG8yR1pvTTRMbGw?oc=5",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2Ru/LnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAw/MDAwNzY5OTM5My9maWxlcy8xMS1saXN0b3BhZGEtcHJhY2Et/ZmxhZ2EtcG9sc2thLTM5MzEyODgzLnBuZyIsInciOjM4NDB9",
+    "source": "PAP",
+    "also": [
+     "Dzieje.pl",
+     "Dziennik Gazeta Prawna",
+     "Polsat News"
+    ],
+    "published": "2026-11-11T06:18:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Donald Tusk zaprosił Karola Nawrockiego z rodziną do swojego domu w Sopocie",
+    "summary": "– Możemy mieć różne poglądy, możemy konkurować, możemy być czasami politycznymi przeciwnikami. Każdy, kto ma Polskę w sercu, musi zrozumieć, że Rzeczpospolita to dobro wspólne – powiedział premier Donald Tusk podczas obchodów Święta Niepodległości w Szczecinie.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-donald-tusk-zaprosil-karola-nawrockiego-z-rodzina-do-swojego,nIdn,1025710",
+    "image": "https://rmf.rmffm.pl/news/attachments/df/c3/fot-636x421-dfc38c9b.jpg",
+    "source": "RMF24",
+    "also": [
+     "Rzeczpospolita",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-11T10:30:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Bp polowy WP: są granice wolności słowa, których się nie przekracza",
+    "summary": "Są granice wolności słowa, których się nie przekracza – podkreślił biskup polowy Wojska Polskiego Wiesław Lechowicz w 108. rocznicę odzyskania przez Polskę niepodległości. Zaapelował o rezygnację z agresji, pogardy, podstępu i nienawiści oraz o troskę o dobro wspólne.",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmRLOVROcUdLTUEyWWdfa0FUYng1RGZ5ekQ0VExuMGhrVjI5NjdQaVk0eFVVQXYteGpvY3B0Ui04c1ktanhqNWNrRkJST1dtNDlOT0NZOHQwU3BKYTBjYmZmV2x6eFFvY0tqWkIyOVBVMUFpeVB6ejBYRWJLVFlPZ3RTUTNMOUlSVllfLUxfYmJ6WlVDQ3lhT2JLR0k?oc=5",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/j9/j9ogtu3wicixs2wvbi4p773gz9muww98.jpg",
+    "source": "PAP",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-11T09:24:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Karol Nawrocki wręczył odznaczenia. Wśród wyróżnionych opozycjonista, lekarz i aktorka",
+    "summary": "Wyjątkowe wyróżnienia w Święto Niepodległości.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-karol-nawrocki-wreczyl-odznaczenia-wsrod-wyroznionych-opozyc,nIdn,1025709",
+    "image": "https://rmf.rmffm.pl/news/attachments/02/b8/fot-636x421-02b8b629.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-11T10:09:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "8. Nagroda PAP im. Ryszarda Kapuścińskiego — nominacje w kategorii wideo",
+    "summary": "Wśród nich dwa reportaże TVP Info.",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczRiWVRzUVZFYVRaQXA1ejd1VlFQZnRqNk1NbHFucWwyQXphS3pYM2x1azJBWGF3RVlGMktTLThVcG51a0xacWIzNHo0YnFfNV9uYkR4MnZQdzBmV0Rjb25RaFZSQ2lCVVNJOGQ2M0FCTFRON0hFSWsyWmVxSjJFZW53cUE5T1ZKMWZyNE9KQVlBM3ZMdmt5bXFZVmJPRUVR?oc=5",
+    "image": "http://s16.tvp.pl/images2/f/c/2/uid_fc2d25a2baab44ae8ff496991ff25c56_width_1280_play_0_pos_0_gs_0_height_720.jpg",
+    "source": "PAP",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-10T13:37:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "„Wykryty i zatrzymany”. Cyberatak na państwowy system ePUAP",
+    "summary": "Wicepremier, minister cyfryzacji Krzysztof Gawkowski poinformował we wtorek o wykryciu i zatrzymaniu cyberataku na państwowy system ePUAP. - Zespoły odpowiadające za bezpieczeństwo sytemu podjęły natychmiastowe działania pozwalające zachować stabilność systemu - zapewnił.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-wykryty-i-zatrzymany-cyberatak-na-panstwowy-system-epuap,nIdn,1025689",
+    "image": "https://rmf.rmffm.pl/news/attachments/63/00/krzysztof-gawkowski-fot-636x421-63005aa5.jpg",
+    "source": "RMF24",
+    "also": [
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-11-10T20:28:00+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Stacy Keach nie żyje. Aktor zmarł w swoim domu pod Warszawą",
+    "summary": "W wieku 85 lat w swoim domu w Magdalence pod Warszawą zmarł Stacy Keach. Amerykański aktor zdobył rozpoznawalność dzięki rolom w serialu Mike Hammer i filmie Nebraska, a także za sprawą kreacji teatralnych w przedstawieniach Szekspira. W 2015 r. Keach uzyskał polskie obywatelstwo. Pozostawił żonę oraz dwoje dzieci.",
+    "link": "https://www.polsatnews.pl/wiadomosc/2026-11-11/stacy-keach-nie-zyje-aktor-zmarl-w-swoim-domu-pod-warszawa/",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/q2/q2yic17v8uxnnd6c22ebkmtsk7226pof.jpg",
+    "source": "Polsat News",
+    "also": [
+     "Onet Kultura"
+    ],
+    "published": "2026-11-11T09:49:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Odsłaniamy kulisy unijnej polityki klimatycznej. \"Mordercze tempo rewizji ETS\"",
+    "summary": "Podejście Warszawy i Brukseli do polityki energetyczno-klimatycznej rozchodzi się w kluczowych sprawach. O tym, co dzieje się za jej kulisami, opowiadają nam przedstawiciele polskiego biznesu i administracji. Zarzucają Brukseli m.in. mordercze tempo prac nad rewizją systemu handlu uprawnieniami do emisji (ETS).",
+    "link": "https://businessinsider.com.pl/gospodarka/bruksela-forsuje-zmiany-w-polityce-klimatycznej-ue-polska-sie-buntuje/p71x70b",
+    "image": "https://ocdn.eu/pulscms-transforms/1/_JTk9kpTURBXy85ZGQ4MzA0ZjM0OGRiOTUwOTAyNmI2ODk4OTAwOGVlYi5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-11T12:01:28+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Mija 26 lat od katastrofy w Kaprun. Dlaczego 12 osób ocalało, schodząc w stronę pożaru?",
+    "summary": "11 listopada 2026 r. mija 26 lat od katastrofy w Kaprun. Aby zrozumieć jej przebieg, trzeba przyjrzeć się nie tylko temu, co zapaliło się w wagonie. Równie istotne było to, jak zachowało się powietrze w stromym tunelu i jakie możliwości ucieczki mieli pasażerowie.",
+    "link": "https://www.national-geographic.pl/historia/mija-26-lat-od-katastrofy-w-kaprun-dlaczego-12-osob-ocalalo-schodzac-w-strone-pozaru/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/55/kaprun-2000-katastrofa.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-11T11:55:50+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Jarosław Kaczyński mówił o \"przelewie krwi\". Tak się tłumaczy",
+    "summary": "Ta druga strona jest naprawdę do wszystkiego zdolna, ale musimy wytrwać - powiedział prezes PiS Jarosław Kaczyński dzień przed Narodowym Świętem Niepodległości. Sugerował też, że może dojść do \"przelewu krwi\". To, co miał na myśli, tłumaczył później reporterce TVN24. Do jego słów nawiązał też premier Donald Tusk.",
+    "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-mowil-o-przelewie-krwi-tak-sie-tlumaczy-st9333172?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-jaroslaw-kaczynski-ph9333785/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-11T11:47:30+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Narodowe Święto Niepodległości. Premier: wolność, niepodległość, bezpieczeństwo wymaga stałego wysiłku",
+    "summary": "Wolność, niepodległość, bezpieczeństwo wymagają stałego wysiłku. Wszyscy bez wyjątków, niezależnie od poglądów, pochodzenia, wiary jesteśmy odpowiedzialni za to, żeby Polska była już zawsze silna, bezpieczna, wolna i niepodległa - mówił w Święto Niepodległości premier Donald Tusk.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11343268,narodowe-swieto-niepodleglosci-premier-wolnosc-niepodleglosc-bezpieczenstwo-wymaga-stalego-wysilku.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY/2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMD/AwMDAwMDAwNzY5OTQyOS9maWxlcy9kb25hbGQtdHVzay1/3LXN6Y3plY2luaWUtMzkzMTUyMTMuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-11T11:39:24.026000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Obchody Święta Niepodległości. Premier Donald Tusk zwrócił się do prezydenta Karola Nawrockiego",
+    "summary": "Umiejmy dziś, 11 listopada, wyciągnąć do siebie dłonie - mówił podczas obchodów w Szczecinie Donald Tusk. Premier zaprosił prezydenta z małżonką do swojego domu w Sopocie.",
+    "link": "https://tvn24.pl/polska/obchody-swieta-niepodleglosci-premier-donald-tusk-zwrocil-sie-do-prezydenta-karola-nawrockiego-st9333751?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-donald-tusk-w-szczecinie-ph9333736/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-11T11:31:37+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Niektóre mają ponad 400 km długości. Które dopływy Wisły są najdłuższe i gdzie wpadają do rzeki?",
+    "summary": "Wisła zbiera wodę z rozległego obszaru Polski. Zasilają ją zarówno górskie rzeki płynące z Karpat, jak i duże cieki nizinne, które odprowadzają wodę z centralnej i północno-wschodniej Polski. Dopływy Wisły różnią się długością, charakterem i wielkością dorzeczy.",
+    "link": "https://www.national-geographic.pl/przyroda/niektore-maja-ponad-400-km-dlugosci-ktore-doplywy-wisly-sa-najdluzsze-i-gdzie-wpadaja-do-rzeki/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/54/radomka-doplyw-wisly.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-11T11:13:30+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Emerytura z totka? Liczy na nią co ósmy Polak",
+    "summary": "Rośnie liczba osób, które deklarują dodatkowe działania na rzecz swojej przyszłej emerytury. I choć 12 proc. Polaków jako formę budowy zabezpieczenia na jesień życia wymienia grę w totka, to dane rynkowe potwierdzają wzrost oszczędności emerytalnych.",
+    "link": "https://pieniadze.rp.pl/emerytura/art45468881-emerytura-z-totka-liczy-na-nia-co-osmy-polak",
+    "image": "https://i.gremicdn.pl/image/free/8e92a79e76f26ddd426b85b96b42f9b0/?t=crop:3008:1315:nowe:0:343,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-11T11:00:00+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Nowe informacje po ataku w Krakowie",
+    "summary": "27-letnia kobieta poszkodowana w ataku w Krakowie została przetransportowana do szpitala klinicznego w Warszawie. W pięciu krakowskich placówkach nadal leczonych jest 11 rannych, w tym policjant w stanie ciężkim.",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mVDJJb2xZSm5Idm1QNklhU29EdksyOFdTdVMyaDhVSTZjZ3lyRGJuRENhM0VDdWpSamlmS0RCdmx0b0ZPNlQyemlSTzhneHhDM2ZQbmxGTnR5Ui1nZUtlUVVEbEFfbTdWV002a3VrQ25kTUx5?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/27/77/art-service-636x421-27775b4c.jpg",
+    "source": "PAP",
+    "also": [
+     "RMF24",
+     "RMF24 Kraków",
+     "Rzeczpospolita"
+    ],
+    "published": "2026-11-11T10:11:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Cyberatak na ePUAP. Nie wiadomo, kiedy system wróci do pełnej sprawności",
+    "summary": "Nie wiadomo, kiedy system ePUAP odzyska pełną funkcjonalność po cyberataku. Ministerstwo Cyfryzacji informuje, że przywrócenie wszystkich usług będzie możliwe dopiero po zakończeniu prac specjalistów Centralnego Ośrodka Informatyki. Priorytetem jest bezpieczeństwo systemu.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/cyberatak-na-epuap-nie-wiadomo-kiedy-system-wroci-do-pelnej-sprawnosci/187594",
+    "image": "https://ocdn.eu/pulscms-transforms/1/30lk9kpTURBXy80YmIyZDc1OTMzZTQ1Y2Y0N2I4NzAzNDRlMjcyN2YyYi5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Radio Kraków",
+    "also": [
+     "Bankier.pl",
+     "Business Insider Polska"
+    ],
+    "published": "2026-11-11T08:15:41+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Chwalili zamachowca z Krakowa i grozili kolejnymi atakami. Są zatrzymani",
+    "summary": "Po ataku w Krakowie policja zatrzymała dwóch mężczyzn, którzy mieli pochwalać działania sprawcy i grozić kolejnymi przestępstwami. Jak informuje RMF24, jeden z nich zapowiadał podobny atak w Elblągu.",
+    "link": "https://www.rp.pl/przestepczosc/art45474951-chwalili-zamachowca-z-krakowa-i-grozili-kolejnymi-atakami-sa-zatrzymani",
+    "image": "https://i.gremicdn.pl/image/free/c5dbfbdc727a82ee2fff2e55c8f06bac/?t=crop:5424:2371:nowe:0:622,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-11T11:55:22+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Zamach w Krakowie. Są wstępne wyniki sekcji zwłok napastnika i dziewięciu ofiar",
+    "summary": "Zakończyły się sekcje zwłok sprawcy sobotniego zamachu na Rynku Głównym w Krakowie oraz dziewięciu ofiar tragedii. Wstępne ustalenia potwierdzają, że przyczyną śmierci ofiar były rozległe obrażenia spowodowane przede wszystkim ranami postrzałowymi.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/zamach-w-krakowie-sa-wyniki-sekcji-zwlok-napastnika-i-dziewieciu-ofiar/187579",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/18/18jmafqp15c4jf32sm57a38hrchavcg6.jpeg",
+    "source": "Radio Kraków",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-10T14:37:45+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Nowości przy obwodnicy Zabierzowa. Auta pojadą już nad tunelem",
+    "summary": "W sobotę 14 listopada kierowcy pojadą nowym układem drogowym nad tunelem budowanym w ramach obwodnicy Zabierzowa. Zmieni się też organizacja ruchu na ul. Kasztanowej, a autobusy zmienią trasy.",
+    "link": "https://lovekrakow.pl/nowosci-przy-obwodnicy-zabierzowa-auta-pojada-juz-nad-tunelem",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/cded44cbc793ae6770d31a6e6a9e2913.jpg.webp?itok=fGLrDdhM",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-11T11:40:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "„Miasto pod jednym dachem”. Hotel Forum doczekał się filmowej biografii",
+    "summary": "Jeden z najbardziej charakterystycznych i wzbudzających emocje budynków w Krakowie doczekał się własnego filmu dokumentalnego. Produkcja „Brutal znad Wisły” przybliża burzliwą historię modernistycznego kolosa, a w listopadzie zadebiutuje na kinowym ekranie.",
+    "link": "https://lovekrakow.pl/miasto-pod-jednym-dachem-hotel-forum-doczekal-sie-filmowej-biografii",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/photo_library/2025-02-05/5.02.2025_FORUM_3405_KALI.JPG.webp?h=41f55a5b&itok=aBHCsCr8",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-11T08:55:01+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Kraków będzie miał dodatkowe miejsce w Pucharze Polski",
+    "summary": "Rezerwy Wieczystej i Wisły zmierzą się w finale Pucharu Polski na szczeblu wojewódzkim. Mecz odbędzie się 11 listopada na stadionie Prądniczanki.",
+    "link": "https://lovekrakow.pl/krakow-bedzie-mial-dodatkowe-miejsce-w-pucharze-polski",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-10/c0a1ba956d56841defbca32faef44f5a.jpg.webp?h=0d2b546a&itok=f4RH1OHK",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-11T08:00:02+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Nawrocki przemówił w Warszawie. Podziękował policjantom i lekarzom z Krakowa",
+    "summary": "Prezydent Karol Nawrocki podczas obchodów niepodległościowych na Placu Piłsudskiego w Warszawie nawiązał do zamachu w Krakowie. - Odpowiedzialność w niepodległości ma twarz Jakuba Kulika, Artura Morańskiego, ma twarz pielęgniarzy, lekarzy, strażników miejskich, strażaków i zwykłych mieszkańców Krakowa - mówił.",
+    "link": "https://www.rp.pl/polityka/art45474581-nawrocki-przemowil-w-warszawie-podziekowal-policjantom-i-lekarzom-z-krakowa",
+    "image": "https://i.gremicdn.pl/image/free/e06a56c3133f9e8c0691696593f98a23/karol-nawrocki-na-obchodach-swieta-niepodleglosci?t=resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-11T11:48:16+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Chrzest nowego polskiego promu w Szczecinie. \"To piękny prezent dla wszystkich Polaków\"",
+    "summary": "W Szczecinie odbywa się chrzest nowego polskiego promu Bursztyn Unity, który będzie pływał pod biało-czerwoną banderą. W uroczystości uczestniczy premier Donald Tusk, który mówił między innymi o bezpieczeństwie Polski i jedności. Przypomniał też o bohaterskich policjantach z Krakowa.",
+    "link": "https://tvn24.pl/szczecin/szczecin-chrzest-nowego-polskiego-promu-donald-tusk-zabral-glos-st9333562?source=rss",
+    "image": "https://tvn24.pl/szczecin/cdn-zdjecie-chrzest-nowego-polskiego-promu-w-szczecinie-ph9333605/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-11T11:07:49+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "GOPR ostrzega turystów w Krynicy. Głębokie wykopy i ciężki sprzęt na szlakach",
+    "summary": "Ciężki sprzęt budowlany, głębokie wykopy i błoto utrudniają turystom wędrówki w rejonie Góry Krzyżowej i Przełęczy Krzyżowej w Krynicy-Zdroju. Ratownicy GOPR apelują o ostrożność i przestrzeganie oznakowania.",
+    "link": "https://radiokrakow.pl/wiadomosci/nowy-sacz/gopr-ostrzega-turystow-w-krynicy-glebokie-wykopy-i-ciezki-sprzet-na-szlakach/187600",
+    "image": "https://radiokrakow.pl/media/article/187600/7ce0db5cc37c05ce644ca23f1f9d220d.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-11T11:47:04+00:00",
+    "topic": "społeczeństwo"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Ten Lives by Mona Chalabi review – what if we were totally honest about our wealth?",
+    "summary": "The data journalist puts her own finances – and those of ten others from across the economic spectrum – under a microscope How much do you earn? If the question makes you bristle – and I realise we haven’t even met – would you answer it if someone convinced you that your candour might just change the world?",
+    "link": "https://www.theguardian.com/books/2026/nov/11/ten-lives-by-mona-chalabi-review-what-if-we-were-totally-honest-about-our-wealth",
+    "image": "https://i.guim.co.uk/img/media/19adf662078881fea37debc1ed0f4427eecec97c/2_0_4428_3543/master/4428.jpg?width=140&quality=85&auto=format&fit=max&s=da056a05199d950395cf74d4fbe7dd0c",
+    "source": "The Guardian",
+    "also": [
+     "Hyperallergic"
+    ],
+    "published": "2026-11-11T07:00:31+00:00",
+    "topic": "literatura"
+   },
+   {
+    "title": "Collector Elie Khouri to create physical home for his private foundation in Dubai",
+    "summary": "The Elie Khouri Art Foundation, due to open in 2028, will take its founder’s collection of works by more than 300 artists as a starting point for exhibitions, and there will also be a focus on community outreach",
+    "link": "https://www.theartnewspaper.com/2026/11/11/collector-elie-khouri-to-create-physical-home-for-his-private-foundation-in-dubai",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/9cda80f364d42407abb2e14b23556903a62ca36f-10417x4144.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-11T09:56:05+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Prize dedicated to African women artists expands to Senegal, announces 2026 winners",
+    "summary": "The jury for this year’s Yaa Asantewaa Art Prize, founded by Gallery 1957, included Touria El Glaoui, the founder of the 1-54 Contemporary African Art Fair, and the Ghanaian artist Serge Attukwei Clottey",
+    "link": "https://www.theartnewspaper.com/2026/11/11/prize-dedicated-to-african-women-artists-expands-to-senegal-announces-2026-winners",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/0e446b3e940485a30025e8d1e7693475166c86b5-3500x2625.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-11T11:07:10+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "‘Hard Art’ Asks Hard Questions About Daring to Be Abstract",
+    "summary": "Artists in “Hard Art” include (left to right) standing: Suzanne Jackson, Rindon Johnson, Eric N Mack, Tiona Nekkia McClodden, Torkwase Dyson. Seated: James Little, Howardena Pindell, Charisse Pearlina Weston.",
+    "link": "https://www.nytimes.com/2026/11/11/arts/design/hard-art-moma-ps1-black-arts-movement.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15cul-hard-art-black-artists-vmtz/15cul-hard-art-black-artists-vmtz-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-11T10:00:59+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Martin Luther King’s Lost Draft of ‘I Have a Dream’ Speech Surfaces",
+    "summary": "The Rev. Dr. Martin Luther King Jr. improvised the storied “I have a dream” section of his speech at the March on Washington in August 1963. A recently surfaced draft shows the version he wrote out in longhand the night before.",
+    "link": "https://www.nytimes.com/2026/11/09/arts/martin-luther-king-i-have-a-dream-speech-draft.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cul-mlk-dreamspeech-01-lhmq/09cul-mlk-dreamspeech-01-lhmq-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "ARTnews"
+    ],
+    "published": "2026-11-10T19:48:15+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "What’s the Wallpaper on Camera Obscura’s “Let’s Get Out of This Country” Cover",
+    "summary": "Tracking down a floral wallpaper featured on the artwork for Camera Obscura’s “Let’s Get Out of This Country.”",
+    "link": "https://www.nytimes.com/2026/11/06/t-magazine/camera-obscura-wallpaper-artwork.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/t-magazine/style-detective-promo/style-detective-promo-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-11T06:11:54+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Dua Lipa to become first female British headliner at Coachella 2027",
+    "summary": "The Training Season singer, Tame Impala and SZA will headline two weekends in the California desert.",
+    "link": "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8ca9/live/cefe7370-ddb4-11f1-90cd-85e940e3a009.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-11T10:53:47+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Marsz Niepodległości: największe zamieszki w 2011 roku, ale inne też nie były spokojne",
+    "summary": "Do najbardziej dramatycznych wydarzeń podczas Marszu Niepodległości doszło w 2011 r., kiedy m.in. spalono wóz transmisyjny TVN. Także marszom w 2012 r., 2013 r. oraz 2020 r. towarzyszyły zamieszki.",
+    "link": "https://dzieje.pl/wiadomosci/marsz-niepodleglosci-najwieksze-zamieszki-w-2011-roku-ale-inne-tez-nie-byly-spokojne",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20111111_10Q.jpg?h=766d1c54&itok=XJk8pihB",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-11T11:21:52+00:00",
+    "topic": "teatr"
+   },
+   {
+    "title": "\"Dziedzictwo\", odcinek 1069. Co wydarzy się w serialu?",
+    "summary": "Zapraszamy do zapoznania się ze streszczeniem 1069. odcinka serialu \"Dziedzictwo\". Co wydarzy się w najnowszym odcinku? Emisja już 12 listopada 2026 na antenie TVP1.",
+    "link": "https://kultura.onet.pl/telewizja/seriale-zagraniczne/dziedzictwo-odcinek-1069-co-wydarzy-sie-w-serialu/b11h1ss",
+    "image": "https://cdn.kultura.onet.pl/1/oM6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82MTA1NWMzODc3ZmQ5NGM3YWY5MzJmNTJhZTg4NDMxMS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-11T06:01:07+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Róg ulic na nowojorskim Manhattanie otrzymał imię Marii Skłodowskiej-Curie",
+    "summary": "Jeden z narożników skrzyżowania York Avenue i 66. Ulicy na Manhattanie, nieopodal Uniwersytetu Rockefellera, nosi od wtorku imię Marii Skłodowskiej-Curie. Z inicjatywy Konsulatu Generalnego RP władze Nowego Jorku uhonorowały w ten sposób polską dwukrotną noblistkę w przeddzień Narodowego",
+    "link": "https://dzieje.pl/wiadomosci/rog-ulic-na-nowojorskim-manhattanie-otrzymal-imie-marii-sklodowskiej-curie",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/manha_curie0.jpg?itok=jerNmkFV",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-11T10:28:06+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Największa książka świata waży niemal tonę. Do przewrócenia jednej kartki potrzeba aż 10 osób",
+    "summary": "Przewrócenie jednej strony wymaga kilku osób, a sama książka bardziej przypomina architektoniczną konstrukcję niż lekturę do poduszki. Ta niezwykła rozkładanka niedawno trafiła do Księgi Rekordów Guinnessa, zachwycając nie tylko rozmiarem, ale też historią swojego powstania.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114528,33119183,najwieksza-ksiazka-swiata-wazy-niemal-tone-do-przewrocenia.html",
+    "image": "https://bi.im-g.pl/im/16/95/1f/z33119254IHG,Najwieksza-rozkladanka---zdjecie-ilustracyjne.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-11T10:15:00+00:00",
+    "topic": "literatura"
+   },
+   {
+    "title": "Amerykański historyk: W ciągu ostatnich 108 lat największym sukcesem Polski i zarazem jej największą porażką była PRL",
+    "summary": "W ciągu ostatnich 108 lat największym sukcesem Polski i zarazem jej największą porażką była PRL – ocenił amerykański historyk z University Michigan-Ann Arbor Brian Porter-Szűcs. W wywiadzie dla PAP podkreślił, że choć jak kraj odnieśliśmy niebywały sukces, nad Polską też zbierają się ciemne",
+    "link": "https://dzieje.pl/wiadomosci/amerykanski-historyk-w-ciagu-ostatnich-108-lat-najwiekszym-sukcesem-polski-i-zarazem-jej",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_19801111_00N.jpg?itok=HV5xta1z",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-11T08:01:53+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "W filmie \"Harry Potter\" zagrał Toma Riddle'a. Jak dzisiaj wygląda?",
+    "summary": "Tom Marvolo Riddle jest znany większości fanów Harry'ego Pottera jako Lord Voldermort. W ekranizacji \"Komnaty Tajemnic\" w jego rolę wcielił się Christian Coulson. Jak po 20 latach od premiery się zmienił?",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,29106476,w-filmie-harry-potter-zagral-toma-riddle-a-jak-dzisiaj.html",
+    "image": "https://bi.im-g.pl/im/56/c2/1b/z29106774IHG,Kadr-z-filmu--Harry-Potter-i-Komnata-Tajemnic--rez.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-11T07:40:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Pisał do niej z więzienia: \"Tęsknię za Tobą jak za chlebem\". \"Nasza rewolucja\" w kinach",
+    "summary": "Przez niemal trzy dekady byli nierozłączni, choć często rozdzielały ich więzienne mury i polityczne represje. Przed jej śmiercią zobaczyli się tylko dwa razy. Nowy film \"Nasza rewolucja\" Piotra Domalewskiego przypomina historię Gai i Jacka Kuroniów, których miłość stała się cichą siłą napędową opozycji w PRL.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33124814,pisal-do-niej-z-wiezienia-tesknie-za-toba-jak-za-chlebem.html",
+    "image": "https://bi.im-g.pl/im/7d/94/1f/z33113981IHG,Arkadiusz-Jakubik-jako-Jacek-Kuron-i-Magdalena-Pop.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-11T05:29:00+00:00",
+    "topic": "film"
+   }
+  ]
+ }
+}
