@@ -1,0 +1,747 @@
+{
+ "date": "2026-11-12",
+ "generated": "2026-11-12T14:09+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Russian ambassador to US dies, foreign ministry says",
+    "summary": "A photo provided by Russian state media in 2024 of Alexander Darchiev in Moscow. He died on Thursday, according to the foreign ministry.",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNGQxdy12Q0JrTmI2WGo5aWtzekR3WEVfSnNmalFkUW9iWm9FZnBQZ3RQcW9yaExsMXV2NXVLZGFSbHdnSVJtcGN3V3I4WWQwTXRKUllUb0ZtSFlZN3R5Y01Db2syR3JPa0s5cEVYbDQ4MXFhUXJEYU52eVV0MEp1WHFTOFFQS0U2WmR4SzVRaU5pcVF3?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "Euronews",
+     "The New York Times"
+    ],
+    "published": "2026-11-11T21:55:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+    "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera",
+     "Reuters"
+    ],
+    "published": "2026-11-12T12:14:51+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+    "summary": "A person aims fireworks at police in Barcelona, Spain, during a nationwide general strike on Wednesday.",
+    "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-bplz/11int-spain-strike-bplz-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "France 24",
+     "The Guardian"
+    ],
+    "published": "2026-11-12T07:30:40+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Eksplozja samochodu w Petersburgu. Nie żyje wysoki rangą rosyjski wojskowy",
+    "summary": "Jeden z dowódców rosyjskiej armii zginął w eksplozji samochodu w Petersburgu. W pojeździe najpewniej podłożono bombę. \"Trwa dochodzenie w sprawie zabójstwa\" - podają rosyjskie media. Tożsamość wojskowego nie jest na razie znana.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-eksplozja-samochodu-w-petersburgu-nie-zyje-wysoki-ranga-rosy,nIdn,1025775",
+    "image": "https://rmf.rmffm.pl/news/attachments/00/a1/zdj-636x421-00a1da56.jpg",
+    "source": "RMF24",
+    "also": [
+     "Bankier.pl",
+     "Interia"
+    ],
+    "published": "2026-11-12T06:39:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "TSUE oddalił siedem skarg Polski. Chodzi o unijny pakiet „Gotowi na 55”",
+    "summary": "Polska przegrała przed Trybunałem Sprawiedliwości Unii Europejskiej spór dotyczący pakietu klimatycznego „Gotowi na 55”. TSUE oddalił w czwartek wszystkie siedem skarg wniesionych przez polski rząd przeciwko aktom prawnym, których celem jest ograniczenie emisji gazów cieplarnianych i osiągnięcie przez UE neutralności…",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11343706,tsue-oddalil-siedem-skarg-polski-chodzi-o-unijny-pakiet-gotowi-na-55.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLm/luY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9C/MDAwMDAwMDAwMDAwNzcwMTIxOS9maWxlcy90c3VlLX/d5cm9rLXRzdWUtMzkzMTYxNzYuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Bankier.pl",
+     "TVP Info"
+    ],
+    "published": "2026-11-12T09:20:26.759000+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
+    "source": "BBC News",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-12T12:39:39+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "What to know as European leaders meet in Dublin to discuss Ukraine's security, and their own",
+    "summary": "Leaders from more than 40 European countries gathered in Dublin on Thursday, November 12, for a summit focused on the continent’s fragile security, amid a new US-backed effort to revive talks on ending the Russia-Ukraine war.",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnB2R1BnOVhKQlZxZUU5dGZ5Y2hGS0pHOTlVUC05ZjFsWGZPcnN1ZUM2Z1RsektnUzhzYmRySFc2am9xZmZuTTVzbFdVUFpJdDlwSXItLWNoR21rMU11ZldJajNLeGJ0UE5tWEJvQS1hUWI3S1RLWklFU3IxU0lVRmVta3ZSRUFvSlVlOGpFb3VGUkQzRHZRQ3ZGck1uVERGX25BSUZvbDdUNG1f?oc=5",
+    "image": "https://s.france24.com/media/display/a10168be-de82-11f1-acfb-3f371022a770/w:1024/p:16x9/EN-20261112-110426-110630-CS.jpg",
+    "source": "Associated Press",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-12T10:58:13+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+    "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-11T22:07:37+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
+    "summary": "BBC headquarters in London in 2024. President Trump sued the broadcaster over its documentary “Trump: A Second Chance?” which aired a week before the 2024 presidential election.",
+    "link": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-BBC-jqlf/11xp-BBC-jqlf-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-11T21:14:47+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Kierowca wjechał w grupę ludzi w Niemczech. Trwa śledztwo",
+    "summary": "Trzy osoby zostały ranne po tym, jak kierowca z dużą prędkością wjechał w grupę ludzi w pobliżu Hanoweru. Kierowca uciekł z miejsca zdarzenia. Trwa policyjne śledztwo w celu ustalenia motywów.",
+    "link": "https://tvn24.pl/swiat/niemcy-kierowca-wjechal-w-grupe-ludzi-w-ronnenberg-w-poblizu-hanoweru-st9334822?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-5666000-radiowozy-niemieckiej-policji-zdjecie-ilustracyjne-ph8258243/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-12T04:42:11+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Latest news bulletin | November 12th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-midday",
+    "image": "https://images.euronews.com/articles/stories/09/98/99/31/1200x675_cmsv2_0876fb6f-5417-5b39-a1ca-3dcce9218d1a-9989931.jpg",
+    "source": "Euronews",
+    "also": [
+     "National Geographic"
+    ],
+    "published": "2026-11-12T11:00:15+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "AI helped the UK defy expectations – but will Britain’s resilience fizzle out?",
+    "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last.",
+    "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+    "image": "https://i.guim.co.uk/img/media/9f8f14e2a01ec8c9a4d21b8b65ed45042405e31d/820_0_5862_4690/master/5862.jpg?width=140&quality=85&auto=format&fit=max&s=7f6da137da3ee2aac8277aa8d883eebd",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-12T12:37:53+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Israeli strike on southern Gaza hospital kills six, Gaza civil defence says",
+    "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekJqQTlDSnpyUHhBeEEwb0V2X2s4NzdhSzR3a0NvbDZoR0FWXzR0X2k5YV9zaHlhU0M3YlVMWk9RTDltZXZiajZGdlVMSmxrMnJkWEI4QXU4bUFGSWppTDJFcVh4amhHR1lkYkdKT3VvT1BicUZnWTRBb3JuU3lHYVBScHhIdkc2bC1DZWpOVWNlbkJiTTRIQXdxYlE2a1hndlV5R3pwOVY4WVhvVXYwNVJ0UXU3WGJuTFAxZlhNU3YyeVhB?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "BBC News",
+     "Financial Times",
+     "NPR"
+    ],
+    "published": "2026-11-11T23:26:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874",
+    "summary": "His margin of fewer than 5,000 votes caps a midterm wave that has handed Democrats control of both chambers of Congress.",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "Euronews"
+    ],
+    "published": "2026-11-11T22:09:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Why AP called the Mississippi Senate race for Scott Colom",
+    "summary": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi’s first black senator since 1875 after defeating Cindy Hyde-Smith Sign up for the Breaking News US email Trump has threatened to immediately double tariffs on Mexico unless the country stops migrant caravans travelling north towards…",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVhHbUI5UEJZcjRYVlZSa05MeTctRTZ3WXdUaXU1eTVzNl9zZ2h2dmRURWYwV0RZVVdaTUEwUC01VUtfNTJHYXpTbkU4WHVWOHNyaldUM1VQUkVCMEtkQ3VIYUVOa2FvdDdnZ2hXdUd4WWJjOUtnS2R5T1FjV3N0NUNFcXZ3MW02RTRSUW9rWU5Ra3c0eXFDczRTT3J5R3FEOUZMSg?oc=5",
+    "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1",
+    "source": "Associated Press",
+    "also": [
+     "NPR",
+     "The Guardian"
+    ],
+    "published": "2026-11-12T00:47:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Instant View: Nvidia board meets to decide CEO Huang's future, source says",
+    "summary": "Nvidia shares fall in pre-market trading after report of Huang’s second affair Nvidia board reportedly deciding whether to oust CEO Jensen Huang Too big – and too well-connected – to sack?",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVJVTG1XNEk2Rm4xZFpXdXh2czIzSnZpdXMzaEpWN1RsZFJpRy1TeFNXZHBzei0tRGNSZ2JSd2ZtTnN1N3A2Q0IzTHNrelNxS2NOWVNSbjhWTlNfc012cHRHc3g0U2gzOXJ4MjRKWjNuWm9NaGt2S2ZhbHp6dmtjenFGTWstWllrYmdLcG8tOXR4b0FCcHR1Zjd2RU52REVFM2E2YmZkX0N0QQ?oc=5",
+    "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
+    "source": "Reuters",
+    "also": [
+     "Financial Times",
+     "The Guardian"
+    ],
+    "published": "2026-11-11T23:19:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Pope Leo returns to a national celebration in his second homeland of Peru",
+    "summary": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023.",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEpjX3pYM1J2VkZWTVlwYk5ya2o5TkNUX3RXMHU0bjVFNlV5UWgwT0kzcS1vZjkyWGIxcEk0RUIwbjBMWjdZQktETEVuaVJ2eWNJLV85SlJOUFBtUjhrT3hrMWxQTFhoSXZoSTVIdmwtdVdIZE1SNk8yTDlVc0M4dV8wSUNFWVowMWJ2RGZhQmFDVTcyQmd5NzlyUjc?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera",
+     "National Geographic"
+    ],
+    "published": "2026-11-12T03:35:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Indonesia’s vice president resigns as his eligibility and academic credentials are questioned",
+    "summary": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE80VHB2dlMwYkZpM2p1UUdyV0toU0V6TDdvS044OWRteHdVSWltUzJtLUZtd3oyUlpFZHZpd0gzUDdqOWMzTHZQMjM2VDYyR0Y0YkFaSm15dnFHRHM0b3o5ZDU1ME9OcVZ4aGNqWGVSZ1hLdHBIajVMMENZSGEwZVFDeWlwVUFEUGJqQ0s0QlUzVnZPNHpNcWllT1ZveXZZNlE?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-12T11:14:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Nie zachowali powagi na cmentarzu? Żołnierz upomniał Hegsetha i jego ludzi",
+    "summary": "Zachowanie świty sekretarza obrony Pete'a Hegsetha przy amerykańskim Grobie Nieznanego Żołnierza na terenie cmentarza Arlington wywołało w USA wzburzenie. Śmiech w miejscu, w którym należy zachowywać ciszę, sprowokował reakcję wartownika. I potępienie weteranów oraz członków Kongresu.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-nie-zachowali-powagi-na-cmentarzu-zolnierz-upomnial-hegsetha,nIdn,1025767",
+    "image": "https://rmf.rmffm.pl/news/attachments/a9/2f/pete-hegseth-na-cmentarzu-w-arlington-fot-636x421-a92f86da.jpg",
+    "source": "RMF24",
+    "also": [
+     "Newsweek Polska"
+    ],
+    "published": "2026-11-12T05:46:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Reprymenda dla Pete'a Hegsetha przy Grobie Nieznanego Żołnierza. Wartownik przypomniał o \"szacunku\"",
+    "summary": "Rozmowy, śmiech, a następnie głośna reprymenda od wartownika w galowym mundurze dla sekretarza obrony USA Pete'a Hegsetha i osób mu towarzyszących. To obrazek zarejestrowany podczas środowych uroczystości przy Grobie Nieznanego Żołnierza pod Waszyngtonem.",
+    "link": "https://tvn24.pl/swiat/waszyngton-reprymenda-dla-pete-a-hegsetha-przy-grobie-nieznanego-zolnierza-w-arlington-st9335267?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-pete-hegseth-ph9335142/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-12T10:37:09+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
+    "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
+    "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/eed5/live/f16d2a80-ddf7-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-11T18:10:57+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-12T13:02:37+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+    "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-12T12:56:55+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Burberry returns to profit as sales soar, from £85 socks to £9,000 coats",
+    "summary": "CEO says ‘democratic approach’ has helped brand outperform tough market, with big rises in China and US Burberry has returned to profit as its back-to-basics strategy drove strong sales of the British brand’s coats, jackets and handbags over the summer.",
+    "link": "https://www.theguardian.com/business/2026/nov/12/burberry-profit-sales-socks-bags-china-us",
+    "image": "https://i.guim.co.uk/img/media/3ff14fd356a349ccf360b27f4c25f19f12243107/609_0_4349_3479/master/4349.jpg?width=140&quality=85&auto=format&fit=max&s=c578842a88e6809ae47500ed3ba85c6a",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-12T12:22:41+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Narodowe Święto Niepodległości w obiektywie PAP [ZDJĘCIA]",
+    "summary": "Wolność, niepodległość, bezpieczeństwo wymagają stałego wysiłku. Wszyscy bez wyjątków, niezależnie od poglądów, pochodzenia, wiary jesteśmy odpowiedzialni za to, żeby Polska była już zawsze silna, bezpieczna, wolna i niepodległa - mówił w Święto Niepodległości premier Donald Tusk.",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTQxZW1sT2gxZmlLTFBQY2JkSTFKVVZ0VHJvbE04SURqTGNDR2ZuUC0tbE0tbzZPUnNfRVZ4STFuVW9qaUxTbVRpR0RfUENDWnk0M1pET3NqN195XzJNVDFYWXRiRUdqWTBCb3Z3ekF5WlNrMl9Kdy1IOHBlVnBVSDlmaFo4bGZnTVdoMDJSUQ?oc=5",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY/2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMD/AwMDAwMDAwNzY5OTQyOS9maWxlcy9kb25hbGQtdHVzay1/3LXN6Y3plY2luaWUtMzkzMTUyMTMuanBnIiwidyI6Mzg0MH0",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl",
+     "Dzieje.pl",
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-11-11T21:05:38+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Ulicami Warszawy przeszedł Marsz Niepodległości [WIDEO, ZDJĘCIA]",
+    "summary": "W środę ulicami Warszawy przeszedł Marsz Niepodległości. Uczestniczył w nim prezydent Karol Nawrocki. Według dyrektora Stołecznego Centrum Bezpieczeństwa Jarosława Misztala frekwencja wyniosła nawet 250 tys. osób. Organizatorzy marszu ocenili, że frekwencja mogła wynieść pół miliona, a nawet milion osób.",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSUpOUVNkMW5sSlNncFl0cHRNSzdLYTFQSjZPNHR1d2k2eDUzQy1jRlhDMWF5ZWU2aENaNXdnMVBsQzktbWNxeE1VVHRkejd4M1VuMTVLUzg0d2xBS3BvejNaZndEMFNGblFwbEtNRm40Q0Flb05RUWxxMDdsX3U2cXNBMGRCNHRZVFBzVWlB?oc=5",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncHN0YXRpYy9/kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzY5OTQ2NC9maWxlcy9tYXJzei1uaWVwb2/RsZWdsb3NjaS13LXdhcnN6YXdpZS16LXVkemlhbGVtLXByZXp5ZGVudGEtdWN6ZXN0b/mljeS1wcnplc3psaS11bGljYW1pLXN0b2xpY3ktMzkzMTU0NDEuanBnIiwidyI6Mzg0MH0",
+    "source": "PAP",
+    "also": [
+     "Dziennik Gazeta Prawna",
+     "Interia"
+    ],
+    "published": "2026-11-11T16:35:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Warszawa. Oficjalnie zakończyła się budowa bemowskiego odcinka linii metra M2",
+    "summary": "Budowa ostatniego odcinka drugiej linii metra została oficjalnie zakończona - podał stołeczny ratusz. Trzy nowe stacje: Lazurowa, Chrzanów i Karolin muszą przejść jeszcze odbiory techniczne. Oznacza to, że pierwsi pasażerowie będą mogli skorzystać z podziemnej kolejki na początku przyszłego roku.",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU2ZfYnhxdldnT0JvUWJwWHFycHQ5YlRMaTgtaXZpLXhVd2NhMG5sdzNRYm5GSnFZNXRsTkp5UFZLVGg3aXFZYnVKOVhaSXNJblhYQ0thUjBMbVI4S0ZWMmU1a3ZIaGJ3U0NON0w0R2xhVTJ6UWJZc2xVdUJ0U1VBLS13LUpIYlNTWFNHdXdFM3JyWFRHbEZuVGxNR0I1dFN3Y2RacEh4RjZsakpqaUE?oc=5",
+    "image": "https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-stacja-metra-m2-lazurowa-ph9335547/alternates/LANDSCAPE_1280",
+    "source": "PAP",
+    "also": [
+     "TVN24"
+    ],
+    "published": "2026-11-12T12:44:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wojciech Klimas nie żyje. Tragiczna śmierć milionera",
+    "summary": "Nie żyje Wojciech Klimas, założyciel firmy Klimas Wkręt-met. „Życie Częstochowskie” przekazało, że mężczyzna miał ranę postrzałową głowy. Prokuratura prowadzi śledztwo.",
+    "link": "https://www.rp.pl/spoleczenstwo/art45479401-wojciech-klimas-nie-zyje-tragiczna-smierc-milionera",
+    "image": "https://i.gremicdn.pl/image/free/2f4d3c66419f9d10c97e14fd68e77cde/wojciech-klimas?t=resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "Business Insider Polska"
+    ],
+    "published": "2026-11-12T12:06:56+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Żurek kpi z decyzji SN i Święczkowskiego. Pisze o podbiciu orzeczenia „pieczątką z ziemniaka”",
+    "summary": "Minister sprawiedliwości Waldemar Żurek zakwestionował rozstrzygnięcia Sądu Najwyższego dotyczące odsunięcia Bogdana Święczkowskiego i Bartłomieja Sochańskiego od obowiązków w Trybunale Konstytucyjnym. W opublikowanym w serwisie X wpisie wskazał między innymi na udział tzw. neosędziów.",
+    "link": "https://www.rp.pl/polityka/art45479161-zurek-kpi-z-decyzji-sn-i-swieczkowskiego-pisze-o-podbiciu-orzeczenia-pieczatka-z-ziemniaka",
+    "image": "https://i.gremicdn.pl/image/free/7cc50e421e4d368f06729afdd66be273/?t=crop:2400:1049:nowe:0:265,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-12T12:03:24+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Ceny maksymalne paliw na stacjach. Diesel mocno w dół",
+    "summary": "Minister energii Miłosz Motyka ogłosił nowe ceny maksymalne paliw na stacjach. Choć obniżane są ceny wszystkich rodzajów paliw w ramach CPN 2.0, to olej napędowy ma tu swoje szczególne miejsce. W piątek nie będzie kosztować w Polsce wyżej niż 7,54 zł.",
+    "link": "https://businessinsider.com.pl/gospodarka/cpn-20-dziala-kierowcy-zobacza-nizsze-ceny-na-stacjach-paliw/j1tbnf3",
+    "image": "https://ocdn.eu/pulscms-transforms/1/PXPk9kpTURBXy8wMzVhMGQwYzY0N2Q5OGE3NWJhYjFkZTM2OGRlNTVmOS5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-12T11:26:12+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Służby w siedzibie Telewizji Republika. \"Żądali wydania dokumentów\"",
+    "summary": "W siedzibie Telewizji Republika pojawiły się służby - informuje stacja. Obecni na miejscu pracownicy otrzymali wezwanie do wydania części materiałów. Onet informuje nieoficjalnie, że chodzi o funkcjonariuszy Centralnego Biura Zwalczania Cyberprzestępczości. Wiadomo też, o jakie dokumenty wnioskowali funkcjonariusze.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-sluzby-w-siedzibie-telewizji-republika-zadali-wydania-dokume,nId,23572501",
+    "image": "https://i.iplsc.com/-/000NIVA9KK51N9AR-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-12T10:27:50+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Jak żyć zdrowo i z poczuciem sensu po 90-tce? Na te pytania odpowiedzą eksperci podczas Warsaw Longevity Forum",
+    "summary": "Jak żyć nie tylko dłużej, ale też zdrowiej, aktywniej i z poczuciem sensu? Czy Polska jest gotowa na społeczeństwo, w którym coraz więcej osób dożywa dziewięćdziesiątki? I czy długowieczność, zamiast być wyzwaniem dla gospodarki, może stać się szansą na lepszą przyszłość?",
+    "link": "https://www.newsweek.pl/zdrowie-i-nauka/zdrowie/warsaw-longevity-forum-jak-zyc-dlugo-i-zdrowo/3t3wzjd",
+    "image": "https://ocdn.eu/pulscms-transforms/1/Xyhk9kpTURBXy9lZTgwZmYwMTQ1MWFmM2EwMDk3NzczZTQzMmUyYWI4NS5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-11-12T12:59:43+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Spotkałem Mistrza. Michał Romanowski wspomina prof. Andrzeja Szajkowskiego",
+    "summary": "Są ludzie niezastąpieni. Po ich odejściu zaczynamy uważniej słuchać słów, które nam pozostawili. Dla mnie takim człowiekiem jest Pan Profesor Andrzej Szajkowski. Człowiek, od którego nie tylko uczyłem się prawa spółek, ale przede wszystkim tego, że prawo handlowe jest prawem o tym, jak być uczciwym.",
+    "link": "https://www.rp.pl/nauka/art45473301-spotkalem-mistrza-michal-romanowski-wspomina-prof-andrzeja-szajkowskiego",
+    "image": "https://i.gremicdn.pl/image/free/7fa55f7edbc29f598948b18018cf7242/?t=crop:3872:1693:nowe:0:450,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-12T12:59:27+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Sprawy łóżkowe prezesa Nvidii zatrzęsły już całą branżą AI. Koszty liczone w bilionach dolarów",
+    "summary": "Tego wcześniej nie było. Zdrady małżeńskie prezesa Nvidii okazały się katalizatorem. Napompowane do granic możliwości notowania spółek związanych z AI teraz idą ostro w dół. Same akcje Nvidii tracą już ponad półtora biliona dolarów wartości rynkowej.",
+    "link": "https://businessinsider.com.pl/gielda/szczegoly-romansu-i-spadki-akcji-branza-ai-traci-miliardy/qnpx9vz",
+    "image": "https://ocdn.eu/pulscms-transforms/1/OIok9kpTURBXy9kMmRhNWI0NjEwNTMyYzcxZTIyZmJhZmU4NzcyODlkYy5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-12T12:54:57+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zmiany w przetwarzaniu danych osobowych i dostęp do informacji medycznych. Jak ministerstwo chce zwiększyć bezpieczeństwo i odporność systemu?",
+    "summary": "W Ministerstwie Cyfryzacji trwają prace nad rozwiązaniami mającymi zwiększyć odporność systemu ochrony danych osobowych na zagrożenia związane z powierzaniem przetwarzania danych podmiotom zewnętrznym. Chodzi zarówno o wzmocnienie przejrzystości samego systemu, jak i ułatwienie zgłaszania incydentów.",
+    "link": "https://www.gazetaprawna.pl/prawnik/legislacja/artykuly/11343789,zmiany-w-przetwarzaniu-danych-osobowych-i-dostep-do-informacji-medycznych-jak-ministerstwo-chce-zwiekszyc-bezpieczenstwo-i-odpornosc-systemu.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL/2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzcwMT/MwMS9maWxlcy8xLXNodXR0ZXJzdG9jay0yMzg0MTYxNzc1LTM4MjI/zMzAyLWNyb3AtNWVmNjk0YmItMzkzMTY0MjcuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-12T12:50:00.943000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Kolejni pacjenci wejdą do lekarza bez kolejki. Skorzystają też ich rodziny. Ustawa trafiła do Senatu",
+    "summary": "Sejm uchwalił ustawę, która ma dać kolejnym pacjentom pierwszeństwo w dostępie do leczenia. Zyskają także ich małżonkowie i dzieci. O tym, czy rodzina dostanie wcześniejszy termin, zdecyduje jednak również to, do której placówki się zgłosi.",
+    "link": "https://www.gazetaprawna.pl/biznes/zdrowie/artykuly/11343778,kto-skorzysta-z-leczenia-poza-kolejnoscia-z-karta-rodziny-mundurowej.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBs/L2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzcw/MTI5MS9maWxlcy9zaHV0dGVyc3RvY2stNDkwMjYxNjYwLTM4MTA5/MTk3LWNyb3AtMjM0NGM1M2UtMzkzMTY0MzIuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-12T12:45:04.415000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Tak wygląda Warszawa z kosmosu. Polskie satelity Mikroglob wykonały pierwsze szczegółowe zdjęcia",
+    "summary": "Zamek Królewski, Stadion Narodowy i Łazienki Królewskie zostały uwiecznione z orbity przez polskie satelity. Firma Creotech Instruments zaprezentowała pierwsze zdjęcia Warszawy wykonane przez konstelację Mikroglob.",
+    "link": "https://www.national-geographic.pl/kosmos/warszawa-z-kosmosu-polskie-satelity-mikroglob-wykonaly-pierwsze-szczegolowe-zdjecia/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/55/warszawa-z-kosmosu-polskie-satelity-mikroglob-wykonaly-pierwsze-szczegolowe-zdjecia.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-12T12:33:16+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Jensen Huang może stracić stanowisko. Odkryto drugi romans szefa Nvidii",
+    "summary": "Pozycja Jensena Huanga w Nvidii, którą uczynił jednym z głównych motorów rewolucji AI, zaczęła się chwiać. Doniesienia o drugim pozamałżeńskim romansie prezesa dodatkowo zaostrzyły sprawę domniemanego skandalu szpiegowskiego, którym zainteresowały się Waszyngton i Wall Street.",
+    "link": "https://www.newsweek.pl/swiat/skandal-jensena-huanga-odkryto-drugi-romans-szefa-nvidii/d229d4k",
+    "image": "https://ocdn.eu/pulscms-transforms/1/IJ_k9kpTURBXy8zZGNjNTY3ZDY3YzljNDgxZjJhZWZhZjkyMWRlMGQ4YS5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-11-12T11:52:34+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Śledztwo ws. Telewizji Republika. Chodzi o wypowiedź po zamachu w Krakowie",
+    "summary": "Prokuratura Okręgowa w Krakowie poinformowała, że wszczęła śledztwo w sprawie wypowiedzi, jakie pojawiły się na antenie prywatnej telewizji Republika.",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmY5VDRsT0ZaVFdKa1IxcUI2a201Ui1KRmFSZlZONXFQazhsV0FjMTlLeUgyOWtuZWxjRW1HdTlsTm9EVXhwc2Z5WGVyU0tpRm9wWVlobDlIcTU4aXktMVJrWkp4cUVEcktBQjBkQVJuYTBIRVdxVTFzOFhaWWpCMnNOZFZVOEF1ZkJ2V0FGc2xYRm9LMnJGTHJrZzVnYTZtYTI2Sw?oc=5",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/df19ac5c16a015aeb63f9a6d855de0fd.jpg.webp?itok=iukA1dsg",
+    "source": "PAP",
+    "also": [
+     "LoveKraków",
+     "RMF24",
+     "RMF24 Kraków",
+     "Radio Kraków"
+    ],
+    "published": "2026-11-12T11:44:17+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Poprawia się stan zdrowia rannych w zamachu w Krakowie. 11 osób nadal w szpitalach",
+    "summary": "Stan zdrowia osób rannych podczas sobotniego zamachu na Rynku Głównym w Krakowie systematycznie się poprawia. W pięciu krakowskich szpitalach nadal przebywa 11 poszkodowanych – poinformował w czwartek wojewoda małopolski Krzysztof Jan Klęczar.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/poprawia-sie-stan-zdrowia-rannych-w-zamachu-w-krakowie-11-osob-nadal-w-szpitalach/187634",
+    "image": "http://s14.tvp.pl/images2/d/2/6/uid_d260d0310fd14ee99de45a79176196de_width_1280_play_0_pos_0_gs_0_height_720.png",
+    "source": "Radio Kraków",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-12T09:52:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Auto spadło z wiaduktu w Krakowie. Nowe informacje dla kierowców",
+    "summary": "11 osób pozostaje w pięciu krakowskich szpitalach. Stan osób poszkodowanych systematycznie się poprawia - poinformował wojewoda małopolski Krzysztof Klęczar. Jednocześnie samorządowiec zapewnił, że osobom poszkodowanym udzielona zostanie wszelka możliwa pomoc.",
+    "link": "https://www.rmf24.pl/regiony/krakow/news-auto-spadlo-z-wiaduktu-w-krakowie-nowe-informacje-dla-kierow,nIdn,1025776",
+    "image": "https://rmf.rmffm.pl/news/attachments/9e/8c/wypadek-w-krakowie-fot-zdj-636x421-9e8cc1e5.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-12T06:44:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Sylwester w Zakopanem? Ponad 70 proc. miejsc noclegowych zarezerwowanych",
+    "summary": "Na początku listopada ponad 70 proc. miejsc noclegowych pod Tatrami jest już zarezerwowanych na Sylwestra, a nieco mniej na święta Bożego Narodzenia – poinformował PAP Karol Wagner z Tatrzańskiej Izby Gospodarczej.",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzdHWFFZd0ZFR2QtdFF2ZU9oQXhwcUdNYXQ4SGRHT1M5c2tqbEF5WlgtOUlySVN1RVIyOFA2dm01cVhfS3R5NnhFejRRWkplUjczc2ZVemVoNDRDV2NXUmJRWDA0dEVodWFKdWRRVjJ0dGxvR1dqd3VPbFEyMWFYMlA3SEhIWXpGQnV4WEdhNzV2SEJVTDU2RkRWY1NWWWVpMWw1V3hCeFFERC1nQlRv?oc=5",
+    "image": null,
+    "source": "PAP",
+    "also": [
+     "Radio Kraków"
+    ],
+    "published": "2026-11-12T07:03:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "11 osób zatrzymanych w związku z wpisami po zamachu w Krakowie",
+    "summary": "11 osób w całym kraju zatrzymała dotąd policja w związku z publikowaniem w sieci wpisów wychwalających sprawcę strzelaniny w Krakowie lub sugerujących kolejne ataki. Jednym z zatrzymanych jest 34-latek z gminy Masłów pod Kielcami, który usłyszał już zarzuty.",
+    "link": "https://tvn24.pl/krakow/zamach-w-krakowie-11-osob-zatrzymanych-w-zwiazku-z-wpisami-po-ataku-st9335693?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-miejsce-zatrzymania-sprawcy-ataku-w-krakowie-ph9329392/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Rzeczpospolita"
+    ],
+    "published": "2026-11-12T12:59:35+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Tarnów świętuje niepodległość",
+    "summary": "Fot. Paweł Topolski",
+    "link": "https://radiokrakow.pl/galerie/tarnow-swietuje-niepodleglosc/187617",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/y1/y1sze3ze6z94dk5etreu5hay91xufgi9.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-11T19:20:04+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Nowe informacje o rannych po zamachu w Krakowie. Wojewoda zabrał głos",
+    "summary": "- Stan osób rannych w sobotnim zamachu w Krakowie systematycznie się poprawia - poinformował wojewoda małopolski Krzysztof Jan Klęczar. W pięciu krakowskich szpitalach nadal przebywa 11 poszkodowanych. Rozpoczęły się też rozmowy z samorządami, aby ustalić, jakiej pomocy potrzebują ofiary ataku i ich bliscy.",
+    "link": "https://wydarzenia.interia.pl/malopolskie/news-nowe-informacje-o-rannych-po-zamachu-w-krakowie-wojewoda-zab,nId,23572380",
+    "image": "https://i.iplsc.com/-/000NIU87MGEPBF8U-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-12T09:46:47+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Kolejni poszkodowani w zamachu wyszli ze szpitala",
+    "summary": "Wojewoda małopolski Krzysztof Klęczar poinformował o stanie zdrowia osób rannych podczas wydarzeń z 7 listopada. Dwie osoby zostały wypisane z placówek medycznych.",
+    "link": "https://lovekrakow.pl/kolejni-poszkodowani-w-zamachu-wyszli-ze-szpitala",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/e87a5f76eab3604bf24c68a2883a157d.JPG.webp?itok=J1X3Eb-O",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-12T11:26:29+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Wodociągi działają w trybie dyżuru",
+    "summary": "W Wodociągach Miasta Krakowa 12 listopada jest dniem wolnym od pracy. Centrum Obsługi Mieszkańców przy ul. Senatorskiej 9 będzie jednak funkcjonować w trybie dyżuru.",
+    "link": "https://lovekrakow.pl/wodociagi-dzialaja-w-trybie-dyzuru",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/photo_library/2020-07-23/23_07_2020_KOBIERZYNSKA_MPWIK_840_KALI.jpg.webp?h=c6cb2754&itok=gu2VkZwe",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-12T09:30:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Ciężki sprzęt wjechał w samo serce Mistrzejowic. Zamiast trawnika powstanie tor dla rolkarzy",
+    "summary": "Rewitalizacja Plant Mistrzejowickich nabiera tempa. Po etapie formalności robotnicy przygotowują podbudowę pod tor rolkarski i bulodrom. Posadzone zostaną też nowe drzewa.",
+    "link": "https://lovekrakow.pl/ciezki-sprzet-wjechal-w-samo-serce-mistrzejowic-zamiast-trawnika-powstanie-tor-dla-rolkarzy",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/0d71de1f64974d7bdca058aa1425314e.JPG.webp?h=41f55a5b&itok=hRqzpSVo",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-12T07:30:01+00:00",
+    "topic": "sport"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Botticelli painting saved from leaving UK goes on view in Oxford",
+    "summary": "The early work by the Renaissance master had previously been exhibited at the Ashmolean Museum, where it is now on display, in the 1930s",
+    "link": "https://www.theartnewspaper.com/2026/11/12/botticelli-painting-saved-from-leaving-uk-goes-on-view-in-oxford",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/acebb801c84b865d16655a01828848452db03c49-11648x8736.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-12T12:38:16+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Staff petition against major restructuring plans at Sydney's Chau Chak Wing Museum",
+    "summary": "Proposed cut of eight positions would put the collections at risk, the museum's curators say",
+    "link": "https://www.theartnewspaper.com/2026/11/12/staff-petition-against-major-restructuring-plans-at-sydneys-chau-chak-wing-museum",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/a8f29996d1999c3a155854198bea687cc8d141ab-6735x3986.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-12T12:19:23+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "‘A web of canals and cobbled streets’: a city break in Haarlem in the Netherlands",
+    "summary": "A short ride from Amsterdam, this laid-back city has great museums, cosy bars and a new exhibition featuring the works of Rembrandt and local artist Frans Hals this winter It’s only 15 minutes away from the Dutch capital by train, but Haarlem feels a million miles from Amsterdam, and perhaps provides a more typical…",
+    "link": "https://www.theguardian.com/travel/2026/nov/12/canals-city-break-haarlem-netherlands",
+    "image": "https://i.guim.co.uk/img/media/cb6b3afadcc56dfb80fe0a7c2c9a2795cd438e48/441_11_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=71a289f56ca2c1aa472c1b0828af6a48",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-12T07:00:11+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Women finally start to get pride of place with central London sculptures",
+    "summary": "Tschabalala Self’s Fourth Plinth work, and Nicole Eisenman's sculpture at the RA are welcome signs of change",
+    "link": "https://www.theartnewspaper.com/2026/11/12/women-finally-start-to-get-pride-of-place-with-central-london-sculptures-eisenman-self",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/8d0e337bae9ca0448650e38578bcab1cefdf0f17-614x921.jpg?rect=0,64,614,708&w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-12T13:05:52+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Jeden z domów tworzących w Warszawie Kolonię Profesorską został zabytkiem",
+    "summary": "Dom Zygmunta Kamińskiego i Zofii Trzcińskiej-Kamińskiej przy ul. Myśliwieckiej 10, który współtworzy warszawską Kolonię Profesorską został wpisany do rejestru zabytków - poinformował mazowiecki konserwator zabytków Marcin Dawidowicz.",
+    "link": "https://dzieje.pl/wiadomosci/jeden-z-domow-tworzacych-w-warszawie-kolonie-profesorska-zostal-zabytkiem",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/dom%20kopia.jpg?h=41f8ef49&itok=cCAYXLMt",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-12T12:34:45+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
+    "summary": "Once a Dallas school teacher, Hall became a star in later life with roles in Soul Food and Collateral Actor Irma P Hall, star of Soul Food and the Coen brothers’ The Ladykillers , has died at the age of 91.",
+    "link": "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
+    "image": "https://i.guim.co.uk/img/media/15b03fc1613e6f2a8ee018097989f1fe3348e027/200_0_2299_1840/master/2299.jpg?width=140&quality=85&auto=format&fit=max&s=45a5f4741232ddc4f88128b29fa29490",
+    "source": "The Guardian",
+    "also": [
+     "Euronews Culture"
+    ],
+    "published": "2026-11-11T19:47:16+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
+    "summary": "Some schools remove the children's author's books from their libraries after allegations against him.",
+    "link": "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bf48/live/30659f30-de8c-11f1-b88b-3f1671ea859d.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-12T12:42:43+00:00",
+    "topic": "literatura"
+   },
+   {
+    "title": "CMAT joins Philomena Begley on stage in surprise appearance",
+    "summary": "Philomena Begley was honoured with the Lifetime Achievement Award in recognition of her 64-year career.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dv7v4x0z2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3ba5/live/ed4d9840-de88-11f1-b88b-3f1671ea859d.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-12T12:06:28+00:00",
+    "topic": "teatr"
+   },
+   {
+    "title": "Rzeźba Misia Uszatka w Łodzi przejdzie renowację",
+    "summary": "Jeden z najpopularniejszych symboli Łodzi – rzeźba Misia Uszatka – przejdzie gruntowną renowację. W związku z zaplanowanymi pracami w najbliższym czasie ulubieńca Łodzian i turystów nie będzie można spotkać na ulicy Piotrkowskiej.",
+    "link": "https://dzieje.pl/wiadomosci/rzezba-misia-uszatka-w-lodzi-przejdzie-renowacje",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20091027_1FC.jpg?h=8cc5baed&itok=OS6reezJ",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-12T10:22:36+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Warsztat transferu na talerze za nami",
+    "summary": "Wystawy czasowe stanowią nie tylko nową przestrzeń ekspozycyjną dla naszych zwiedzających, ale także impuls do tworzenia dedykowanych programów edukacyjnych. Działania te pozwalają na pogłębioną refleksję nad podejmowaną tematyką oraz stwarzają uczestnikom przestrzeń do twórczej ekspresji i zdobycia bezpośredniego…",
+    "link": "https://mnk.pl/warsztat-transferu-na-talerze-za-nami/",
+    "image": "https://mnk.pl/wp-content/uploads/2026/11/33329-768x1024.jpg",
+    "source": "Muzeum Narodowe w Krakowie",
+    "also": [],
+    "published": "2026-11-12T10:26:54+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Scenarzysta \"Wśród nocnej ciszy\": Jan Holoubek jest jedyną osobą, której mogłem oddać ten materiał",
+    "summary": "- Ta historia sięga głęboko do korzeni naszej kultury i sedna tego, co to znaczy być człowiekiem. To jest dla mnie porażające podczas realizacji tego serialu - podkreśla w rozmowie z Gazeta.pl Maciej Kowalewski, główny scenarzysta i współreżyser najnowszego serialu Jana Holoubka \"Wśród nocnej ciszy\".",
+    "link": "https://kultura.gazeta.pl/kultura/7,198697,33126464,scenarzysta-wsrod-nocnej-ciszy-jan-holoubek-jest-jedyna-osoba.html",
+    "image": "https://bi.im-g.pl/im/53/94/1f/z33113427IHG,Kadr-z-serialu--Wsrod-nocnej-ciszy---rez--Jan-Holo.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-12T10:59:00+00:00",
+    "topic": "teatr"
+   },
+   {
+    "title": "\"Dziedzictwo\", odcinek 1070. Co wydarzy się w serialu?",
+    "summary": "Przed widzami 1070. odcinka serialu \"Dziedzictwo\" sporo atrakcji. Co tym razem czeka bohaterów popularnego serialu? Otóż Poyraz odkrywa adres magazynu, w którym Atakan może więzić Nanę. Nie wie, że to pułapka. Sinan współpracuje z Baranem w celu udowodnienia niewinności Aynur. Ona zaś pada ofiarą ataku współosadzonej.",
+    "link": "https://kultura.onet.pl/telewizja/seriale-zagraniczne/dziedzictwo-odcinek-1070-co-wydarzy-sie-w-serialu/qlns647",
+    "image": "https://cdn.kultura.onet.pl/1/uFwk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82M2E4OTRhMjU3ZjI1MWU4OTcyYjI5ZjBhZDZhYzE3Yi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-12T06:01:08+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Pisarz, maszynista widmowych pociągów, „polski Poe” - 90 lat temu zmarł Stefan Grabiński",
+    "summary": "Wokół codziennej, szarej, odartej z wszelkich uroków niezwykłości kolejarskiej roboty rozsnuł niepokojącą aurę tajemnic i swoistej, osobliwej, groźnej poezji - 12 listopada 1936 r. w wieku 49 lat zmarł we Lwowie Stefan Grabiński, pisarz, zwany „polskim Poe” i maszynistą widmowych pociągów.",
+    "link": "https://dzieje.pl/wiadomosci/pisarz-maszynista-widmowych-pociagow-polski-poe-90-lat-temu-zmarl-stefan-grabinski",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/grabi%C5%84ski%20kopia.jpg?h=ad7a1f32&itok=MzIEq5gV",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-12T08:51:59+00:00",
+    "topic": "literatura"
+   },
+   {
+    "title": "Dziś w TV polski hit. \"Wybija się z całej masy beznadziejnych komedyjek\"",
+    "summary": "\"Uwielbiam tę komedię\", \"najsłodszy film\" - piszą widzowie. Polsat pokaże dziś głośny film z Piotrem Adamczykiem w roli głównej.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33123638,dzis-w-tv-polski-hit-wybija-sie-z-calej-masy-beznadziejnych.html",
+    "image": "https://bi.im-g.pl/im/51/96/1f/z33123665IHG,-Nie-klam--kochanie----kadr-z-filmu.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-12T07:15:00+00:00",
+    "topic": "film"
+   }
+  ]
+ }
+}
