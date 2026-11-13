@@ -1,0 +1,735 @@
+{
+ "date": "2026-11-13",
+ "generated": "2026-11-13T13:32+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Flota niemieckiej armii była uziemiona. Cyberatak na producenta dronów",
+    "summary": "Hakerzy umieścili szkodliwe oprogramowanie na serwerze firmy Quantum Systems, producenta dronów z Monachium i dostawcy dla niemieckiej i ukraińskiej armii. Zagrożenie zostało już opanowane - podał \"Der Spiegel\".",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-flota-niemieckiej-armii-byla-uziemiona-cyberatak-na-producen,nIdn,1025972",
+    "image": "https://rmf.rmffm.pl/news/attachments/01/e9/zdjecie-ilustracyjne-636x421-01e9f580.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVN24"
+    ],
+    "published": "2026-11-13T10:15:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-13T02:01:35+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Eksplozja samochodu w Moskwie. Media: ranny rzecznik byłego premiera Ukrainy",
+    "summary": "Rosyjskie media poinformowały, że w moskiewskiej dzielnicy Czertanowo samochód osobowy eksplodował podczas jazdy, a siła wybuchu wyrzuciła kierowcę na jezdnię. Mężczyzna został przewieziony do szpitala. Według doniesień medialnych rannym ma być Serhij Zaworotny, rzecznik byłego premiera Ukrainy.",
+    "link": "https://tvn24.pl/swiat/roska-moskwa-eksplozja-samochodu-media-ranny-rzecznik-bylego-premiera-ukrainy-serhij-zaworotny-st9337229?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-sluzby-na-miejscu-eksplozji-samochodu-w-moskwie-ph9337208/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-13T11:00:31+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
+    "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFZuQ05KbXhLT294akRzMl9XWE5rUmRhV01fSDY4VVF6dnNaZVlCUzdCd1I2TnI0azFRT1VHcW1hVm9oMWhUNTZaVUc0QjNVNkNseGxYTGU3RmpSWXppTVZ4TzVRWEpxdE1tOVc3NDJYdFZmdWhoeFBvSXc4MXV4N0JUSW95SzlZalpwcERuU3hRNHpSbVBwNXl1Y19kUDU1d2c?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "NPR"
+    ],
+    "published": "2026-11-13T02:09:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "What to know as European leaders meet in Dublin to discuss Ukraine's security, and their own",
+    "summary": "Leaders from more than 40 European countries gathered in Dublin on Thursday, November 12, for a summit focused on the continent’s fragile security, amid a new US-backed effort to revive talks on ending the Russia-Ukraine war.",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnB2R1BnOVhKQlZxZUU5dGZ5Y2hGS0pHOTlVUC05ZjFsWGZPcnN1ZUM2Z1RsektnUzhzYmRySFc2am9xZmZuTTVzbFdVUFpJdDlwSXItLWNoR21rMU11ZldJajNLeGJ0UE5tWEJvQS1hUWI3S1RLWklFU3IxU0lVRmVta3ZSRUFvSlVlOGpFb3VGUkQzRHZRQ3ZGck1uVERGX25BSUZvbDdUNG1f?oc=5",
+    "image": "https://s.france24.com/media/display/a10168be-de82-11f1-acfb-3f371022a770/w:1024/p:16x9/EN-20261112-110426-110630-CS.jpg",
+    "source": "Associated Press",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-12T16:21:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Hiszpania podpisała umowę ramową z wykonawcą",
+    "summary": "Hiszpania podpisała umowę ramową z Airbusem na tankowce powietrzne A330 MRTT – kupi je razem z Polską w ramach programu SAFE, o czym poinformowała wiceministra MON Magdalena Sobkowiak-Czarnecka. Następnym krokiem jest podpisanie umowy wykonawczej przez Polskę, która ma zostać sfinalizowana do końca roku.",
+    "link": "http://www.tvp.info/96455456/hiszpania-podpisala-umowe-ramowa-z-wykonawca",
+    "image": "http://galeria.bankier.pl/p/f/8/5216ed2aebf1fb-948-568-227-122-3047-1828.jpg",
+    "source": "TVP Info",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-13T11:02:00+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
+    "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week The Home Office underspent its Prevent counter-terror scheme budget by nearly a third last year, despite the number of referrals reaching record levels, the public spending watchdog has said.",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-13T11:47:47+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Oxfordshire villagers to launch legal fight against asylum centre plan",
+    "summary": "Parish council of Piddington, which symbolically voted to leave UK over plan, says it will ‘absolutely’ take legal action UK politics – live updates Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200…",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
+    "image": "https://i.guim.co.uk/img/media/c06718debdca7ff78851cb74ac0be786981aebe3/777_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=637b882b734e98ba0b39f21011659544",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-13T10:47:54+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "O tysiącach ludzi, którzy pozwolili garstce polecieć w kosmos",
+    "summary": "O tysiącach ludzi, którzy pozwolili garstce polecieć w kosmos atkacz pt., 11/13/2026 - 11:07 W skali świata w kosmosie ludzi było niewielu. Jednak za każdym astronautą stoi sztab ludzi, którzy w różnych miejscach świata przygotowują, zabezpieczają i obsługują misje.",
+    "link": "https://naukawpolsce.pl/aktualnosci/news%2C115887%2Co-tysiacach-ludzi-ktorzy-pozwolili-garstce-poleciec-w-kosmos.html",
+    "image": "https://naukawpolsce.pl/sites/default/files/styles/ksiazka_16_24_/public/202611/ponad%20b.jpg.webp?itok=nC8tM-Oo",
+    "source": "Nauka w Polsce",
+    "also": [],
+    "published": "2026-11-13T10:07:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+    "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain.",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+    "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-13T08:49:19+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "How many sewage spills have happened in your part of Scotland?",
+    "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
+    "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/375e/live/cc1f4930-df31-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-13T06:31:51+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Udział Chin w imporcie do Polski rośnie, a Niemiec maleje. Nowe dane GUS",
+    "summary": "Polska sprowadza coraz więcej towarów z zagranicy, a deficyt handlowy przekroczył już 10 mld dol. Największa zmiana zachodzi jednak w strukturze importu. Chiny szybko zmniejszają dystans do Niemiec i mogą wkrótce zostać naszym największym dostawcą.",
+    "link": "https://www.rp.pl/dane-gospodarcze/art45484191-udzial-chin-w-imporcie-do-polski-rosnie-a-niemiec-maleje-nowe-dane-gus",
+    "image": "https://i.gremicdn.pl/image/free/34bdcb252ce763e08cc3760dd454272b/?t=crop:5464:2389:nowe:0:626,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-13T12:29:48+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Chris Van Hollen announces run for US Senate majority leader, challenging Schumer",
+    "summary": "This live blog is now closed. Chris Van Hollen to challenge Chuck Schumer for Senate majority leader Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989: The New York Times spoke to Russ Hudson , the man who…",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5",
+    "image": "https://i.guim.co.uk/img/media/d151820dd96f644a510e876cd48686056cafc4e2/689_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2d8e96acae31bb7b5c0561284485e542",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "Euronews",
+     "The Guardian"
+    ],
+    "published": "2026-11-13T02:28:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "What we know about the global Microsoft outage",
+    "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera",
+     "The Guardian"
+    ],
+    "published": "2026-11-13T12:31:49+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
+    "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple allegations of extramarital affairs , including one that…",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
+    "image": "https://i.guim.co.uk/img/media/16a9e0aed91c3b4022e42015b6599e223f5d81ab/0_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=ee231f477f9f6916b617e58d71aa04d5",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "The Guardian"
+    ],
+    "published": "2026-11-13T00:39:26+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Indonesia’s vice president resigns as his eligibility and academic credentials are questioned",
+    "summary": "Gibran Rakabuming Raka, seen in May in Jakarta, the capital of Indonesia, resigned as the country’s vice president.",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE80VHB2dlMwYkZpM2p1UUdyV0toU0V6TDdvS044OWRteHdVSWltUzJtLUZtd3oyUlpFZHZpd0gzUDdqOWMzTHZQMjM2VDYyR0Y0YkFaSm15dnFHRHM0b3o5ZDU1ME9OcVZ4aGNqWGVSZ1hLdHBIajVMMENZSGEwZVFDeWlwVUFEUGJqQ0s0QlUzVnZPNHpNcWllT1ZveXZZNlE?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-indonesia-vp-mgpj/12int-indonesia-vp-mgpj-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "NPR",
+     "The New York Times"
+    ],
+    "published": "2026-11-12T23:49:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
+    "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "BBC News"
+    ],
+    "published": "2026-11-12T13:52:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Pakistan’s army says it killed 74 militants in raids on their hideouts",
+    "summary": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb21CVUxCSWdXZll3OThPOWdNZXFfMTFKaUY4cnVFU082VlEteW1CX0J2NTNQZk5TWXlwaUlXZjNrSG1lcmRjdlFYWXRzdTg1dTJvM3UtbTN3b0dxNGVobmZpdHNldTEzcFZuSWRqdEg5ZHJYMTFrZXJBT1BIZDFKd0NWbDlTNkFtbF91TEZsamY?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-13T07:36:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
+    "summary": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants. The commander was not found among the dead.",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "NPR"
+    ],
+    "published": "2026-11-12T17:51:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+    "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+    "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-13T08:20:28+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Strzelanina w Waszyngtonie. Nie żyją dwie osoby, w tym sprawca",
+    "summary": "W Waszyngtonie, niespełna dwa kilometry od Białego Domu, uzbrojony napastnik zabarykadował się w jednym z budynków. Policja przekazała, że w wyniku strzelaniny zginęła jedna osoba, a cztery zostały ranne. Napastnik został znaleziony w mieszkaniu z raną postrzałową. Stacja NBC News podała, że sprawca ataku nie żyje.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-strzelanina-w-waszyngtonie-nie-zyja-dwie-osoby-w-tym-sprawca,nIdn,1025865",
+    "image": "https://rmf.rmffm.pl/news/attachments/b6/6b/w-waszyngtonie-doszlo-do-strzelaniny-zdjecie-z-miejsca-zdarzenia-fot-636x421-b66b0e7f.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-12T13:57:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+    "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain – its first direct attack on US military installations for months – in response to a US…",
+    "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+    "image": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-13T12:07:13+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Summer heatwave put bin crews lives at risk, says council worker",
+    "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+    "link": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a650/live/bd0ec7c0-df56-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-13T12:03:04+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
+    "summary": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver that Sign up for the Breaking News US email Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Senate minority leader…",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+    "image": "https://i.guim.co.uk/img/media/10932ac8c9cc15a1ae8c48d7b5b73278e22a95a3/813_0_4081_3265/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=e59d9e0ac8a027834f2adbd129e9a366",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-13T11:54:27+00:00",
+    "topic": "polityka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Nowe ceny paliw na weekend",
+    "summary": "W weekend i poniedziałek na stacjach paliw w Polsce będą obowiązywały nowe ceny maksymalne. Z najnowszego obwieszczenia ministra energii wynika, że benzyna bezołowiowa 95 i 98 oraz olej napędowy będą tańsze niż w piątek.",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0ZHBpUFgyM2ZvXzFzdUNULW94OENoSjg0TFZkSnBOWG42SDk2OHJoTUdXQlpjY3p0aHRkLUVadVcyYmpFTlNMZTJDLUQxTDllUzByUk96cHhiajh0WG5iVUl1dkRRM0k1?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/62/78/zdjecie-pogladowe-636x421-627817e1.jpg",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska",
+     "RMF24",
+     "RMF24 Ekonomia",
+     "TVN24"
+    ],
+    "published": "2026-11-13T11:24:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "„Ręce precz od Republiki”. Atak na biuro posła KO",
+    "summary": "Nieznani sprawcy pomalowali farbą filię biura poselskiego Michała Jarosa w Trzebnicy. Na witrynach i elewacji budynku pojawiły się hasła odnoszące się do Telewizji Republika i premiera Donalda Tuska. – Skoro już robicie Republice reklamę, mam dobrą wiadomość.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-rece-precz-od-republiki-atak-na-biuro-posla-ko,nIdn,1025994",
+    "image": "https://rmf.rmffm.pl/news/attachments/6b/5a/michal-jaros-fot-636x421-6b5af87c.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-13T11:43:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Premier Tusk: Amerykanie poinformowali Polskę i inne kraje Europy o efektach negocjacji z Rosją",
+    "summary": "Premier Donald Tusk przekazał, że w czwartek późnym wieczorem na lotnisku wojskowym w Dublinie doszło do rozmów z udziałem przedstawicieli USA, Wielkiej Brytanii, Polski, Niemiec, Francji, Włoch oraz instytucji UE. Amerykanie poinformowali o efektach spotkania w Moskwie - przekazał.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzlEVk95RVBmNzkxVnZ1SEhuaE5fWGszdGRZSXZiVF9yNWVodGJXNGx3NnJZeTB4OTFXaEhnbzIyWnpHUGNYNmVSN1JISGlYcF9CYlE3bW8xUnJBMHhWekdSRE9XVnU1dUlWcHdnenFLUHZUUzlkTnUzV0lodHNRZVl1YVZ0LTFXWTFEOTZfZnp3RWQ5VDBWTUhLeHNUcmZDNVlPRU5uclNzeWEtbHpaMDFCdm50cWJr?oc=5",
+    "image": "http://galeria.bankier.pl/p/e/7/81bc127b339ad7-948-568-0-409-3379-2027.jpg",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-13T09:19:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Zalana szkoła w Olsztynie. Uczniowie przechodzą na naukę zdalną",
+    "summary": "Uczniowie V Liceum Ogólnokształcącego w Olsztynie przechodzą na zdalne nauczanie. To efekt awarii, w wyniku której został zalany niemal całkowicie budynek szkoły. Dokładna przyczyna nie jest jeszcze znana.",
+    "link": "https://www.rmf24.pl/regiony/olsztyn/news-zalana-szkola-w-olsztynie-uczniowie-przechodza-na-nauke-zdal,nIdn,1025943",
+    "image": "https://rmf.rmffm.pl/news/attachments/d2/d6/zdjecie-poladowe-636x421-d2d6c9ca.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVN24"
+    ],
+    "published": "2026-11-13T07:59:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wrocław/ Uniwersytet Przyrodniczy będzie bezpłatnie leczył psy ratownicze",
+    "summary": "Wrocław/ Uniwersytet Przyrodniczy będzie bezpłatnie leczył psy ratownicze tryton pt., 11/13/2026 - 08:40 2 minuty",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFZc1VKaGpnZHlXTTRBYzY0T2JWTHVrZnYyT0hwdDU2SzlleG92UEJ3UG5xQTh4UEp2eURjMWU4eldrM09kZHB2YkpyM2c3Q3pDX2hVb3BScGlPTkd3QVVlempfV3FXRDhOOFBtMWdlaThuTnUwZl81dDhnbmRET3dXdUZSOHZMZU5HRjE1cVU2QXBpaGtPcXprUTFlZHpjUG01VFBEaDFZSTREaXNoZTlseVhiSmlBZmcyb2N3VVU0UEJFd1JGWGM3bw?oc=5",
+    "image": null,
+    "source": "PAP",
+    "also": [
+     "Nauka w Polsce"
+    ],
+    "published": "2026-11-13T07:40:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Awaria systemów Microsoft. \"Obserwujemy poprawę\"",
+    "summary": "Trwa globalna awaria systemów Microsoft, między innymi poczty Outlook czy platformy Teams. Firma boryka się z problemami już od czwartku. W najnowszym komunikacie wskazała, że \"ruch jest stopniowo przywracany\".",
+    "link": "https://tvn24.pl/biznes/ze-swiata/awaria-systemow-microsoft-obserwujemy-poprawe-st9337388?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-microsoft-wyszukiwarka-lupa-shutterstock-2828166525-ph9337412/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-13T11:48:29+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Globalna awaria Microsoftu. Jest komentarz ministra cyfryzacji i specjalny komunikat dla klientów mBanku",
+    "summary": "Globalna awaria Microsoft odbiła się głośnym echem. Bez dostępu do głównych narzędzi znajdują się instytucje finansowe, korporacje czy urzędy na całym świecie. Firma podała przyczynę awarii i wciąż pracuje nad jej usunięciem.",
+    "link": "https://www.gazetaprawna.pl/nowe-technologie/uslugi-cyfrowe/artykuly/11344165,globalna-awaria-microsoftu-jest-komentarz-ministra-cyfryzacji-i-specj.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGlj/LmluY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMv/Rk9CMDAwMDAwMDAwMDAwNzcwMTYyNy9maWxlcy9t/aWNyb3NvZnQtMzkzMTc0MjkuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Business Insider Polska"
+    ],
+    "published": "2026-11-13T11:28:49.307000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Karambol pod Słupskiem. Na S6 zderzyło się pięć aut, są ranni",
+    "summary": "Odblokowano drogę ekspresową S6 w kierunku Gdańska po porannym wypadku z udziałem pięciu samochodów. W wyniku zderzenia między węzłami Wrześnica i Sycewice jedna z trzech poszkodowanych osób została ciężko ranna i przebywa w szpitalu w Słupsku.",
+    "link": "https://tvn24.pl/trojmiasto/sycewice-karambol-pod-slupskiem-na-s6-zderzylo-sie-piec-aut-sa-ranni-st9336907?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-sycewice-karambol-ph9336897/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-13T08:32:35+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wielka awaria Microsoft 365. Odcięło dostępy na całym świecie. Jest komunikat",
+    "summary": "Osoby, które pracują na narzędziach Microsoft 365, mogą spokojnie zacząć dzień od kawy. Wskutek globalnej awarii nie działają narzędzia takie jak: Microsoft Teams, Outlook czy Copilot. Firma zdążyła już wydać komunikat, w którym poinformowała, że problemy techniczne związane są z łącznością, a nie z cyberatakiem.",
+    "link": "https://www.gazetaprawna.pl/nowe-technologie/uslugi-cyfrowe/artykuly/11344042,uzytkownicy-microsoft-365-z-calego-swiata-maja-powazny-problem-wielka.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncH/N0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzY4Mzk5OC9maWxl/cy9wcmFjb3duaWstb2Rwb3dpZWR6aWFsbm9zYy1rb21wdXRlci1zdHJhY2/gtb3N6dXN0d28tcHJhY2EtYml1cm8tMzkyNjEyMTQuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Business Insider Polska"
+    ],
+    "published": "2026-11-13T06:50:22.963000+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Prokuratura chce przesłuchać Nawrockiego. Pismo do kancelarii prezydenta",
+    "summary": "Prokuratura Rejonowa Gdańsk-Śródmieście w Gdańsku skierowała do Kancelarii Prezydenta pismo w sprawie przesłuchania prezydenta Karola Nawrockiego w charakterze świadka w śledztwie dotyczącym przejęcia kawalerki w Gdańsku - poinformował PAP rzecznik gdańskiej prokuratury okręgowej prokurator Mariusz Duszyński.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-prokuratura-chce-przesluchac-nawrockiego-pismo-do-kancelarii,nIdn,1025911",
+    "image": "https://rmf.rmffm.pl/news/attachments/b4/70/prezydent-karol-na-636x421-b470a47c.jpg",
+    "source": "RMF24",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-12T19:54:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Lektor wygrał proces dotyczący użycia przy pomocy AI jego głosu w reklamie",
+    "summary": "Sąd Okręgowy w Warszawie uwzględnił w piątek powództwo lektora Jarosława Łukomskiego przeciwko JFC Polska. Uznał, że doszło do naruszenia jego dóbr osobistych przez wykorzystanie w reklamie głosu wygenerowanego przy użyciu sztucznej inteligencji.",
+    "link": "https://www.rp.pl/dobra-osobiste/art45484781-lektor-wygral-proces-dotyczacy-uzycia-przy-pomocy-ai-jego-glosu-w-reklamie",
+    "image": "https://i.gremicdn.pl/image/free/7d9b80efd3439cbc6ecfda698eddf2d4/?t=crop:6971:3047:nowe:0:800,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-13T12:24:20+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Microsoft nie może uporać się z awarią. Problemy w 74 krajach, Polska reaguje",
+    "summary": "Globalna awaria Microsoftu trwa już kilkanaście godzin i dotyka użytkowników w co najmniej 74 krajach. – To wyraźna ilustracja problemów z cyfrowym uzależnieniem od globalnych korporacji – napisał na platformie X minister cyfryzacji Krzysztof Gawkowski.",
+    "link": "https://cyfrowa.rp.pl/it/art45484921-microsoft-nie-moze-uporac-sie-z-awaria-problemy-w-74-krajach-polska-reaguje",
+    "image": "https://i.gremicdn.pl/image/free/854d8d9c2bb0d719af04f9e09055e056/?t=crop:5794:2533:nowe:0:665,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-13T12:07:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "\"Idziemy sami\". Mateusz Morawiecki deklaruje",
+    "summary": "Idziemy do wyborów sami — zadeklarował w Poznaniu lider Rozwoju Plus oraz były premier Mateusz Morawiecki. Ocenił jednocześnie, że na polskiej prawicy nie ma obecnie hegemona, tak jak to było kiedyś.",
+    "link": "https://businessinsider.com.pl/wiadomosci/widze-te-zachety-mateusz-morawiecki-nie-chce-startowac-z-pis/ht1fq8x",
+    "image": "https://ocdn.eu/pulscms-transforms/1/SXUk9kpTURBXy8xN2YxNmRjZTA5M2FjNDM3MjIxYmRlYzgwZmFjYzE0Mi5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-13T12:04:36+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Media o przyczynie śmierci Anthony'ego Clarka",
+    "summary": "W czwartek media obiegła informacja o śmierci komika i aktora Anthony'ego Clarka. Dzień później jeden z prestiżowych amerykańskich magazynów wskazał, co mogło być przyczyną jego odejścia w wieku 62 lat.",
+    "link": "https://tvn24.pl/kultura-i-styl/nie-zyje-anthony-clark-media-o-przyczynie-smierci-aktora-i-komika-st9337192?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-anthony-clark-ph9337195/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-13T11:51:48+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Śledztwo ws. Telewizji Republika. Chodzi o wypowiedź po zamachu w Krakowie",
+    "summary": "Krakowska prokuratura wszczęła śledztwo w sprawie słów, które padły na antenie Telewizji Republika tuż po tragicznym ataku na Rynku Głównym. Śledczy badają wątek zniesławienia funkcjonariuszy poprzez twierdzenia o ich nieobecności na miejscu zdarzenia oraz niezweryfikowane informacje o udziale cudzoziemców.",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmY5VDRsT0ZaVFdKa1IxcUI2a201Ui1KRmFSZlZONXFQazhsV0FjMTlLeUgyOWtuZWxjRW1HdTlsTm9EVXhwc2Z5WGVyU0tpRm9wWVlobDlIcTU4aXktMVJrWkp4cUVEcktBQjBkQVJuYTBIRVdxVTFzOFhaWWpCMnNOZFZVOEF1ZkJ2V0FGc2xYRm9LMnJGTHJrZzVnYTZtYTI2Sw?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/b4/be/tomasz-sakiewicz-zdj-636x421-b4be0532.jpg",
+    "source": "PAP",
+    "also": [
+     "Dziennik Gazeta Prawna",
+     "RMF24 Kraków",
+     "Wyborcza Kraków"
+    ],
+    "published": "2026-11-12T15:26:51+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Strzały w krakowskim Bieżanowie. Zatrzymany mężczyzna był wcześniej karany za zabójstwo",
+    "summary": "Mężczyzna, który w czwartek strzelał w kierunku policjantów w rejonie ulicy Bieżanowskiej w Krakowie, był wcześniej karany za zabójstwo. Informację tę potwierdziła Radiu Kraków krakowska policja. Podczas interwencji funkcjonariusze oddali strzały ostrzegawcze, a następnie obezwładnili i zatrzymali mężczyznę.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/strzaly-w-krakowskim-biezanowie-zatrzymany-mezczyzna-byl-wczesniej-karany-za-zabojstwo/187685",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/35fe9547-bb0f-474c-b80c-271f5b3de77d",
+    "source": "Radio Kraków",
+    "also": [
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-13T10:04:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Zawiadomienie na policjanta z Krakowa. Reaguje Kierwiński, \"bezpodstawne\"",
+    "summary": "Do prokuratury wpłynęło zawiadomienie o możliwości popełnienia przestępstwa przez Jakuba Kulika, który zatrzymał zamachowca w Krakowie - informuje TVN24. \"Oby nigdy nie znalazł się Pan w sytuacji, w której jedyną szansą na przeżycie będzie odwaga takich ludzi\" - napisał szef MSWiA Marcin Kierwiński, zwracając się do…",
+    "link": "https://wydarzenia.interia.pl/kraj/news-zawiadomienie-na-policjanta-z-krakowa-reaguje-kierwinski-bez,nId,23573106",
+    "image": "https://i.iplsc.com/-/000NJ0K3KPT0L19B-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-13T12:10:14+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Strzelał do policjantów w Krakowie. Ledwie rok temu wyszedł z więzienia",
+    "summary": "Mężczyzna, który w czwartek strzelał do policjantów, rok temu opuścił zakład karny, gdzie odsiadywał wyrok za zabójstwo - ustaliła nieoficjalnie Interia. Zatrzymanie napastnika zajęło funkcjonariuszom zaledwie około trzech minut od chwili otrzymania zgłoszenia od dyżurnego.",
+    "link": "https://wydarzenia.interia.pl/malopolskie/news-strzelal-w-strone-policjantow-w-krakowie-ledwie-rok-temu-wys,nId,23572901",
+    "image": "https://i.iplsc.com/-/000MZGD7A73V7C5O-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-13T09:15:55+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Po 100 tys. zł dla policjantów rannych w zamachu w Krakowie. Będzie też pomoc w rehabilitacji",
+    "summary": "Dwaj policjanci ciężko ranni podczas zamachu na Rynku Głównym w Krakowie otrzymają po 100 tysięcy złotych zapomogi. Decyzję podjęli komendant główny policji oraz komendanci wojewódzki i miejski w Krakowie. Funkcjonariusze zostali już odznaczeni przez prezydenta Karola Nawrockiego.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/po-100-tysiecy-zlotych-dla-policjantow-rannych-w-zamachu-w-krakowie-bedzie-tez-pomoc-w-rehabilitacji/187651",
+    "image": "https://rmf.rmffm.pl/news/attachments/87/5d/betonowe-zapory-pojawily-sie-wokol-rynku-glownego-w-krakowie-636x421-875da670.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "RMF24 Kraków"
+    ],
+    "published": "2026-11-12T14:23:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Petycja do prezydenta Gibały: Zabezpieczyć całe Stare Miasto, nie tylko Rynek",
+    "summary": "Stowarzyszenie Akcja dla Krakowa złożyło petycję do prezydenta Łukasza Gibały i przewodniczącego rady miasta Jakuba Koska. Aktywiści domagają się fizycznego zablokowania wjazdu do całego Starego Miasta.",
+    "link": "https://lovekrakow.pl/petycja-do-prezydenta-gibaly-zabezpieczyc-cale-stare-miasto-nie-tylko-rynek",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/edad67ac142b7b8de4efe61973f0b113.jpg.webp?itok=vTLNibFs",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-13T11:50:39+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "„Wierzę w to, że Przemek nie podda się”. Tysiące osób od tygodni śledzi losy księdza z Myślenic",
+    "summary": "Wybudził się ze śpiączki i chce walczyć o powrót do sprawności. Rodzina ks. Przemysława z myślenickiego sanktuarium prosi o pomoc w zebraniu pieniędzy na jego dalsze leczenie i rehabilitację.",
+    "link": "https://lovekrakow.pl/wierze-w-to-ze-przemek-nie-podda-sie-tysiace-osob-od-tygodni-sledzi-losy-ksiedza-z-myslenic",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/8e7b748e66679b86a5954c84eb019e20.jpg.webp?itok=6RnyGIXQ",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-13T10:45:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Łukasz Gibała zwrócił się do premiera o wsparcie finansowe na bezpieczeństwo",
+    "summary": "Prezydent Krakowa Łukasz Gibała zwrócił się do Donalda Tuska o przyznanie 10 mln zł z budżetu państwa. Środki mają zostać przeznaczone na wyposażenie budowanego Centrum Bezpieczeństwa i Monitoringu Miasta.",
+    "link": "https://lovekrakow.pl/lukasz-gibala-zwrocil-sie-do-premiera-o-wsparcie-finansowe-na-bezpieczenstwo",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/cdc505d7707ec9668faee6df3a0efdf3.jpg.webp?itok=PRLO1cXV",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-13T09:50:55+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Zwolnienia w miejskiej spółce. \"Rozpoczynamy porządki\"",
+    "summary": "Cały zarząd Krakowskiego Holdingu Komunalnego SA w Krakowie, największej miejskiej spółki, został zwolniony. Funkcję prezesa i wiceprezesa pełnią tymczasowi delegaci wybrani przez radę nadzorczą spółki. Prezydent miasta zapowiada audyt.",
+    "link": "https://tvn24.pl/krakow/krakow-odwolany-prezes-i-zarzad-krakowskiego-holdingu-komunalnego-st9337469?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-krakowski-holding-komunalny-ph9337445/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-13T12:20:12+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Zamach w Krakowie „oczami” sztucznej inteligencji. Wystarczyło kilka minut, by zalała nas fala fejków",
+    "summary": "Najpierw jeden model AI zmienia zawartość fotografii z miejsca tragedii, dokładając elementy, których nie było w oryginale, a później inny przedstawia nieprawdziwe wyjaśnienie tego, co widać na zmodyfikowanym obrazie. Po wydarzeniach w Krakowie takie zagrożenia stały się szczególnie widoczne.",
+    "link": "https://www.rp.pl/plus-minus/art45484061-zamach-w-krakowie-oczami-sztucznej-inteligencji-wystarczylo-kilka-minut-by-zalala-nas-fala-fejkow",
+    "image": "https://i.gremicdn.pl/image/free/3e981ca6dd815f55806a2e83274f0526/?t=crop:1968:860:nowe:0:624.33763748428,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-13T12:05:00+00:00",
+    "topic": "bezpieczeństwo"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "‘Hurry, hurry, get your tickets now!’ The last of the great Australian showmen – photo essay",
+    "summary": "My Uncle Teddy was born 90 years ago into a long line of whip-cracking sideshow folk – his grandmother used to dangle people in the air by her teeth. From contortionists and knife-throwers to a double-jointed horse, he recalls the magic of the showgrounds’ heyday My uncle Teddy Trevor remembers Casey Nelson, a fellow…",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/13/australian-travelling-shows-history-circus-carnival-showmen-photos",
+    "image": "https://i.guim.co.uk/img/media/d4ef361c29c81f8b2abbb092765e0fd185927696/413_415_2607_2085/master/2607.jpg?width=140&quality=85&auto=format&fit=max&s=d4b4f6a9df863c2b263e0afef4cf217b",
+    "source": "The Guardian",
+    "also": [
+     "National Geographic"
+    ],
+    "published": "2026-11-12T23:00:02+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "New York auction houses hope single-owner collections will fuel $2.4bn week of sales",
+    "summary": "With estates and collections accounting for some of the season’s biggest consignments, auction houses are betting wealthy collectors will shrug off market volatility",
+    "link": "https://www.theartnewspaper.com/2026/11/12/new-york-autumn-2026-auctions-preview-bonhams-christies-phillips-sothebys",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/8a1137b87b912210aa85517ec78409241f7110cd-2000x1334.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [
+     "Artnet News"
+    ],
+    "published": "2026-11-12T14:59:41+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "AI helps conservators uncover lost details in William Merritt Chase painting",
+    "summary": "Newly restored work will go on show in new exhibition at New York's Parrish Art Museum",
+    "link": "https://www.theartnewspaper.com/2026/11/13/ai-helps-conservators-uncover-lost-details-in-william-merritt-chase-painting",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/3f4d4a5753800f774ddfc0bd6433a136d9a5d8fb-1664x2083.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-13T10:15:44+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Museum heists on the rise: are new criminal markets, motives and tactics evolving?",
+    "summary": "In a recent report, Europol warns of more violent and more frequent illegal activity",
+    "link": "https://www.theartnewspaper.com/2026/11/13/museum-heists-on-the-rise-are-new-criminal-markets-motives-and-tactics-evolving",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/d2a49013b408c884834e027f41012d4ca4e4eac0-2250x1500.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-13T10:09:57+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Duran Duran drummer quits band due to tinnitus",
+    "summary": "Roger Taylor says his condition has been getting steadily worse, and he must now \"listen to my body and my doctors\".",
+    "link": "https://www.bbc.co.uk/news/articles/crwy499k504do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3306/live/40459310-debe-11f1-8fb5-a771a656a227.png",
+    "source": "BBC News",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-12T19:00:15+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Irma P. Hall, ‘Soul Food’ and ‘The Ladykillers’ Actress, Dies at 91",
+    "summary": "In her 60s when she had her breakout role in “A Family Thing,” she brought a motherly touch to the screen opposite such stars as Tom Hanks and Vivica A. Fox.",
+    "link": "https://www.nytimes.com/2026/11/12/arts/irma-p-hall-actress-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-hall-promo-gbzj/12xp-hall-promo-gbzj-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "Euronews Culture"
+    ],
+    "published": "2026-11-13T01:51:22+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "More women make allegations against Russell Brand",
+    "summary": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
+    "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3088/live/37726c30-df41-11f1-a48c-75dd2efdacb5.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-13T12:14:17+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Fragmenty zestrzelonego Liberatora w Muzeum Lotnictwa Polskiego",
+    "summary": "18 listopada w Muzeum Lotnictwa Polskiego odbędzie się wernisaż wystawy „Na pomoc walczącej Warszawie. Relikty samolotu B-24J Liberator EW 248 P ze Szkoły Podstawowej im. Lotników Alianckich w Ostrowie”, któremu towarzyszyć będzie konferencja historyczna poświęcona alianckim operacjom lotniczym i losom załogi…",
+    "link": "https://dzieje.pl/wiadomosci/fragmenty-zestrzelonego-liberatora-w-muzeum-lotnictwa-polskiego",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/TV.jpg?itok=RG4qvdEk",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-13T09:05:47+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Miecz świetlny Dartha Vadera został sprzedany za 4,87 mln dolarów",
+    "summary": "Miecz świetlny Dartha Vadera został w czwartek sprzedany za ponad 4,87 miliona dolarów na aukcji w Dallas - przekazała stacja CNN. Jest to najdroższy rekwizyt z filmowego cyklu „Gwiezdne wojny”, jaki kiedykolwiek trafił pod młotek.",
+    "link": "https://dzieje.pl/wiadomosci/miecz-swietlny-dartha-vadera-zostal-sprzedany-za-487-mln-dolarow",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20050520_0S5.jpg?itok=_I8Ex5HX",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-13T10:09:02+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Godzina Szumu #178 Anna Łazar",
+    "summary": "Karolina Plinta; postprodukcja: Izabela Smelczyńska ; W Centrum Sztuki Współczesnej Zamek Ujazdowski trwają wielkie porządki. Reformie uległa struktura instytucji i trwają prace nad jej strategią - w którym kierunku podąża CSW, opowiada jego dyrektorka Anna Łazar.",
+    "link": "https://magazynszum.pl/godzina-szumu-178-anna-lazar/",
+    "image": "https://magazynszum.pl/wp-content/uploads/2024/11/warszawa-zamek-ujazdowski-dron-1440x960.jpg",
+    "source": "Magazyn Szum",
+    "also": [],
+    "published": "2026-11-13T09:31:28+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Znany lektor usłyszał swój głos w reklamie, choć przy niej nie pracował. Jest wyrok sądu",
+    "summary": "\"W historii polskiego orzecznictwa zapadł dziś pierwszy, precedensowy wyrok w procesie o kradzież głosu przy użyciu sztucznej inteligencji. I jest to wyrok na korzyść poszkodowanego, wybitnego lektora Jarosława Łukomskiego\" - donosi serwis Polscy lektorzy. Pełnomocnik Łukomskiego zapowiedział kolejny pozew.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114628,33130908,znany-lektor-uslyszal-swoj-glos-w-reklamie-choc-przy-niej-nie.html",
+    "image": "https://bi.im-g.pl/im/cf/98/1f/z33130959IHG,Ogloszenie-wyroku-w-Sadzie-Okregowym-w-Warszawie.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-13T12:11:00+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Oryginalna dokumentacja objawień w Gietrzwałdzie wróciła do Archiwum Archidiecezji Warmińskiej",
+    "summary": "Oryginalna dokumentacja objawień gietrzwałdzkich sprzed blisko 150 lat wróciła po konserwacji do Archiwum Archidiecezji Warmińskiej. Księga zawiera relacje z objawień maryjnych z 1877 roku, jedynych w Polsce uznanych przez Kościół.",
+    "link": "https://dzieje.pl/dziedzictwo-kulturowe/oryginalna-dokumentacja-objawien-w-gietrzwaldzie-wrocila-do-archiwum",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20261105_3G2.jpg?itok=PBhLNL03",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-13T11:12:01+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Wojna, która zmieniła losy Bliskiego Wschodu [FRAGMENT KSIĄŻKI]",
+    "summary": "Trwała zaledwie sześć dni, ale jej konsekwencje na zawsze zmieniły Bliski Wschód. Do dziś historycy, politycy i uczestnicy tamtych wydarzeń spierają się o przyczyny konfliktu, jego przebieg i znaczenie dla kolejnych pokoleń.",
+    "link": "https://kultura.onet.pl/fragmenty-ksiazek/wojna-ktora-zmienila-losy-bliskiego-wschodu-fragment-ksiazki/l014zb4",
+    "image": "https://cdn.kultura.onet.pl/1/sf0k9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zOTczYzUyYi1hOTJjLTQwOWYtOGQ0Yi1iNTIyMzQ2NzZiNmQuanBlZ5KVAwDMu80XcM0NL5MFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-13T11:34:10+00:00",
+    "topic": "literatura"
+   },
+   {
+    "title": "To najbardziej absurdalne sceny w \"Znieczuleniu\"? Lekarka ocenia hit Netfliksa",
+    "summary": "\"Czuję jakiś niedosyt, mimo że działo się tam więcej niż przez całą moją karierę\" — pisze lekarka Ewa Przeworska o \"Znieczuleniu\", najchętniej oglądanym na Netfliksie serialu w Polsce. W żartobliwym wpisie punktuje największe absurdy serialu z Leszkiem Lichotą. Jednocześnie przyznaje, że serial ogląda się świetnie.",
+    "link": "https://kultura.onet.pl/telewizja/aktualnosci/lekarka-o-znieczuleniu-netfliksa-nie-wiem-co-bylo-bardziej-absurdalne/m4y3ewe",
+    "image": "https://cdn.kultura.onet.pl/1/xt2k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83MjY0NTAwYTJmZWFkNGQ4ZmZjYzRkZGZkMjEzNjU4MS5qcGeSlQM3Pc0WlM0MtZMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-13T10:01:24+00:00",
+    "topic": "teatr"
+   }
+  ]
+ }
+}
