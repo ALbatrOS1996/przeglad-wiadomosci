@@ -1,0 +1,733 @@
+{
+ "date": "2026-11-14",
+ "generated": "2026-11-14T12:42+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "source": "BBC News",
+    "also": [
+     "Euronews",
+     "Politico Europe"
+    ],
+    "published": "2026-11-14T11:41:20+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Zełenski ogłasza, co USA zaproponowały Ukrainie. „Po raz pierwszy”",
+    "summary": "USA postawiły pytanie, czy jeśli Ukraina będzie w NATO, wycofa się z Donbasu - przekazał prezydent Ukrainy Wołodymyr Zełenski. Poinformował, że strona ukraińska omawia z partnerami pakiet bezpieczeństwa, który może zostać zaoferowany podczas negocjacji.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-zelenski-oglasza-co-usa-zaproponowaly-ukrainie-po-raz-pierws,nIdn,1026091",
+    "image": "https://rmf.rmffm.pl/news/attachments/7e/c8/prezydent-ukrainy-wolodymyr-zelenski-636x421-7ec8507b.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia",
+     "TVN24"
+    ],
+    "published": "2026-11-14T09:41:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+    "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
+    "source": "BBC News",
+    "also": [
+     "Associated Press"
+    ],
+    "published": "2026-11-14T10:42:20+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Prof. Francesca Ferlaino: mówiąc o nauce, powinniśmy pokazywać wartość niepewności",
+    "summary": "Prof. Francesca Ferlaino: mówiąc o nauce, powinniśmy pokazywać wartość niepewności tryton sob., 11/14/2026 - 09:20 4 minuty",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkhkUW9xSTBiaEFGQXVQS1JWUDRvTVpMYkRRYnJLR1g2ZnhEbFpfZ2g5WFRwN2s3MnN0aGFmSlA5bDhjTE1nUzdPZktNN3E0NUdreTVCUFQ5a3lWam5SZVR6dVQ2VVM4eUd0SU1pLTBXWGpINlFkQklIekR0WVNWcWZFNGYzTkFBUzBlRVhWZ0ltSWpqQTZYb1BkUzZNVTNiUWhsM0VwMTJ3NURmU0taTjB0c1ZpVHc1d293aGUzamFZV3hl?oc=5",
+    "image": null,
+    "source": "PAP",
+    "also": [
+     "Nauka w Polsce"
+    ],
+    "published": "2026-11-14T08:20:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Hungary recovers $20 million cash in probe of Orban minister",
+    "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDZvMXVueFJJaXFVTXo1Nkc4SXk5c21waTRkanlVSG1FUUFWd0VrRXNfSGYwZVV1OFYwNmoyejlSa2UyNVRWWEszcW5zejZsYWx6TFVpcXBlNFl1Y1RxamYwSUpEZDg1NzR5UDRsS3BTRlhwMFRuRzFGdGxxdEN1SEowVm9oWkZ6SGsySzhDLVE3SjVaMFhfVGRTMA?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-14T07:23:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Trump spotka się z Xi i Putinem w czwartek w Shenzhen",
+    "summary": "",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWlOLXhXMVdGa001aGFvRG1sS0J4ejgwd1RUbC0zWDdRckd1al9VVjhCZVVERjFUTlYwbUpKMTltT3l4bnJBSk84dGE1SlhoRjlxaG5vWEVpLVQ0X0Fia0ViYjhQN2wtUjRQLTlCM2piQUhKQlUwZExoYVVyaEtiUDRQSzBXQXVkSHB5dQ?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/9d/2e/imago-stock-and-people-636x421-9d2e967d.jpg",
+    "source": "PAP",
+    "also": [
+     "RMF24",
+     "TVN24"
+    ],
+    "published": "2026-11-14T09:52:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Rosalía scoops historic third best album award at Latin Grammys",
+    "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+    "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/09dd/live/69ef2110-df6b-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-13T11:38:54+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Polska wśród krajów UE negocjujących w sprawie wojny Rosji przeciwko Ukrainie. \"Ucieszyłem się\"",
+    "summary": "W negocjacjach USA, Ukrainy i Rosji, dotyczących zakończenia rosyjskiej agresji na Ukrainę, Europę będą reprezentować Polska, Francja, Niemcy, Włochy, Wielka Brytania oraz liderzy instytucji europejskich. Premier Donald Tusk ocenił, że nasz kraj będzie odgrywał \"kluczową rolę\".",
+    "link": "https://tvn24.pl/swiat/polska-wsrod-krajow-ue-negocjujacych-z-rosja-w-sprawie-wojny-w-ukrainie-st9338400?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-donald-tusk-ph9338506/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-13T17:43:58+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Public media freedom has been eroded across central Europe. Now Czechs are rallying to protect theirs",
+    "summary": "Huge protest planned in Prague to oppose government’s plan to scrap licence fee, which critics say could give ministers more leverage over newsrooms Daniel Stach was an erstwhile junior international slalom kayaker when he first walked into the headquarters of Czech Television in 2010.",
+    "link": "https://www.theguardian.com/world/2026/nov/14/protests-grow-czechia-changes-public-media-funding",
+    "image": "https://i.guim.co.uk/img/media/e51adf4450bc0b1f7329f9b272cac15f1d82103c/395_0_3100_2480/master/3100.jpg?width=140&quality=85&auto=format&fit=max&s=41d554a7b9c18d8ecf9eef32cdffec74",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-14T10:00:43+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "In ‘Minotaur,’ Andrey Zvyagintsev Confronts the Costs of Putin’s War",
+    "summary": "The Russian director Andrey Zvyagintsev in Paris last month. He now lives in France.",
+    "link": "https://www.nytimes.com/2026/11/14/movies/andrey-zvyagintsev-minotaur.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14cul-russian-director-cfbw/14cul-russian-director-cfbw-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-14T10:00:39+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "70 km tras, górskie panoramy i adwentowe stragany. Austriacki Grossarltal to hit zbliżającego się sezonu zimowego",
+    "summary": "Grossarltal zimą pozwala połączyć jazdę na nartach z wędrówkami na rakietach śnieżnych, rodzinną zabawą i odpoczynkiem w górskiej miejscowości. W tej dolinie na Ziemi Salzburskiej można zamieszkać blisko gondoli albo wybrać spokojniejsze Hüttschlag u wrót Wysokich Taurów.",
+    "link": "https://www.national-geographic.pl/traveler/kierunki/70-km-tras-gorskie-panoramy-i-adwentowe-stragany-austriacki-grossarltal-to-hit-zblizajacego-sie-sezonu-zimowego/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/55/grossarltal-austria-narty.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-14T11:17:08+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Wejście do NATO w zamian za terytoria. Nowa oferta USA dla Ukrainy",
+    "summary": "Stany Zjednoczone miały zapytać władze w Kijowie, czy Ukraina byłaby gotowa oddać Rosji Donbas w zamian za członkostwo w NATO — informuje Bloomberg. Według słów prezydenta Wołodymyra Zełenskiego propozycja pojawiła się podczas rozmów o kompleksowym pakiecie bezpieczeństwa.",
+    "link": "https://businessinsider.com.pl/wiadomosci/waszyngton-rozwaza-nowa-strategie-wobec-ukrainy-donbas-w-zamian-za-nato/j52x8qy",
+    "image": "https://ocdn.eu/pulscms-transforms/1/A0Kk9kpTURBXy8xNmE3ODlmMWU2Y2Q1MTNiMmI0NWNjNTYwZjE0ZWU3Zi5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-14T10:21:39+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Photos from airports after FAA grounds flights nationwide",
+    "summary": "This live blog is now closed. Follow our latest coverage here. US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going.",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzBhVVlrM3VvX3JkUnJPNkFvMENScTQ5UHl2RmVtOHlKN2VzTUpHRnVNaFFDNmtHdG1iYkJtM3FKTDhlQ0oxR3ZObG9oWnN4Qk1YUE9JdC1wWGp5YV9MbXBrM05ENlZxREg1eFlOTzVxWXpPbjFXQTFqcVRlQi1FWW9JY25NQ0NxUGdIZG0tLXVfMl9mLVFlMGFXcWk4UQ?oc=5",
+    "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153",
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "The Guardian"
+    ],
+    "published": "2026-11-14T10:57:30+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Tanker collides with cruise ship in New Orleans, 32 hospitalized",
+    "summary": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGJQd2ZPVXZtMTIxS2dDR2ZOWjU5bVpGSGNXXzY4OFNEWWFTTDV0c0k3cjM5QWF3MVRqaU1RaWhja3YwZzVJOHNHYV9jWkNUR3NrWXRCUl9XSG9QODZNMHhkeUloNVI5a1U5Skg0TzhubXl0ZFZGc3JkdDkzRmstR3pPZi1USEdLTW9rRkdVOXdRakxSX1QwOVBsUEZsWTVFMHE1SkpNV19qMzM5UVE?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "Deutsche Welle",
+     "Euronews"
+    ],
+    "published": "2026-11-13T22:15:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Microsoft says services fully restored after hourslong global outage",
+    "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News",
+     "The Guardian"
+    ],
+    "published": "2026-11-14T09:21:00+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Ważny komunikat PLL LOT po zakłóceniach w ruchu lotniczym w USA",
+    "summary": "Po wznowieniu operacji lotniczych na amerykańskich lotniskach, wszystkie trzy rejsy powrotne PLL LOT wystartowały do Warszawy - informuje rzecznik tej linii lotniczej Krzysztof Moczulski. Opóźnienia sięgają od kilku minut do ponad czterech godzin.",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0o4clpLZFJ1bGs0UFd2X3IxRVFTZUl0WmxfOG1iZWFxT0R2cjd4dUNRS2pHZGI1ZnBFQjVCVFZlZE5DS3l3MHE3VnVnSkN4V3pVWDlSR0VJRnFMNy04MDMtZ1hEeW1JSGdFVjFBcThPaXFrQ09PWWI1aHhuX2pSVXZQNjVjU0E1cjlzdnF0Zmh1clF4SFNRLUtB?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/be/f7/samolot-pll-lot-zdj-636x421-bef7ac27.jpg",
+    "source": "PAP",
+    "also": [
+     "RMF24",
+     "Rzeczpospolita"
+    ],
+    "published": "2026-11-14T08:53:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+    "source": "BBC News",
+    "also": [
+     "Associated Press",
+     "Euronews"
+    ],
+    "published": "2026-11-14T05:52:31+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
+    "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckRfNzZZdUhzQ1c0WkhoOHlUcGRqVWduNHo4NXNoeDBKQjRTNnVKMEpaU1NROWx2X01COVc3eS1ETEdpVUtKbVJGX0VBVERjVUZSN2VYLURlODNlbEVnWDdRRGI3THpHYmxaTURjRkJ5UFBTR3JzcDZIOUp4Vml1ejNDb2hRaXh3ZGI0OURmOUxXOUZpd3lRdzlaOThnVDlCUlZWNmRB?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+    "source": "Associated Press",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-13T12:42:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "What we know about the ground stop and what to do if you're affected",
+    "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-14T07:42:11+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+    "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of…",
+    "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+    "image": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0",
+    "source": "The Guardian",
+    "also": [
+     "Deutsche Welle"
+    ],
+    "published": "2026-11-13T13:52:11+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Salvadoran troops seize Haiti’s national stadium as Bukele warns gangs",
+    "summary": "Haiti's Prime Minister congratulating El Salvador's President for a gang crackdown in Haiti has shone a light on the relationship between the two countries. What's going on, and where does the US stand?",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMnQ3VWZsN1VsMTJhbXJwZ2ZuUFpTY2tIY3A5YnBTV0s3b2g0RDEyWTQ0WXF5MlNDLUNSSVIwUy1zT0ExalNJbUhUTnJkVW1yVk05c1ZNZDRNQ0NwN3FBVUxPQXhQMEUzMXRjMDRIbTNxeHJieDVsR2tCbm5NeEJGMmtVeG1kSDA4cW82UXNLUjBhSkdDM0FkOXY4WWFTeEQ4Q3JXZU5Wb0NHdXFWNEtpLXFsbURjMHZ1ZUkyTWRKdGcyWU1xV0E?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Deutsche Welle"
+    ],
+    "published": "2026-11-13T15:27:00+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "How to spot November's planetary parade in the pre-dawn sky",
+    "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+    "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a1a4/live/8fa21860-daa5-11f1-9da2-b11e4d68c08e.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-14T11:07:51+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
+    "summary": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question What’s next for Democrats? It’s the question thousands of Democrats, including lawmakers, strategists, pollsters, creators, organizers, staffers and 2028 presidential hopefuls are trying…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference",
+    "image": "https://i.guim.co.uk/img/media/49616fdddb7670ad07a58b77da3692da986ee822/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=5f1862ab2b22f3f041bc7d07ccaf7934",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-14T11:00:44+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "In Canada, Watching the N.H.L. Has Become Expensive and Cumbersome",
+    "summary": "Connor McDavid, left, and Leon Draisaitl have led the Edmonton Oilers to one of the best records in the N.H.L. The Vancouver Canucks have the worst.",
+    "link": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-canada-letter-wtlb/14int-canada-letter-wtlb-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-14T11:00:08+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Prezydent zawetował ustawę dot. blokowania nielegalnych treści w sieci. Rząd reaguje",
+    "summary": "Karol Nawrocki zawetował nowelę dotyczącą bezpieczeństwa w sieci. Prezydent uzasadnia swoją decyzję odmową ulegania szantażom rządzących.",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUURhQkczMHMwX09BRUJlUV9MSmE0UFMyb2g5bmx2ZmtZQV81cjZQcFQxdEx1VkVoUTFTTDB5SldDMWpTSDJ6UXY3TVhRQ3RwUEdGSml6el9tYUVsZGxnY0lGc20tb05lT1BiVU4yMDNuU21hRm9CWFpqekFRX1JCdTVFUVp6QWtpcS1IQVJpOXJhbmhXVHhsc3hmSExIYTFNLWJEWXNtTHF4d0N4TnlmQw?oc=5",
+    "image": "https://ocdn.eu/pulscms-transforms/1/n9Ck9kpTURBXy8wMzY4M2FjNzgxZTU0ZTA2ZDU0N2M3YTIwZDQ0OGYwZC5qcGeRkwLNBLAA3gABoTAB",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska",
+     "Interia",
+     "Radio Kraków"
+    ],
+    "published": "2026-11-13T15:26:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Microsoft poinformował o całkowitym przywróceniu usług",
+    "summary": "Usługi po globalnej awarii zostały całkowicie przywrócone - poinformował Microsoft. Od piątku użytkownicy na całym świecie zgłaszali problemy z korzystaniem z takich narzędzi jak Teams, Outlook i Copilot.",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmpoa21CRFplUGkxN2s0WFcwQUhNcWs3OVlKQmhOX3FNT0pDV294NExKbE42VXVGWk5SdmRsdzBhQ1dKZDd5dDFmS1h1QV9SSjJQbXRIcnpmUlZBUHl0R3lQNkc0Yjd3VWRZX09LZWdna0FtbjF5ZkFwanNrQU1kY3kxMkxRYVN4THNPR1JB?oc=5",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-microsoft-fotofield-shutterstock-2845303455-ph9336789/alternates/LANDSCAPE_1280",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl",
+     "TVN24"
+    ],
+    "published": "2026-11-14T06:58:00+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "\"Superwizjer\": Artur Chodziński usłyszy zarzuty",
+    "summary": "Były funkcjonariusz Centralnego Biura Antykorupcyjnego Artur Chodziński został wezwany do prokuratury w charakterze podejrzanego - przekazał w TVN24 reporter \"Superwizjera\" Maciej Duda. Zarzuty mają dotyczyć między innymi powoływania się na wpływy.",
+    "link": "https://tvn24.pl/polska/superwizjer-artur-chodzinski-uslyszy-zarzuty-st9338739?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-artur-chodzinski-28-08-2026-ph9232791/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Rzeczpospolita",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-14T08:47:57+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Udany próbny lot rakiety ILR-33 BURSZTYN 2K",
+    "summary": "Udany próbny lot rakiety ILR-33 BURSZTYN 2K tryton sob., 11/14/2026 - 10:15 3 minuty",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUU5JeTVfR0JjaEhhVlQ3em9INlFNckxHdE95bW5ZTEh1MUhZTTY4LUEyZ3NIUExrcG5Lek1OdGNmLUlkOUV6TFNyUGRpZ0xpMHY5MVpfbHBndlpaUzd6U1ZEbnJGY3lRR1IySzdESV8zVkxwVGVzRWtWeXFCdjNNVzR5TnRCNHFGNk1nTmd6ZmxqRGJmRXRZS3MtdGNsTGhWdlRWaV9R?oc=5",
+    "image": null,
+    "source": "PAP",
+    "also": [
+     "Nauka w Polsce"
+    ],
+    "published": "2026-11-14T09:15:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Włodzimierz Czarzasty zawiesił polityka Lewicy. Piotr Kusznieruk może zostać wyrzucony z partii",
+    "summary": "Piotr Kusznieruk został zawieszony w prawach członka Nowej Lewicy. Decyzję podjął Włodzimierz Czarzasty, który skierował również do sądu partyjnego wniosek o wykluczenie polityka z ugrupowania. Sprawa nabrała rozgłosu po występie Kusznieruka w programie TV Republika przed siedzibą Trybunału Konstytucyjnego.",
+    "link": "https://www.rp.pl/polityka/art45488161-wlodzimierz-czarzasty-zawiesil-polityka-lewicy-piotr-kusznieruk-moze-zostac-wyrzucony-z-partii",
+    "image": "https://i.gremicdn.pl/image/free/3e6165cd895ba7d509dc383818ccad8e/?t=crop:1600:699:nowe:0:53.517232960668,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-14T10:10:43+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Microsoft przywrócił wszystkie usługi po globalnej awarii. Problemy były w 74 krajach",
+    "summary": "Microsoft poinformował w sobotę rano o całkowitym przywróceniu działania swoich usług po globalnej awarii, która sparaliżowała pracę firm i instytucji w co najmniej 74 krajach. Problemy dotyczyły m.in. poczty Outlook, komunikatora Teams, pakietu Microsoft 365 i narzędzi sztucznej inteligencji Copilot.",
+    "link": "https://cyfrowa.rp.pl/technologie/art45488051-microsoft-przywrocil-wszystkie-uslugi-po-globalnej-awarii-problemy-byly-w-74-krajach",
+    "image": "https://i.gremicdn.pl/image/free/2fb7d8bcefffcbcf561e2f0da117a6a6/?t=crop:8576:3749:nowe:0:149,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-14T08:44:50+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "„Który Kaczyński jest prawdziwy?”. Konfederacje odrzucają pomysł PiS",
+    "summary": "Jarosław Kaczyński chce, by prawica poszła do wyborów na jednej liście. Odpowiedzi doczekał się bardzo szybko. - Nie jesteśmy kołem ratunkowym dla PiS - słyszymy w Konfederacji. - Nie popieramy radykalizmów i ludzi takich jak Jacek Kurski czy Grzegorz Braun - mówią z kolei politycy Rozwoju Plus.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-ktory-kaczynski-jest-prawdziwy-konfederacje-odrzucaja-pomysl,nIdn,1026044",
+    "image": "https://rmf.rmffm.pl/news/attachments/9f/9a/slawomir-mentzen-mowi-o-jaroslawie-kaczynskim-pawel-wodzynski-636x421-9f9a63d7.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-13T17:42:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Twarda deklaracja Morawieckiego: Idziemy sami",
+    "summary": "Idziemy do wyborów sami - zadeklarował w piątek w Poznaniu lider Rozwoju Plus, były premier Mateusz Morawiecki. Ocenił jednocześnie, że na polskiej prawicy nie ma obecnie hegemona, tak jak to było kiedyś.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-twarda-deklaracja-morawieckiego-idziemy-sami,nIdn,1026013",
+    "image": "https://rmf.rmffm.pl/news/attachments/ab/7d/prezes-stowarzyszenia-rozwoj-plus-mateusz-morawiecki-przemawia-podczas-poznanskiego-kongresu-gospodarczego-636x421-ab7d060b.jpg",
+    "source": "RMF24",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-13T13:35:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "„Ręce precz od Republiki”. Atak na biuro posła KO",
+    "summary": "W piątek rano w Trzebnicy (woj. dolnośląskie) nieznani sprawcy zdewastowali filię biura poselskiego wiceministra rozwoju i technologii i lidera Koalicji Obywatelskiej na Dolnym Śląsku Michała Jarosa. Na oknie budynku i elewacji umieścili napisy związane z szefem rządu i Telewizją Republika.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-rece-precz-od-republiki-atak-na-biuro-posla-ko,nIdn,1025994",
+    "image": "https://rmf.rmffm.pl/news/attachments/6b/5a/michal-jaros-fot-636x421-6b5af87c.jpg",
+    "source": "RMF24",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-13T11:43:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Microsoft przeprasza. Są nowe informacje o wielkiej awarii",
+    "summary": "W piątek po południu Microsoft informuje, że całkowicie zakończył działania naprawcze w regionie Azji i Pacyfiku. Koncern przekazuje również, że odnotowuje znaczną poprawę działania usług w Europie, Ameryce Północnej i przeprasza. W Polsce problem wciąż jest obecny.",
+    "link": "https://businessinsider.com.pl/gospodarka/banki-sady-szpitale-sparalizowane-microsoft-zalicza-historyczna-wpadke/ys70n61",
+    "image": "https://ocdn.eu/pulscms-transforms/1/udvk9kpTURBXy9lYjIzODg2ZTg1M2RiOTBjMzU5ZGU4MzRhYzEyMzJkMi5qcGeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-13T17:19:11+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Po ślubie z mężem zachowaliśmy osobne konta. Wszystko działało dobrze, aż urodziło nam się dziecko",
+    "summary": "Zawsze ceniłam niezależność i dobrze czułam się z tym, że moje finanse pozostawały oddzielone od finansów męża. Kiedy urodziło nam się dziecko, nasz dotychczasowy układ zaczął jednak wydawać się coraz mniej sprawiedliwy.",
+    "link": "https://businessinsider.com.pl/finanse/oddzielne-konta-dawaly-nam-wolnosc-w-malzenstwie-przy-dziecku-pojawily-sie-tarcia/h3nfqbl",
+    "image": "https://ocdn.eu/pulscms-transforms/1/Lqtk9kpTURBXy9jNzJiNTRmNjMwYzdmZmQ5ODZmYWFiNzQwM2MxOTI4ZC5wbmeRkwLNBLAA3gABoTAB",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-14T11:12:37+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "\"Gdyby Kuroń żył dzisiaj, nie hejtowałby na X\"",
+    "summary": "W ciągu dziesięciu lat Piotr Domalewski wyreżyserował trzy seriale i pięć pełnometrażowych fabuł. Najnowsza z nich - \"Nasza rewolucja\" - opowiada o Gajce i Jacku Kuroniach. W rozmowie z tvn24.pl Domalewski wyjaśnia, dlaczego zamiast na wielką historię postawił na ich życie prywatne.",
+    "link": "https://tvn24.pl/kultura-i-styl/piotr-domalewski-w-tvn24-pl-o-naszej-rewolucji-kuroniach-i-niezgodzie-na-rzeczywistosc-wywiad-st9337178?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-nasza-rewolucja-rez-piotr-domalewski-ph9226267/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-14T11:05:03+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Przestępcy zwieźli tam ponad 50 tysięcy ton odpadów. Niepokojące wyniki badań",
+    "summary": "Na nielegalnym składowisku w Rogowcu pod Bełchatowem (Łódzkie), na którym zalega 50 tysięcy ton odpadów niebezpiecznych, przeprowadzono kolejne badania. Jak informuje policja, wykazały one między innymi przekroczenie dopuszczalnej zawartości węglowodorów w glebie, a pomiary atmosfery ujawniły lokalne, chwilowe…",
+    "link": "https://tvn24.pl/lodz/rogowiec-50-tysiecy-ton-odpadow-niebezpiecznych-niepokojace-wyniki-badan-skladowiska-st9338855?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-skladowisko-odpadow-niebezpiecznych-w-rogowcu-ph9179236/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-14T11:04:42+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "AI wcale nie głupieje. Naukowcy: To z ludźmi dzieje się coś zaskakującego",
+    "summary": "Coraz więcej użytkowników narzeka, że popularne chatboty stają się leniwe i udzielają gorszych odpowiedzi. Czy dostawcy po cichu tną koszty mocy obliczeniowej? Badacze wzięli temat pod lupę.",
+    "link": "https://cyfrowa.rp.pl/ai/art45480701-ai-wcale-nie-glupieje-naukowcy-to-z-ludzmi-dzieje-sie-cos-zaskakujacego",
+    "image": "https://i.gremicdn.pl/image/free/11531a7c90996a8f24948d2188d22f8c/?t=crop:4000:1749:nowe:0:501,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-14T11:04:00+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Darowizny na rzecz ofiar ataku w Krakowie będą zwolnione z podatku",
+    "summary": "W piątek na stronach Rządowego Centrum Legislacji został opublikowany projekt rozporządzenia, które zwalnia z podatku od spadków i darowizn środki przekazane ofiarom ataku w Krakowie oraz ich rodzinom, a także rodzinie zabitych w Ostrowcu Świętokrzyskim.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHMwZXBSSGlOcW0yUGxFVTk0UGZEU1JRNUR5U2dlbVgxb1N1Ym84bkc0WWN2NEcxem5CWldyODJ1T2ZKbXFxb0h2bkpJTksxR1k5dV9yLVl1YjJZa2ZBcmxIQWxodF8tZjVhR2F0T3hYcWxYeXlDUWxzODRlZXBUNnFweFhIdjZXY3JPei1Ud1laT2hlZDFjaUFMNTBsVGJIb3lHbUw5RWVsMlVIbUt1Z0EydjJCQWNN?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/6c/17/kwiaty-i-znicze-na-rynku-glownym-w-krakowie-upamietniajace-ofiary-zamach-fot-636x421-6c17a66b.jpg",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska",
+     "RMF24",
+     "Radio Kraków",
+     "TVN24"
+    ],
+    "published": "2026-11-13T18:53:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "10 rannych wciąż w szpitalach. Tydzień po zamachu w Krakowie",
+    "summary": "Tydzień po ataku na Rynku Głównym w Krakowie w pięciu miejscowych szpitalach nadal przebywa 10 osób. Ich stan pozostaje stabilny. Prezydent Krakowa Łukasz Gibała poprosił świadków, którzy podczas strzelaniny znaleźli schronienie, o wskazanie miejsc udzielających im pomocy.",
+    "link": "https://wiadomosci.wp.pl/krakow/10-rannych-wciaz-w-szpitalach-tydzien-po-zamachu-w-krakowie-7350895341594656a",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c052cf2d-d325-4d23-9fed-58ed7f646e28",
+    "source": "Wirtualna Polska",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-14T10:35:25+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Kolejna osoba ranna w zamachu w Krakowie wypisana ze szpitala",
+    "summary": "",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjZtRXF6aXh1ZjVYNmExZURic3RUOEhTbDIycUpvTmtxY3VGQVlBOFFWckdxUldEZVZ3WFVYOVFRWWlYNFhGV05odjJ5MWpSU003ZGhrcEJjVFpVbVNybDRYZE9SX1ZkTU1oeEJ5ZE5pQVA2Q0tfeDY1Q1lsbXdiRmREYi0yVXF3eXVaeGNiWGpNZElONzlV?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/54/a6/po-zamachu-w-krakowie-wokol-rynku-glownego-pojawily-sie-betonowe-zapory-fot-636x421-54a646bb.jpg",
+    "source": "PAP",
+    "also": [
+     "RMF24",
+     "RMF24 Kraków"
+    ],
+    "published": "2026-11-13T17:10:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Zamiast marzeń – codzienna walka o przetrwanie. Pomóc może każdy",
+    "summary": "Od soboty 14 listopada można zostać darczyńcą i wybrać potrzebującą rodzinę w ramach 26 edycji Szlachetnej Paczki.",
+    "link": "https://lovekrakow.pl/zamiast-marzen-codzienna-walka-o-przetrwanie-pomoc-moze-kazdy",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/efd2897f2b8dcdd5d7038e90e8c95779.jpg.webp?itok=AgU4pJ4h",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-14T11:00:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wycinka w zabytkowym parku zaniepokoiła mieszkańców. Urząd wyjaśnia",
+    "summary": "Wycinka sześciu wiekowych drzew w Parku Bogackiego i na Dzikich Plantach wzbudziła niepokój mieszkańców Krzeszowic. Urzędnicy wyjaśniają, że zagrażały bezpieczeństwu.",
+    "link": "https://lovekrakow.pl/wycinka-w-zabytkowym-parku-zaniepokoila-mieszkancow-urzad-wyjasnia",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/f8f418dd2db6a69ce3746e68c3a8a215.jpg.webp?itok=l-28XNMl",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-14T10:00:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Komercjalizował stadion Wisły, po wygranej Ł. Gibały otrzymał nagłe wypowiedzenie. Uderza w urzędników",
+    "summary": "– Nie z mojej winy projekt komercjalizacji jest spowalniany, tylko z winy procedur oraz działań urzędników – uważa Krzysztof Czwartkiewicz, któremu na początku listopada ZIS nagle wypowiedział umowę.",
+    "link": "https://lovekrakow.pl/komercjalizowal-stadion-wisly-po-wygranej-l-gibaly-otrzymal-nagle-wypowiedzenie-uderza-w-urzednikow",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-06/b664aa1692a5cec585f6342e700711af.JPG.webp?h=41f55a5b&itok=8E6pedkO",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-14T08:00:01+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Chętni na pracę na końcu świata? Polska stacja polarna szuka chętnych",
+    "summary": "Do niedzieli Instytut Geofizyki PAN poszukuje chętnych do pracy w Polskiej Stacji Polarnej Hornsund na Spitsbergenie. Poszukiwani są między innymi specjaliści do spraw monitorowania środowiska, ale także mechanicy, elektronicy, informatycy i kucharze, którzy gotowi są do pracy na prawdziwym końcu świata, zarówno w…",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/chetni-na-prace-na-koncu-swiata-polska-stacja-polarna-szuka-chetnych/187734",
+    "image": "https://radiokrakow.pl/media/article/187734/28292d92b4e729b87949a278112e3c07.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-14T11:25:50+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Nie musisz mierzyć się z kryzysem sam. Gdzie szukać pomocy w Krakowie?",
+    "summary": "Tragiczne wydarzenia ostatnich dni w Krakowie skłaniają do refleksji nad tym, jak ważne jest zdrowie psychiczne, wzajemna troska i umiejętność szukania pomocy w trudnych chwilach. Jak rozpoznać, że my sami lub ktoś z naszych bliskich potrzebuje wsparcia?",
+    "link": "https://radiokrakow.pl/podcasty/pierwszy-krok/nie-musisz-mierzyc-sie-z-kryzysem-sam-gdzie-szukac-pomocy-w-krakowie/187711",
+    "image": "https://radiokrakow.pl/media/article/187711/6c6b4493e29608ff0d838077ee469184.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-14T11:00:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Balladyna. Taniec zamiast słów",
+    "summary": "Czy historię o żądzy władzy, miłości, zazdrości i zbrodni można opowiedzieć bez słów? Opera Krakowska będzie starała się udowodnić, że język tańca potrafi wyrazić najtrudniejsze ludzkie emocje.",
+    "link": "https://radiokrakow.pl/kultura/balladyna-taniec-zamiast-slow/187733",
+    "image": "https://radiokrakow.pl/media/article/187733/4264db65763d44e8bc71beb647673606.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-14T10:41:48+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Po tragedii wracają na krakowski rynek. \"Dla nas to szczególnie trudne\"",
+    "summary": "- Po tygodniu od tej straszliwej tragedii dorożki wróciły na krakowski rynek -ogłosił w sobotę Eryk Nęcek, wiceprezes Stowarzyszenia Dorożkarzy Krakowskich. Z kolei rzecznik wojewody małopolskiego przekazał, że w pięciu krakowskich szpitalach pozostaje dziesięć osób poszkodowanych w zamachu. Ich stan jest stabilny.",
+    "link": "https://wydarzenia.interia.pl/malopolskie/news-po-tragedii-wracaja-na-krakowski-rynek-dla-nas-to-szczegolni,nId,23573437",
+    "image": "https://i.iplsc.com/-/000NJ3YYWK2KPXIP-C321.webp",
+    "source": "Interia",
+    "also": [],
+    "published": "2026-11-14T10:48:00+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "‘None of them had ever seen an eclipse in real life’: Maurice Bakley’s best phone picture",
+    "summary": "An ​e​lementary school ​w​atch party turned into a great opportunity to take a child’s-eye view of a spectacular astral phenomenon Maurice Bakley was chaperoning an eclipse watch party at his son’s elementary school in Arlington, Virginia, when he took this photograph.",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/14/maurice-bakley-photographer-solar-eclipse-best-phone-picture",
+    "image": "https://i.guim.co.uk/img/media/f369481834e996c3c824b2b33751d8eac3664b00/0_145_1536_1229/master/1536.jpg?width=140&quality=85&auto=format&fit=max&s=00e459ebdce9f82189caf968b9efae82",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-14T11:00:42+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
+    "summary": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales The paintings of artists such as Vincent van Gogh, Paul Cézanne and David Hockney have been brought to life in all-singing, all-dancing immersive shows in recent years.",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
+    "image": "https://i.guim.co.uk/img/media/b9f6172ba8f224dbb097628613f4b8f2f0f5d71a/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6ce3cb7a7ab1e5d0183e1c525e89f8ee",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-14T09:00:39+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Pałace i dwory dawnych Prus na wystawie w Muzeum w Kętrzynie",
+    "summary": "Wystawę o pałacach i dworach dawnej Prowincji Prusy można zwiedzać od soboty (14 listopada) na zamku w Kętrzynie. Ekspozycję przygotowało Muzeum im. Wojciecha Kętrzyńskiego z okazji 80-lecia działalności.",
+    "link": "https://dzieje.pl/wiadomosci/palace-i-dwory-dawnych-prus-na-wystawie-w-muzeum-w-ketrzynie",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/ketrzyn.jpg?h=1b73e7c5&itok=i2zM-H6Y",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-14T10:13:26+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Street photography through an Australian lens – in pictures",
+    "summary": "From a sleepy restaurant to a climbing leopard, the Australian Street Photography awards celebrate the best contemporary street photos taken by Australians. Twenty-five finalists have been selected by an independent jury through Aussie Street, a platform for photographers.",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/14/australian-street-photography-awards-gallery",
+    "image": "https://i.guim.co.uk/img/media/12df3caff407c6c07c2fb00d46a64e89bf6ab588/262_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=20298c1c0bcf8826d17398fde8fad15c",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-13T23:00:27+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "After a year off, the ADAA's New York fair returns with a new name and revamped layout",
+    "summary": "The ADAA Fair is a rebooted version of the association's Art Show, with a reduced exhibitor list and a partnership with the Whitney Museum",
+    "link": "https://www.theartnewspaper.com/2026/11/13/adaa-art-fair-returns-one-year-hiatus-new-york",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/6f85e3fce963a814479781da2469b9c0482b7594-3600x2782.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-13T22:15:13+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Special Edition: Jesus",
+    "summary": "Mona Chalabi, Anne Anlin Cheng and Patty Chang, Miles Greenberg, Betsy James Wyeth, and the hottest memes about the Nvidia honeypot.",
+    "link": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
+    "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_6405.JPG",
+    "source": "Hyperallergic",
+    "also": [],
+    "published": "2026-11-14T11:00:00+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Why so much love between Ireland and Garth Brooks?",
+    "summary": "Country music superstar Garth Brooks will perform a multi-city tour of Ireland in 2027.",
+    "link": "https://www.bbc.co.uk/news/articles/c65y1jjlq1qjo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7f29/live/e2059b00-df72-11f1-b844-3146c4983677.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-14T06:48:14+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Wylicytuj dzieło i wesprzyj WOŚP. Wyjątkowa aukcja w Światowy Dzień Cukrzycy",
+    "summary": "Wcześniej w tej inicjatywie wzięli udział tacy artyści jak Wilhelm Sasnal, Henryk Sawka i Andrzej Pągowski.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114530,33130732,wylicytuj-dzielo-i-wesprzyj-wosp-wyjatkowa-aukcja-w-swiatowy.html",
+    "image": "https://bi.im-g.pl/im/e6/98/1f/z33130982IHG,Michal-Figurski--zalozyciel-Fundacji-Najslodsi.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-14T08:14:00+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "‘It Gave Me a Lot of Anxiety’: Alex Katz on Sharing the Room With Matisse",
+    "summary": "“Odalisque With a Red Casket” (1927) by Henri Matisse and “Reclining Bather” (1960) by Alex Katz at the Matisse Museum in Nice, France.",
+    "link": "https://www.nytimes.com/2026/11/07/arts/design/alex-katz-matisse.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/07cul-katz-matisse-wkvt/07cul-katz-matisse-wkvt-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-13T17:18:00+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Byłam na planie \"Wśród nocnej ciszy\". Łukasz Simlat mnie przeraził [RELACJA]",
+    "summary": "Ostatnie dni stycznia 2026 r. Trafiam do studia TVN w Sękocinie, gdzie trwają zdjęcia do kolejnego projektu Jana Holoubka \"Wśród nocnej ciszy\". Właśnie kręci scenę autobusową. Na wielkich ekranach LED przewijają się trójwymiarowe obrazy zasypanej śniegiem wiejskiej drogi.",
+    "link": "https://kultura.onet.pl/telewizja/bylam-na-planie-wsrod-nocnej-ciszy-lukasz-simlat-mnie-przerazil/hj32vw0",
+    "image": "https://cdn.kultura.onet.pl/1/VPGk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mZjFhNDU0ODFkYTJiOWEwZDkwOTg0N2I4YWE2OTMxNC5wbmeSlQMAAM0IAM0EgJMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-14T11:27:00+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Muzyczny król i żywa legenda. Ma 20 Grammy, Oscara i 2 Złote Globy. Sprzedał ponad 100 mln płyt",
+    "summary": "Jego piosenki od dziesięcioleci rozbrzmiewają w radiu, a koncerty przyciągają tłumy fanów. Zdobył najważniejsze nagrody muzyczne i zapisał się również w historii kina. Choć ma na koncie wiele przebojów, jeden z największych sukcesów zawdzięcza utworowi, do którego początkowo sam nie był przekonany.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114526,33128813,muzyczny-krol-i-zywa-legenda-ma-20-grammy-oscara-i-2-zlote.html",
+    "image": "https://bi.im-g.pl/im/89/98/1f/z33128841IHG,Bruce-Springsteen.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-14T09:37:00+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Prof. Chwalba: polsko-żydowskie sąsiedztwo to było współistnienie",
+    "summary": "Światy żydowski i polski żyły przez wieki obok siebie, było to współistnienie w sąsiedztwie. Intensywne kontakty mogły doprowadzić do osłabienia tego, co jest istotne w obu wyznaniach, i zamazywania ich odrębności – powiedział PAP prof. Andrzej Chwalba, współautor książki „Polacy – Żydzi. Sąsiedzi przez tysiąc",
+    "link": "https://dzieje.pl/wiadomosci/prof-chwalba-polsko-zydowskie-sasiedztwo-bylo-wspolistnienie",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20141010_0UX.jpg?itok=8zORAcuX",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-14T08:35:47+00:00",
+    "topic": "literatura"
+   },
+   {
+    "title": "Leszek Cichy, zdobywca zimowego Everestu i Korony Ziemi, obchodzi 75. urodziny",
+    "summary": "Himalaista Leszek Cichy, który z Krzysztofem Wielickim, jako pierwszy człowiek w historii, wspiął się zimą na najwyższy szczyt świata - Mount Everest, 14 listopada świętuje 75. urodziny. Jest pierwszym Polakiem zdobywcą Korony Ziemi, czyli najwyższych szczytów siedmiu",
+    "link": "https://dzieje.pl/wiadomosci/leszek-cichy-zdobywca-zimowego-everestu-i-korony-ziemi-obchodzi-75-urodziny",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20260321_2S8.jpg?itok=B0Z7pcCM",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-14T08:20:01+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Cytat dnia. Anna Polony: Młodzi przestają być ludźmi, stają się robotami. I nawet...",
+    "summary": "Anna Polony nie ukrywa rozczarowania współczesnym światem. Ceniona aktorka zwróciła uwagę na zachowanie młodych ludzi, którzy coraz więcej czasu spędzają przed ekranami telefonów. Jej słowa są mocne i mogą wywołać dyskusję między pokoleniami. Czy rzeczywiście technologia tak bardzo zmieniła nasze życie?",
+    "link": "https://kultura.gazeta.pl/kultura/7,114628,33125335,cytat-dnia-anna-polony-mlodzi-przestaja-byc-ludzmi-staja.html",
+    "image": "https://bi.im-g.pl/im/e1/97/1f/z33125345IHG,Anna-Polony.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-14T05:23:00+00:00",
+    "topic": "film"
+   }
+  ]
+ }
+}
