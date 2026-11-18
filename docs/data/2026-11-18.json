@@ -1,0 +1,747 @@
+{
+ "date": "2026-11-18",
+ "generated": "2026-11-18T14:21+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Orlen dostarczy Ukrainie więcej gazu na podstawie nowego kontraktu z Naftogazem",
+    "summary": "Orlen zawarł nową umowę z ukraińskim Naftogazem dotyczącą dostaw gazu ziemnego. Surowiec pochodzący z trzech ładunków LNG z USA trafi do odbiorcy po przetworzeniu w polskim terminalu.",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTDBYRFBmbGhRRXBxLUw5aW1kZmtJNjlZaW81WDZyZWRvWjFpZURHUVNYNU95Rnd6VFRESVBFQlBtMkh1QlNuYWNFLVVaaEhFOG5OM2NsWldYdXZzbE5nLW5oSzJOQzFfZFRJa1lZeUlGTEhVU3NORDFwTWF4cmh1NmJPVTJ1Wk1ZLVhyWWlTcWxVbkFKdDdFNVlFSzZKeUVoNmdNc1VUSHNHdExpVVM4?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/fa/65/orlen-o-wspolpracy-z-naftogazem-zdj-636x421-fa656895.jpg",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska",
+     "RMF24",
+     "RMF24 Ekonomia"
+    ],
+    "published": "2026-11-18T10:04:27+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Premier: lata zależności energetycznej od Rosji są za nami",
+    "summary": "Lata, kiedy budowano zależność energetyczną od Rosji, są za nami - mówił w środę premier Donald Tusk. Zaznaczył, że energetyka jest integralną częścią systemu bezpieczeństwa, dlatego Europa powinna preferować relacje, w tym energetyczne, z lojalnymi partnerami.",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObG1JU3BsaUlmdzYzRmp3Zy11YzctaDFUNWphUndUR1dPM1FJdDJfT18wYTNMVFJFeGdiblp2WlJGVXkzejRkSjA2V0FHV1o2dVRiWWd5eU1sdzhjYUpPM09mS2tKODRkT2pZZ3NvYVhVRGg0QkpLcmZWaFB5aE9aNXNSX296ZjFKSDVvSkR1T2MxUQ?oc=5",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/2x/2x8zrn5ybte2z7hnwexatyz2z8wn46mu.jpg",
+    "source": "PAP",
+    "also": [
+     "Polsat News",
+     "TVP Info"
+    ],
+    "published": "2026-11-18T07:08:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Ukrainian drones and missiles strike Kerch Bridge that links Russia with Crimea",
+    "summary": "Workers cutting electrical wires on the Southern Bridge in Kyiv, which was damaged in an overnight strike.",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1lMdEV1WEtKYTVkZHVmeDh1cEhybHluUVd1eGRuVHdfMkt6ekpEbXFVWHpMN254eURaczMwUVg4RXBmay14U0l4R3l2bUxBQWl3alU4ajNLbGtSdlBha0JPY2ZBelkxMlJUU3RHNVBKNWpwWS0xOGlEbklYNHBhZHZ2T2lzako2TzlkMk9sQmZzMmF2V3pYYUpjdnVqZzU2ZFFORzUyNEpDYi14?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-ltwc/17int-russia-ukraine-bridges-ltwc-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "Euronews",
+     "The New York Times"
+    ],
+    "published": "2026-11-18T01:32:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+    "summary": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
+    "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e20b/live/66ff6490-e323-11f1-a094-5fdc692f3e33.jpg",
+    "source": "BBC News",
+    "also": [
+     "NPR"
+    ],
+    "published": "2026-11-18T08:33:32+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "German minister rejects US criticism of Kyiv's deep strikes as 'stupid'",
+    "summary": "Pentagon policy ⁠chief’s comments on Ukraine’s war tactic sparks disagreement at Nato meeting. What we know on day 1,729",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmdnNC1aejdXR1ZzZFEzSGVBNEJ5T2VRZTdHTU1mVGlrcnJkZTlacmJ2V3UteWNQZkNKTUpQa1gtRGxNaGV6ejVaM1JQZkszX2FZeWs0RXlQM09aYnBvdllESnktVEZMclBBcnZDNVdremViZjZmSlZHcGRLeHpCLWc3VnQ3M0psWXBReEg2SEZzSmQ0dkVBbU1ZOTVaVGI1Yld6cWNiaXBGeFB5OFZCTA?oc=5",
+    "image": "https://i.guim.co.uk/img/media/13301cb98a22a6b1728f97dbe586d68dfc8cba5f/341_0_3578_2863/master/3578.jpg?width=140&quality=85&auto=format&fit=max&s=4c49b48870e7d3d8fafd388a9bbc2b49",
+    "source": "Reuters",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-17T23:20:51+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Kradzież ponad 200 krów w Niemczech: Zatrzymano trzeciego Polaka",
+    "summary": "Śledztwo trwa.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-kradziez-ponad-200-krow-w-niemczech-zatrzymano-trzeciego-pol,nIdn,1026568",
+    "image": "https://rmf.rmffm.pl/news/attachments/b7/c0/kradziez-ponad-200-krow-w-niemczech-zatrzymano-trzeciego-polaka-636x421-b7c0ec24.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-18T07:20:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Trzęsienie ziemi w Rumunii. Są ranni",
+    "summary": "Rumunię nawiedziło trzęsienie ziemi o magnitudzie 5,7. Wstrząsy były odczuwalne w wielu miastach, w tym w Bukareszcie, stolicy kraju. Kilka osób trafiło do szpitala.",
+    "link": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-w-rumunii-sa-ranni-st9344555?source=rss",
+    "image": "https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-trzesienie-ziemi-w-rumunii-ph9344611/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-18T11:06:14+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Trump arrives in China for unprecedented trilateral encounter with Xi and Putin",
+    "summary": "China’s Xi welcomes his US and Russian counterparts at the APEC summit as the three global powers’ leaders gear up for their first trilateral meeting. Xi said Asia-Pacific needs open trade, Putin condemned Russia's sanctions, while Trump expressed hope about the chances of ending the war in Ukraine.",
+    "link": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin",
+    "image": "https://images.euronews.com/articles/stories/09/99/75/97/1200x675_cmsv2_396948d9-f99d-5e93-bc81-951f35521f4a-9997597.jpg",
+    "source": "Euronews",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-18T12:31:39+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Who to watch in Spain's election race",
+    "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-18T11:44:25+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+    "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+    "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-18T09:28:35+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Doctor whose evidence helped to convict Lucy Letby was barred from treating patients during trial",
+    "summary": "Exclusive: Jury was never told that Prof Peter Hindmarsh was barred from practising over concerns for patients’ safety A senior doctor whose evidence helped to convict Lucy Letby and who was held up by prosecutors as a pre-eminent expert was barred from treating patients during the trial over fears he posed a risk to…",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial",
+    "image": "https://i.guim.co.uk/img/media/3c48972bd53bc9a25bae4884014f89108084ef40/0_0_2399_1920/master/2399.jpg?width=140&quality=85&auto=format&fit=max&s=bfd53ab76e36531be8a7aaa1103e741d",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-18T12:45:13+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
+    "summary": "The Russian rock star Boris Grebenshchikov and his band Aquarium in Tallinn, Estonia, last month.",
+    "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/world/13russia-musician-profle/13russia-musician-profle-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-18T11:51:05+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Democrat Mary Peltola wins in Alaska, securing 56-44 US Senate majority",
+    "summary": "Democrat Mary Peltola has defeated Republican incumbent Dan Sullivan in Alaska's closely fought Senate race, securing a political comeback in a state that has repeatedly backed Donald Trump.",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDhNX2ltb0xDNjBoTzlRcFZtcGl4V0FhOE94dTEyMHZVSDItM1ZMYUR2SW1NZVRpamgzQ2g5cXNrcE1wWG5oZlJDNFBWZ1MxeUhUcWhUSF9qM3Y0RXFiY28zT0xiMXdlbU8xX2JoZkUtLW9WejVlX3p0NGtxT0JUNUh2QldjcU5aYThDNWdNcUxUTVo2dTBKTG16NGZrNGQ1WUR6ejUwUnZxM1U?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "Euronews"
+    ],
+    "published": "2026-11-18T03:27:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+    "source": "BBC News",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-11-18T12:39:24+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Music",
+    "summary": "",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQWF3bmRaX2NPTlZiaFhIZ2JhTFVUYXdDcjZnRWMzT2RHQkRVbzJLSlZZQ0VXSmY4Nk5HS2lYZzRvQQ?oc=5",
+    "image": "https://i.guim.co.uk/img/media/cde7c03e1f5a0dae3f87c3a6ed481d1fa73e6a58/502_0_2697_2160/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=704f0fb8a5d750d26325b7460dc9735f",
+    "source": "Associated Press",
+    "also": [
+     "France 24",
+     "National Geographic",
+     "The Guardian"
+    ],
+    "published": "2026-11-17T22:17:58+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Trump says US wraps up 'very big trade deal' with Philippines",
+    "summary": "A factory in Rayong, Thailand, earlier this year. Thailand was initially hit with a 36 percent tariff by the Trump administration last year.",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMS04Tjk4eFJwZ1AwNmo5OFQ1NTlrSWEyMURicHFEVlM1SlJlWURicU5Hc3lRR3ZfOGNNWGNqRjFqWlp5eFRIQVhHSVdiX2RWUHptTEI2aWsyRzN1bHZvbTFxQUZqdnZ0VXQ5ZkprSWVkN1N5aTM0d21SQkc2U3BxQUN6UzVOcUk5RmtLaVR4QUxucWFmS1ZlQlFEMVVTYld4c3Nfbkc1MkdOdE1iUnpOVmN4OUt2a0RMUjA0?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-thailand-trade-vzqk/17trump-summits-thailand-trade-vzqk-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-18T05:58:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+    "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+    "image": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
+    "source": "The Guardian",
+    "also": [
+     "Deutsche Welle"
+    ],
+    "published": "2026-11-18T13:00:04+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
+    "summary": "US and Iran exchange fire in a new round of volatility for the Gulf",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-11-18T12:44:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Rubio Says Cyberattacks Are Not the Cause of Recent Tech Outages",
+    "summary": "Secretary of State Marco Rubio briefing reporters in Manila on Wednesday.",
+    "link": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-rubio-systems-qlkb/18int-rubio-systems-qlkb-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-18T06:46:29+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Israeli parliament elects speaker backed by Netanyahu opponents",
+    "summary": "Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu.",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0FvY0VGYXV2RkxSOFMxOENQVF85Mkt5SjZUUXFQS0VuZGpBZjBRbmxnNkVMNWVuRXFOa3lpY09XaE9HNk00UjYtVXJURmtTZGpyaEhEajVoUjh6bGZYbFRzd2NTQUVNd2ExdGFBbkdyXzhnOFZoWjNuRGtuTWpLMmU0U0FrdE40aEtTRnZtZTY5WWRJbFV2UUZXMzI3ZTZSVzFKNDZhYkpYc2hmd3Y2Yg?oc=5",
+    "image": "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=140&quality=85&auto=format&fit=max&s=c5feba6fd1c6b1939e460cb6bcf5df69",
+    "source": "Reuters",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-17T22:14:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "North Korean leader Kim Jong Un's daughter goes skiing at resort being redeveloped near China border",
+    "summary": "North Korea's Kim Jong Un tours a ski resort in Samjiyon with his family, smiling and smoking in photos.",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT0JDZ3I0TW9aeTlmMk5zeGtSd3dEV2tRLXhFNHlzcjI0YnhVaWptVU1zbUxLOUMxcDl3dHRTTWFfWkR3OEVjaFBKbU5pdEN4Q3BjMndVbWNPMFhLZEhPY1BycjFEVE1RWlF3XzF6MW1uWHdEcVlCYWZiWHBzSl90eGZKbkl3QXZhUE9lamkybWltVmdZTVEwaEkyVm9zWS16MFdRRGhYWTh4VmZwSXFoMkVZTkVTVFNmUkl5OVhPVXRzakhfZEtDUGduV3Z4U3UwQ0lkZGR5S2dMbHNMNUp0dU94Uk5ZVm5YTnVGck13?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-18T06:37:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Bancroft sandpaper claims heap pressure on Cummins",
+    "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-18T11:12:46+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+    "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-18T07:48:18+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status",
+    "summary": "Public health leaders condemn ‘significant damage’ by Trump administration as calls grow for RFK Jr to resign Doctors and public health leaders expressed grief and alarm at the loss of US measles-free status, a hard-won public health victory that once made the US a leader in infectious disease elimination.",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/us-measles-elimination-status-experts",
+    "image": "https://i.guim.co.uk/img/media/89d354123c3dc13547cfe47f6e2ef4fd572974b5/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=132db93339688c8fc5bbfdac00a72667",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-18T12:00:57+00:00",
+    "topic": "zdrowie"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Policjanci zatrzymali 16-latkę. Groziła wysadzeniem szkoły",
+    "summary": "Policjanci z Piaseczna wraz z funkcjonariuszami z Centralnego Biura Zwalczania Cyberprzestępczości zatrzymali 16-letnią mieszkankę powiatu pruszkowskiego, która groziła wysadzeniem szkoły. Po przesłuchaniu, które odbyło się w obecności opiekuna prawnego, została umieszczona w Policyjnej Izbie Dziecka",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWNxNVNGeFlKeHJyc3oxRXl6NlZJREZBckU2UlNqcnByMHJkbm1VZXphY2NhYVdnVzY3TXppRVE1MmJTR1BjN1hKYlhaM0l5SkJ3TXltZkc0b05wblNVazFwUGtmTUYzTV9ib2FhZE5JUzZJNFZ2UWlJenFDeDB3QUpnSkhFOFdJZm5USzlUMEV2dzZDTTFVRFBkM2ppbkJlZEFLRXZoOXEtMXpDVllTSUNKNA?oc=5",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2Ru/LnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAw/MDAwNzY4NDI0OC9maWxlcy9zaHV0dGVyc3RvY2stMjY4NzE5/Mzc0OS0zOTI3ODY2Ny0zOTI3ODY3Mi5qcGciLCJ3IjozODQwfQ",
+    "source": "PAP",
+    "also": [
+     "Dziennik Gazeta Prawna",
+     "Interia",
+     "Polsat News"
+    ],
+    "published": "2026-11-18T06:29:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wotum nieufności wobec rządu. Sejm zdecydował",
+    "summary": "Sejm odrzucił wniosek o wyrażenie wotum nieufności wobec rządu Donalda Tuska.",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVFKMDVXSzQzdVJNUjRGUGx3M2REZ2J6YUVPQmV2bXA5dlVmSlc5cWdmNWc5Snc1QkFjS01DZmV2WEsteUNhb3NramQ5REdza0s5cHNsamMxVWM2cWcxb0l5NkRlSHpnYVlqcVJmRThzZEdmWXRUSmlFbFNPeU1ndQ?oc=5",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLml/uY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMD/AwMDAwMDAwMDAwNzcwNzM0Mi9maWxlcy9jemxvbmtvd/2llLXJ6YWR1LTM5MzIxOTk3LmpwZyIsInciOjM4NDB9",
+    "source": "PAP",
+    "also": [
+     "Dziennik Gazeta Prawna",
+     "Interia",
+     "Polsat News"
+    ],
+    "published": "2026-11-17T16:05:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Teraz Apple ma problemy. Awaria szeregu usług",
+    "summary": "Koncern Apple poinformował we wtorek, że szereg usług Apple, w tym sklep z aplikacjami AppStore i iCloud, zmagają się z awariami. Przyczyna jest nieznana.",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR1RHSlpKSmJURnJrZlRmSDc4MjVVNENIaEFuSVNMdUp1RFZyQ0lrbVpIdmEzUnA5LXZLQUwxd2p6NG5EZE1UeEEySFhvNjFwV0NIaDFUNGthWlRXcmhQWXpqYzhBTGdXYjNqY3pzYkUzalBOR0dneFdqd0ZLZWU5cA?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/88/f8/zdj-636x421-88f832f9.jpg",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl",
+     "RMF24"
+    ],
+    "published": "2026-11-17T21:16:00+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Joe Biden z podziwem o Polsce w nowej książce. Ujawnił kulisy tajnej wizyty",
+    "summary": "Joe Biden nie szczędzi pochwał Polsce w swojej najnowszej książce pt. \"Promise me, America\". Były prezydent USA z podziwem opisuje przemianę Warszawy i zaangażowanie Polaków w pomoc Ukrainie. Wspomina również kulisy swojej tajnej podróży do Kijowa, podczas której zastosowano nietypową mistyfikację.",
+    "link": "https://wydarzenia.interia.pl/zagranica/news-joe-biden-z-podziwem-o-polsce-w-nowej-ksiazce-ujawnil-kulisy,nId,23575130",
+    "image": "https://i.iplsc.com/-/000NJHYTJ2M19641-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Bankier.pl",
+     "Polsat News"
+    ],
+    "published": "2026-11-18T05:36:51+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Kapiński o immunitetach Święczkowskiego i Sochańskiego: Spodziewam się najgorszych możliwych rzeczy",
+    "summary": "Trybunał Konstytucyjny poinformował we wtorek wieczorem na swojej stronie internetowej, że komunikat dotyczący wniosków Prokuratora Generalnego o uchylenie immunitetów Bogdanowi Święczkowskiemu i Bartłomiejowi Sochańskiemu zostanie opublikowany w środę. Wnioski te rozpatrywało Zgromadzenie Ogólne TK.",
+    "link": "https://www.rmf24.pl/rozmowy/poranna-rozmowa/news-kapinski-o-immunitetach-swieczkowskiego-i-sochanskiego-spodz,nIdn,1026494",
+    "image": "https://rmf.rmffm.pl/news/attachments/4e/9f/zbigniew-kapinski-636x421-4e9f5d91.jpg",
+    "source": "RMF24",
+    "also": [
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-11-18T07:02:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Emerytury w Polsce. Znacząca różnica między kobietami i mężczyznami",
+    "summary": "W Polsce w 2025 roku było 7,47 mln emerytów, czyli o 1,1 procent więcej niż rok wcześniej - przekazał Główny Urząd Statystyczny. Przeciętna emerytura wzrosła w ubiegłym roku o 8,2 procent i wyniosła 4178,94 złotych.",
+    "link": "https://tvn24.pl/biznes/pieniadze/emerytury-w-polsce-znaczaca-roznica-miedzy-kobietami-i-mezczyznami-st9345281?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-pieniadze-zdjecie-ilustracyjne-ph9257409/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-18T12:55:30+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Mieszkańcy Warszawy i okolic zobaczą nietypowe światła. MON wydało komunikat",
+    "summary": "W środę, 18 listopada, mieszkańcy Warszawy i okolic mogą zaobserwować nietypowe zjawiska na niebie. Wszystko za sprawą zaplanowanych badań pocisków oświetlających MITHRAS 1000, które przeprowadzi Wojskowy Instytut Techniczny Uzbrojenia w Zielonce.",
+    "link": "https://www.rp.pl/wojsko/art45507351-mieszkancy-warszawy-i-okolic-zobacza-nietypowe-swiatla-mon-wydalo-komunikat",
+    "image": "https://i.gremicdn.pl/image/free/ad110ab25bb39528ba1ff2ab414640fb/?t=crop:4994:2183:nowe:0:572,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-18T12:44:57+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Słownik Cambridge wybrał słowo roku 2026. To odpowiedź na rozwój sztucznej inteligencji",
+    "summary": "„Human”, czyli „człowiek” lub „ludzki”, zostało słowem roku 2026 według Cambridge Dictionary czyli słownika Cambridge. Wybór odzwierciedla rosnące znaczenie rozróżnienia między działalnością człowieka a treściami tworzonymi przez sztuczną inteligencję.",
+    "link": "https://www.rp.pl/spoleczenstwo/art45507061-slownik-cambridge-wybral-slowo-roku-2026-to-odpowiedz-na-rozwoj-sztucznej-inteligencji",
+    "image": "https://i.gremicdn.pl/image/free/0e8de808704036404a71d766002b7575/?t=crop:6240:2727:nowe:0:1050.6476163284,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-18T11:47:10+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Znamy laureatów 22. Wielkiego Konkursu Fotograficznego. Oto najlepsze zdjęcia według jury National Geographic Polska",
+    "summary": "22. edycja Wielkiego Konkursu Fotograficznego National Geographic Polska dobiegła końca. Spośród nadesłanych prac jury wybrało te, które wyróżniły się nie tylko kunsztem technicznym, lecz także oryginalnym spojrzeniem na świat i siłą przekazu.",
+    "link": "https://www.national-geographic.pl/fotografia/znamy-laureatow-22-wielkiego-konkursu-fotograficznego-oto-najlepsze-zdjecia-wedlug-jury-national-geographic-polska/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/56/laureaci-wkf-2026.jpg",
+    "source": "National Geographic Polska",
+    "also": [
+     "National Geographic"
+    ],
+    "published": "2026-11-18T08:00:22+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Zbliża się wielki debiut Anthropica. Ekspert: wycena nijak ma się do osiągniętych wyników",
+    "summary": "Anthropic, twórca modeli sztucznej inteligencji Claude, ma zadebiutować w czwartek na amerykańskiej giełdzie Nasdaq. Wskazywane wyceny są bardzo wysokie. Według Jakuba Pacholca z Mount TFI udany debiut byłby dobrą wiadomością dla całego ekosystemu AI.",
+    "link": "https://businessinsider.com.pl/gielda/debiut-anthropica-na-nasdaq-jaka-wycena-giganta-ai/7nf15dc",
+    "image": "https://cdn.businessinsider.com.pl/1/P95k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iZWM2Y2UwMTc4MjQwYmFlM2M3NmYwOTFlNWJmMTI1Zi5qcGeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-18T13:09:23+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Gigantyczna kara dla Allegro od UOKiK. Poszło o miliony drzew",
+    "summary": "Spółka Allegro została ukarana przez Urząd Ochrony Konkurencji i Konkurentów (UOKiK) karą prawie 55 mln zł. Poszło o \"zielone deklaracje\" firmy dotyczące sadzenia drzew jako rekompensaty za przesyłki odbierane przez klientów.",
+    "link": "https://businessinsider.com.pl/finanse/handel/firma-allegro-z-ogromna-kara-od-uokik-chodzi-o-obietnice-sadzenia-drzew/mf9466r",
+    "image": "https://cdn.businessinsider.com.pl/1/sVkk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xMjExZWExZGUyYTczMDFjMjliMzNiYjY3ZjdkMzM4Ni5qcGeSlQMCzNbND-3NCPeTBc0JYM0GQN4AAqEwB6ExBA",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-18T13:03:50+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Najpopularniejsze hasło w Polsce zaskakuje. Polacy wciąż popełniają ten sam błąd",
+    "summary": "„123456”? A może „password”? Nic z tych rzeczy. Najpopularniejsze hasło w Polsce w 2026 roku to zaskakujące „1asdasd1”. W pierwszej dwudziestce znalazły się również nazwy zespołu hip-hopowego i klubu piłkarskiego.",
+    "link": "https://www.national-geographic.pl/technologia/najpopularniejsze-haslo-w-polsce-zaskakuje-polacy-wciaz-popelniaja-ten-sam-blad/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/56/najpopularniejsze-haslo-w-polsce.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-18T13:03:19+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Spór o TK może zablokować reformę w armii. „Przegramy wojnę pierwszego dnia”",
+    "summary": "BBN pracuje z MON nad reformą Systemu Kierowania i Dowodzenia wojskiem. Ale podobnie jak w przypadku Strategii Bezpieczeństwa, ta kluczowa dla naszej obronności zmiana, może dostać rykoszetem politycznej wojny o Trybunał Konstytucyjny.",
+    "link": "https://radar.rp.pl/wojsko-polskie/art45506191-spor-o-tk-moze-zablokowac-reforme-w-armii-przegramy-wojne-pierwszego-dnia",
+    "image": "https://i.gremicdn.pl/image/free/a10d97924011f98750ad5d83d8d9839b/polska-armia-nie-ma-struktury-dowodzenia-pozwalajacej-optymalnie-prowadzic-dzialania-w-obronie-wlasnego-terytorium?t=crop:3878:1695:nowe:0:232,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [],
+    "published": "2026-11-18T12:57:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Ratownicy przyjechali na pomoc. Pijany pacjent wyciągnął gaz pieprzowy",
+    "summary": "Był tak pijany, że nie mógł samodzielnie wysiąść z taksówki. Gdy na pomoc ruszyli mu wezwani ratownicy medyczni, zrobił się agresywny. Najpierw doszło do szarpaniny, potem w ruch poszedł gaz pieprzowy. Krewki 28-latek odpowie za napaść na załogę karetki.",
+    "link": "https://tvn24.pl/poznan/w-luboniu-pijany-28-latek-zaatakowal-zaloge-karetki-siegnal-po-gaz-pieprzowy-i-palke-st9345225?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-mezczyzna-zaatakowal-ratownikow-medycznych-ph9345226/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-18T12:53:21+00:00",
+    "topic": "zdrowie"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Ciężarówka znów utknęła pod wiaduktem w Kleczy Dolnej. Są utrudnienia",
+    "summary": "Utrudnienia w obu kierunkach występują na drodze krajowej nr 52 w Kleczy Dolnej koło Wadowic. Samochód ciężarowy zaklinował się tam podczas przejazdu pod wiaduktem kolejowym – przekazał krakowski oddział GDDKiA. Wprowadzony został ruch wahadłowy.",
+    "link": "https://radiokrakow.pl/wiadomosci/wadowice/ciezarowka-znow-utknela-pod-wiaduktem-w-kleczy-dolnej-sa-utrudnienia/187890",
+    "image": "https://rmf.rmffm.pl/news/attachments/d0/58/zdjecie-ilustracyjne-636x421-d0583f78.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "RMF24",
+     "RMF24 Kraków"
+    ],
+    "published": "2026-11-18T12:23:26+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Kraków uhonorował medyków. „Mieszkańcy pamiętają”",
+    "summary": "Medycy, którzy ruszyli na pomoc rannym podczas tragicznych wydarzeń na krakowskim Rynku Głównym 7 listopada, zostali uhonorowani odznakami Honoris Gratia.",
+    "link": "https://lovekrakow.pl/krakow-uhonorowal-medykow-mieszkancy-pamietaja",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/d369af9063a90862e30b99f87d632766.JPG.webp?itok=Fr13Et7e",
+    "source": "LoveKraków",
+    "also": [
+     "RMF24 Kraków",
+     "Radio Kraków"
+    ],
+    "published": "2026-11-18T11:29:36+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Historyczny bombowiec Liberator trafił na wystawę Muzeum Lotnictwa Polskiego w Krakowie",
+    "summary": "Fragmenty alianckiego bombowca B-24J Liberator EW 248 P zestrzelonego w nocy z 16 na 17 sierpnia 1944 roku nad małopolskim Ostrowem podczas misji niesienia pomocy walczącej Warszawie, można oglądać od środy na wystawie czasowej w Muzeum Lotnictwa Polskiego w Krakowie.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/historyczny-bombowiec-liberator-trafil-na-wsytawe-muzeum-lotnictwa-polskiego-w-krakowie/187892",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20261118_0UZ.jpg?itok=sTvPDNVB",
+    "source": "Radio Kraków",
+    "also": [
+     "Dzieje.pl"
+    ],
+    "published": "2026-11-18T12:57:10+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Mężczyzna przechodził na czerwonym świetle? Poważny wypadek w Węgrzcach",
+    "summary": "W środę 18 listopada na ul. Warszawskiej w Węgrzcach doszło do potrącenia pieszego. Ze wstępnych ustaleń i relacji świadków wynika, że mężczyzna wszedł na przejście, gdy nie powinien tego robić.",
+    "link": "https://lovekrakow.pl/mezczyzna-przechodzil-na-czerwonym-swietle-powazny-wypadek-w-wegrzcach",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2022-02/55582fc0a5a47fad27949cdb6ce51f102bdf8a91.jpg.webp?h=c6cb2754&itok=V2LmXxeA",
+    "source": "LoveKraków",
+    "also": [
+     "Radio Kraków"
+    ],
+    "published": "2026-11-18T12:03:18+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Zatrzymał się tylko raz. Nowe ustalenia ws. zamachu w Krakowie",
+    "summary": "Śledczy odtworzyli trasę, którą sprawca zamachu na krakowskim Rynku Głównym pokonał z Ostrowca Świętokrzyskiego. Jak ustaliła Wirtualna Polska, 24-latek zatrzymał się po drodze tylko raz. Podano również, którędy wjechał do centrum Krakowa i o jakich godzinach jego samochód zarejestrowały kamery monitoringu.",
+    "link": "https://www.rp.pl/przestepczosc/art45507091-zatrzymal-sie-tylko-raz-nowe-ustalenia-ws-zamachu-w-krakowie",
+    "image": "https://i.gremicdn.pl/image/free/528bee393ced5ab0512e82cdd09006b2/?t=crop:1600:699:nowe:0:268.13793103448,resize:fill:600:300,enlarge:1",
+    "source": "Rzeczpospolita",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-18T11:53:17+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "\"W uznaniu dla ich odwagi\". Bohaterscy policjanci odznaczeni",
+    "summary": "Dwaj policjanci, którzy zatrzymali zamachowca z Krakowa, zostali odznaczeni Medalami Czujności Policyjnej podczas Światowego Szczytu Policji w Dubaju. Minister spraw wewnętrznych Zjednoczonych Emiratów Arabskich argumentował, że starsi posterunkowi Jakub Kulik i Artur Morański wykazali się \"odwagą w konfrontacji z…",
+    "link": "https://wydarzenia.interia.pl/kraj/news-w-uznaniu-dla-ich-odwagi-bohaterscy-policjanci-odznaczeni,nId,23575234",
+    "image": "https://i.iplsc.com/-/000NJJCDKNKY5QEP-C321.webp",
+    "source": "Interia",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-18T09:46:14+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Nowa rada nadzorcza Cracovii. Powrót adwokata",
+    "summary": "Podczas walnego zgromadzenia akcjonariuszy wybrana została nowa rada nadzorcza. W jej skład wchodzi obecnie pięć osób. Wrócił Filip Curyło, który jest wspólnikiem posła Pawła Śliza, zaangażowanego w tzw. okrągły stół o przyszłości Cracovii.",
+    "link": "https://lovekrakow.pl/nowa-rada-nadzorcza-cracovii-powrot-adwokata",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2025-10/c9b7b4e7e131c78ce5b19ae13eb2b978.jpg.webp?itok=IvLOvb_A",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-18T11:04:52+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Zwrot ws. pochówku zamachowca z Krakowa. Bliscy zgłosili się po ciało",
+    "summary": "Osoba z rodziny zamachowca z Krakowa chce zgłosić się po jego ciało - potwierdziła Teresa Gut, reporterka Polsat News. Oznacza to, że będzie mógł zostać zorganizowany pogrzeb Michała Oksińskiego.",
+    "link": "https://www.rmf24.pl/regiony/krakow/news-zwrot-ws-pochowku-zamachowca-z-krakowa-bliscy-zglosili-sie-p,nIdn,1026489",
+    "image": "https://rmf.rmffm.pl/news/attachments/79/c3/smiglowiec-lpr-startuje-z-plyty-rynku-glownego-w-krakowie-dzien-zamachu-fot-636x421-79c3befb.jpg",
+    "source": "RMF24 Kraków",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-17T13:28:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Nie będzie dziś decyzji ws. wyjścia Krakowa z organizacji i stowarzyszeń turystycznych",
+    "summary": "Na razie nie będzie decyzji w sprawie wystąpienia Krakowa z dziewięciu organizacji i stowarzyszeń turystycznych. Projekty uchwał zostały zdjęte z porządku obrad środowej sesji Rady Miasta Krakowa. Powodem jest brak wymaganych opinii Komisji Promocji i Turystyki.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/nie-bedzie-dzis-decyzji-ws-wyjscia-krakowa-z-organizacji-i-stowarzyszen-turystycznych/187894",
+    "image": "https://radiokrakow.pl/media/article/187894/1bc1df5f4d4d434afd3723bfa8ea77aa.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-18T13:13:07+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Scena jako ekosystem. \"Duchy i pejzaże\" francuskiego reżysera",
+    "summary": "Opowieść o grupie hardrockowcďż˝w, ktďż˝rzy w ośnieżonej leśnej scenerii prďż˝bują uruchomić zepsutego Citroďż˝na i projektują idealny, melancholijny park rozrywki dla starszej pani. A może wyprawa do podziemnego świata gigantycznych kretďż˝w, ktďż˝re budują własną mikrowspďż˝lnotę?",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33134729,no-nature-no-future-cricoteka-i-narodowy-stary-teatr-lacza.html",
+    "image": "https://bi.im-g.pl/im/80/9a/1f/z33138048IHG,La-Melancolie-des-Dragons.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-11-18T13:08:00+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Modigliani sculpture heads Phillips’s New York evening sale at $44.6m",
+    "summary": "The Modern and contemporary art auction totalled $104.4m, a 55% improvement on last year, with only one lot by Anselm Kiefer left unsold",
+    "link": "https://www.theartnewspaper.com/2026/11/18/modigliani-heads-phillipss-new-york-evening-sale-at-446m",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/3b9b9e5e0d4fcaf65b7e14ef8a6a206677e06464-11648x8736.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [
+     "Artnet News"
+    ],
+    "published": "2026-11-18T06:17:12+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Contested Frida Kahlo Painting Is Withdrawn Hours Before Auction",
+    "summary": "Christie’s removed a Frida Kahlo painting, “Congreso de los pueblos por la Paz (Congress of Peoples for Peace),” from an auction Tuesday. It depicts a dove perched in a fruit tree flanked by nuclear mushroom clouds.",
+    "link": "https://www.nytimes.com/2026/11/17/arts/design/frida-kahlo-painting-auction-christies.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cul-frida-kahlo-auction-ctbg/17cul-frida-kahlo-auction-ctbg-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "ARTnews"
+    ],
+    "published": "2026-11-18T03:19:50+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Capturing the Hustle of Unsung Jobs in New York City",
+    "summary": "Anny Aviram, a senior conservator at the Museum of Modern Art, cleaning Claude Monet’s “Water Lilies.”",
+    "link": "https://www.nytimes.com/2026/11/18/insider/new-york-city-jobs.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18a2_insider-ny-at-work-pmcb/18a2_insider-ny-at-work-pmcb-mediumSquareAt3X-v2.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-18T08:00:26+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "$85.8M Kandinsky, $82.3M Klimt Propel Mixed $626.6M Christie’s Sale",
+    "summary": "Buyers were selective, and many lots went for below their estimates.",
+    "link": "https://news.artnet.com/art-world/85-8m-kandinsky-82-3m-klimt-propel-mixed-626-6m-christies-sale-2838270",
+    "image": null,
+    "source": "Artnet News",
+    "also": [
+     "ARTnews"
+    ],
+    "published": "2026-11-18T05:31:17+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Nietzsche, the supermodels and me: the dazzling career of David Sims – in pictures",
+    "summary": "He’s shot Kate Moss and Kurt Cobain – and even dealt with Frankenstein’s monster. A new exhibition traces the British photographer’s evolving journey",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/18/david-sims-kate-moss-kurt-cobain-in-pictures",
+    "image": "https://i.guim.co.uk/img/media/e6901b5e03145e6b45441f18f81d5c288a33cfb3/0_0_2088_1671/master/2088.jpg?width=140&quality=85&auto=format&fit=max&s=2b1974745ed16f588e41b19a815fe6f5",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-18T07:00:34+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+    "summary": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+    "link": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/457e/live/091e9740-e28a-11f1-99b6-a35a62fa4264.png",
+    "source": "BBC News",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-17T13:15:38+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Minister criticises media for 'amplifying' Russell Brand's prison message",
+    "summary": "Lucy Powell says outlets shouldn't have played a clip of a message read by the jailed rapist's wife.",
+    "link": "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3906/live/4ed62600-e342-11f1-99aa-0f40b013ad11.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-18T12:11:39+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Michał Bajor o eutanazji. Nie chce cierpieć i być ciężarem",
+    "summary": "Kiedy Mateusz Szymkowiak zapytał Michała Bajora o upływający czas, usłyszał: \"Jak będzie potrzeba, to sobie go zamknę\". To nie pierwsze takie wyznanie wybitnego artysty.",
+    "link": "https://kultura.onet.pl/wiadomosci/michal-bajor-o-eutanazji-nie-chce-byc-ciezarem-dla-bliskich/d5ej8be",
+    "image": "https://cdn.kultura.onet.pl/1/uojk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84N2E5MjllODY1Zjg0MTY3MjIyZTA5ODExNWM1ZGRmYS5qcGeSlQPNBlrNAgDNF0DNDRSTBc0JYM0GQN4AAqEwB6ExBA",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-18T12:45:56+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Były przyjaciel Willa Smitha pozwał aktora. Padły zarzuty o napaść seksualną",
+    "summary": "Bilaal Salaam w 2025 roku złożył pozew przeciwko żonie Willa Smitha. Teraz pozywa samego aktora. Oskarża go o napaść na tle seksualnym. Jest stanowisko prawnika gwiazdora.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114628,33138318,byly-przyjaciel-willa-smitha-pozwal-aktora-padly-zarzuty-o.html",
+    "image": "https://bi.im-g.pl/im/ac/9a/1f/z33138604IHG,Will-Smith.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-18T11:00:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "\"Dziedzictwo\", odcinek 1074. Co wydarzy się w serialu?",
+    "summary": "W 1074. odcinku serialu \"Dziedzictwo\" Atakan usiłuje zmusić Pelin do przekazania mu majątku. Z pomocą przybywa Poyraz. Podczas konfrontacji kobieta zostaje ranna. Turgut strzela do Sinana i ucieka. Naciye podejmuje próbę zabicia Aynur. Co jeszcze wydarzy się w odcinku?",
+    "link": "https://kultura.onet.pl/telewizja/seriale-zagraniczne/dziedzictwo-odcinek-1074-co-wydarzy-sie-w-serialu/435rx5c",
+    "image": "https://cdn.kultura.onet.pl/1/oM6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82MTA1NWMzODc3ZmQ5NGM3YWY5MzJmNTJhZTg4NDMxMS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-18T06:02:14+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Polski serial pokonał zagraniczne hity. Padł też najlepszy wynik w historii",
+    "summary": "Krytycy tym razem są zgodni. Najnowszy serial HBO Max został jednogłośnie okrzyknięty jednym z najlepszych tego roku, a może nawet ostatnich lat. Polska produkcja tuż po premierze pobiła rekord platformy.",
+    "link": "https://kultura.gazeta.pl/kultura/7,127222,33138152,polski-serial-pokonal-zagraniczne-hity-padl-tez-najlepszy-wynik.html",
+    "image": "https://bi.im-g.pl/im/20/9a/1f/z33138208IHG,-Wsrod-nocnej-ciszy----kadr-z-serialu.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-18T10:00:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Catherine Lacey: Nie korzystam z AI, bo nie chcę, żeby maszyna podawała mi gotową odpowiedź",
+    "summary": "Nie korzystam z narzędzi AI i starałam się usunąć sztuczną inteligencję Google ze wszystkiego, bo nie chcę, żeby maszyna streszczała informacje i podawała mi gotową odpowiedź. Wolę czytać, odkrywać — powiedziała PAP amerykańska pisarka Catherine Lacey, autorka książki „Odpowiedzi”.",
+    "link": "https://dzieje.pl/kultura-i-sztuka/catherine-lacey-nie-korzystam-z-ai-bo-nie-chce-zeby-maszyna-podawala-mi-gotowa",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/odpowiedzi_Czarne.png?h=aef466b4&itok=-_xvDSlW",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-18T09:04:27+00:00",
+    "topic": "literatura"
+   },
+   {
+    "title": "Zmarł Tadeusz Różycki „Dudek”, były powstaniec warszawski",
+    "summary": "Muzeum Powstania Warszawskiego poinformowało, że 15 listopada 2026 r. zmarł Tadeusz Różycki „Dudek”, członek Szarych Szeregów, w czasie Powstania pełniący funkcje łącznika – listonosza Harcerskiej Poczty Polowej. Miał 95 lat.",
+    "link": "https://dzieje.pl/wiadomosci/zmarl-tadeusz-rozycki-dudek-byly-powstaniec-warszawski",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/913240001_2643404442798940_5674873623334713050_n.jpg?itok=3_57FcVJ",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-18T07:30:26+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Leon Bridges pierwszy raz w Polsce. Ikona soulu wystąpi w stolicy",
+    "summary": "Leon Bridges, jeden z najciekawszych współczesnych artystów łączących soul, R&B, gospel i folk, przyjedzie do Polski. Amerykański wokalista wystąpi w Warszawie w ramach światowej trasy \"The Happiness Anytime Tour\", promującej jego najnowszy album \"Happiness Anytime\".",
+    "link": "https://kultura.onet.pl/muzyka/wiadomosci/leon-bridges-pierwszy-raz-w-polsce-ikona-soulu-wystapi-w-stolicy/6hvhvf8",
+    "image": "https://cdn.kultura.onet.pl/1/KMhk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83Mzc5NDdlZDZlNzA3ODk1MjUwMDhlZWJhNzNhYmY3OS5qcGeSlQMAzQKHzSj1zRcJkwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-18T13:00:24+00:00",
+    "topic": "muzyka"
+   }
+  ]
+ }
+}
