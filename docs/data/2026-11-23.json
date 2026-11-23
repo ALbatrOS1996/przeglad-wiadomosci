@@ -1,0 +1,720 @@
+{
+ "date": "2026-11-23",
+ "generated": "2026-11-23T16:14+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+    "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "Euronews",
+     "Financial Times"
+    ],
+    "published": "2026-11-23T11:40:01+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "What's next after no deal at COP31 climate talks?",
+    "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+    "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4edf/live/0b9a5c60-e70e-11f1-a094-5fdc692f3e33.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera",
+     "The New York Times"
+    ],
+    "published": "2026-11-23T05:34:39+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "EU opens antitrust investigation into Coca-Cola bottler CCEP",
+    "summary": "Competition czar Teresa Ribera says Europeans “should not have to pay more simply because they live in one EU country rather than another.”",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTNjdlBtR2k2WGZjVFhHN1Q2dkcySlNlMlhLbTBUcHlveFpETHBnazN1Vy1fU2hvTjAzUWpTZVQ5UG9ERUNpbEZ5MG5fTkNVbF95eFNkYkhSWTNkYkJ3Mk90dlZLQlNOLUx1T081aWF3dEU3Tkd2R1Bwa3BYWFh1ano4eUY3dGdZS1FOR2lnYnFxWU5DNjNjbUw0QnZJMEpaVUJTQ1Nyb3E5WUFpTzRVZVMyVQ?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Financial Times",
+     "Politico Europe"
+    ],
+    "published": "2026-11-23T12:15:17+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Estonia zamknie granicę z Rosją. Moskwa reaguje",
+    "summary": "Rosyjskie MSZ wezwało chargé d’affaires Estonii w Moskwie po decyzji Tallina o zamknięciu wszystkich przejść granicznych z Rosją. Estoński rząd uzasadnił ten krok względami bezpieczeństwa po próbie podpalenia fabryki dronów Threod Systems, za którą miał stać rosyjski wywiad wojskowy GRU.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-estonia-zamknie-granice-z-rosja-moskwa-reaguje,nIdn,1027318",
+    "image": "https://rmf.rmffm.pl/news/attachments/8b/d2/zdjecie-il-636x421-8bd2dee0.jpg",
+    "source": "RMF24",
+    "also": [
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-23T14:59:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Danish police investigate school bomb threats",
+    "summary": "Police in Germany are responding to bomb threats against a series of schools, but say that at present they don't believe them to be credible. Danish authorities are reporting a similar series of apparent hoaxes.",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVFRSVYxM3MwY19mSEhtQ251ZlktNnU5ZDQwSWs3UDdlNHM4WUM4QkJSTjlVaDFqcVF2WlV2c09jOUtPQkJjOGlHb0szaThSSlVJS1FNb0NLUlk4X0stR1Z0SmNseGVqWlMtSmRuUUN2dkFKYkRyeVVmUGl1SWRTQXdWQWlyai0yUnhNUTBfUGU?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Deutsche Welle"
+    ],
+    "published": "2026-11-23T10:13:09+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89",
+    "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXRQMHRTRkRCTXd0ejh0aGpGcWozZTBhdTJjMGV2WFZPMTVKR3pHQURGZWlYQ3dDdkRYTjI4Rmpmcjd1T19vVFdxNk1seF93V3I1cVhMVlNBOE01bktZSkkyVldMY0hpM2YzRWZWSjFyRVRwTTdKbFFMMFdkX3d4WUc1cE1YNUJLcF9JX1Nwb0l0Vzl3OXRaOU8tbklNa2NTMy1CbzNwM2tadw?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-23T00:22:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Turkish authorities search for animal resembling a lion in Istanbul woodland",
+    "summary": "The National Parks Directorate said specialist veterinarians and teams equipped with thermal imaging cameras were assisting the search, which was focused on a wooded area.",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXZtaWJEZGFHM3BaSzc5Um10N2NqTmJJMm5HZ1NrUUpGWF9MZEg1UDJpWGsxMjZYSERSSUQwLUZtc0QzMEUtV3ZGaFFYekRsRE9WWEJMYlNCV25la3hUMkZDb3d5TU5nUlpEUlVhUXN1Q0duWFhiajgxWG83UEViUnpWdjV4b3VtX0hzdThXdUlfbkpmcl9BSnNLVkZwRXIyNW5LSUJQVzFmWVZKX01CWmxrLUpwdEt5V1ZLSW1R?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-23T09:35:23+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+    "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+    "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/87ae/live/24717fd0-e73f-11f1-802a-678be58471bb.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-23T13:09:52+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
+    "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the debate on Brexit In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner.",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/c1db663bc7667222692d12878f5578031da69604/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=02b596279ec0f6f7602a8d253e5d6d4d",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-23T14:54:07+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+    "summary": "Paolo Bulgari attending the Cannes Film Festival in Cannes, France, in 2017. He became the chairman of Bulgari in 1984 and helped push the brand onto the world stage.",
+    "link": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-bulgar-top-1/23xp-bulgar-top-1-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-23T14:22:43+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
+    "summary": "Move would breach nuclear weapons treaties and reports come amid rising concerns over militarisation of space The German government has said it is taking very seriously reports that Russia may be planning to launch a satellite armed with a ⁠nuclear weapon ⁠into ​space later this year.",
+    "link": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
+    "image": "https://i.guim.co.uk/img/media/da8ac93a647a5b8021eb40012dcaa4d54584db73/670_0_1798_1440/master/1798.jpg?width=140&quality=85&auto=format&fit=max&s=50d16a7684b42e6f94beb55b6263053e",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-23T14:18:33+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+    "summary": "Members of the Steppe Wolves military unit working on a missile in Zaporizhzhia, Ukraine, earlier this year.",
+    "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-grandpas-01-jqbt/23int-ukraine-grandpas-01-jqbt-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-23T13:53:33+00:00",
+    "topic": "bezpieczeństwo"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Nvidia reinstates Jensen Huang as CEO",
+    "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates Nvidia has reinstated Jensen Huang as chief executive in a stunning reversal following his dramatic resignation after reports of extramarital affairs including with…",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+    "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=140&quality=85&auto=format&fit=max&s=9777f3efbe0433b8488aa88bcecef998",
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "Financial Times",
+     "The Guardian"
+    ],
+    "published": "2026-11-23T14:03:26+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Polski poseł zatrzymany na lotnisku w Izraelu. „Noc spędziłem w areszcie”",
+    "summary": "Izraelskie władze zatrzymały i aresztowały polskiego parlamentarzystę. Wiadomo, że chodzi o posła KO Franciszka Starczewskiego. Jak przekazał poseł za pośrednictwem mediów społecznościowych takie działanie to nic innego jak „próba cenzury i zastraszania”.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-polski-posel-zatrzymany-na-lotnisku-w-izraelu-noc-spedzilem-,nIdn,1027257",
+    "image": "https://rmf.rmffm.pl/news/attachments/9a/4e/franciszek-sterczewski-zdj-636x421-9a4e94e2.jpg",
+    "source": "RMF24",
+    "also": [
+     "Dziennik Gazeta Prawna",
+     "Interia",
+     "TVP Info"
+    ],
+    "published": "2026-11-23T10:48:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding",
+    "summary": "The couple have been together for four years and were engaged in 2025.",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQUlkclo1SlpxNkZuU0lxTUNlUkZoSHdsdEtEaEJ5bUNwQzhZUlNhTGNaVWd1OGlNS0ljTGNHU3VYNHJBUGpLOTZoLTRlNUQ5VERQU1Vnc3lfa1BqRzlzSE40ZmlvV1lqLUpaVTFYUGhySjZGSDdfNGVhelRfVEl0V3V1UWJRZw?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News",
+     "The Guardian"
+    ],
+    "published": "2026-11-23T04:44:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "South Korea's education minister quits over exam cheating chaos",
+    "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHhGdTlDN3hOUVlXUHRLSlVmbWRGTWRQWWdQaDV0a0UyZFhjR0w1RDZtRmZMcHNvTWE1QWJhclVLaHBtVXBMVVo0cU1jemIyc2NzUmQtX2NHU0FRaklZcElORnoxYnBkVE53TEhFQkMydlpULWJFM2pVbHc2UXREal9ENG42SkFqZWg5dEM2eTZLaHVYVUg0b0gtOVpCcDNuLVhPU3cwZjdUTHdST3VHYzhmNjVCQmlI?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+    "source": "Reuters",
+    "also": [
+     "BBC News",
+     "Financial Times"
+    ],
+    "published": "2026-11-23T00:20:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+    "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/810a/live/c0542f80-e73d-11f1-99a1-253766e7ad8b.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-23T11:57:33+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
+    "summary": "All-stock acquisition comes as businesses and governments across the world grapple with wave of tech outages",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdmOUFLaEppLU9uMl80V2x1RTg4YWg3VUc5cWZsVzNfUWJBN2pFY3BhTndKanI0U2gzZHMzZVdpeWlkVkdBMkxGZkEtNFYyYmhteTQ5MHM0NnhkN2lfVk1WcDRxZDluQzVXNll2OWhodnVmaG9qNm15SWdweEM4YmxSWXVKd21mNW9uWW82MHUyWlJLTEE?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-11-23T13:31:08+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "9 people shot at a central California concert; 1 in critical condition",
+    "summary": "Authorities say they believe the Saturday night shooting at a concert in Strathmore ‘may be gang-related’ Nine people were shot at a concert in central California , leaving one person critically injured with a chest injury, the local sheriff said Sunday.",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHpvMEx3ZlhhWHB6cFVoa1hWV0N3Z1BVOE8ycG45ZWJtNTNxak0zQ1kwaWZhQXJWRGlTQndqQlN3R0pvR2FwZVpNTl9lenNOVHB3bndTNTNqT0V3OEVpVnZEOU5mTlJFWVB2NEtNZmVsREtfU0dFczRiX2RJTXpyVHB4UXJBXy1HZ0t4R1NpdHI?oc=5",
+    "image": "https://i.guim.co.uk/img/media/ac8d5f2e719a3dee971a5cb44a960b8fa97ca236/209_0_2088_1671/master/2088.jpg?width=140&quality=85&auto=format&fit=max&s=ef19254570c5750ae4fb62e27bf46d17",
+    "source": "Associated Press",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-22T21:39:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+    "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+    "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-23T14:54:03+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Krzesło zdobione bursztynem dla Trumpa. Wiadomo, ile kosztowało",
+    "summary": "- To był normalny prezent i to nie był żaden fotel, żaden tron, jak pisały o tym media. To było krzesło gdańskie zdobione bursztynem, a nie bursztynowe - powiedział w Radiu Tok FM Rafał Leśkiewicz, odnosząc się do głośnego prezentu przygotowanego dla Donalda Trumpa.",
+    "link": "https://www.polsatnews.pl/wiadomosc/2026-11-23/krzeslo-zdobione-bursztynem-dla-trumpa-wiadomo-ile-kosztowalo/",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/bg/bgxdey5gyv6x9yz6sqqz44jth1uj1t6i.jpg",
+    "source": "Polsat News",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-23T10:02:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Trump insists US government has ‘no reason to believe’ Huang’s return to Nvidia poses a national security risk – live",
+    "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news.",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=e633ec1bbe2c14257a07187d55bac276",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-23T14:40:38+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Five takeaways from the failed climate talks COP31",
+    "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+    "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-23T06:33:50+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Is Mexico Stepping Up in the War on Drugs?",
+    "summary": "Mexican soldiers in Sinaloa state on Saturday, a day after the capture of Fausto Isidro Meza Flores.",
+    "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-23T14:20:21+00:00",
+    "topic": "bezpieczeństwo"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Śledztwo ws. Collegium Humanum. Są wnioski o uchylenie immunitetu trojga polityków",
+    "summary": "Jest ruch prokuratury ws. afery związanej z Collegium Humanum. Przygotowano wniosek o uchylenie immunitetów trojga polityków w śledztwie dotyczącym dawnej uczelni Collegium Humanum. Chodzi o byłego wiceministra rolnictwa Michała Kołodziejczaka oraz posłów Ewy Leniart i Daniela Milewskiego.",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGhsVW1OY0hmQ21JTXNpVG9VVUx4MjlIT2t0YWZMREgzNXdURWNhWTlOWFJ3enQ2VUdXOWVUajZSNXZ6OEdYZV9uS0FwMEl5bTZQaUxDdDZFYjFzRFJpQXdVTzd5bXpmRkdCZGQtRGxFXzVtWVVFSHJ4U2FCdF9TQzlLMDRnSUtQMGlkZ1BBZ0VUamh1ZmVXZnRYamRnbnAzRFM3MDloQnNRejBocjhWSg?oc=5",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncHN0YXRpYy9kb/2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzcxNDgzNC9maWxlcy9hZmVyYS1jb2xsZWdpdW/0taHVtYW51bS0yOS1vc29iLXN0YW5pZS1wcnplZC1zYWRlbS13c3JvZC1uaWNoLXBvbGl/0eWN5LXotcGllcndzenljaC1zdHJvbi1nYXpldC0zOTMyODU2My5qcGciLCJ3IjozODQwfQ",
+    "source": "PAP",
+    "also": [
+     "Dziennik Gazeta Prawna",
+     "Interia",
+     "Polsat News"
+    ],
+    "published": "2026-11-23T13:41:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "19. Gala Podkarpackiego Klubu Biznesu (20.11.2026) była doskonałą okazją do spotkania się świata biznesu, kultury i nauki (MediaRoom) | Biznes PAP",
+    "summary": "Podczas części oficjalnej wieczoru wręczono statuetki osobom i firmom, które wniosły duży wkład w rozwój regionu oraz przyczyniły się do promocji Polski i Podkarpacia za granicą. W tym roku, podczas wydarzenia, zostały wręczone cztery Nagrody PKB w kategoriach:",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSURhcV9WbDJ3OFpZRUZqSHh2YU9ZT09sSkJ3eUlRYnRIMi1HSHBDbmZBWVJtdlk2bC1OcTZ0aVNwYVlOazhNeVpndUY3d3FDQ0FWMXdIRHY3TFZIcXRfdkEyc3AzYTNfb0V2aGRCQWt4dFdPcU5seVRJLVRiaXZsZ3RPWkN4MWpuX2wzOHFXRXVRQ01KbXVULVEtYnhRSS13NW43UGppX2d5b3pRRmNsR0ZuVzFkc3lzeHc?oc=5",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmlu/Y2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAw/MDAwMDAwMDAwNzcxNDY3Ny9maWxlcy9wa2IteGl4LWdh/bGEtMjAyNi0zNDItMzkzMjc5MTkuanBnIiwidyI6Mzg0MH0",
+    "source": "PAP",
+    "also": [
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-11-23T10:30:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Fitch może utrzymać negatywną perspektywę ratingu Polski nieco dłużej niż do wyborów w ’27 (wywiad)",
+    "summary": "Negatywna perspektywa ratingu Polski może zostać utrzymana przez Fitch nawet dłużej niż do wyborów parlamentarnych w 2027 r. Jedna z trzech największych na świecie agencji ratingowych chce ocenić nie tylko zdolność przyszłego rządu do ograniczenia deficytu, ale również ryzyko pojawienia się nowych wydatków w kampanii…",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNktrNnlqY3hackZkbzJsTWZZcHUxemNzWm1ZUVQxYms2ak0ycVNZbVl0RnJ5X2pBREw1TlY2TUIwUGMzWXFfOVlWenA1SGQtUnFiejRCcEZSS3lELW5iUkFLUEduTEhIbDlWZ3h3ekRLQ0p2aVptQ1h0TXhEQ2ZrcXlaYUJDSjgwb3MtaHRrcGNkT0Fvd3h5VmlpNDl0a3Y1SHYzSEo5ZjNSS0R1NlBETnJiWXYwQWgtV1BvbA?oc=5",
+    "image": "https://cdn.businessinsider.com.pl/1/15kk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mMWJjMTAwMmMwMWFjMmQzMGUzODVjNGQyMGY0ZjlmOC5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska"
+    ],
+    "published": "2026-11-23T07:56:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Korwin-Piotrowska zaprasza Trzaskowskiego do TK. Ma być też Komendant Stołeczny Policji",
+    "summary": "Anna Korwin-Piotrowska zaprosiła Rafała Trzaskowskiego oraz Komendanta Stołecznego Policji Krzysztofa Ogrońskiego do gmachu Trybunału Konstytucyjnego. Jak podano, celem spotkania jest wypracowanie zasad i form przywrócenia możliwości wstępu i wjazdu do siedziby TK od strony al. J. Ch. Szucha.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-korwin-piotrowska-zaprasza-trzaskowskiego-do-tk-ma-byc-tez-k,nIdn,1027295",
+    "image": "https://rmf.rmffm.pl/news/attachments/e7/dc/sytuacja-przed-budynkiem-tk-w-warszawie-fot-636x421-e7dc67d0.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-23T13:37:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Afera Polnordu. Jest akt oskarżenia przeciwko 10 osobom; wśród nich były współpracownik Romana Giertycha",
+    "summary": "10 osób odpowie przed sądem za działania na szkodę spółki Polnord przy obrocie nieruchomościami. Łączna wartość szkody to ponad 20 mln zł. Prokuratura Regionalna w Lublinie poinformowała w poniedziałek, że skierowała do Sądu Okręgowego w Warszawie akt oskarżenia w tej sprawie.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11399912,afera-polnordu-jest-akt-oskarzenia-przeciwko-10-osobom-wsrod-nich-byly-wspolpracownik-romana-giertycha.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljL/mluY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk/9CMDAwMDAwMDAwMDAwNzcwNjU1Ny9maWxlcy9wcm9/rdXJhdHVyYS0zOTMyMDM5Mi5qcGciLCJ3IjozODQwfQ",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-23T13:46:07.443000+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Interia największym portalem horyzontalnym w Polsce w 2026 roku",
+    "summary": "Interia wygrała 2026 rok wśród portali horyzontalnych w Polsce. Według badania Mediapanel portal Grupy Polsat Plus od początku roku, miesiąc po miesiącu, przyciąga i angażuje największą liczbę internautów.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-interia-najwiekszym-portalem-horyzontalnym-w-polsce-w-2026-r,nId,23575650",
+    "image": "https://i.iplsc.com/-/000NJNVTHMOJR5FQ-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-22T23:01:01+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Polecamy gramofony idealne na początek. Nie musisz wydawać fortuny, by zacząć słuchać winyli",
+    "summary": "Winyle znów przyciągają uwagę miłośników muzyki. Coraz więcej osób chce mieć ulubione albumy na fizycznych nośnikach, oglądać okładki i słuchać całych płyt zamiast przeskakiwać między utworami w serwisach streamingowych.",
+    "link": "https://businessinsider.com.pl/technologie/jaki-gramofon-wybrac-na-poczatek-polecane-modele/eby1bw8",
+    "image": "https://cdn.businessinsider.com.pl/1/iZfk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mMmY3M2E3NGRmODFkMjEwZjQ5MWQ4MDA0NWYxZDZjOS5qcGeSlQMAzJjNE0DNCtSTBc0JYM0GQN4AAqEwB6ExBA",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-23T15:07:45+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Tajemniczy biały przybysz w Zatoce Gdańskiej. Może pochodzić aż z Arktyki",
+    "summary": "Spacerowicze na gdyńskiej plaży dostrzegli tajemniczy, śnieżnobiały obiekt pływający w Zatoce Gdańskiej. Jak donosi lokalny serwis „Trójmiasto.pl”, nad polskie wybrzeże zawędrowała prawdopodobnie białucha arktyczna. To nie pierwszy raz w historii, gdy ten morski ssak znalazł się w środowisku dla niego nietypowym.",
+    "link": "https://www.national-geographic.pl/przyroda/tajemniczy-bialy-przybysz-w-zatoce-gdanskiej-moze-pochodzic-az-z-arktyki/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/56/tajemniczy-bialy-przybysz-w-zatoce-gdanskiej-moze-pochodzic-az-z-arktyki.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-23T15:01:55+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Redukuje pierwsze oznaki starzenia. Narzędzie do mikroprądów czyni cuda",
+    "summary": "Delikatna skóra wokół oczu i ust najszybciej zdradza zmęczenie i upływ czasu. Można stosować kremy, ale zazwyczaj okazują się za słabe, żeby wyraźnie poprawić jej napięcie. Nie wszyscy też chcą korzystać z drogich i czasochłonnych wizyt w gabinetach kosmetycznych.",
+    "link": "https://businessinsider.com.pl/redukuje-pierwsze-oznaki-starzenia-narzedzie-do-mikropradow-czyni-cuda/1924phy",
+    "image": "https://cdn.businessinsider.com.pl/1/dCMk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84NDJhMTA1MWEwNjM5MzM5ZjIwN2JjZTE1MjE4N2U0My5wbmeSlQMANc0D2c0CKpMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-23T14:45:50+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Nad domami wygląda na ogromny, a kilka godzin później wyraźnie maleje. Księżyc oszukuje nasz mózg",
+    "summary": "Księżyc wschodzący nad dachami domów potrafi wyglądać na znacznie większy niż kilka godzin później, gdy znajduje się wysoko na niebie. Choć jego tarcza wydaje się wtedy wyraźnie mniejsza, pomiary fotograficzne pokazują, że za tę różnicę odpowiada przede wszystkim sposób, w jaki postrzegamy jej wielkość.",
+    "link": "https://www.national-geographic.pl/kosmos/nad-domami-wyglada-na-ogromny-a-kilka-godzin-pozniej-wyraznie-maleje-ksiezyc-oszukuje-nasz-mozg/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/56/ksiezyc-w-pelni.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-23T14:25:21+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Pracownicy sieci handlowych szykują się do strajku jeszcze przed świętami. Tak ma wyglądać",
+    "summary": "Pracownicy Biedronki, Lidla, Aldi, Kauflandu, Pepco czy Rossmanna mają dość. Domagają się poprawy warunków zatrudnienia, podwyżek i zwiększenia zatrudnienia. Dlatego jeszcze przed świętami zapowiadają akcję protestacyjną. Wiadomo, na czym ma polegać i czy klienci mocno ją odczują.",
+    "link": "https://www.gazetaprawna.pl/biznes/finanse-i-gospodarka/artykuly/11399932,pracownicy-sieci-handlowych-szykuja-sie-do-strajku-jeszcze-przed-swiet.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncHN0YX/RpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzY4ODY0OC9maWxlcy9uaWVk/emllbGEtc2tsZXAtaGFuZGVsLXpha2F6LTE4MTAyMDI2LTE4LXBhemR6aWVybm/lrYS16YWthei1oYW5kbHUtMzkyODYyNTItMzkyODYyNjAucG5nIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-23T14:11:18.725000+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Kasyna internetowe: większość Polaków nie chce likwidacji monopolu państwa",
+    "summary": "Większość Polaków jest przeciwko zwiększeniu liczby operatorów i dopuszczeniu prywatnych kasyn online – wynika z badania przeprowadzonego w ramach Ogólnopolskiego Panelu Badawczego Ariadna. Jednocześnie świadomość prawna związana z grą jest niska.",
+    "link": "https://www.gazetaprawna.pl/biznes/artykuly/11399853,kasyna-internetowe-wiekszosc-polakow-nie-chce-likwidacji-monopolu-pan.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncHN0YX/RpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzcxNDg0MC9maWxlcy9rYXN5/bmEtaW50ZXJuZXRvd2Utd2lla3N6b3NjLXBvbGFrb3ctbmllLWNoY2UtbGlrd2/lkYWNqaS1tb25vcG9sdS1wYW5zdHdhLTM5MzI4NTg2LmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-23T12:42:16.694000+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Karol Nawrocki kusi Władysława Kosiniaka-Kamysza. \"Propozycja między wierszami\"",
+    "summary": "Donald Tusk nie chce, by Władysław Kosiniak-Kamysz czuł, że wchodząc w układ z prezydentem, może ugrać coś więcej — mówiła w \"Stanie Wyjątkowym\" Dominika Długosz. Chodzi o pomysł PiS na utworzenie rządu technicznego.",
+    "link": "https://www.newsweek.pl/polska/polityka/kosiniak-kamysz-kuszony-przez-nawrockiego-propozycja-miedzy-wierszami/9s48zc9",
+    "image": "https://ocdn.eu/pulscms-transforms/1/vask9kpTURBXy8zNjkxYmY3MTFjYzdjNjMxODY3MWU2NGVkNDU2MmQzYS5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-11-23T07:12:03+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Susza zagraża kaktusom. Nawet pustynne gatunki tracą siedliska",
+    "summary": "Kaktusy mogą tracić odporność na skrajne warunki szybciej, niż przewidywały wcześniejsze modele. Analiza opublikowana w czasopiśmie \"Nature\" objęła 993 gatunki i uwzględniła długotrwałe susze oraz fale upałów. Według badaczy część roślin może w przyszłości utracić większość zajmowanego obszaru.",
+    "link": "https://wiadomosci.wp.pl/susza-zagraza-kaktusom-nawet-pustynne-gatunki-traca-siedliska-7354143745292288a",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/630fe396-7766-40eb-8c10-34c10c7c9e48",
+    "source": "Wirtualna Polska",
+    "also": [],
+    "published": "2026-11-23T15:03:03+00:00",
+    "topic": "klimat"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Policjant Jakub Kulik ranny w zamachu w Krakowie opuścił szpital im. Jana Pawła II",
+    "summary": "Trzykrotnie postrzelony podczas zamachu na krakowskim Rynku Głównym policjant Jakub Kulik opuścił szpital. Funkcjonariusz przebywał w Szpitalu Specjalistycznym im. Św. Jana Pawła II w Krakowie. Obecnie przebywa w Małopolskim Szpitalu Chorób Płuc i Rehabilitacji im.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/policjant-ranny-w-zamachu-w-krakowie-opuscil-szpital/188080",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/13367a55-fbfd-47be-98e4-1a2c892eacf7",
+    "source": "Radio Kraków",
+    "also": [
+     "TVP Info",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-23T13:18:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Marek Sowa (KO) o liście polityków koalicji w państwowych spółkach: Nie ma co porównywać z PiS",
+    "summary": "Do listy ponad 200 polityków koalicji rządzącej, którzy znaleźli zatrudnienie w spółkach Skarbu Państwa, odniósł się na antenie Radia Kraków poseł Koalicji Obywatelskiej Marek Sowa. Jak przekonywał, przy ocenie takich nominacji należy przede wszystkim brać pod uwagę kwalifikacje poszczególnych osób.",
+    "link": "https://radiokrakow.pl/audycje/publicystyka/poranna-rozmowa-radia-krakow/marek-sowa-ko-przy-stole-gdzie-decyduja-sie-sprawy-swiata-nie-powinien-siadac-zbrodniarz-wojenny/188062",
+    "image": "https://i.iplsc.com/-/000NK5F7FJD70DWF-C321.webp",
+    "source": "Radio Kraków",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-23T07:48:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Abp Jędraszewski porównuje media do Piłata. „Zero tolerancji dla nietolerancji”",
+    "summary": "– Nie wolno Wam odrzucić tego, co jest drogie. Nie wolno Wam odrzucić prawdy, która dla wielu wielkich tego świata miała być niejako głupstwem, godnym wzgardy. Ale przecież ona, ta prawda, jedynie może nas ocalić – mówił abp Marek Jędraszewski podczas mszy św.",
+    "link": "https://lovekrakow.pl/abp-jedraszewski-porownuje-media-do-pilata-zero-tolerancji-dla-nietolerancji",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2025-11/1d1ea5ea1e6a130794d882b45512a608.JPG.webp?h=41f55a5b&itok=NeqlSUf6",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-23T15:10:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Kolejny krok dla nowej filharmonii za 450 mln zł. Podpisano umowę na projekt",
+    "summary": "Władze województwa podpisały umowę ze zwycięzcami konkursu na projekt nowej siedziby Filharmonii Krakowskiej. Inwestycja wyceniana na blisko pół miliarda złotych ma przyjąć pierwszych gości w 2033 roku.",
+    "link": "https://lovekrakow.pl/kolejny-krok-dla-nowej-filharmonii-za-450-mln-zl-podpisano-umowe-na-projekt",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/140f5ec5c1d29566450c7712bcf4509e.webp?itok=dqUysDPn",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-23T14:19:12+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Potworne szaleństwo w Hali Wisły. Festiwal Dmuchańców wrócił na Reymonta",
+    "summary": "Dmuchane potwory, zjeżdżalnie, animacje i darmowy popcorn – 22 listopada w Hali Wisły odbyła się trzecia edycja Festiwalu Dmuchańców.",
+    "link": "https://lovekrakow.pl/potworne-szalenstwo-w-hali-wisly-festiwal-dmuchancow-wrocil-na-reymonta",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/e26072f921d8cee7028088b88d1cc968.jpg.webp?itok=oOB92PIS",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-23T14:16:42+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Tak mieszka Jarosław Kaczyński na Żoliborzu. Oto jego rodzinny dom pełen pamiątek i książek",
+    "summary": "Jarosław Kaczyński mieszka w willi na Żoliborzu w Warszawie. To miejsce pełne jest rodzinnych pamiątek i wspomnień z dzieciństwa, które spędził tam z bratem Lechem. Dom otacza bujna roślinność, zapewniająca prywatność. Wnętrze kryje regały z książkami i liczne pamiątki rodzinne.",
+    "link": "https://gazetakrakowska.pl/tak-mieszka-jaroslaw-kaczynski-na-zoliborzu-oto-jego-rodzinny-dom-pelen-pamiatek-i-ksiazek/ar/c9-15392137",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/14/0b/6001934c9ccb6_o,size,640x400,q,71,h,0a3793.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-23T13:02:40+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "\"Są ofiarami swojego sukcesu\". Antybiotyki to nie leki na każdą infekcję",
+    "summary": "Antybiotyki od dziesięcioleci ratują ludzkie życie, ale ich powszechne stosowanie sprawia, że coraz większym problemem staje się oporność drobnoustrojów na leczenie. Niepotrzebne przyjmowanie tych leków, wymuszanie recept na lekarzach czy wykorzystywanie pozostałości po wcześniejszej terapii może przynieść więcej…",
+    "link": "https://radiokrakow.pl/audycje/publicystyka/przed-hejnalem/sa-ofiarami-swojego-sukcesu-antybiotyki-nie-sa-lekami-na-kazda-infekcje/188085",
+    "image": "https://radiokrakow.pl/media/article/188085/cc1ea118d409f9648ec266ac0d4202d3.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-23T14:10:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Nowe informacje o stanie zdrowia Jakuba Kulika. Opuścił szpital w Krakowie",
+    "summary": "Jakub Kulik, policjant postrzelony podczas zamachu w Krakowie, opuścił Szpital Specjalistyczny im. Św. Jana Pawła II w Krakowie - przekazał Małopolski Urząd Wojewódzki. Aktualnie policjant przechodzi rehabilitację w szpitalu w Jaroszowcu.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-nowe-informacje-o-stanie-zdrowia-jakuba-kulika-opuscil-szpit,nId,23577805",
+    "image": "https://i.iplsc.com/-/000NKAF241T2U3XG-C321.webp",
+    "source": "Interia",
+    "also": [],
+    "published": "2026-11-23T14:44:11+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Ranny podczas zamachu w Krakowie. Najnowsze informacje ws. stanu zdrowia policjanta",
+    "summary": "Jakub Kulik, jeden z bohaterskich policjantów z Krakowa opuścił Szpital Specjalistyczny im. św. Jana Pawła II w Krakowie - potwierdziła reporterka Polsat News Teresa Gut. Obecnie przebywa on w Małopolskim Szpitalu Chorób Płuc i Rehabilitacji w Jaroszowcu, gdzie będzie przechodził rehabilitację - przekazał Małopolski…",
+    "link": "https://www.polsatnews.pl/wiadomosc/2026-11-23/jeden-z-policjantow-z-krakowa-opuscil-szpital/",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/ia/iafvf3evjkqycvqpenk1bkjzwuzbqoz5.jpg",
+    "source": "Polsat News",
+    "also": [],
+    "published": "2026-11-23T14:32:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Zatrzymał zamachowca z Krakowa. Nowe donosy na bohaterskiego policjanta",
+    "summary": "Po zamachu w Krakowie do prokuratury wpłynęło kilka zawiadomień dotyczących policjanta Jakuba Kulika, który wraz z kolegą zatrzymał napastnika. Autorzy zawiadomień chcą, by śledczy ocenili legalność użycia broni przez policjanta.",
+    "link": "https://wiadomosci.wp.pl/krakow/atak-w-krakowie-donosy-na-bohaterskiego-policjanta-jest-ich-juz-kilka-7354118922905632a",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/03023706-8bec-44de-90cc-1cc132f99379",
+    "source": "Wirtualna Polska",
+    "also": [],
+    "published": "2026-11-23T13:20:44+00:00",
+    "topic": "społeczeństwo"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Who’s Going to Art Basel Hong Kong 2027? Here’s the Exhibitor Lineup",
+    "summary": "The art fair's lineup is in, featuring 232 exhibitors from more than 40 countries, including 31 newcomers.",
+    "link": "https://news.artnet.com/market/2027-art-basel-hong-kong-exhibitor-list-2839786",
+    "image": null,
+    "source": "Artnet News",
+    "also": [
+     "ARTnews"
+    ],
+    "published": "2026-11-23T08:00:17+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "In Harlem, a New Museum Maps the Civil Rights Fight in the North",
+    "summary": "The idea for the museum arose from an exhibition in 2010 commemorating the 100th anniversary of the National Urban League, which advocates economic empowerment and social justice.",
+    "link": "https://www.nytimes.com/2026/11/23/arts/design/urban-civil-rights-museum-harlem.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/arts/24cul-northern-civil-rights-photos-03/24cul-northern-civil-rights-photos-03-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-23T10:03:04+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Chile’s first Anglican church to host a new museum",
+    "summary": "As part of a 50-year lease agreement, Destino Valparaíso—which houses the Immigrant Museum across the street—will oversee the management and restoration of the historic cathedral",
+    "link": "https://www.theartnewspaper.com/2026/11/23/chile-first-anglican-church-becomes-museum",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/74b59bdc8384f8ee0e05a800a485d77f178203e5-2000x1500.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-23T08:21:00+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Cathedrals of sound: the secret universe inside musical instruments – in pictures",
+    "summary": "Photographer and former cellist Charles Brooks creates optical illusions with minuscule cameras. He threads endoscopes inside instruments to capture thousands of images which are then combined: a clarinet becomes a dark tunnel, a yidaki becomes a cave, a Steinway piano is a futuristic train station: ‘You’re also…",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/24/stunning-optical-illusion-photographs-inside-musical-instruments-charles-brooks",
+    "image": "https://i.guim.co.uk/img/media/a01bc333057406ea214a5fb65be698c78938afd3/518_0_5007_4006/master/5007.jpg?width=140&quality=85&auto=format&fit=max&s=6385ed555de86c56eb36e012e8db146f",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-23T14:00:50+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "The journal of a punk photographer from Wollongong to London and back – in pictures",
+    "summary": "Katelyn Slyer’s book, The Middle, records a generation of young people negotiating their identity while caught between the intimacy of the analog era and new digital world from 2004 to 2010.",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/24/australian-english-punk-culture-photographs-from-wollongong-to-london-katelyn-slyer",
+    "image": "https://i.guim.co.uk/img/media/f8bb972674e098991d1a09c2c34c218f05543c94/162_0_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=b7c17e42b7e822af37aa845ddbfe374d",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-23T14:00:49+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "‘I want the experiences I had to be available forever’: arts figures and scientists hit out at proposed job cuts at Tasmanian Museum and Art Gallery",
+    "summary": "Scientists, a former Tasmanian premier and the director of Hobart’s Museum of Old and New Art have all expressed concerns over the state government’s proposals",
+    "link": "https://www.theartnewspaper.com/2026/11/23/arts-figures-scientists-hit-out-at-proposed-job-cuts-tasmanian-museum-and-art-gallery",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/a060646c820ca089dfedc4b3a99892a25181e1bc-1280x698.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-23T13:00:24+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Muzeum KL Plaszow podpisało umowę na realizację wystawy stałej",
+    "summary": "Muzeum KL Plaszow podpisało z krakowską firmą New Amsterdam umowę na realizację",
+    "link": "https://dzieje.pl/wiadomosci/muzeum-kl-plaszow-podpisalo-umowe-na-realizacje-wystawy-stalej",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/888101863_1108456191987112_5531074377642333460_n.jpg?h=131105d7&itok=bfzMZ5Gc",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-23T13:07:59+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "“Dobre nocki w muzeum” wracają – poznajcie Żabę Iżabelę",
+    "summary": "Jest zielona, rechocząca i skoczna, dzięki czemu udało się jej zbiec z obrazu, gdy nikt nie patrzył. Od razu rzuciła się w wir przygód. Przedstawiamy Wam Żabę Iżabelę – gwiazdę kolejnej edycji spotkań dla dzieci z cyklu „Dobra nocka w muzeum”. Wracamy już w grudniu – w nowej odsłonie i w powiększonym składzie!",
+    "link": "https://mnk.pl/dobre-nocki-w-muzeum-wracaja-poznajcie-zabe-izabele/",
+    "image": "https://mnk.pl/wp-content/uploads/2026/11/Zaba-Izabela2.jpg",
+    "source": "Muzeum Narodowe w Krakowie",
+    "also": [],
+    "published": "2026-11-23T13:29:31+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "US rapper postpones O2 arena show after Manchester evacuation",
+    "summary": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cfc1/live/cdea3a90-e747-11f1-88dc-f746e0cde621.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-23T14:42:46+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Pukiel włosów prezydenta Washingtona sprzedany na aukcji za 4 tys. dolarów",
+    "summary": "Oprawiony w ramkę pukiel włosów pierwszego prezydenta Stanów Zjednoczonych George’a Washingtona został sprzedany na aukcji, zorganizowanej przez dom aukcyjny Richmond Auctions z Karoliny Południowej, za 4 tys. dolarów – poinformowała w niedzielę stacja BBC.",
+    "link": "https://dzieje.pl/wiadomosci/pukiel-wlosow-prezydenta-washingtona-sprzedany-na-aukcji-za-4-tys-dolarow",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/George_Washington_1795.jpg?h=8e6c961f&itok=Mm-igNji",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-23T08:07:49+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Z filmu o klęsce głodu w ZSRR kazano usunąć informacje o liczbie ofiar",
+    "summary": "Z wchodzącego do kin w Kazachstanie filmu „Kulpasz”, którego akcja rozgrywa się podczas głodu na początku lat 20. XX wieku, usunięto końcowe napisy, informujące o ofiarach drugiej, znacznie tragiczniejszej klęski głodowej z lat 1931–1933",
+    "link": "https://dzieje.pl/wiadomosci/z-filmu-o-klesce-glodu-w-zsrr-kazano-usunac-informacje-o-liczbie-ofiar",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/kazachstany.jpeg?itok=j5VSKsdQ",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-23T14:16:19+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Dziennikarka Onetu Katarzyna Janowska z nominacją do Grand Press Kultura",
+    "summary": "Katarzyna Janowska znalazła się w gronie trzech nominowanych do Grand Press Kultura 2026. Dziennikarka Onetu i TVP Kultura ma szansę zostać pierwszą laureatką nowej nagrody przyznawanej twórcom zajmującym się tematyką kultury i sztuki. W tej kategorii rywalizuje z Justyną Sobolewską z \"Polityki\" oraz Grażyną Torbicką.",
+    "link": "https://kultura.onet.pl/wiadomosci/dziennikarka-onetu-katarzyna-janowska-z-nominacja-do-grand-press-kultura/2kr5qb8",
+    "image": "https://cdn.kultura.onet.pl/1/0vuk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kYjBhMDMzZDIxMGJkNGFkMGM3NTMyZTQ1NDAxYTQ1Ny5qcGeSlQMAEM0CWM0BUpMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-23T14:10:43+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "To już pewne, będzie nowy \"Kevin sam w domu\". Gwiazdor wraca do roli sprzed dekad",
+    "summary": "Wytwórnia Disney przymierza się do nowej wersji \"Kevina samego w domu\". Jeśli kiedykolwiek zastanawialiście się kim w dorosłym życiu stał się Kevin McCallister, dowiecie się tego niemal z pierwszej ręki. Ruszyły prace nad nowym filmem.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33145829,to-juz-pewne-bedzie-nowy-kevin-sam-w-domu-gwiazdor-wraca.html",
+    "image": "https://bi.im-g.pl/im/e9/9c/1f/z33146089IHG,-Kevin-sam-w-domu----kadr-z-filmu.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-23T11:55:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Przez 3 tygodnie królował na Netflixie, potem niemal 3 lata ciszy. Fani doczekali się powrotu hitu",
+    "summary": "Fani science fiction mają powód do radości. Netflix ujawnił datę premiery 2. sezonu \"Problemu trzech ciał\", na który widzowie czekają od 2024 roku. Pojawił się również zwiastun nowych odcinków. Twórcy zapowiadają historię z jeszcze większym rozmachem.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114628,33145491,przez-3-tygodnie-krolowal-na-netflixie-potem-niemal-3-lata.html",
+    "image": "https://bi.im-g.pl/im/ab/9c/1f/z33145515IHG,Problem-trzech-cial--sezon-2-Netflix.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-23T10:55:00+00:00",
+    "topic": "historia"
+   }
+  ]
+ }
+}
