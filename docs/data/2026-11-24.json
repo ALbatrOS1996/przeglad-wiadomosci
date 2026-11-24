@@ -1,0 +1,720 @@
+{
+ "date": "2026-11-24",
+ "generated": "2026-11-24T16:12+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+    "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera",
+     "Associated Press",
+     "France 24",
+     "NPR"
+    ],
+    "published": "2026-11-23T15:41:23+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Europejski Trybunał: Polska naruszyła Konwencję Praw Człowieka",
+    "summary": "Europejski Trybunał Praw Człowieka orzekł we wtorek, że Polska naruszyła art. 3 Europejskiej Konwencji Praw Człowieka w sprawie dotyczącej imigrantów na granicy z Białorusią. Chodzi o nieludzkie i poniżające traktowanie.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-europejski-trybunal-polska-naruszyla-konwencje-praw-czlowiek,nIdn,1027441",
+    "image": "https://rmf.rmffm.pl/news/attachments/44/a9/granica-polsko-bialoruska-fot-636x421-44a9228d.jpg",
+    "source": "RMF24",
+    "also": [
+     "Business Insider Polska",
+     "Polsat News",
+     "TVP Info"
+    ],
+    "published": "2026-11-24T11:15:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Ukraine strikes Russian ships 1,500 miles from frontline",
+    "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEJxc01zZDdUTkRtbG1pcjVtNFVlaWFSX2JCbzV0X3REbmc5U1JxRTd5bVR0QW1XSEQtdW4xbWc1bnI3RFJTTlUwLWFxMkRJQW5oamZpcUJGNGR0RV85QUlZNmlJRUUtOHdobVVfZXZRUVlPYUNpUlZFVmVRZDhXNjNfZklUV0tPVElpM3ViZkdaV19MaEZVTWhZM29lajFXSWV4REJtdnNud0dkRGVjdXFNVQ?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News",
+     "France 24",
+     "The Guardian"
+    ],
+    "published": "2026-11-23T16:45:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Większość społeczeństwa w Niemczech przeciwna pomocy wojskowej dla Ukrainy? Jest sondaż",
+    "summary": "Większość mieszkańców Niemiec sprzeciwia się wojskowemu wsparciu dla Ukrainy – wynika z sondażu instytutu Forsa dla Fundacji Körbera. Pomoc popiera 46 proc. badanych, a 53 proc. jest jej przeciwnych. Rok wcześniej proporcje były odwrotne.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2VKRENDNEE2T0o0d2dwYkUwNnAyOW5zdm4yY1ZfNjdRX0hjT2dLaHRUazk4OWNHcml4WXo4S29fN0lIVGpTRC1FeTFjeU1uSjZPT29ZLWdaM3ZDWVBNS0owdWhhdkVSdEZ5TmdXSV8xRUZfWDJoalNEWU5yZWh1X0o1VG1YUnEzNW11M0RQSkFvMTM1Wnc0WTJCeUE0UlVJQ3J4NVBQaTliNzFRSmJ0WmdDZ3RUQ2hZ?oc=5",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/a1eba195-44f7-49aa-9fef-99b54e1f9e77",
+    "source": "PAP",
+    "also": [
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-24T11:34:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "UK warns of Russian sabotage threat to companies that supply Ukraine",
+    "summary": "Acts could include arson attacks carried out by proxy agents, say security chiefs",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWthWEU2V2VxbjBhWTVtNE5wdC1LWFBYM24tVF92ekgyb25wMDRablR5eUJCQXFNUFVXU2NMYnkwWUlkWmpmNnhNaUhXZGdOSjUxeVItUzdING0xbDZZRENTTmFHdzJyWXZHM0NCbl91QU1DR3ZpMlpWNGYyVmVVV3dXM2RJSWMxUk1qckdVR18tSjJfbml3enVHUFpZcDBEaG5lSVlDQQ?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-11-24T13:17:31+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
+    "summary": "People wrapped in emergency blankets outside the Co-op Live venue in Manchester, England, on Sunday as the authorities responded to an emergency incident during a Don Toliver concert.",
+    "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "France 24"
+    ],
+    "published": "2026-11-23T17:50:10+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Pope Francis' diary reveals claims he saw the devil three times",
+    "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+    "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-24T11:10:57+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Teen who fell from Benidorm balcony opens eyes after two weeks",
+    "summary": "Jamie, 17, has had two emergency operations since falling from a sixth-floor balcony on 10 November.",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7r5zmpz74o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1319/live/ae4a8750-e7db-11f1-b970-bbc66f4f873c.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-24T09:56:49+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+    "summary": "Youngest title match in chess history starts Tuesday Sindarov and Gukesh open Game 1 with Berlin defense Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky…",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+    "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-24T14:59:10+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Pip assessments are ‘not fit for purpose’, Timms tells MPs as he unveils his review – UK politics live",
+    "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is…",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=25594e3d1d0106ddee0d88dad4e782f0",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-24T14:54:04+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Nigel Farage rules out deal with Restore Britain unless it disavows controversial backers",
+    "summary": "Reform UK leader says he is ‘very worried’ about ethnonationalism and he does not trust Tories over Brexit UK politics live – latest updates Nigel Farage has said he might have a “civil chat” with Rupert Lowe but ruled out a deal with Restore Britain while some of its supporters promote antisemitism and think race…",
+    "link": "https://www.theguardian.com/politics/2026/nov/24/nigel-farage-rules-out-reform-uk-deal-restore-britain",
+    "image": "https://i.guim.co.uk/img/media/6fa71e5ef6c44f8ff09caff53da77737112bc924/276_61_4041_3232/master/4041.jpg?width=140&quality=85&auto=format&fit=max&s=58a1e93e05fa8b1acc410d1ebf1e1303",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-24T14:13:38+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "‘Play That Goes Wrong’ Team to Bring Spy Spoof to Broadway",
+    "summary": "“The Comedy About Spies,” set in early 1960s London, will be the third Mischief Theater production to come to Broadway.",
+    "link": "https://www.nytimes.com/2026/11/24/theater/mischief-comedy-about-spies-broadway.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/arts/24cul-broadway-spies/24cul-broadway-spies-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-24T14:00:06+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+    "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+    "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
+    "source": "BBC News",
+    "also": [
+     "Financial Times",
+     "The Guardian",
+     "The New York Times"
+    ],
+    "published": "2026-11-23T18:04:20+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "China probes Shanghai party boss, Politburo's Chen Jining",
+    "summary": "Chen Jining, the Communist Party leader of Shanghai. He has a scientific education that was seen as fitting the priorities of China’s top leader, Xi Jinping.",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWENXdFJEUVN5WUF1ODgwSWdpRUZiSWk0UVFoX3QzbVF4N19LRDJmaUdpTm1ZVlU2Rmx2Zm5hX1RleFg2aDRjWlN6QTBCM1JNc0VOZ2FRbEFvVUYyNF96REhoU0RsUTVyVkYzUXVfdmFHaTQxMnk2WVZQWU1XR25NaGV0TERXS2RtVmR6bVBCZ1loZHRzZzlQajlZdjkySHhpdDJV?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "The New York Times"
+    ],
+    "published": "2026-11-24T13:05:43+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
+    "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVmdOUHJwNXRuX1lxb1VPQ19jS0kxSmZCbWNMZ01tbXRiYVU2Ujl3V0JxUnRHTGxUZXVZeVUzTGRIZ01VWTZGTWRQZngwSVVxVjJuRnN1QnExNkxFVmMxTkRBeGdWdnk5S1VKNkRIN1c2WkJmSWhwZmhva195Ql96RjJNNmlBeWFpUHJXd21GS1Q0dkRDUnJwR01SeEtIbUR5NDJVa1JFQ0hKMlNwRjFXd3g3TEg1blhmV2tIXzl4cnpoei1FSWg2YlZoOA?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "BBC News"
+    ],
+    "published": "2026-11-24T10:59:07+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "US stocks set to slide as Nvidia rally fizzles out",
+    "summary": "Shares of Nvidia dropped a day after they surged on the reinstatement of Jensen Huang as the company’s chief executive.",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "Financial Times",
+     "The New York Times"
+    ],
+    "published": "2026-11-24T01:29:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "First Lady Melania Trump welcomes the 2026 White House Christmas tree",
+    "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaE5ackdjekljT3ljNXFuUDBiT0JvVEdHSGRuSXJqa3lqUm1RMlJOWjhtNXpGamhjNlRzZ1d1d1Q1alcyRThVSjFFUXhKbUdwU1dqZGVvVFpBZmpXa3FMRUdYNG9ON0VqT3lZUXNOSmxCQVRwTVFEQjhkQmlnV3hzRWhJTFFiWWJFV0QxUHh0aXJrMzBjWHJBRDFjV2lNcTRhdzQ5QWlLYnNIWkJCejdGUWlod0VnclFlRWYyVUhpQnduTU1nMnc?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cda1/live/ad61f0f0-e76b-11f1-a094-5fdc692f3e33.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News",
+     "Euronews"
+    ],
+    "published": "2026-11-23T19:18:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return",
+    "summary": "US President Donald Trump says he spoke directly with Nvidia's board before CEO Jensen Huang's reinstatement, adding that he found the board \"very, very reasonable\".",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera",
+     "Euronews"
+    ],
+    "published": "2026-11-23T23:36:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+    "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
+    "source": "BBC News",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-24T05:33:07+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "China sentences an official to death for spying and leaking national secrets",
+    "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said.",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYnJaVllJLVpfeVZhdFJmdF9IWDExdmg0Mk4yRTVKUmJINUloN2N3cWpZelpuMTYySDRqcU5JeEo2di1KeTB0VGdyaGtjdnNCcGRSWUc4QnlHTF81bkltN2dUeGVmekdqa2JPMDd2b0lOVnRuVTdPcWc5MGE4cVlKeERzS2dYNDNPSWVLSw?oc=5",
+    "image": "https://i.guim.co.uk/img/media/5d7028c1f7418b6df67a8b82c97cfc5563385eba/154_0_2536_2029/master/2536.jpg?width=140&quality=85&auto=format&fit=max&s=44cb141ed2c5bf5b241d085672ec0b9e",
+    "source": "Associated Press",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-23T22:25:00+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Car bomb tears through Colombian city wounding more than 20",
+    "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+    "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/17c0/live/f8f77110-e811-11f1-99a1-253766e7ad8b.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-24T11:45:52+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
+    "summary": "Health ministry records 272 new infections in October, more than eight times the normal monthly rate Gaza’s health ministry has issued an epidemic alert after a sharp rise in meningitis infections, with more than 270 new cases reported in October.",
+    "link": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
+    "image": "https://i.guim.co.uk/img/media/f28b38c1e5902f250db5030c50559091c6afe4c3/0_0_4206_3365/master/4206.jpg?width=140&quality=85&auto=format&fit=max&s=6d163cc9e0d08484ca9c86a12364730d",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-24T14:51:18+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – business live",
+    "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant Muse or do you plan to?",
+    "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-24T14:49:33+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "BBC’s preschool shows to be made available in CBeebies hub on Netflix",
+    "summary": "Teletubbies, Numberblocks and Hey Duggee among 24 shows to be trialled on world’s biggest streaming service Teletubbies, Numberblocks and Hey Duggee are among a host of the BBC’s preschool shows to be made available on Netflix, as the broadcaster battles to arrest a generational shift away from its programming.",
+    "link": "https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix",
+    "image": "https://i.guim.co.uk/img/media/de4ffcb1343510e82de1f80459de81c6a3f4391f/347_24_3015_2412/master/3015.jpg?width=140&quality=85&auto=format&fit=max&s=a64ba84c1d36e422a90c061d9161fd7d",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-24T14:46:13+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Akcja CBA ws. Ogrodu Botanicznego PAN. Zatrzymano pięć osób, w tym naukowców",
+    "summary": "Na polecenie Prokuratury Rejonowej Warszawa-Ursynów funkcjonariusze CBA zatrzymali pięć osób. Jak przekazał rzecznik ministra koordynatora służb specjalnych Jacek Dobrzyński, ma to związek ze śledztwem dotyczącym wyrządzenia znacznej szkody majątkowej w mieniu Polskiej Akademii Nauk Ogrodu Botanicznego - Centrum…",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc183YnNJa016NC1pajVpQnNXQjU4UmpGbV83QU1tVFRKZGgzMVhUTmtNSXgwMTVULUF4OHJNZEN2eDgzdGZUVjJ4RGFNVWZoa19mUEFHQ19yWnFkOG5NNnlwUjhyejBOaDV1UHc4bUpQZUpwTldVbkhSWHVOd0lubVBIZnMxamIzQ01zek9SZWVIVmtBZlFmbHE1bjFGa25RVXNxVFFOMA?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/17/64/ogrod-botaniczny-polskiej-akademii-nauk-w-powsinie-fot-636x421-1764bcc2.jpg",
+    "source": "PAP",
+    "also": [
+     "Interia",
+     "RMF24"
+    ],
+    "published": "2026-11-24T13:26:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Miał współpracować z Kralem. Artur Ch. usłyszał zarzuty ws. Zondacrypto",
+    "summary": "Były agent CBA Artur Ch. stawił się we wtorek w Prokuraturze Krajowej. Trwa jego przesłuchanie. Usłyszał już zarzuty w sprawie Zondacrypto - przekazała rzeczniczka prokuratora generalnego prokurator Anna Adamiak.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-mial-wspolpracowac-z-kralem-artur-ch-uslyszal-zarzuty-ws-zon,nIdn,1027473",
+    "image": "https://rmf.rmffm.pl/news/attachments/a1/09/rzeczniczka-prokuratora-generalnego-prok-anna-adamiak-fot-636x421-a109127b.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVN24",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-24T13:28:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wymowna reakcja Donalda Tuska na sondaż. „Jest o czym myśleć. Jeśli się myśli”",
+    "summary": "W sondażu Pollster dla Super Expressu wspólna lista partii tworzących koalicję 15 października zwyciężyła z jedną listą prawicy - PiS, obu Konfederacji i Rozwoju Plus. Rezultat badania skomentował Donald Tusk. Jest o czym myśleć. Jeśli się myśli - napisał premier.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-wymowna-reakcja-donalda-tuska-na-sondaz-jest-o-czym-myslec-j,nIdn,1027456",
+    "image": "https://rmf.rmffm.pl/news/attachments/93/f2/donald-tusk-zdj-636x421-93f2ad58.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-24T12:05:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Koszmarny błąd zakładu pogrzebowego w Lublinie. Zamienili ciała noworodków",
+    "summary": "W zakładzie pogrzebowym w Lublinie doszło do zamiany ciał dwojga noworodków. W efekcie jedno z dzieci zostało skremowane i pochowane przez niewłaściwą rodzinę, choć miało trafić na sekcję zwłok. Przedstawiciel przedsiębiorstwa podczas rozmowy z Polsat News przeprosił rodziców.",
+    "link": "https://www.rmf24.pl/regiony/lublin/news-koszmarny-blad-zakladu-pogrzebowego-w-lublinie-zamienili-cia,nIdn,1027397",
+    "image": "https://rmf.rmffm.pl/news/attachments/cd/77/zdj-636x421-cd77f841.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-24T08:23:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Temat współpracy z Braunem rozgrzewa prawicę. Czarnek bez zawahania",
+    "summary": "Przemysław Czarnek jest zwolennikiem uwzględnienia Konfederacji Korony Polskiej Grzegorza Brauna w prawicowym pakcie senackim. - \"Nie\" dla Brauna w pakcie senackim to jest niemożliwe - stwierdził w Radiu Zet kandydat PiS na premiera.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-temat-wspolpracy-z-braunem-rozgrzewa-prawice-czarnek-bez-zaw,nId,23578362",
+    "image": "https://i.iplsc.com/-/000NKG7E446LHMPO-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-24T13:15:09+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "\"Krótkotrwałe naruszenie\" przestrzeni powietrznej. Pilny komunikat wojska",
+    "summary": "\"Doszło do krótkotrwałego naruszenia polskiej przestrzeni powietrznej przez rosyjski bezzałogowy statek powietrzny\" - przekazało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Jak wskazano, ostatecznie bezzałogowiec zmienił kurs \"na kierunek wschodni\". Wcześniej do mieszkańców części powiatów na terenie woj.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-krotkotrwale-naruszenie-przestrzeni-powietrznej-pilny-komuni,nId,23577952",
+    "image": "https://i.iplsc.com/-/000NKC20EQIDADXO-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-23T22:48:56+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Polska w siodle barycznym. Pogoda podzieli kraj",
+    "summary": "Choć na początku tygodnia w Polsce zrobiło się zimno, to arktyczne masy nie powiedziały jeszcze ostatniego słowa. Temperatura wciąż będzie się obniżać, a w weekend złapie całodobowy mróz. Jeśli chodzi o opady, to w drugiej części tygodnia zanikną, choć nie w całej Polsce.",
+    "link": "https://tvn24.pl/tvnmeteo/prognoza/polska-w-siodle-barycznym-pogoda-podzieli-kraj-gdzie-spadnie-snieg-a-gdzie-bedzie-wiecej-slonca-st9355453?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-5243098-mroz-zimno-ph8815788/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-24T14:56:17+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Oprocentowanie obligacji detalicznych. Jakie stawki obowiązują w grudniu?",
+    "summary": "Ministerstwo Finansów poinformowało we wtorek, że w grudniu utrzymane zostaną dotychczasowe stawki oprocentowania obligacji detalicznych.",
+    "link": "https://www.gazetaprawna.pl/biznes/finanse-i-gospodarka/artykuly/11406199,oprocentowanie-obligacji-detalicznych-jakie-stawki-obowiazuja-w-grudn.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2Rn/cHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzcxNTUxNS9m/aWxlcy9vYmxpZ2FjamUtaW5mbGFjamEtY3p0ZXJvbGV0bmllLW5icC1v/c3pjemVkemFuaWUtMzkzMTYzOTQtMzkzMTYzOTkucG5nIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-24T14:54:46.590000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Ma 26 lat a zarabia w Google 323 tys. dol. rocznie. Pieniądze wydaje jak asceta, żeby osiągnąć cel",
+    "summary": "Charles Broomfield zarabia w branży technologicznej i rozwija kanał na YouTube, ale na co dzień wydaje mniej niż pełnoetatowy pracownik na amerykańskiej płacy minimalnej. 26-latek traktuje skrajnie niskie koszty życia jako narzędzie do osiągnięcia niezależności finansowej.",
+    "link": "https://businessinsider.com.pl/lifestyle/26-letni-pracownik-google-zarabia-323-000-dol-rocznie-ale-zyje-za-mniej-niz-minimalna/w882lf6",
+    "image": "https://cdn.businessinsider.com.pl/1/fVkk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84ZGM5ZDA1ZGNkOTI5YTljMTc4NDk5MTI5YTE2OTkyMi5qcGeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-24T14:52:33+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Ma ponad 100 metrów głębokości i wyrzeźbił je lądolód. Pojezierze Suwalskie i Hańcza to Cud Polski 2026",
+    "summary": "Na północno-wschodnim skraju kraju lądolód zostawił krajobraz bliższy Skandynawii niż polskim nizinom. Pojezierze Suwalskie i Jezioro Hańcza zdobyły w plebiscycie „National Geographic Traveler” tytuł Cudu Polski 2026. To niezwykła kraina stromych wzgórz, głazowisk i najgłębszego jeziora w Polsce.",
+    "link": "https://www.national-geographic.pl/traveler/kierunki/ma-ponad-100-metrow-glebokosci-i-wyrzezbil-je-ladolod-pojezierze-suwalskie-i-hancza-to-cud-polski-2026/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/56/ma-ponad-100-metrow-glebokosci-i-wyrzezbil-je-ladolod-pojezierze-suwalskie-i-hancza-to-cud-polski-2026.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-24T14:44:59+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Protest przedstawicieli branży drzewno-meblarskiej. Skala problemów jest \"alarmująca\"",
+    "summary": "Zarówno Ministerstwo Klimatu i Środowiska, jak i Ministerstwo Finansów, szukają odpowiednich rozwiązań, które rozwiążą problemy branży drzewnej - oświadczył rzecznik prasowy rządu Adam Szłapka. We wtorek pod Kancelarią Prezesa Rady Ministrów trwa protest związkowców i przedstawicieli sektora drzewno-meblarskiego.",
+    "link": "https://tvn24.pl/biznes/z-kraju/protest-przedstawicieli-branzy-drzewno-meblarskiej-w-warszawie-rzecznik-rzadu-o-szukaniu-rozwiazan-st9355399?source=rss",
+    "image": "https://tvn24.pl/biznes/najnowsze/cdn-zdjecie-protest-branzy-drzewno-meblarskiej-w-warszawie-ph9355481/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-24T14:38:45+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Duże zmiany w PFR Nieruchomości. Prezes odchodzi, do zarządu wchodzi Adam Czerniak",
+    "summary": "Dotychczasowy wiceprezes Krajowego Zasobu Nieruchomości Adam Czerniak od 1 grudnia dołączy do zarządu PFR Nieruchomości (PFRN). Obejmie funkcję członka zarządu. To jednak nie koniec kadrowych zmian w PFRN. Z końcem listopada swoją misję w spółce zakończy natomiast jej prezes Grzegorz Tomaszewski.",
+    "link": "https://businessinsider.com.pl/gospodarka/zmiany-w-pfr-nieruchomosci-adam-czerniak-w-zarzadzie-grzegorz-tomaszewski-odchodzi/31m7wqs",
+    "image": "https://cdn.businessinsider.com.pl/1/xUak9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NzdmN2M1NmMxODhiOTU5NWNjYWMzOGVhMjg5ZWEyZi5wbmeSlQMAD80HSs0EGpMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-24T14:33:22+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Dofinansowanie dla asystentów rodziny. Rząd przeznaczy 70 mln zł",
+    "summary": "Rząd zdecydował we wtorek o kontynuacji wsparcia samorządów w finansowaniu kosztów zatrudnienia asystentów rodziny. Na ten cel zostanie przeznaczonych 70 mln zł. W 2026 r. dofinansowanie dodatku dla asystenta rodziny będzie mogło wynieść maksymalnie 2400 zł (do 200 zł miesięcznie).",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11406173,rzad-wesprze-gminy-w-zatrudnianiu-asystentow-rodziny.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLn/BsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAw/NzcwNzQzOC9maWxlcy9wb21vYy1hc3lzdGVudC1uaWVwZWxub3/NwcmF3bm9zYy1zZW5pb3ItMzkzMDQ4MjIuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-24T14:28:41.362000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Zderzyły się dwa auta. Niemowlę trafiło do szpitala",
+    "summary": "Dwa auta zderzyły się w Alei 4 Czerwca w Warszawie. Jednym z nich podróżowało niemowlę. Czteromiesięczne dziecko trafiło do szpitala. Na miejscu lądował śmigłowiec Lotniczego Pogotowia Ratunkowego.",
+    "link": "https://tvn24.pl/tvnwarszawa/ursus/warszawa-zderzenie-w-alei-4-czerwca-niemowle-w-aucie-st9355448?source=rss",
+    "image": "https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-zderzenie-w-alei-4-czerwca-ph9355473/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-24T13:52:50+00:00",
+    "topic": "zdrowie"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Chciała zaparkować BMW. Uderzyła w seminarium",
+    "summary": "Podczas parkowania na ul. Piłsudskiego w Tarnowie kierująca straciła panowanie nad autem i uderzyła w budynek seminarium. Nikt nie został ranny.",
+    "link": "https://lovekrakow.pl/chciala-zaparkowac-bmw-uderzyla-w-seminarium",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/9b87585d4de7435af7946fe31c9533c7.jpg.webp?itok=rmbpVOyR",
+    "source": "LoveKraków",
+    "also": [
+     "TVN24"
+    ],
+    "published": "2026-11-24T12:49:58+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Rosyjski dron nad Polską. Wojsko miało zgodę na jego zestrzelenie",
+    "summary": "Podczas wieczornego rosyjskiego nalotu na Ukrainę w polską przestrzeń powietrzną w okolicy Dorohuska na kilka minut wleciał rosyjski odrzutowy dron obserwacyjny – wynika z informacji PAP zbliżonych do MON.",
+    "link": "https://radiokrakow.pl/wiadomosci/kraj/rosyjski-dron-nad-polska-wojsko-mialo-zgode-na-jego-zestrzelenie/188104",
+    "image": "https://i.iplsc.com/-/000NKD7CJB16Q8WV-C321.webp",
+    "source": "Radio Kraków",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-24T05:08:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Brakuje milionów, ale oszczędności oznaczają zwolnienia w miejskiej spółce",
+    "summary": "System gospodarowania odpadami bilansuje się, a nawet wychodzi na plus. Tymczasem cały czas zwiększają się koszty utrzymania miasta latem i zimą. W projekcie budżetu na przyszły rok brakuje kilkudziesięciu milionów złotych.",
+    "link": "https://lovekrakow.pl/brakuje-milionow-ale-oszczednosci-oznaczaja-zwolnienia-w-miejskiej-spolce",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/photo_library/2025-02-24/24.02.2025_SMIECI_4406_KALI.JPG.webp?h=41f55a5b&itok=mzItkEsN",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-24T14:11:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Górale idą na wojnę. Przejmą transport konny do Morskiego Oka?",
+    "summary": "„Nie pozwolimy się tak traktować” – grzmi starosta tatrzański Andrzej Skupień. Samorządowcy zarzucają minister klimatu i środowiska niedotrzymanie wcześniejszych ustaleń w sprawie koni z Morskiego Oka. Zapowiadają, że już w grudniu mogą na własną rękę przywrócić przewozy konne na pełną trasę do tatrzańskiego stawu.",
+    "link": "https://lovekrakow.pl/gorale-ida-na-wojne-przejma-transport-konny-do-morskiego-oka",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/19aa76bf24d75a28d3d450175bbb23b4.jpg.webp?itok=rRwJ5qxp",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-24T13:20:01+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Sanatorium w PRL. Tu się leczy, ale i prowadzi życie towarzyskie. Sentymentalna podróż do sanatorium PRL, zobacz!",
+    "summary": "Pobyt w sanatorium to nie to samo, co picie wody mineralnej w domu. W czasach PRL wyjazdy do sanatorium cieszyły się dużą popularnością. Wtedy łatwiej było uzyskać skierowanie na bezpłatny pobyt w sanatorium i chętnie korzystano z tej możliwości, zwłaszcza w okresach wakacyjnych i ferii.",
+    "link": "https://gazetakrakowska.pl/sanatorium-w-prl-tu-sie-leczy-ale-i-prowadzi-zycie-towarzyskie-sentymentalna-podroz-do-sanatorium-prl-zobacz/ar/c14-17295017",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/87/17/6694c898d1601_o,size,640x400,q,71,h,535c98.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-24T14:47:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Tak wyglądały małopolskie miasta i miasteczka w XX wieku. Zobacz!",
+    "summary": "Zabieramy Was w sentymentalną podróż w czasie po miastach i miasteczkach Małopolski. Tak to kiedyś wyglądało. Malownicze ryneczki, krzywe ganki, pochylone domki, ale i świeżo oddane drogi i prosperujące miejscowe zakłady rzemieślnicze.",
+    "link": "https://gazetakrakowska.pl/tak-wygladaly-malopolskie-miasta-i-miasteczka-w-xx-wieku-zobacz/ar/c15-15192456",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/c2/f8/5f69d7bfe6fe0_o,size,640x400,q,71,h,ef8d73.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-24T14:46:06+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Drugie miasto z \"ringiem\". Ekspresowa obwodnica Krakowa już prawie gotowa",
+    "summary": "Po udostępnieniu dla ruchu węzła Mistrzejowice, zostanie domknięty tak zwany ring, utworzony z dróg szybkiego ruchu wokół Krakowa. To będzie druga taka obwodnica w Polsce. Wiemy, kiedy pojadą nią kierowcy.",
+    "link": "https://tvn24.pl/krakow/drugie-miasto-z-ringiem-ale-jeszcze-beda-ograniczenia-st9355387?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-otwarcie-wezla-mistrzejowice-ph9355355/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-24T13:37:49+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Proces starzenia mózgu zaczyna się już po 30. roku życia",
+    "summary": "Starzenie się mózgu jest naturalnym procesem, ale to, jak będzie przebiegać, w dużej mierze zależy od naszego stylu życia. Odpowiednia dieta, aktywność fizyczna, ćwiczenie pamięci, rozwój intelektualny i bezpośrednie kontakty z innymi ludźmi mogą pomóc zachować sprawność umysłową na dłużej.",
+    "link": "https://radiokrakow.pl/audycje/publicystyka/przed-hejnalem/proces-starzenia-mozgu-zaczyna-sie-juz-po-30-roku-zycia/188135",
+    "image": "https://radiokrakow.pl/media/article/188135/42d7d98b4fb87c01cabe4647b641021a.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-24T14:15:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Zimowe Zakopane przyciąga turystów",
+    "summary": "Zakopane w zimowej odsłonie. Śnieg pokrył ulice, dachy i drzewa, tworząc wyjątkową atmosferę u podnóża Tatr. Zimowa aura przyciąga turystów, którzy chętnie spacerują po Krupówkach i cieszą się przedświątecznym klimatem miasta.",
+    "link": "https://radiokrakow.pl/galerie/zimowe-zakopane-przyciaga-turystow/188133",
+    "image": "https://radiokrakow.pl/media/article/188133/dadb46f452bb45f3da1670c6145cefcc.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-24T13:43:56+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Chwalił zamach w Krakowie i groził nowymi atakami. Zapowiadał dziesięć razy więcej ofiar",
+    "summary": "Zapowiadał masowy zamach na życie i zdrowie wielu osób, zapowiadając, że liczba ofiar będzie dziesięciokrotnie większa niż w przypadku ataku w Krakowie z początku listopada. Damian S. pochwalał przy tym tę zbrodnię. Polak został zatrzymany przez funkcjonariuszy ABW i usłyszał zarzuty.",
+    "link": "https://www.polsatnews.pl/wiadomosc/2026-11-24/chwalil-zamach-w-krakowie-i-grozil-nowymi-atakami-zapowiadal-dziesiec-razy-wiecej-ofiar/",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/ne/neoaamz87rpjhji47c41as5i1tuymwr1.jpg",
+    "source": "Polsat News",
+    "also": [],
+    "published": "2026-11-24T14:15:00+00:00",
+    "topic": "bezpieczeństwo"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Frieze Los Angeles reveals 102 exhibitors for 2027 edition",
+    "summary": "The fair will welcome 22 first-time exhibitors, including four newer Los Angeles galleries, as the city's art scene continues to contend with closures amid a broader market slowdown",
+    "link": "https://www.theartnewspaper.com/2026/11/24/frieze-los-angeles-announces-102-exhibitors-for-2027-edition-amid-challenging-local-art-market",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/4c2b4c14d88555a3d7abb8a316269cc04ea7be9c-774x516.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [
+     "ARTnews",
+     "Artnet News"
+    ],
+    "published": "2026-11-24T14:00:00+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Munch museum appoints Thorsten Sadowsky as new director",
+    "summary": "Sadowsky joins the Oslo institution from his position as director of Schleswig-Holstein State Museums Foundation Schloss Gottorf in northern Germany",
+    "link": "https://www.theartnewspaper.com/2026/11/24/munch-museum-appoints-thorsten-sadowsky-as-new-director",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/a54796be467a0a2b58ea4f62463f99c8de54eae8-3024x4032.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-24T13:15:12+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Fatbergs, pigeons and Pankhurst: rebranded London Museum opens new £437m home",
+    "summary": "Previously known as the Museum of London and based at London Wall, the new museum displays 2,000 years of the capital's history",
+    "link": "https://www.theartnewspaper.com/2026/11/24/fatbergs-pigeons-and-pankhurst-rebranded-london-museum-opens-new-£437m-home",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/ad4aed5b86644e23c72541ae29638a52702c81ab-8968x5515.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-24T12:20:17+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Need for speed: Joe Kennedy’s The Revivalists – in pictures",
+    "summary": "The Revivalists by Joe Kennedy explores the Red Dust Revival, a niche motorsport event held every three years in outback Western Australia. The event brings together vintage motorsport enthusiasts and their 100-year-old machines to relive the early years of motorsport The Revivalists is at the Head On photo festival…",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/25/need-for-speed-joe-kennedys-the-revivalists-in-pictures",
+    "image": "https://i.guim.co.uk/img/media/20ea705069e7f8c120e853718cac7442fc819092/116_0_964_771/master/964.jpg?width=140&quality=85&auto=format&fit=max&s=7342a3f91f4a9c9d45587b78e1e1cd57",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-24T14:00:49+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Fire breathers and a stranded cargo ship: photos of the day – Tuesday",
+    "summary": "The Guardian’s picture editors select photographs from around the world",
+    "link": "https://www.theguardian.com/news/gallery/2026/nov/24/fire-breathers-stranded-cargo-ship-photos-of-the-day-tuesday",
+    "image": "https://i.guim.co.uk/img/media/7b9789543bbf0fb4ce7eb337754fb97bf1cf9e21/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=1727e198a10e14e7eb4595d3489f42be",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-24T10:59:30+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "BBC and Netflix team up for new CBeebies hub on streamer",
+    "summary": "The limited trial will see a CBeebies hub on Netflix for the first time and will feature 24 programmes.",
+    "link": "https://www.bbc.co.uk/news/articles/c9zr585dxkgzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f314/live/d76f1600-e808-11f1-95bb-3f37d3e026b0.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-24T13:05:09+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Groźny incydent na koncercie, ewakuowano tysiące osób. \"Ludzie krzyczeli z bólu\"",
+    "summary": "Przeszło 12 tysięcy osób zostało ewakuowanych z Co-op Live w Manchesterze. Konceret Dona Tolivera musiał zostać przerwany. Przełożono także wystep artysty w Londynie.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114526,33147664,grozny-incdent-na-koncercie-ewakuowano-tysiace-osob-ludzie.html",
+    "image": "https://bi.im-g.pl/im/89/9c/1f/z33148553IHG,Koncert-Don-Tolivera.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-24T14:19:00+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Bros announce first tour in a decade",
+    "summary": "The twins, from Camberley, will perform in 10-date tour in 2027 including at Wembley Arena.",
+    "link": "https://www.bbc.co.uk/news/articles/cklylrldzqm4o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/736c/live/55e05d00-e7ff-11f1-ab60-79086b6495b8.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-24T12:31:16+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Sukienka Maryli Rodowicz i samochód Syrena. Ostatnia szansa, by zobaczyć wystawę w Muzeum Historii Polski!",
+    "summary": "Można tu zajrzeć do świata polskiej muzyki sprzed kilku dekad, zobaczyć z bliska instrumenty należące do legendarnych artystów, obejrzeć sceniczne kostiumy, a nawet usiąść za kierownicą Syreny. Wystawa \"Za czym kolejka ta stoi?",
+    "link": "https://kultura.onet.pl/muzyka/wiadomosci/muzeum-historii-polski-zaprasza-na-muzyczna-podroz-do-prl-u-ostatnia-szansa-na/xvqmrzp",
+    "image": "https://cdn.kultura.onet.pl/1/4tTk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jYmFjNjY2NzcyZDA4MDI4Yzc0OGQ3MzNmMGQ1NDI3Yy5qcGeSlQMAcM0OIM0H8pMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-24T11:14:13+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Mity wokół strat niemieckich w Polsce w 1939 r.",
+    "summary": "Straty niemieckie podczas kampanii wrześniowej bywały w polskiej historiografii zawyżane – by wykazać dzielność obrońców, albo przeciwnie: zaniżane – co umniejsza ich wysiłek. Wykład na ten temat odbędzie się 25 listopada w Przystanku Historia -Centrum",
+    "link": "https://dzieje.pl/dzieje-sie/mity-wokol-strat-niemieckich-w-polsce-w-1939-r",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/z25597382IHR%2CZolnierze-niemieccy-w-Alejach.jpg?itok=ujg_TcFJ",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-24T14:09:28+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Gdańska Jesień Pianistyczna — wyjątkowe spotkania z fortepianem",
+    "summary": "Listopad jest w Gdańsku miesiącem fortepianu. Tegoroczna Gdańska Jesień Pianistyczna zapewnia wyjątkowe emocje i spotkania z cenionymi na całym świecie pianistami. Wydarzenie potrwa do 29 listopada, a przed nami koncerty takich artystów jak Marc-André Hamelin, Philippe Giusiano czy Szymon Nehring.",
+    "link": "https://kultura.onet.pl/muzyka/wiadomosci/gdanska-jesien-pianistyczna-przyciaga-gwiazdy-fortepianu-emocje-do-konca-listopada/t9h1bdk",
+    "image": "https://cdn.kultura.onet.pl/1/cBgk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hN2ViYjNiYjg0Y2ExOTRjMDhkZDA3ZWUyNGZlZDcyNy5qcGeSlQMAAM0DFM0Bu5MFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-24T14:50:00+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Sprzedała 100 mln płyt. Jeden gest Petuli Clark wywołał skandal w telewizji. Nie ustąpiła",
+    "summary": "Nie każda gwiazda potrafi utrzymać zainteresowanie publiczności przez kilkadziesiąt lat. Jej udało się coś jeszcze bardziej niezwykłego. Zaczynała jako dziecko, a na scenie występowała nawet po dziewięćdziesiątce. Dziś jej historia przypomina, jak wiele potrafi wydarzyć się podczas jednej kariery.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114526,33146088,sprzedala-100-mln-plyt-jeden-gest-petuli-clark-wywolal-skandal.html",
+    "image": "https://bi.im-g.pl/im/f6/9c/1f/z33146102IHG,Petula-Clark.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-24T09:40:00+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Siostrzeniec wspomina Freddiego Mercury'ego. Pokazał rzadkie wspólne zdjęcie",
+    "summary": "Choć od śmierci Freddiego Mercury'ego minęło już 35 lat, pamięć o legendarnym wokaliście Queen pozostaje żywa nie tylko wśród fanów, ale także jego najbliższych. W rocznicę odejścia artysty wzruszający wpis opublikował Samuel Bulsara, siostrzeniec muzyka, dzieląc się osobistymi refleksjami i rzadkim rodzinnym zdjęciem.",
+    "link": "https://kultura.onet.pl/muzyka/wiadomosci/siostrzeniec-wspomina-freddiego-mercuryego-pokazal-wspolne-zdjecie/d67kym2",
+    "image": "https://cdn.kultura.onet.pl/1/Wrtk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82MjZjMmFlZjVjZWU3OWVkNDEzYjExNTdhZDE1Yzk5OS5wbmeSlQMWHs0HBs0D85MFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-24T10:50:06+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Film dnia. Ten hit zarobił ponad miliard dolarów. W roli głównej Daniel Craig",
+    "summary": "Nie każda przygoda Jamesa Bonda kończy się takim sukcesem. Jeden z filmów z Danielem Craigiem ustanowił rekord finansowy, którego do dziś nie pobiła żadna kolejna część serii. Widzowie będą mogli zobaczyć go w telewizji, a historia jego powstawania jest równie ciekawa jak wynik osiągnięty w kinach.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33146570,film-dnia-ten-hit-zarobil-ponad-miliard-dolarow-w-roli-glownej.html",
+    "image": "https://bi.im-g.pl/im/69/9c/1f/z33146729IHG,-SKYFALL--zwiastun.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-24T06:28:00+00:00",
+    "topic": "film"
+   }
+  ]
+ }
+}
