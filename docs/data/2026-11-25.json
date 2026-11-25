@@ -1,0 +1,734 @@
+{
+ "date": "2026-11-25",
+ "generated": "2026-11-25T15:51+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Eurostar cancels London, Paris, Brussels trains due to strike",
+    "summary": "Several Eurostar trains connecting London, Paris and Brussels were cancelled in a surprise strike on Wednesday. The train operator did not specify who exactly was striking or the reasons why.",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVk9yeVJpc3RkMmxRSHlNeFpZekpIMkJtY2F5TDdVc2prWGd6V1o2aUduOWNOR1VxUUdSbVhVSHJHRUNGcEdBNTlaV3kydXk1ZWVQUWJPSkloV0pkOXpzWGFVb0Y5ZHBxTmFxSzhTX2s3a2FnQ09oOWZ1dWtCaW9oZUdKaThENENLaXB4Ul85OEpmTG9CQzdYemp5bkFodnM?oc=5",
+    "image": "https://s.france24.com/media/display/5292c004-e8b6-11f1-b877-81da3ab2acbb/w:1024/p:16x9/000-A6LZ3KE.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "France 24"
+    ],
+    "published": "2026-11-25T09:45:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Catalan separatist Puigdemont to return to Spain after election",
+    "summary": "The former Catalan president hinted he's prepared to lead the independence movement once again.",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMllTYTRRSkU3SjVsVWFMdVZFWjB1OHVQTHo4eGFRSndDY2RiNDNZS2ZLN3JZLW1Oem5lX1FRR3dsdGp1MkwzLU1jdHZTcFlyaHFWTlhKUWVBZGhzOG1TLVV1RllnLWpOdTRFRjU4YTMxMjMtMHU4ZG95RXlrcUI1U0gzeF9Ha1BFbHVNel9EWkpIcTZuRjJDV0o4Ung?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "Politico Europe"
+    ],
+    "published": "2026-11-25T12:15:47+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Katastrofa wojskowego śmigłowca w Turcji. Zginęli żołnierze",
+    "summary": "W wyniku katastrofy śmigłowca AS-532 Cougar należącego do tureckich sił powietrznych zginęło pięciu żołnierzy - poinformowało tureckie ministerstwo obrony. Do tragedii doszło podczas lotu szkoleniowego w prowincji Eskisehir w środkowej części kraju.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-katastrofa-wojskowego-smiglowca-w-turcji-zgineli-zolnierze,nIdn,1027520",
+    "image": "https://rmf.rmffm.pl/news/attachments/19/5c/as-532-cougar-636x421-195c0e46.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia",
+     "TVN24"
+    ],
+    "published": "2026-11-24T19:16:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Ex-England soccer player Sterling spared immediate jail sentence for dangerous driving",
+    "summary": "Raheem Sterling admitted inhaling 'laughing ⁠gas' and driving erratically before ​crashing his car.",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTNVUUNiT0VOZDFaLW9yZEFRU2NwdjZvV0pKWDZrVVNBUm9ZS28wd09xQjhCMlBsajZlUVR3MG9tdE9la2pSV2Ftd2h4emt4NzI5T3NZZFFiSHV1bU9HUUFMR3Ntb3l1RW8yUkIyWlJJSEw4Z2VvTWR4d1pIaDZ4QndaWVVmQmxhTTVEcTB2U2tvcGhSSm9tZ3Fjd19FNlFwYkx1WkdrSEtfQWR6ZGJaTUZOQkMzUDJrT1kw?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-25T12:24:08+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Łukaszenka z propozycją dla Zełenskiego. \"Tylko we dwóch\"",
+    "summary": "- Wołodia Zełenski i ja moglibyśmy wsiąść do samolotu i polecieć do Moskwy. Tylko we dwóch - twierdzi Alaksandr Łukaszenka. Białoruski przywódca przekonuje, że byłby \"gwarantem bezpieczeństwa\" dla prezydenta Ukrainy i gdyby do takiego spotkania doszło, szybko zakończyłaby się wojna.",
+    "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-lukaszenka-z-propozycja-dla-zelenskiego-tylko-we-dwoch,nId,23578577",
+    "image": "https://i.iplsc.com/-/000NKI7TY88GKHSI-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News",
+     "TVP Info"
+    ],
+    "published": "2026-11-24T21:01:37+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Wezwany przez MSZ ambasador Rosji stawił się w siedzibie resortu",
+    "summary": "Wezwany przez MSZ ambasador Rosji Gieorgij Michno stawił się w siedzibie resortu. To echa naruszenia przestrzeni powietrznej Polski przez trzy pociski Ch-101. - Pan ambasador otrzymał bardzo ostrą notę dyplomatyczną.",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ0pCZW4xdUdxcjY2WVdrWnRNUy1IY1djWTk2b0hIaUNobEYwVVh4cXlybmNhbTlUZlRtZEdFWWhfMVl6TkFGS2pnZlpXMjRhbFpyV3F2WkdINUZCNTJRX0NtRFByTmFhenpVVnhsQU5Pc3BjOHA5TTNFa1pXS1BJcVpFb1lOVlM3S3dTSlhCaVdTMlJWRndDTHc2TkxTb3RfSkoxRlBUUWdoZFhud3dENzgyeXMyZUNLOUhSZw?oc=5",
+    "image": "https://i.iplsc.com/-/000NKHT7GW8D80CR-C321.webp",
+    "source": "PAP",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-24T18:23:06+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+    "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e688/live/d1155630-e820-11f1-99a1-253766e7ad8b.jpg",
+    "source": "BBC News",
+    "also": [
+     "Associated Press"
+    ],
+    "published": "2026-11-24T17:04:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+    "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-25T14:46:41+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Labour ‘committed’ to ban on conversion practices despite calls for proposed law to be scrapped",
+    "summary": "Exclusive: Campaigners say new legislation in England and Wales could infringe on free speech, parenting and religious freedom ‘They wanted me to conform’: people abused over sexuality and gender identity tell their stories Labour is “committed” to banning conversion practices despite growing calls to amend or scrap…",
+    "link": "https://www.theguardian.com/world/2026/nov/25/labour-committed-ban-conversion-practices-despite-proposed-law-scrapped",
+    "image": "https://i.guim.co.uk/img/media/b306a1eaebb616e96a4c86f4ac112ef9f7fb275e/337_0_3354_2685/master/3354.jpg?width=140&quality=85&auto=format&fit=max&s=d069c621197ed81ab5d957adeb09382a",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-25T14:00:28+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Spain has been hit hard by the climate crisis. Why are politicians saying so little about it before the election?",
+    "summary": "Wildfires and floods can do little to move climate change up voters’ list of priorities, experts say Beneath the blackened branches of a pine tree that rises high above a landscape of scorched hillsides and the odd charred and ruined house, two older men address the obvious.",
+    "link": "https://www.theguardian.com/world/2026/nov/25/spain-election-climate-crisis",
+    "image": "https://i.guim.co.uk/img/media/4b3f235699c077926bacab90f7ed9c1e9cee77bb/307_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43630170416e4ef100b0754172d41f63",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-25T13:00:26+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Trzy polecane wycieczki po unikatowych zakątkach Europy. W zestawieniu tajemnicza wyspa",
+    "summary": "Kameralne miasteczka ukryte między górami, dzikie wybrzeża i doliny, w których czas zdaje się płynąć wolniej – wszystkie te zakątki oferują nie tylko spektakularne widoki, lecz także łatwy dojazd i rozsądne ceny. To idealne kierunki na krótki wypad, podczas którego można zanurzyć się w lokalnym rytmie życia.",
+    "link": "https://businessinsider.com.pl/lifestyle/podroze/trzy-polecane-wycieczki-po-unikatowych-zakatkach-europy-w-zestawieniu-tajemnicza/dxy9f28",
+    "image": "https://cdn.businessinsider.com.pl/1/84Dk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kODBjYzU0N2FhY2YyNDc4M2RmN2JlNGVkNzVjZTI1YS5qcGeSlQMAOM0D6M0CMpMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-25T14:03:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "EU Parliament’s socialists and liberals halt talks with EPP",
+    "summary": "The three centrist groups were negotiating over deal that could have involved Roberta Metsola getting third term as president.",
+    "link": "https://www.politico.eu/article/eu-parliaments-socialists-and-liberals-halt-talks-with-epp/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/25/GettyImages-2281272062-scaled.jpg",
+    "source": "Politico Europe",
+    "also": [],
+    "published": "2026-11-25T14:48:51+00:00",
+    "topic": "polityka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Australia, Solomon Islands sign security pact in blow to China",
+    "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG1oWFgtQ2pTYWVManFSTHhtZmk2UFl6VllsZFBkTWpHWUF0WGZ6LTNZaTZqTXJpeEhBWHVUallaaXhORWxVbmlaRUk0NkhPdEJXQ3puZHA4RFNIS01rdUVNS2MzdlcyalFTU0NNN2dUSFBuMy1rUmVDdWVFWlhTdGNpYVU2ZUc0bzRiZ0FWR3NiSG5hMEhF?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg",
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera",
+     "BBC News",
+     "The New York Times"
+    ],
+    "published": "2026-11-25T00:02:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+    "summary": "Chen Jining, the Communist Party leader of Shanghai. He has a scientific education that was seen as fitting the priorities of China’s top leader, Xi Jinping.",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMG44bXNIbVRoRkdsc1FsaEg0ajBQekRydkVTeDZTbWN0TnBCSWZ1MFQxTzMxc2p0VWFTQzBQRWhHdUVrQUItOC1FNGlVQlZkeVRQWjFRRTZUTkFUeHIyWkRIOXIzbktKZk5HdGxNWGFTSldPN1p3QUtFSEM2dUJHYmRXN0g4UVAzSW9rTkZGOTd3cmZJYU1VdEJJNFE?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "Al Jazeera",
+     "NPR",
+     "The New York Times"
+    ],
+    "published": "2026-11-24T22:00:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access",
+    "summary": "Nvidia posted a photograph of its reinstated CEO, Jensen Huang, on its official X account on Monday.",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-china-chips-analysis-01-zjqb/24int-china-chips-analysis-01-zjqb-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "Financial Times",
+     "The New York Times"
+    ],
+    "published": "2026-11-25T11:25:28+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+    "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
+    "source": "BBC News",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-11-25T12:20:17+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Iowa town braces for planned detonation of lead-based explosives stockpile",
+    "summary": "Iowa Army Ammunition Plant in Middletown, Iowa, where a detonation of lead azide explosives is planned for Wednesday.",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3JaTmxlVEkyOG9FXzM3d0dwUEdpV0ZwZk1FUUdZNG45Q0xYMWxaMndSZXNib0NXdDNNN1p3UzI5MnJBRTVhdll0Rm1EamNoMUpYRHg2R2JrcFlqTXFpdE9PeTgtVWktV3YzY012TDMtclByVHpIQnFucGhJbl9CZVlCMXNBb2pLRkxveWhIVEN0eEtUampuVkNRTzhBV1NPVWRnWEswMHlVbjhkeUZSeWVR?oc=5",
+    "image": "https://static01.nyt.com/images/2026/12/11/multimedia/11cli-newsletter-IOWA-BLAST1-tmbv/11cli-newsletter-IOWA-BLAST1-tmbv-mediumSquareAt3X.jpg",
+    "source": "Reuters",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-25T11:20:39+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "USA: sześć osób, w tym dwoje dzieci, zginęło w katastrofie małego samolotu u wybrzeży Missisipi",
+    "summary": "Sześć osób, w tym dwoje dzieci, zginęło w katastrofie samolotu w amerykańskim stanie Missisipi. Cessna 210 runęła do wody na północy Zatoki Meksykańskiej. Ich ciała odnaleźli nurkowie kilka godzin po zdarzeniu. - Nie jest to finał, na jaki liczyliśmy - mówił koordynator poszukiwań Trevor Blount.",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONUZzMkl6UmJLazI5bXUzQ25ES3FIaDFiY2JZa2xYaU1JR1ZSaUxzYVZndV9tTVhGbkpYX0taQ2p5SVdBUU5heDExNDJhM0V3clFKeFp4Z1c3T18xLXdjb2luT0JMU3FUUUhYYlJ6MHpuanNwalVLSzl6azd4b3NOYmJqVmV2ZjYyd1I4eFZ2NmQ3eS1abjNoOTgycnNfZTV1ampub0JlclJTWXVtS0RfZUdXcS1EYjdRd0lIY0dqVnMwUQ?oc=5",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/5i/5ixmj39b7z2czigbip6cw1w1ykwis62v.jpg",
+    "source": "PAP",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-25T06:54:21+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "India and U.S. Artist Nick Cave Win Venice Biennale’s Top Prizes",
+    "summary": "“Permanent Address” by Sumakshi Singh in the Indian pavilion at the Venice Art Biennale in May.",
+    "link": "https://www.nytimes.com/2026/11/25/arts/design/venice-biennale-visitors-lions-nick-cave-india.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25cul-venice-biennale-winner-qhcw/25cul-venice-biennale-winner-qhcw-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "Artnet News"
+    ],
+    "published": "2026-11-25T14:36:59+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Army to detonate US stockpile of bomb-making chemicals in Iowa the day before Thanksgiving",
+    "summary": "The army plans to detonate of 68 barrels containing nearly 9,500lbs of lead azide despite public concern about potential health and environmental effects Sign up for the Breaking News US email The United States Centers for Disease Control and Prevention (CDC) has activated an emergency response to support the Iowa…",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkhUQ2g4MktLbDJLbVNZT3RFbXQ4NFZtcUJmVTZLb0lMYXV1dDZ6V0tfWVZxUlBnSkhPYTBtNWo3Q2ZzcEJRSWJZTmlqSFR5UnN3RVd2VXo5VTBPRmU3TXVTWENBNWpDV0lkRVdVVVlONUVlRkx2UTN2dDhOQUhja21BWWlXMjFzTEJmcHFFRXRmbHJ0ZDU2QXh3V2IzZw?oc=5",
+    "image": "https://i.guim.co.uk/img/media/7c694b21b28c5e2e7e8ecf5f91b58061c13546c5/322_399_2377_1902/master/2377.jpg?width=140&quality=85&auto=format&fit=max&s=e09318ac3d9e11c741778060eb235cfa",
+    "source": "Associated Press",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-25T03:39:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "The rising cost of putting food on the table in India",
+    "summary": "India's food inflation is broadening, squeezing household budgets.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-25T01:02:13+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+    "summary": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzR3QWpwUC0zOE5SUnhYWFRFV21KRzFSWmk4WlF1OWlkV1pUeEJ0UjZ1aGVtcVl4VFBhc1N3eXh4akZoRkVfalZtclFNQ2FOcWJqZDNGMU9ublNKalNnYnhNQVJYdXFNWmZwb2hkb1IyVFFlLWk2TzEtVG56VUthbHF4VDRRbzY5WkZuWHN1UXBfY2Utd2tKZGY5NW5UWUYwOWdLcg?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "NPR"
+    ],
+    "published": "2026-11-25T01:57:00+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+    "source": "BBC News",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-24T15:35:53+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "High prices force many across the US to scale back for Thanksgiving: ‘We can’t afford the food’",
+    "summary": "Americans are opting for smaller gatherings, reconsidering travel or swapping expensive ingredients for cheaper alternatives Thanksgiving is just one day away, but for some Americans, the holiday may look a little different this year as higher costs for food, drinks , household goods, air travel and gasoline have…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices",
+    "image": "https://i.guim.co.uk/img/media/e9fba1ed9b515409d7d9cf9150fa7c17bd41c550/551_0_5506_4407/master/5506.jpg?width=140&quality=85&auto=format&fit=max&s=c13f7b81214e78b59d55a39facc9fb86",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-25T14:43:16+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Wszystkie - PAP",
+    "summary": "W sobotni wieczór 21 listopada 2026 r. europejsko-japońska sonda BepiColombo weszła poprawnie na orbitę Merkurego po ponad ośmiu latach podróży przez wewnętrzną część Układu Słonecznego.",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UGsxdmNUaHV1VUNodHJSemM1QW5sanRoZC1jdk9FYlBiQ0VDcHhJeFJpZFo2eTcyc2RGNDRwN3VEd0VOMnp0SjBpTm9GcjN3aHNVaDhn?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/56/99/kanclerz-niemiec-friedrich-merz-w-bundestagu-636x421-56992904.jpg",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl",
+     "National Geographic Polska",
+     "RMF24",
+     "Radio Kraków"
+    ],
+    "published": "2026-11-25T10:12:37+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Nie żyje reżyser teatralny i filmowy Andrzej Domalik. Miał 77 lat",
+    "summary": "24 listopada zmarł scenarzysta i reżyser Andrzej Domalik. Wzruszającymi słowami pożegnali twórcę współpracownicy i przyjaciele, przypominając jego ważne spektakle oraz filmy.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-nie-zyje-rezyser-teatralny-i-filmowy-andrzej-domalik-mial-77,nIdn,1027653",
+    "image": "https://rmf.rmffm.pl/news/attachments/55/6b/fot-636x421-556bd4ac.jpg",
+    "source": "RMF24",
+    "also": [
+     "PAP",
+     "TVN24",
+     "TVP Info"
+    ],
+    "published": "2026-11-25T12:40:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Będzie strefa zakazu lotów na wschodzie kraju? Wiceszef MON o szczegółach",
+    "summary": "Wiceszef MON Cezary Tomczyk poinformował w środę, że na wschodzie Polski ma powstać strefa zakazu lotów, obejmująca obszar oddalony od granicy o kilkanaście lub kilkadziesiąt kilometrów. Zapowiedział, że rząd planuje wprowadzić odpowiednie rozporządzenie pod koniec grudnia lub na początku stycznia.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-bedzie-strefa-zakazu-lotow-na-wschodzie-kraju-wiceszef-mon-o,nIdn,1027661",
+    "image": "https://rmf.rmffm.pl/news/attachments/e5/b4/zdj-636x421-e5b4d272.jpg",
+    "source": "RMF24",
+    "also": [
+     "Dziennik Gazeta Prawna",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-25T13:23:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Uczniowie w mundurach skandowali przed TK: Kuratorium ujawnia wyniki kontroli",
+    "summary": "Złamanie zasady neutralności politycznej i regulaminu mundurowego - m.in. takie nieprawidłowości wykazała kontrola, którą kuratorium oświaty przeprowadziło w niepublicznej szkole mundurowej w Zamościu (Podlaskie).",
+    "link": "https://www.rmf24.pl/fakty/polska/news-uczniowie-w-mundurach-skandowali-przed-tk-kuratorium-ujawnia,nIdn,1027651",
+    "image": "https://rmf.rmffm.pl/news/attachments/af/8d/trybunal-konstytucyjny-fot-636x421-af8ddae9.jpg",
+    "source": "RMF24",
+    "also": [
+     "Bankier.pl",
+     "TVN24"
+    ],
+    "published": "2026-11-25T12:41:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "RN Orlenu odwołała Sławomira Jędrzejczyka i Marka Balawejdera z zarządu spółki",
+    "summary": "Rada Nadzorcza Orlenu odwołała z dniem 25 listopada 2026 roku Sławomira Jędrzejczyka ze stanowiska wiceprezesa ds. finansowych oraz Marka Balawejdera ze stanowiska wiceprezesa ds. Consumers and Products - podała spółka w komunikacie.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnpBWlAyaDQ4OVZIUU16N1YzU2kxVDQ4UEtmZ2lCN18zZjREcDV1YzE3bWlKcXpFRm0tNEt2b0ZhdHZiSGFQekdUdnZtZFNlcXBVZjU3Y1JMa05BM3d0R3hrZkRQZlBOeVE2bGQ3N3dSWU1jNXpvVTMyX3V2Z2lOaEJpRU51LWYwYWd3VjlFT0d6QkU0Z2sxSFVTcDhLN2ExbW03b0tUdXRnc1Y3ZUJUZko4TWsyWUs1?oc=5",
+    "image": "http://galeria.bankier.pl/p/6/7/ea451375be34c7-948-568-810-247-1965-1178.jpg",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-25T13:28:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Strefa zakazu lotów na wschodzie Polski. \"Duża zmiana\"",
+    "summary": "Wiceszef MON Cezary Tomczyk zapowiedział strefę zakazu lotów przy wschodniej granicy Polski. Jak poinformował, rozporządzenie trafiło do rządowego zespołu. - Chcemy, żeby możliwie szybko takie rozporządzenie weszło w życie - podkreślił Tomczyk.",
+    "link": "https://tvn24.pl/polska/strefa-zakazu-lotow-na-wschodzie-polski-duza-zmiana-st9357280?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-tomczyk-ph9357287/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-25T13:50:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Ceny paliw. Nowe stawki",
+    "summary": "W czwartek na stacjach paliw będą obowiązywać nowe ceny maksymalne. Benzyna i olej napędowy będą tańsze niż w środę.",
+    "link": "https://tvn24.pl/biznes/pieniadze/ceny-paliw-w-czwartek-26-listopada-2026-ile-kosztuje-benzyna-pb95-pb98-i-olej-napedowy-st9356642?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-stacja-benzynowa-paliwa-ceny-paliw-ph9276101/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-25T12:12:21+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Wciąż szukają Arki Noego. A teraz wykopali 4300-letnie drewno u stóp góry Ararat",
+    "summary": "Historia poszukiwań Arki Noego to pasmo fałszerstw, telewizyjnych mistyfikacji i pobożnych życzeń. Teraz z Turcji znów napłynęły sensacyjne informacje: w skałach o kształcie kadłuba znaleziono drewno sprzed 4300 lat. Czy tym razem za głośnym komunikatem stoi prawdziwa nauka?",
+    "link": "https://www.national-geographic.pl/historia/wciaz-szukaja-arki-noego-a-teraz-wykopali-4300-letnie-drewno-u-stop-gory-ararat/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/57/wciaz-szukaja-arki-noego-a-teraz-wykopali-4300-letnie-drewno-u-stop-gory-ararat.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-25T14:42:13+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Śledztwo w sprawie Zondacrypto wchodzi w kolejną fazę. Policja prowadzi przeszukania",
+    "summary": "Policjanci z Centralnego Biura Zwalczania Cyberprzestępczości przeprowadzają w środę kolejne przeszukania w ramach śledztwa dotyczącego działalności giełdy kryptowalutowej Zondacrypto. Tym razem chodzi o dziewięć lokalizacji, które mogą wiązać się ze sprawą.",
+    "link": "https://businessinsider.com.pl/prawo/nowe-informacje-w-sprawie-zondacrypto-policja-przeszukuje-dziewiec-lokalizacji/zkvmsx5",
+    "image": "https://cdn.businessinsider.com.pl/1/060k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82NmIwODAyYTdmYzczODFkYjFlYjZkMzI5ZDEwMDVkNi5qcGeSlQMAzQFRzRL2zQqskwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-25T14:39:52+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Aktywność fizyczna czy zdrowa dieta? Nowy przegląd badań wskazuje, co bardziej wydłuża życie",
+    "summary": "Pilnowanie kalorii czy regularny trening? Choć oba nawyki są ważne, w wyścigu o długowieczność jeden z nich deklasuje konkurenta. Wyniki wieloletnich obserwacji pokazują, gdzie tak naprawdę kryje się największy potencjał dla naszego zdrowia. Wyniki nieco zaskakują.",
+    "link": "https://tvn24.pl/zdrowie/zdrowa-dieta-czy-ruch-co-bardziej-wydluza-zycie-wyniki-badan-naukowych-st9356949?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-shutterstock-2668105259-ph9356841/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-25T14:20:18+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "W samym sercu Rzeszowa odnaleziono skarb. Jego właściciele nigdy po niego nie wrócili",
+    "summary": "Na terenie nowej inwestycji realizowanej w samym sercu Rzeszowa, archeolodzy natrafili na skrywane tam przez lata kosztowności. W jednej z piwnic odnaleziono około 100 srebrnych monet zgromadzonych w niewielkim metalowym naczyniu, którym towarzyszyły elementy zastawy stołowej.",
+    "link": "https://www.national-geographic.pl/historia/w-samym-sercu-rzeszowa-odnaleziono-skarb-jego-wlasciciele-nigdy-po-niego-nie-wrocili/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/57/w-samym-sercu-rzeszowa-odnaleziono-skarb-jego-wlasciciele-nigdy-po-niego-nie-wrocili.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-25T13:57:49+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Nowoczesna Klinika Gastroenterologii w WIM-PIB",
+    "summary": "W miejscu lądowiska i startu dla gołębi WIM-PIB rozbudował Klinikę Gastroenterologii. Powstał jeden z najnowocześniejszych ośrodków w Polsce przyjazny pacjentom z chorobami zapalnymi jelit i żołądka. Będą leczeni wielodyscyplinarnie.",
+    "link": "https://www.gazetaprawna.pl/biznes/zdrowie/artykuly/11406709,nowoczesna-klinika-gastroenterologii-w-wim-pib.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL/2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzcxNT/g5MC9maWxlcy9rbGluaWthLWdhc3Ryb2VudGVyb2xvZ2lpLXBvLXB/yemVidWRvd2llLXdpbWJpcC0zOTMzMjIyOS5qcGciLCJ3IjozODQwfQ",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-25T13:17:44.545000+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Startupy i innowacje dla długiego życia. Warsaw Longevity Forum 2026",
+    "summary": "Długowieczność jako strategiczne wyzwanie XXI wieku. Za nami pierwszy dzień Warsaw Longevity Forum 2026, którego organizatorem jest firma INCONTRI.",
+    "link": "https://www.newsweek.pl/zdrowie-i-nauka/nauka/warsaw-longevity-forum-2026-wyzwania-i-strategie-dlugowiecznosci-kluczowe-wnioski/y2g3xhm",
+    "image": "https://ocdn.eu/pulscms-transforms/1/StMk9kpTURBXy9mYTkwMGIzZDlkMmExMzE1NzM4OGE3MzJmNGM5YTdjNC5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-11-25T12:54:39+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Młody skandalista z PiS ma możnego protektora. \"Będziemy patrzeć, czy przetrwa\"",
+    "summary": "Mało w środowisku PiS jest osób budzących taką irytację jak Oskar Szafarowicz. Student, dziś pracownik biura prasowego Prawa i Sprawiedliwości. Wcześniej próbował zostać gwiazdorem Telewizji Republika. — Teraz nic mu się większego nie stanie — słyszymy w PiS.",
+    "link": "https://www.newsweek.pl/polska/polityka/oskar-szafarowicz-budzi-w-pis-irytacje-ale-teraz-nic-mu-sie-wiekszego-nie-stanie/4jvdk64",
+    "image": "https://ocdn.eu/pulscms-transforms/1/RnOk9kpTURBXy85MDBkM2JkMmIwYzRmOTExMTg4ZmNlYzRlOGUzMmU2OS5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-11-25T10:03:05+00:00",
+    "topic": "polityka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "W Tatrach robi się niebezpiecznie. TOPR podnosi stopień zagrożenia lawinowego",
+    "summary": "Ratownicy TOPR ogłosili drugi stopień zagrożenia lawinowego. To jednak nie jedyne niebezpieczeństwo: lód na tatrzańskich stawach jest tak cienki, że wejście na ich taflę może skończyć się tragedią.",
+    "link": "https://lovekrakow.pl/podhale/w-tatrach-robi-sie-niebezpiecznie-topr-podnosi-stopien-zagrozenia-lawinowego",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/529665399a0873304657928db539e9ca.JPG.webp?itok=QtEmMHfY",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-25T14:45:01+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Weszli na najbardziej znany odcinek Plant Krakowskich. Znika niebezpieczny problem",
+    "summary": "Koniec z niebezpiecznymi ubytkami w samym sercu Krakowa. Wykonawca wszedł na odcinek Plant między Barbakanem a Bramą Floriańską. Na finał trzeba jednak jeszcze chwilę zaczekać.",
+    "link": "https://lovekrakow.pl/weszli-na-najbardziej-znany-odcinek-plant-krakowskich-znika-niebezpieczny-problem",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/e031569fe90420b57e0df8b513846873.JPG.webp?itok=RfapQDc6",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-25T13:50:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Niepokojący widok na rzece Prądnik. Na miejsce skierowano zastęp z grupy chemicznej",
+    "summary": "Mieszkańcy zauważyli niepokojącą zawiesinę na rzece Prądnik w Krakowie. Na wysokość ul. Grochowskiej skierowano strażaków z grupy chemicznej, którzy badają substancję.",
+    "link": "https://lovekrakow.pl/niepokojacy-widok-na-rzece-pradnik-na-miejsce-skierowano-zastep-z-grupy-chemicznej",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-01/70e7f46bcf08d80ad200ccf04c52ed2c.JPG.webp?itok=VeHUfgaS",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-25T13:33:58+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Nie do wiary jak mieszka Jarosław Kaczyński na Żoliborzu w Warszawie. Rodzinny dom pełen pamiątek i książek",
+    "summary": "Jarosław Kaczyński mieszka w willi na Żoliborzu w Warszawie. To miejsce pełne jest rodzinnych pamiątek i wspomnień z dzieciństwa, które spędził tam z bratem Lechem. Dom otacza bujna roślinność, zapewniająca prywatność. Wnętrze kryje regały z książkami i liczne pamiątki rodzinne.",
+    "link": "https://gazetakrakowska.pl/nie-do-wiary-jak-mieszka-jaroslaw-kaczynski-na-zoliborzu-w-warszawie-rodzinny-dom-pelen-pamiatek-i-ksiazek/ar/c9-15392137",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/14/0b/6001934c9ccb6_o,size,640x400,q,71,h,0a3793.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-25T14:03:03+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wielki finał Małopolskiej Ligi Klas 4 w Piłce Ręcznej już 5 grudnia w Krakowie!",
+    "summary": "Już 5 grudnia 2026 roku na hali AGH przy Armii Krajowej 5a w Krakowie odbędzie się wielki finał Małopolskiej Ligi Klas 4 w Piłce Ręcznej o Puchar Województwa Małopolskiego. Będzie to zwieńczenie pierwszej edycji projektu, który zgromadził młodych adeptów piłki ręcznej z całego regionu.",
+    "link": "https://radiokrakow.pl/patronaty/wielki-final-malopolskiej-ligi-klas-4-w-pilce-recznej-juz-5-grudnia-w-krakowie/188183",
+    "image": "https://radiokrakow.pl/media/article/188183/e5528a5965928650173774b6022743f3.jpg",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-25T14:45:46+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Brunatna plama na rzece Białucha w Krakowie. Służby sprawdzają, czym jest zanieczyszczenie",
+    "summary": "Trwają działania służb na rzece Białucha w rejonie ulicy Grochowskiej w Krakowie. Na wodzie unosi się brunatna plama nieznanego pochodzenia.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/brunatna-plama-na-rzece-bialucha-w-krakowie-sluzby-sprawdzaja-czym-jest-zanieczyszczenie/188179",
+    "image": "https://radiokrakow.pl/media/article/188179/f81118c8257e6e7ff3941f9c6daa41ea.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-25T14:40:00+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "WAJDA KILAR ŚLĄSK – spektakl muzyczny",
+    "summary": "Trzy byty: wizja, emocja i wykonawcza materia. Duch kina Andrzej Wajda, serce muzyki Wojciech Kilar i ciało wykonawcze Zespół Pieśni i Tańca Śląsk stapiają się w jedno sceniczne doświadczenie. Nie jest to spektakl biograficzny.",
+    "link": "https://radiokrakow.pl/patronaty/wajda-kilar-slask-spektakl-muzyczny/188181",
+    "image": "https://radiokrakow.pl/media/article/188181/2c253377516a6af14930b6d20f932e2b.jpg",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-25T14:38:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Czy proboszcz ma prawo odmówić pochówku? Kuria zabrała głos ws. zamachowca z Krakowa",
+    "summary": "Czy są okoliczności, w których proboszcz może odmówić pochówku? Na tapet trafiła sprawa pogrzebu 24-latka, który 7 listopada 2026 r. dopuścił się zabójstwa rodziny i masakry na Rynku Głównym w Krakowie. Kuria ma w tej kwestii jasne stanowisko.",
+    "link": "https://www.gazetaprawna.pl/twoje-prawo/sprawy-urzedowe/artykuly/11406442,czy-proboszcz-ma-prawo-odmowic-pochowku-kuria-zabrala-glos-ws-zamach.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL/2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzcxNT/Y5OS9maWxlcy9zaHV0dGVyc3RvY2stMjI4ODAyMTA1NS0zODE4NjI/3OS1jcm9wLTRhMzAwYWQwLTM5MzE5Nzk2LmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-25T07:58:44.559000+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Koniec kontrowersji wokół pogrzebu zamachowca? Kuria stawia sprawę jasno",
+    "summary": "Kuria Diecezjalna w Sandomierzu zabrała głos w sprawie pochówku sprawcy zamachu w Krakowie. Z komunikatu wynika jasno, że diecezja nie zamierza dopuścić, by sprzeciw lokalnego duchownego uniemożliwił pochówek na terenie cmentarza w Waśniowie (woj. świętokrzyskie).",
+    "link": "https://wiadomosci.wp.pl/krakow/koniec-kontrowersji-wokol-pogrzebu-zamachowca-kuria-stawia-sprawe-jasno-7354809768368288a",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cdf11095-2f23-4021-a476-865c63441103",
+    "source": "Wirtualna Polska",
+    "also": [],
+    "published": "2026-11-25T14:50:42+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Do trzech razy sztuka? MOCAK ma nowego dyrektora. Łukasz Gibała wybrał go bez konkursu",
+    "summary": "Muzeum Sztuki Wspďż˝łczesnej w Krakowie MOCAK ma nowego dyrektora. Prezydent Łukasz Gibała powołał go w trybie pozakonkursowym, co nie spodobało się niektďż˝rym samorządowcom. \"Gdzie podziały się zapowiadane transparentne konkursy?\" - pyta radna Agnieszka Pogoda-Tota.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33149351,mocak-ma-nowego-dyrektora-lukasz-gibala-wybral-go-bez-konkursu.html",
+    "image": "https://bi.im-g.pl/im/82/c3/1d/z31210626IHG,Muzeum-Sztuki-Nowoczesnej-MOCAK-w-Krakowie.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-11-25T14:44:00+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Thelma Golden will step down as leader of the Studio Museum in Harlem after 21 years",
+    "summary": "The director and chief curator, who first worked at the institution as an undergrad intern, has raised its profile internationally, and oversaw a $322m campaign and major expansion",
+    "link": "https://www.theartnewspaper.com/2026/11/25/studio-museum-harlem-director-thelma-golden-to-step-down",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/516d2d0bda0cf44ccdfe5439d4136838facbb972-2000x1334.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [
+     "ARTnews",
+     "The New York Times"
+    ],
+    "published": "2026-11-25T10:33:04+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Podlaskie Muzeum Kultury Ludowej digitalizuje cenny zbiór tradycyjnych tkanin",
+    "summary": "160 tradycyjnych tkanin dwuosnowowych - tych historycznych, ale też artystycznych i współczesnych udało się dotąd zdigitalizować w Podlaskim Muzeum Kultury Ludowej. Łącznie w ramach projektu ma być cyfrowo udostępnionych 360 tkanin.",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdTJkTjc0RWxGa2hYMDlFMUlDdWZub2cyLUNBZWFIajNobXlsZlpWYjRsZGdEcGprQXRoYW1OVFBTRlRHdXRnVE0wQ1oydkJrdHJqVkh6TmlDd2szaVhYc3gyVVNuTWR6anRxYUZXdm1aSzJKS2xTMmhhRHJURnQtbmFyb1pnLWRpQVBoQlZxaFlDNnRacHV1VFdENFl0a1ZKUDRQM1hwUDA4WXJ2NTNxRXdOdnBBTkhHSDJQWk5n?oc=5",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20260524_0XF.jpg?itok=NDdnR-Ew",
+    "source": "PAP",
+    "also": [
+     "Dzieje.pl"
+    ],
+    "published": "2026-11-25T13:44:59+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Grand Theft Auto VI takes over Miami, including its art destinations",
+    "summary": "Rockstar Games collaborated with the Wynwood Walls museum ahead of the blockbuster game's release, and has replicated (but renamed) the Pérez, Bass and Wolfsonian museums inside the game",
+    "link": "https://www.theartnewspaper.com/2026/11/24/grand-theft-auto-vi-takes-over-miami-art-institutions",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/54908254a5d82c303eb4582ccb48e5f7f00e4dba-2000x1125.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-24T22:32:29+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Frieze Los Angeles reveals 102 exhibitors for 2027 edition",
+    "summary": "The fair will welcome 22 first-time exhibitors, including four newer Los Angeles galleries, as the city's art scene continues to contend with closures amid a broader market slowdown",
+    "link": "https://www.theartnewspaper.com/2026/11/24/frieze-los-angeles-reveals-102-exhibitors-for-2027-edition",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/4c2b4c14d88555a3d7abb8a316269cc04ea7be9c-774x516.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [
+     "Artnet News"
+    ],
+    "published": "2026-11-24T14:00:00+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Blade Runner 2099 review – every scene of this TV version is packed with terrifying visual beauty",
+    "summary": "In this adaptation of the sci-fi franchise Michelle Yeoh and Hunter Schafer are on a quest to track down a group of replicants gone rogue. It’s a neon-filled world of beautiful doomsday visions Memory: the mother of the muses, and the heart of the Blade Runner franchise.",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/25/blade-runner-2099-review-tv-version-terrifying-visual-beauty",
+    "image": "https://i.guim.co.uk/img/media/0b772e04c37fdb783618b74fdae017e462f7696b/0_0_1125_900/master/1125.jpg?width=140&quality=85&auto=format&fit=max&s=c35d0dd41efb8b9248555cc76facdfcf",
+    "source": "The Guardian",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-25T08:01:09+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "The Web May Be Dying. Can Net Art Save It?",
+    "summary": "Live Study by Micheal Mandiberg at the Artport exhibition at the Whitney Museum of American Art in New York, NY on Thursday, November 19, 2026",
+    "link": "https://www.nytimes.com/2026/11/25/arts/design/artport-whitney-museum-digital-art-ai-paul.html",
+    "image": "https://static01.nyt.com/images/2026/11/29/multimedia/29cul-artport-whitney-digital-art-01-ljvm/29cul-artport-whitney-digital-art-01-ljvm-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-25T10:02:18+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Keep your wig on! Hairy paintings and sex worker photographs are the free art shows to see this week",
+    "summary": "Louise Giovanelli’s hirsute works astonish, MJ Mac records an industry of outcasts and star French conceptualist Sophie Calle brings absence alive ★★★★☆",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/25/sophie-calle-louise-giovanelli-mj-mac-free-art-shows-to-see",
+    "image": "https://i.guim.co.uk/img/media/157faacb03e3f42a8adcb9b743ff70faf86ec589/1210_0_6863_5490/master/6863.jpg?width=140&quality=85&auto=format&fit=max&s=9866558aa2b7ec353212ae7f6ea80fb5",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-25T14:27:51+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Indelible art: the punk tattoo artist preserving an ancient Thai tradition – in pictures",
+    "summary": "When Aod-Sarawut Waewngam learned tattooing at the age of 18, his goal was to tattoo himself. Drawn to punk culture as a teen, he first saw the art as an act of rebellion. But as his skill grew, he developed an interest in traditional Thai tattoos.",
+    "link": "https://www.theguardian.com/fashion/gallery/2026/nov/26/punk-lanna-leg-tattoo-artist-preserving-ancient-thai-tradition-photos",
+    "image": "https://i.guim.co.uk/img/media/c51e0fab887397e39ee0447ae87df0d94523f61f/296_0_4525_3620/master/4525.jpg?width=140&quality=85&auto=format&fit=max&s=1bb44212b86774a162e053ad403d80bb",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-25T14:00:28+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "W muzeum spotkanie o tym, co tyski kościół ma wspólnego z ikoną",
+    "summary": "Co kościół Ducha Świętego w Tychach ma wspólnego z ikoną i dlaczego jest nieoczekiwanym owocem czerwca '76? - odpowiedzi na te pytania padną w Muzeum Miasta Tychy podczas spotkania z dr. Ewą Chudybą w ramach cyklu „Czas na architekturę”",
+    "link": "https://dzieje.pl/dzieje-sie/w-muzeum-spotkanie-o-tym-co-tyski-kosciol-ma-wspolnego-z-ikona",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/Tychy_Chudyba.JPG?itok=co-sYKWS",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-25T10:37:45+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Historia jednej fotografii z Bazy Zdjęć PAP: kino Tęcza - tu randkowała powojenna Warszawa",
+    "summary": "Działalność kina Tęcza rozpoczęła się półtora miesiąca po zakończeniu II wojny światowej i pół roku po wyzwoleniu Warszawy. To tu bawiły się wówczas dzieci na porankach, a dorośli przychodzili na randki.",
+    "link": "https://dzieje.pl/wiadomosci/historia-jednej-fotografii-z-bazy-zdjec-pap-kino-tecza-tu-randkowala-powojenna-warszawa",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_19450901_01O.jpg?itok=GGtNxNg3",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-25T10:09:46+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Senat upamiętnił 45. rocznicę strajku w radomskiej Wyższej Szkole Inżynierskiej w Radomiu",
+    "summary": "Senat upamiętnił 45. rocznicę strajku pracowników i studentów Wyższej Szkoły Inżynierskiej im. Kazimierza Pułaskiego w Radomiu. Senatorowie wyrazili uznanie dla tych, którzy z odwagą i poświęceniem upomnieli się o prawo do demokratycznego współdecydowania o losach wspólnoty",
+    "link": "https://dzieje.pl/wiadomosci/senat-upamietnil-45-rocznice-strajku-w-radomskiej-wyzszej-szkole-inzynierskiej-w-radomiu",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20211026_0SF.jpg?itok=1NvZzThI",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-25T13:08:33+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Krytycy miażdżą kolejny film z De Niro. \"Ogladanie tego boli\"",
+    "summary": "Krytycy są zgodni: nowej odsłonie słynnej komedii brakuje świeżości, a żarty są nieśmieszne. To kolejna porażka filmu z Robertem De Niro w tym roku.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33149630,krytycy-miazdza-kolejny-film-z-de-niro-ogladanie-tego-boli.html",
+    "image": "https://bi.im-g.pl/im/49/9d/1f/z33150281IHG,-Poznaj-swojego-tescia----kadr-z-filmu.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-25T13:08:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Zagrał kultowego milicjanta, a nie był aktorem. Tak zaczęła się legenda",
+    "summary": "\"Funkcjonariusz milicji? Na wódkę? W godzinach pracy? Z największą przyjemnością!\" - tak mówił Borewicz, milicjant z klasą i poczuciem humoru. Oto historia kultowego serialu, który przez dekady budził śmiech, nostalgię i... kontrowersje. 25 listopada 2026 mija 50 lat od premiery.",
+    "link": "https://kultura.gazeta.pl/kultura/7,198697,26544886,zagral-kultowego-milicjanta-a-nie-byl-aktorem-tak-zaczela.html",
+    "image": "https://bi.im-g.pl/im/7d/50/19/z26545021IHG,Kadr-z-serialu.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-25T11:00:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Katarzyna Gołda: Na debiut czekałam ponad 30 lat. Nie po to, by stać się \"Severskim w spódnicy\", tylko by po prostu być sobą",
+    "summary": "Była oficer służb specjalnych, po debiutanckim thrillerze \"Złoty spadochron\", wydała właśnie drugą powieść \"Dosiad\". W rozmowie opowiada o tym, jak odnalazła się w roli pisarki, dlaczego nie chce naśladować innych autorów i co najbardziej interesuje ją w ludzkiej psychice.",
+    "link": "https://kultura.onet.pl/fragmenty-ksiazek/katarzyna-golda-na-debiut-czekalam-ponad-30-lat-nie-po-to-by-stac-sie-severskim-w/5wddte9",
+    "image": "https://cdn.kultura.onet.pl/1/urwk9lFaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMjg1MzBlNy1mNGJkLTQxODEtYTFlMy03MzIxOGIyMmQ2NjYucG5nkpUDzObNAQPNBbTNAzWTBc0JYM0GQN4AAqEwB6ExBA",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-25T14:12:24+00:00",
+    "topic": "literatura"
+   }
+  ]
+ }
+}
