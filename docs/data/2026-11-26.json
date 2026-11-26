@@ -1,0 +1,716 @@
+{
+ "date": "2026-11-26",
+ "generated": "2026-11-26T15:18+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Veruschka, One of the World’s First Supermodels, Has Died",
+    "summary": "Veruschka in 1966.",
+    "link": "https://www.nytimes.com/2026/11/25/style/veruschka-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/00obit-veruschka-pthv/00obit-veruschka-pthv-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "BBC News",
+     "The Guardian"
+    ],
+    "published": "2026-11-26T13:02:30+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+    "summary": "International arrivals at Gatwick Airport in Crawley, England.",
+    "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-26T13:51:57+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
+    "summary": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climate Ministers have “failed to make the case” for a third runway at Heathrow , according to a damning report by MPs.",
+    "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+    "image": "https://i.guim.co.uk/img/media/fab0ac6fb6bd3561751a120099c95928b8e4fe3b/1437_338_4550_3642/master/4550.jpg?width=140&quality=85&auto=format&fit=max&s=94f23b2ca2ca37a70a4f85def385db4e",
+    "source": "The Guardian",
+    "also": [
+     "Financial Times"
+    ],
+    "published": "2026-11-26T13:43:36+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Rosyjscy oligarchowie pozwali Polskę. Dwaj miliarderzy są partnerami od 35 lat",
+    "summary": "Dwaj rosyjscy miliarderzy — Siergiej Kolesnikow i Igor Rybakow — żądają od Polski 458 mln zł odszkodowania za przejęcie ich firmy. Kim są oligarchowie, którzy stracili swoją polską fabrykę po inwazji Rosji na Ukrainę? Jako studenci dzielili pokój w akademiku, a ich żony to siostry bliźniaczki.",
+    "link": "https://businessinsider.com.pl/biznes/kim-sa-kolesnikow-i-rybakow-zadaja-prawie-500-mln-zl-od-polski/lbsjkwl",
+    "image": "https://cdn.businessinsider.com.pl/1/Tm2k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80ODM2MDJkYmU5MjUxNGU1ODFlNjY1ZTY2ZjIxNjkyYS5qcGeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Business Insider Polska",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-26T13:28:52+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Rosyjski atak na Kijów. Na miasto spadły pociski balistyczne",
+    "summary": "\"Ukraińska Prawda\" przekazała, powołując się na mera stolicy Ukrainy Witalija Kliczko, że w wyniku rosyjskiego ataku na Kijów ranne zostały cztery osoby, dwie z nich są w ciężkim stanie.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-rosyjski-atak-na-kijow-na-miasto-spadly-pociski-balistyczne,nIdn,1027719",
+    "image": "https://rmf.rmffm.pl/news/attachments/0e/0d/zniszczenia-wojenne-w-kijowie-zdjecie-z-1410-636x421-0e0d09b8.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVN24"
+    ],
+    "published": "2026-11-25T21:18:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+    "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-26T14:00:42+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "New UK-EU treaty has 10-year termination clause",
+    "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-26T09:59:14+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Huge explosion at Bangkok oil depot sends black smoke over Thai capital",
+    "summary": "A major explosion at a Bangchak oil facility in eastern Bangkok sent flames and thick black smoke into the sky on Thursday. Authorities urged people living nearby to evacuate as emergency services responded to the incident.",
+    "link": "https://www.euronews.com/2026/11/26/huge-explosion-at-bangkok-oil-depot-sends-black-smoke-over-thai-capital",
+    "image": "https://images.euronews.com/articles/stories/10/00/91/86/1200x675_cmsv2_04d0d3e0-4eee-50b0-9364-7b5e3798480f-10009186.jpg",
+    "source": "Euronews",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-26T09:25:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+    "summary": "Latest figure of young people not in education, employment or training remains close to highest level in a decade Business live – latest updates UK politics live – latest updates The number of young people across the UK not in education, employment or training (Neet) has decreased but remains close to a million as…",
+    "link": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+    "image": "https://i.guim.co.uk/img/media/5ed2a70981b6249eff2491c184d3503f49eccad9/1_340_3616_2893/master/3616.jpg?width=140&quality=85&auto=format&fit=max&s=a3bb2ea7ae7878a2f31ef25c20f8c9dd",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-26T13:43:51+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
+    "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+    "image": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=140&quality=85&auto=format&fit=max&s=37aae666cd23b18016a8cbf4baa6297d",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-26T13:36:57+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+    "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-26T05:00:24+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Will This $252 Million ‘Museum City’ Be a Boon, or a Boondoggle?",
+    "summary": "An artwork by the Turkish artist Banu Cennetoglu at the Kanal-Centre Pompidou in Brussels this week.",
+    "link": "https://www.nytimes.com/2026/11/26/arts/design/kanal-centre-pompidou-brussels.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26cul-kanal-pompidou-cpvm/26cul-kanal-pompidou-cpvm-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-26T10:00:59+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "Duran Duran guitarist and songwriter Andy Taylor dies at 65",
+    "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUgwd0sxUHFEbjgzZERYVTV3U3F0c3BPa3A5LVhNMmt3WDA2azVETnY4MFdSTzJINEI0cmd1cEE2V3FWaDB3UzhabzM2MFlGLWwzUndzTjlURW1uNm1NSll6dkhaVFZ2TjRUMGlxcmVYRkItRWw0N0ZUMHpaUE5SbXJFcFBkX0g2TExDUGtlZVVYNFlMazUxRGVOZlR3eTQ?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg",
+    "source": "Reuters",
+    "also": [
+     "BBC News",
+     "Euronews Culture",
+     "France 24",
+     "Le Monde"
+    ],
+    "published": "2026-11-25T23:49:38+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Venice Biennale Names Its First Arab Curator: Hoor Al-Qasimi",
+    "summary": "The director of the Sharjah Biennial in the United Arab Emirates, she will organize the 62nd edition of the world’s oldest and best-attended contemporary art exhibition in 2028.",
+    "link": "https://www.nytimes.com/2026/11/26/arts/design/venice-biennale-2028-curator-hoor-al-qasimi.html",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/8f833d294c66f11a9ab526cd297c9b9e1f538f80-1200x1033.avif?w=140",
+    "source": "The New York Times",
+    "also": [
+     "ARTnews",
+     "The Art Newspaper"
+    ],
+    "published": "2026-11-26T13:57:32+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "India and U.S. Artist Nick Cave Win Venice Biennale’s Top Prizes",
+    "summary": "“Permanent Address” by Sumakshi Singh in the Indian pavilion at the Venice Art Biennale in May.",
+    "link": "https://www.nytimes.com/2026/11/25/arts/design/venice-biennale-visitors-lions-nick-cave-india.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25cul-venice-biennale-winner-qhcw/25cul-venice-biennale-winner-qhcw-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "Artnet News",
+     "The Art Newspaper"
+    ],
+    "published": "2026-11-25T14:37:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "„Dżentelmeni porzucili placówki”. Sikorski o ambasadorach w Chinach i Rumunii",
+    "summary": "Radosław Sikorski poinformował, że Jakub Kumoch i Paweł Soloch, byli ambasadorowie RP w Chinach i Rumunii, wrócili już do kraju. Szef MSZ ocenił, że dyplomaci \"porzucili swoje placówki\". Według niego formalną dymisję złożył jedynie Krzysztof Szczerski, ambasador przy ONZ.",
+    "link": "https://www.rmf24.pl/fakty/polityka/news-dzentelmeni-porzucili-placowki-sikorski-o-ambasadorach-w-chi,nIdn,1027815",
+    "image": "https://rmf.rmffm.pl/news/attachments/7c/d7/radoslaw-sikorski-zdj-636x421-7cd7fc95.jpg",
+    "source": "RMF24",
+    "also": [
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-26T12:11:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "North Korea expels Swiss diplomat in sanctions row",
+    "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+    "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg",
+    "source": "BBC News",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-25T21:51:17+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Macy's Thanksgiving Day Parade postponed due to weather for first time in 100 years",
+    "summary": "The move represents the first postponement of the iconic event, and comes after a forecast of strong winds and heavy rain.",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWhPYmVCWGllQUlkVVlDc2xCb1puNVJmRzRxb0M0TkxUXzJhUF96ZW9HalhkbHdCODVNcW40ZXZrTEhWR0ZpUHZZU1JmZ29TbXdZR2ZLMlNnMzJ2eUhaUXp4VkJOV2RvVnNweTdWbkFuUWptYmRCblc5aXBtOXlQSy1TSHpHQjRrUUpuYXIweEZtbldKSTltWG9US2p3eGZ6UTlBSjE5YW1qdGNsdVI3Y0wxeURLdF9IS1d3c3NuNVpxdTJfQmN5UmpjZ1ZZbFlW?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2d43/live/3a3ebde0-e94d-11f1-bfb6-fd0f1685abfb.jpg",
+    "source": "Reuters",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-25T21:13:00+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space",
+    "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+    "source": "Reuters",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-25T20:44:01+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+    "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/579b/live/12356f50-e985-11f1-bb43-d1b6102e3b60.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-26T11:21:50+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "summary": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-26T10:38:35+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+    "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station China has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS)…",
+    "link": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+    "image": "https://i.guim.co.uk/img/media/04f173935b2839f52dc33177838a3752879697b5/537_46_4868_3895/master/4868.jpg?width=140&quality=85&auto=format&fit=max&s=8ce547f826fe7a9102630ca22321755b",
+    "source": "The Guardian",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-25T14:18:29+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture",
+    "summary": "Kim accused Washington of encouraging its regional allies to acquire nuclear-powered submarines and of pledging to share its own nuclear weapons with them.",
+    "link": "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+    "image": "https://images.euronews.com/articles/stories/10/00/88/17/1200x675_cmsv2_ba3f3382-7581-5112-be9d-1cddc3a1fd21-10008817.jpg",
+    "source": "Euronews",
+    "also": [
+     "NPR"
+    ],
+    "published": "2026-11-26T05:55:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+    "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organisation in ‘under the radar’ meeting, documents reveal UK politics live – latest updates Peter Mandelson sought to organise an “under the radar” meeting between an economic adviser to Donald Trump and a member of his former lobbying firm, Global…",
+    "link": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+    "image": "https://i.guim.co.uk/img/media/ff1207557f3c58e205c4bec08ca53254507ea7c0/313_221_3844_3075/master/3844.jpg?width=140&quality=85&auto=format&fit=max&s=3f1b81bfdc9ef5171ec58296a4742bd7",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-26T13:11:39+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Kolejny ksiądz z diecezji sosnowieckiej z zarzutami na tle seksualnym",
+    "summary": "Kolejny duchowny z diecezji sosnowieckiej usłyszał zarzuty popełnienia przestępstw seksualnych. Jedną z jego ofiar miała być mała dziewczynka. Nie przyznał się do winy.",
+    "link": "https://www.rmf24.pl/regiony/slaskie/news-kolejny-ksiadz-z-diecezji-sosnowieckiej-z-zarzutami-na-tle-s,nIdn,1027753",
+    "image": "https://rmf.rmffm.pl/news/attachments/d3/ce/zdjecie-pogladowe-636x421-d3ce36d4.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia",
+     "TVN24",
+     "TVP Info"
+    ],
+    "published": "2026-11-26T07:38:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Premier Tusk zdecydował. Trybunał Konstytucyjny z nowym źródłem finansowania",
+    "summary": "– Premier Donald Tusk wydał dyspozycję, by Bank Gospodarstwa Krajowego zapewniał finansowanie Trybunału Konstytucyjnego, a środki na ten cel zabezpieczy minister finansów - poinformował w czwartek rzecznik rządu Adam Szłapka.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-premier-tusk-zdecydowal-trybunal-konstytucyjny-z-nowym-zrodl,nIdn,1027777",
+    "image": "https://rmf.rmffm.pl/news/attachments/af/52/premier-donald-tusk-na-posiedzeniu-rzadu-w-kprm-636x421-af5217a0.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVP Info",
+     "money.pl"
+    ],
+    "published": "2026-11-26T09:33:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Nie żyje Andy Taylor, gitarzysta grupy Duran Duran",
+    "summary": "",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOVRDUmFyV1c4OE52a2ZhbjZ0NWZ3cWR6NnVfNHJmaFROdGhqeTNxVUhoaWJ2aWdLakY0OXp4NXpBcGhJamJyckYtZ1pTOExCMDRwS2RoOXdYYVBhRFBmUHdYQ0dvZExTbTJBMEhNcUZGNVlaVFFpSmFnZGdwZ09mSGpjeGxtbVU?oc=5",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-andy-taylor-ph9357969/alternates/LANDSCAPE_1280",
+    "source": "PAP",
+    "also": [
+     "Dzieje.pl",
+     "Onet Kultura",
+     "TVN24"
+    ],
+    "published": "2026-11-26T08:17:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Wolters Kluwer rozwija Prawo.pl o nowe treści premium dla użytkowników LEX (MediaRoom)",
+    "summary": "Prawo.pl Premium rozszerza ofertę serwisu o ponad 1000 unikalnych artykułów rocznie, poświęconych najważniejszym zmianom i problemom prawnym. Nowe treści są dostępne wyłącznie w systemie LEX.",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3duMmxhTnNNMDd5WDBZWVlLRXJGcE9SWGE4R2REV29fVzJKMS1JSlNVQ2JNWjBrX3RiOFVqc0dRRV8xTVdORUFkZ3ZJTjVmTjJmcW9wcjVybDllMExFVHUxdzNFRVljWU5mZTJZNi12TGZJenllckZ0Y1VndTc1d1FiaXFTSkJNZGdMTUwwaE90UHkyOG56Njc5TUVOcEowME12NTdWZFpSZmVVN2xsY3lreDREZw?oc=5",
+    "image": "https://cdn.businessinsider.com.pl/1/r4nk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kOThlYTIxZS0xNGRlLTQ3NzUtYWJjOS05MWRlNWM0ZGE1ZDAuanBlZ5KVAwAAzQeAzQQ4kwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska"
+    ],
+    "published": "2026-11-26T11:39:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Afera w Szpitalu Południowym. Rzecznik Odpowiedzialności Zawodowej zdecydował ws. Dawida K.",
+    "summary": "Zgodnie z obietnicą przekazuję do wiadomości publicznej: Rzecznik Odpowiedzialności Zawodowej podjął decyzję o przedstawieniu zarzutów Dawidowi K. - przekazał rzecznik prasowy Naczelnej Izby Lekarskiej Piotr Pisula. Młody lekarz i były radny KO jest centralną postacią afery w warszawskim Szpitalu Południowym.",
+    "link": "https://www.rmf24.pl/regiony/warszawa/news-afera-w-szpitalu-poludniowym-rzecznik-odpowiedzialnosci-zawo,nIdn,1027830",
+    "image": "https://rmf.rmffm.pl/news/attachments/6e/50/warszawski-szpital-poludniowy-zdj-636x421-6e500ee7.jpg",
+    "source": "RMF24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-26T12:51:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Zebrał najwięcej w całej PO, teraz sprawą ma zająć się prokuratura. Konfederacja składa zawiadomienie ws. Marcina Kierwińskiego",
+    "summary": "Konfederacja kieruje do prokuratury zawiadomienie w sprawie szefa MSWiA Marcina Kierwińskiego – ogłosił w Sejmie poseł Michał Wawer. Politycy tej formacji chcą, by śledczy prześwietlili powiązania między ministrem a 113 darczyńcami, którzy wpłacili ponad dwie trzecie z blisko 724 tys.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11407213,zawiadomienie-prokuratura-marcin-kierwinski-kampania-wyborcza-konfederacja-platna-protekcja.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLn/BsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAw/NzY3NjQ4Ni9maWxlcy9tYXJjaW4ta2llcndpbnNraTAxNWZvdC/13b2p0ZWstZ29yc2tpLTM5Mjc1MDAzLmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-26T13:08:52.812000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Nagły zwrot ws. pieniędzy dla Trybunału Konstytucyjnego. Donald Tusk wydał dyspozycję, BGK nabiera wody w usta",
+    "summary": "Nagły zwrot w sprawie sparaliżowanych finansów Trybunału Konstytucyjnego. Po tym, jak Narodowy Bank Polski wstrzymał wszelkie zlecenia płatnicze instytucji, premier Donald Tusk wydał dyspozycję, aby finansowanie TK zapewniał Bank Gospodarstwa Krajowego, a środki na ten cel zabezpieczył minister finansów Andrzej…",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11407200,finansowanie-trybunalu-konstytucyjnego-bgk-dyspozycja-donalda-tuska-nbp.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljL/mluY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk/9CMDAwMDAwMDAwMDAwNzcxNjI5MS9maWxlcy9kb25/hbGQtdHVzay0zOTMzMzg1NS5qcGciLCJ3IjozODQwfQ",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-26T13:04:11.133000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "AI dostaje coraz więcej uprawnień. Kto sprawdza, co może zrobić agent?",
+    "summary": "Niedawno opisywaliśmy, jak pewien programista zlecił swojemu agentowi AI zapisanie go na siłownie. Gdy agent zwrócił odległe terminy, użytkownik poprosił go o przesunięcie wyżej w kolejce, a agent znalazł błędy bezpieczeństwa w systemie rezerwacji i usunął cudzą rezerwację, aby zapewnić miejsce swojemu “panu”.",
+    "link": "https://niebezpiecznik.pl/post/ai-dostaje-coraz-wiecej-uprawnien-kto-sprawdza-co-moze-zrobic-agent/",
+    "image": "https://niebezpiecznik.pl/wp-content/uploads/2026/11/agenty-ai-kv-150x150.jpg",
+    "source": "Niebezpiecznik",
+    "also": [],
+    "published": "2026-11-26T10:40:56+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Prezes Anthropic atakuje konkurentów. Mówi o \"pustych obietnicach\"",
+    "summary": "Dario Amodei oskarżył prezesów konkurencyjnych firm AI o składanie pustych deklaracji w sprawie ludzkiej kontroli nad sztuczną inteligencją. Prezes Anthropic odparł zarzuty, jakoby chciał, by AI rządziła społeczeństwem.",
+    "link": "https://businessinsider.com.pl/technologie/nowe-technologie/dario-amodei-krytykuje-szefow-ai-absurdalne-deklaracje-o-kontroli-ludzi/8tvcqvb",
+    "image": "https://cdn.businessinsider.com.pl/1/WI8k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wNDUyZDI3NDMwYWM5MWRlZWRlMWUzOGZhNjc1MzU5OS5qcGeSlQMAPs0H0M0EZZMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-26T14:15:09+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zmiany w KSeF. Senat zdecydował w sprawie kar dla przedsiębiorców",
+    "summary": "Senat przyjął w czwartek nowelizację bez poprawek. Przewiduje ona, że kary za błędy związane z korzystaniem z Krajowego Systemu e-Faktur (KSeF) nie będą stosowane do 31 grudnia 2027 r. Zmiana ma zapewnić przedsiębiorcom więcej czasu na przygotowanie się do nowych obowiązków.",
+    "link": "https://www.gazetaprawna.pl/podatki/artykuly/11407240,zmiany-w-ksef-od-2027-roku.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncHN/0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzcxNDY5MC9maWxlcy/9vZHBvd2llZHppYWxub3NjLXByemVkc2llYmlvcmN5LWtzaWVnb3d5Y2gtY/ml1cm8tcmFjaHVua293ZS1rc2VmLTM5MzI4NjY0LmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-26T14:11:14.574000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Miało być centrum handlowe, wybudują duże osiedle i dom kultury",
+    "summary": "Jeśli to osiedle powstanie, dzielnicy przybędzie ponad 1200 mieszkańców. Oprócz nowych bloków w Miasteczku Wilanów deweloper obiecuje \"oblany zielenią\" młodzieżowy dom kultury z kawiarnią, salą baletową czy studiem nagrań. Są już pierwsze szczegóły inwestycji.",
+    "link": "https://tvn24.pl/tvnwarszawa/wilanow/mialo-byc-centrum-handlowe-wybuduja-duze-osiedle-i-dom-kultury-st9357424?source=rss",
+    "image": "https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-wizualizacja-mlodziezowego-domu-kultury-w-miasteczku-wilanow-ph9357400/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-26T14:03:13+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Wybrano polski Dworzec Roku 2026. To XIX-wieczny zabytek, w którym można zagrać w kręgle",
+    "summary": "Dworzec w Oleśnicy zdobył główną nagrodę w konkursie „Dworzec Roku 2026”, organizowanym przez Fundację ProKolej. Nagrodę Publiczności przyznano stacji w Skierniewicach. Obaj zwycięzcy to obiekty zabytkowe, po gruntownych rewitalizacjach.",
+    "link": "https://www.national-geographic.pl/traveler/kierunki/wybrano-polski-dworzec-roku-2026-to-xix-wieczny-zabytek-w-ktorym-mozna-zagrac-w-kregle/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/57/dworzec-w-olesnicy.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-26T14:02:51+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Bank w kieszeni. Co załatwisz z telefonu, a kiedy potrzebujesz doradcy?",
+    "summary": "Od sprawdzania salda do zarządzania całymi finansami — jak zmieniły się aplikacje bankowe i co dziś możemy załatwić bez wizyty w oddziale? W \"Onet Rano Finansowo\" Grzegorz Kowalczyk rozmawia z Leszkiem Piekutem i Marcinem Łazińskim z Alior Banku o oszczędzaniu, inwestowaniu i kontrolowaniu budżetu z telefonu.",
+    "link": "https://businessinsider.com.pl/biznes/bank-w-kieszeni-co-zalatwisz-z-telefonu-a-kiedy-potrzebujesz-doradcy/bnys45n",
+    "image": "https://cdn.businessinsider.com.pl/1/gw1k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kMDNiMDc0Y2ZhNjdhYWVjN2IzYzUzMWVmMjcwZWRmYi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-26T14:00:11+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Ten bardzo tani rejestrator jazdy to hit. Nagrywa w 4K, zastępuje kamerę cofania i lusterko!",
+    "summary": "Są takie gadżety do auta, które od razu zmieniają komfort jazdy i ten urządzenia zdecydowanie do nich należą. Te niewielkie, wideorejestrtowy potrafią zaskoczyć zakresem działania, bo nie ograniczają się wyłącznie do nagrywania drogi przed maską.",
+    "link": "https://businessinsider.com.pl/technologie/ten-bardzo-tani-rejestrator-jazdy-to-hit-kamera-3w1-nagrywa-przod-wnetrze-i-cofanie/xqkw3f6",
+    "image": "https://cdn.businessinsider.com.pl/1/K9mk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84MDNhZGUwYmQ4NjVkMDFjMDdmZGQ2YmZhYmFiMGQ5Ni5qcGeSlQPNAVjNAWDNHqPNET6TBc0JYM0GQN4AAqEwB6ExBA",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-26T13:33:00+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Kraków pomoże przedsiębiorcom z Rynku Głównego. Ulgi w opłatach po ataku z 7 listopada",
+    "summary": "Kraków umożliwi przedsiębiorcom prowadzącym działalność na Rynku Głównym zawieszenie płatności lub zwrot należności za okres, w którym nie mogli pracować z powodu ograniczeń wprowadzonych po ataku z 7 listopada. Z pomocy będą mogli skorzystać m.in. restauratorzy, fiakrzy, handlarze oraz artyści.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/krakow-pomoze-przedsiebiorcom-z-rynku-glownego-ulgi-w-oplatach-po-ataku-z-7-listopada/188202",
+    "image": "https://rmf.rmffm.pl/news/attachments/a1/3d/8-listopada-2026-r-636x421-a13de9a8.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "RMF24 Kraków"
+    ],
+    "published": "2026-11-26T05:09:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Mija rok od ważnej decyzji papieża. To był przełom dla krakowskiego Kościoła",
+    "summary": "Dokładnie rok temu papież Leon XIV mianował kard. Grzegorza Rysia, ówczesnego metropolitę archidiecezji łódzkiej, arcybiskupem metropolitą krakowskim.",
+    "link": "https://lovekrakow.pl/mija-rok-od-waznej-decyzji-papieza-to-byl-przelom-dla-krakowskiego-kosciola",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/419c74c6a62ccaf0f750d45475658471.jpg.webp?itok=yflMHDik",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-26T13:35:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Kraków szykuje się na intensywne opady śniegu. Jest ostrzeżenie IMGW",
+    "summary": "Mieszkańcy Krakowa i okolic powinni przygotować się na intensywne opady śniegu. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenie meteorologiczne pierwszego stopnia dla regionu.",
+    "link": "https://lovekrakow.pl/krakow-szykuje-sie-na-intensywne-opady-sniegu-jest-ostrzezenie-imgw",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-02/9067b73bd0dd3316c0f7b508f8450f82.JPG.webp?itok=TkAlOQUu",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-26T12:35:01+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Wystarczy wrzucić do koszyka jeden produkt więcej. Spotkasz ich w 42 sklepach w Krakowie",
+    "summary": "Wystarczy jeden dodatkowy produkt w koszyku, by komuś zapewnić spokojne święta. Już 27 i 28 listopada w Krakowie i regionie rusza 30. Świąteczna Zbiórka Żywności.",
+    "link": "https://lovekrakow.pl/wystarczy-wrzucic-do-koszyka-jeden-produkt-wiecej-spotkasz-ich-w-42-sklepach-w-krakowie",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2025-11/d08eb344e75363ea13e108f02e932bf7.jpg.webp?itok=VlwSZn9u",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-26T11:35:02+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Radioaktywne śmieci przy szpitalu. \"Normy przekroczone o 300 procent\"",
+    "summary": "Czujniki śmieciarki odbierającej odpady szpitala Rydygiera w Krakowie zarejestrowały przekroczone normy promieniowania radioaktywnego. Na miejscu działają straż pożarna i sanepid. Szpital zapewnia, że nie ma zagrożenia dla pacjentów.",
+    "link": "https://tvn24.pl/krakow/krakow-radioaktywne-smieci-w-szpitalnym-kontenerze-st9358953?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-na-miejscu-pracuja-sluzby-ph9358947/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-26T13:37:57+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "\"Obwarzanek krakowski jest domknięty\". Jako drugi w Polsce",
+    "summary": "Od czwartku kierowcy mogą już korzystać z węzła Mistrzejowice, który połączył północną obwodnicę Krakowa S52 i drogę ekspresową S7. Teraz miasto jest otoczone tak zwanym ringiem złożonym z dróg szybkiego ruchu. Ma to między innymi zmniejszyć korki w Krakowie.",
+    "link": "https://tvn24.pl/krakow/krakow-otwarcie-wezla-mistrzejowice-kierowcy-moga-juz-w-pelni-korzystac-z-obwodnicy-st9358756?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-otwarcie-wezla-mistrzejowice-ph9358716/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-26T13:33:20+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Ratowali poszkodowanych w zamachu. Teraz zostali odznaczeni",
+    "summary": "Lekarze, pielęgniarki, ratownicy i dyspozytorzy medyczni, zaangażowani w ratowanie poszkodowanych w krakowskim zamachu odebrali w środę z rąk ministry zdrowia Jolanty Sobierańskiej-Grendy odznaki honorowe Za Zasługi dla Ochrony Zdrowia.",
+    "link": "https://tvn24.pl/zdrowie/zamach-w-krakowie-lekarze-i-ratownicy-odznaczeni-przez-ministre-zdrowia-st9358883?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-odznaczenia-dla-medykow-ph9358875/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-26T12:31:28+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Kraków/ Kolegium Elektorów UKEN odwołało prof. Piotra Borka z funkcji rektora uczelni",
+    "summary": "Kraków/ Kolegium Elektorów UKEN odwołało prof. Piotra Borka z funkcji rektora uczelni tryton czw., 11/26/2026 - 14:50 2 minuty",
+    "link": "https://naukawpolsce.pl/aktualnosci/news%2C116120%2Ckrakow-kolegium-elektorow-uken-odwolalo-prof-piotra-borka-z-funkcji-rektora",
+    "image": "https://naukawpolsce.pl/sites/default/files/styles/new_720_x_405/public/202611/pap_20240905_0D9.jpg?h=23df73d6&itok=3H0UQzzB",
+    "source": "Nauka w Polsce",
+    "also": [],
+    "published": "2026-11-26T13:50:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Gdy o życiu decydują sekundy. Innowacyjny wynalazek krakowskich naukowców",
+    "summary": "Naukowcy z Politechniki Krakowskiej opracowali innowacyjną gąbkę z chitozanu, która ma szybko tamować krwotoki i wspomagać gojenie ran. Biomateriał może znaleźć zastosowanie zarówno w medycynie pola walki, jak i w ratownictwie cywilnym.",
+    "link": "https://radiokrakow.pl/audycje/publicystyka/o-tym-sie-mowi/gdy-o-zyciu-decyduja-sekundy-innowacyjny-wynalazek-krakowskich-naukowcow/188231",
+    "image": "https://radiokrakow.pl/media/article/188231/082914f0756142a1095b10596dc87ea6.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-26T13:40:06+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "SUP-owe Mikołajki po raz ósmy",
+    "summary": "5 grudnia na krakowskim Zakrzówku odbędzie się ósma edycja SUP-owych Mikołajek organizowanych przez SUP Kulturę. Uczestnicy ponownie spotkają się na wodzie, by wspólnie popływać na deskach SUP i wesprzeć potrzebujące dziecko z Krakowa lub okolic. Wydarzenie rozpocznie się o godz.",
+    "link": "https://radiokrakow.pl/audycje/publicystyka/przed-hejnalem/sup-owe-mikolajki-po-raz-osmy/188232",
+    "image": "https://radiokrakow.pl/media/article/188232/f250c4541096472b0b69e24153604af7.jpg",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-26T13:36:00+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Newly attributed Titian self-portrait, bought for almost $70,000 two years ago, on sale in London",
+    "summary": "Now offered for £1.5m, it is part of an exhibition at Dickinson gallery exploring the relationship between Rubens, Van Dyck and Titian",
+    "link": "https://www.theartnewspaper.com/2026/11/26/newly-discovered-titian-self-portrait-bought-for-almost-£70000-two-years-ago-for-sale-at-£15m-in-london-exhibition",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/b46ec3dba1525065967fdfe971d30a78c8e914d7-4575x6181.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-26T12:59:10+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Lisa Marei Schmidt appointed to lead Kunstmuseum Bern and Zentrum Paul Klee",
+    "summary": "The current director of Berlin's Brücke-Museum will take up overall artistic responsibility for both Swiss institutions on 1 August 2027",
+    "link": "https://www.theartnewspaper.com/2026/11/26/lisa-marei-schmidt-appointed-director-kunstmuseum-bern-zentrum-paul-klee",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/7af3e43fa34145452d9fc8050e8ecf8e0d24afa2-3655x2480.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-26T12:49:59+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Tate Liverpool to reopen with Surrealism survey after two-year delay",
+    "summary": "The autumn 2027 reopening will also include a retrospective of work by Chila Kumari Singh Burman and a major commission by Asad Raza",
+    "link": "https://www.theartnewspaper.com/2026/11/25/tate-liverpool-announces-reopening-following-two-year-delay",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/be4881a444c9a4f2142aac1d1750c4fbd19ba995-2967x2182.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [
+     "ARTnews"
+    ],
+    "published": "2026-11-25T13:06:00+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Thanksgiving and a newborn meerkat pup: photos of the day – Thursday",
+    "summary": "The Guardian’s picture editors select photographs from around the world Warning, this gallery contains sensitive images that some viewers may find distressing",
+    "link": "https://www.theguardian.com/news/gallery/2026/nov/26/thanksgiving-and-a-newborn-meerkat-pup-photos-of-the-day-thursday",
+    "image": "https://i.guim.co.uk/img/media/f86a95e1b0f941584d8b34072173b35fc3119dea/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=1b9991b8ebe512505908c8f8fc7deff1",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-26T11:16:54+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Pour sauvegarder le patrimoine, le RN mise sur le privé",
+    "summary": "Le Rassemblement national s’éloigne de sa promesse de dégager 1 milliard d’euros pour la restauration du patrimoine.",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/26/pour-sauvegarder-le-patrimoine-le-rn-mise-sur-le-prive_6815530_3246.html",
+    "image": "https://img.lemde.fr/2026/11/25/202/0/5780/2890/644/322/60/0/d7f705a_upload-1-neejhrthq3jd-000-79w96bg.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-26T12:30:10+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Koordynator/ka projektów wystawienniczych w Dziale Organizacji Wystaw",
+    "summary": "Muzeum Narodowe w Krakowie jest instytucją kultury z przeszło 140-letnią tradycją. Opiekujemy się zbiorem liczącym ponad milion eksponatów, a naszą misją jest upowszechnianie sztuki polskiej i zagranicznej. Obecnie zatrudniamy blisko 600 osób w kilkunastu oddziałach zlokalizowanych w Krakowie oraz w Zakopanem.",
+    "link": "https://mnk.pl/koordynator-ka-projektow-wystawienniczych-w-dziale-organizacji-wystaw-2/",
+    "image": "https://mnk.pl/wp-content/uploads/2026/05/MNK-pattern-ogolny-1-1024x340.jpg",
+    "source": "Muzeum Narodowe w Krakowie",
+    "also": [],
+    "published": "2026-11-26T11:15:01+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Asystent/-ka / Adiunkt/-ka / Konserwator/-ka w Pracowni Konserwacji Tkanin i Ubiorów",
+    "summary": "Muzeum Narodowe w Krakowie jest instytucją kultury z przeszło 140-letnią tradycją. Opiekujemy się zbiorem liczącym ponad milion eksponatów, a naszą misją jest upowszechnianie sztuki polskiej i zagranicznej. Obecnie zatrudniamy blisko 600 osób w kilkunastu oddziałach zlokalizowanych w Krakowie oraz w Zakopanem.",
+    "link": "https://mnk.pl/asystent-ka-adiunkt-ka-konserwator-ka-w-pracowni-konserwacji-tkanin-i-ubiorow/",
+    "image": "https://mnk.pl/wp-content/uploads/2026/05/MNK-pattern-ogolny-1-1024x340.jpg",
+    "source": "Muzeum Narodowe w Krakowie",
+    "also": [],
+    "published": "2026-11-26T10:29:11+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "‘A window into imagination’: the magic of Macy’s Thanksgiving Day Parade – in pictures",
+    "summary": "Between the Balloons: My Thanksgiving Parade is the first book from Aperture Kids, which aims to create community and understanding through photography. The book celebrates the historic 100th anniversary of Macy’s Thanksgiving Day Parade with images by EA Kahane, illustrations by The New Yorker cartoonist Tom Toro and…",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/26/thanksgiving-day-parade-pictures-between-the-balloons",
+    "image": "https://i.guim.co.uk/img/media/77095755e12dfabdd5ae18335a08ccef8584f093/0_18_818_654/master/818.jpg?width=140&quality=85&auto=format&fit=max&s=4ab8a6e48876f032e99b336b37065ac8",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-26T13:14:53+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Najdroższe obrazy van Gogha",
+    "summary": "Obraz Vincenta van Gogha sprzedano na aukcji Sotheby's za rekordową kwotę 190,4 mln dolarów po zawarciu ugody między obecnymi właścicielami a spadkobiercami żydowskiego kolekcjonera Samuela Fischera, którzy kwestionowali okoliczności sprzedaży dzieła w czasach nazistowskich prześladowań.",
+    "link": "https://dzieje.pl/infografiki/najdrozsze-obrazy-van-gogha",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/igrafika_20261124_12%20%281%29.png?itok=6SnKbP1O",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-26T12:47:46+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "BBC Radio 1's Big Weekend 2027 heads to Brighton",
+    "summary": "The annual music festival will take place in Preston Park from Friday 28 to Sunday 30 May next year.",
+    "link": "https://www.bbc.co.uk/news/articles/cr1ewjpgd2llo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ef46/live/cb6196b0-e972-11f1-92c2-d7bfa08091ec.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-26T09:16:32+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Maciej Kozłowski nie spodziewał się tego, gdy oddawał krew. Chwila zmieniła wszystko",
+    "summary": "Maciej Kozłowski zapisał się w pamięci widzów jako charyzmatyczny aktor i człowiek o wielkim sercu. Kampania, w której chciał pomóc innym, okazała się przełomem w jego własnym życiu - wtedy dowiedział się, że jest chory.",
+    "link": "https://www.gazeta.pl/lifestyle/7,198978,29182473,maciej-kozlowski-nie-spodziewal-sie-tego-gdy-oddawal-krew.html",
+    "image": "https://bi.im-g.pl/im/be/d4/1b/z29182654IHG,Maciej-Kozlowski.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-26T14:03:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Hiszpańska publiczność spotkała się z polskimi twórcami literatury, kina i teatru",
+    "summary": "Publiczność hiszpańskiego literackiego festiwalu \"ene\", którego Polska jest honorowym gościem, spotkała się z polskimi twórcami, m.in. reżyserami: Agnieszką Holland i Pawłem Pawlikowskim, reportażystami: Mariuszem Szczygłem i Katarzyną Kobylarczyk, poetami: Marcinem Kurkiem",
+    "link": "https://dzieje.pl/wiadomosci/hiszpanska-publicznosc-spotkala-sie-z-polskimi-tworcami-literatury-kina-i-teatru",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/Festival_ene_Museo_Prado_Agnieszka_Holland_JOR3479-750x500.jpg?h=131105d7&itok=ofHm_B0s",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-26T12:54:43+00:00",
+    "topic": "literatura"
+   },
+   {
+    "title": "\"La Promesa - pałac tajemnic\", odcinek 529. Co wydarzy się w serialu?",
+    "summary": "W pałacu narasta poruszenie, gdy Manuel otwarcie przyznaje się do związku z Janą. Narzeczonych wspierają Catalina, Martina i Curro. Lope namawia Verę, by wyznała matce prawdę o straconych pieniądzach. Co jeszcze wydarzy się w serialu \"La Promesa - pałac tajemnic\"? Emisja 529.",
+    "link": "https://kultura.onet.pl/telewizja/seriale-zagraniczne/la-promesa-palac-tajemnic-odcinek-529-co-wydarzy-sie-w-serialu/7h9jfj1",
+    "image": "https://cdn.kultura.onet.pl/1/CFxk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hYTc1ODQ2NTc5NzRjNzc5ZTI1ZmM2NzQxNmNkZGU2NS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-26T06:01:32+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Dr hab. Michał Artymowski: “Wielki Wybuch” to uproszczenie. Wszechświat nie zaczął się w punkcie",
+    "summary": "Idea Wielkiego Wybuchu - rozumianego jako początek wszystkiego w punkcie - to uproszczenie, które nie ma wiele wspólnego ze współczesną fizyką – powiedział dr hab. Michał Artymowski z UKSW.",
+    "link": "https://dzieje.pl/wiadomosci/dr-hab-michal-artymowski-wielki-wybuch-uproszczenie-wszechswiat-nie-zaczal-sie-w-punkcie",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/Artymowski.jpg?h=093a7d26&itok=DsU-x7Tw",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-26T07:12:25+00:00",
+    "topic": "historia"
+   }
+  ]
+ }
+}
