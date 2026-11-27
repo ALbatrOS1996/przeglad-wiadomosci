@@ -1,0 +1,734 @@
+{
+ "date": "2026-11-27",
+ "generated": "2026-11-27T15:13+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
+    "source": "BBC News",
+    "also": [
+     "Al Jazeera",
+     "Euronews",
+     "Reuters"
+    ],
+    "published": "2026-11-26T21:17:53+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Myśliwce NATO poderwane. Dron wtargnął w przestrzeń powietrzną Łotwy",
+    "summary": "Niezidentyfikowany dron naruszył w piątek nad ranem przestrzeń powietrzną Łotwy - przekazały łotewskie siły zbrojne. Poderwano myśliwce NATO i wysłano drona przechwytującego. Alert został odwołany.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-mysliwce-nato-poderwane-dron-wtargnal-w-przestrzen-powietrzn,nIdn,1027919",
+    "image": "https://rmf.rmffm.pl/news/attachments/4e/85/przestrzen-po-636x421-4e85d340.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia",
+     "TVN24"
+    ],
+    "published": "2026-11-27T07:18:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+    "source": "BBC News",
+    "also": [
+     "Associated Press"
+    ],
+    "published": "2026-11-27T09:07:48+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+    "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVNiTVJwcnVUQ1RTTUdUbElNMll3d0xsRTRLSmhQS09GeWh6cFdmV2dDblpwWkJNRmlvdmZJSXZSekxQVVIxRHdOVC1icjZYVlptZlVETzcwZHhOWTlxS19fOFZCT3BnemFQWWZEOHVJS3dhbTZES3FrbGVvRlJ4MFA1bkZuMl96OFhjR3hPdFYxRG1Ob0tzM1hoOWZGWURF?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "NPR"
+    ],
+    "published": "2026-11-27T09:38:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Russian sabotage attacks in Europe up 16%, IISS says",
+    "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDlfWnppQVVFampWVVNJc25wbDRpS0VxOUJtV1g4TDY0T3RuMmZfS1JQX2pOT2N1NnBVLWRfbHJVdWVKb29JVXNMNFc2X2I5dE9tcXRjZTA5ZHJ3aG9HemhOWEpqMURiZGg4cmlBRExqUTFQNlNESU1hOVd2RkFFY01Sd1RCb1VzRnV6LXJtRmpxc25GdWZXRmY0ZW56dFR5Sm5oZUFfSlptQk5NWUNz?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Al Jazeera"
+    ],
+    "published": "2026-11-27T08:17:03+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Rosyjski opozycjonista uprowadzony w centrum Lizbony. Przełom w śledztwie",
+    "summary": "Pięciu domniemanych porywaczy rosyjskiego opozycjonisty Michaiła Gordiejewa zostało zatrzymanych - przekazała w piątek rano policja kryminalna. Podkreślono, że mężczyzna, który zaginął w Lizbonie we wrześniu 2025 roku, został prawdopodobnie zamordowany.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-rosyjski-opozycjonista-uprowadzony-w-centrum-lizbony-przelom,nIdn,1027909",
+    "image": "https://rmf.rmffm.pl/news/attachments/da/e9/zdj-636x421-dae969a8.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-27T06:29:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Leaders choose Spain’s former central bank head as next European Central Bank president",
+    "summary": "Pablo Hernandez de Cos, put forward as the next head of the European Central Bank, has had a long career in central banking and financial policymaking.",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORV9jQzQ1ZVNiVjB4bVUyT0FMS1JPeDZ1dk1QcWt3bDR2bnZDQjFLMWtjLWtQQUYyX2lIVUxNYjN0V3d1bmdlVEtyaXNOdWhVMWU4R18wcThUSHphd3NyVVNQOGZwVTFMUXpQdUZzOG1FUUlZWWRlaDhTbmstbTd4M0dEaGl0WXlFemZHTXVPYl9iSDFGbDNWb1VNVDZfVXFUTjdRMFd3?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25Biz-ECB-Leaders-01-vmhk/25Biz-ECB-Leaders-01-vmhk-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-26T18:25:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Spain’s far right hasn’t governed since Franco. Immigration fears could change that",
+    "summary": "If the polls are right, Santiago Abascal’s Vox party could become the first far-right group to join a Spanish government since the days of Franco.",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFRWOV9leVJ1NUx5LWV3T0kxMjVidmV2cEY1UmJnRFBJRmFlWlVPLW9HZUEzZnVEU01PSXlHTTJucGdxN0hLUzZrd2YtaEJxb2RJS1JySXlVNFNYdElMZVo4MXRCeHpTRURxN2ZaVngyQUduUW81YTFDLXloV2QtQ3NEOUdkVGpYd0F4S0VrcExPdlB0RnRLUVNRVERwQjg?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-spain-abascal-promo-zlgq/27int-spain-abascal-promo-zlgq-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-26T17:10:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Clashes mar European games as Macron condemns violence",
+    "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-27T10:24:24+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "Veruschka, One of the World’s First Supermodels, Has Died",
+    "summary": "Veruschka in 1966.",
+    "link": "https://www.nytimes.com/2026/11/25/style/veruschka-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/29/multimedia/00obit-veruschka-pthv-print1/00obit-veruschka-pthv-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-26T13:02:30+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Britain’s taste for cow’s milk fades as sales hit record low",
+    "summary": "Environmental and animal welfare concerns, and taste preferences, are behind rising popularity of vegan alternatives Has milk gotta lotta bottle? It may not have as much as it used to, with official data showing Britons are buying less cow’s milk than at any point since records began.",
+    "link": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
+    "image": "https://i.guim.co.uk/img/media/2ec208e4382ab770c2192d22683be7bc473ef71a/0_215_3697_2957/master/3697.jpg?width=140&quality=85&auto=format&fit=max&s=d862da9a2a27d2992d6e5336ffbe806e",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-27T13:32:07+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Magyar na Zakarpaciu: symboliczny krok ku normalizacji stosunków z Ukrainą",
+    "summary": "24 listopada premier Péter Magyar złożył pierwszą oficjalną wizytę na Ukrainie od objęcia urzędu w maju 2026 r. Był to zarazem pierwszy pobyt jakiegokolwiek szefa rządu Węgier w obwodzie zakarpackim od 2015 r.",
+    "link": "https://www.osw.waw.pl/pl/publikacje/analizy/2026-11-26/magyar-na-zakarpaciu-symboliczny-krok-ku-normalizacji-stosunkow-z",
+    "image": null,
+    "source": "OSW",
+    "also": [
+     "Associated Press"
+    ],
+    "published": "2026-11-26T12:00:00+00:00",
+    "topic": "polityka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "UK pensions department hit by 'cyber incident'",
+    "summary": "The department is working with cyber security experts to restore services and limit disruption Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckw3Wmx5TkduWUdyNE9qUS1vMDJLNjZjbnMzUURXdWt2NjdCdFYxWldNekg3WkJORWl1bkRva3BsSDVLN3FldzlQTmNLNnVnbVZrOWVxQ0NyX2N5SWRFaVpJaDBXeTM3Z2NzZDlxTzJaOENxWWZRYkl0VmpwZnFVYlZyYjdSLXg1OGpVNko1UHhKSEhWcDdhb0ZZaHpLdw?oc=5",
+    "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f",
+    "source": "Reuters",
+    "also": [
+     "Financial Times",
+     "The Guardian"
+    ],
+    "published": "2026-11-27T09:01:44+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Venice Biennale Names Its First Arab Curator: Hoor Al-Qasimi",
+    "summary": "The director of the Sharjah Biennial in the United Arab Emirates, she will organize the 62nd edition of the world’s oldest and best-attended contemporary art exhibition in 2028.",
+    "link": "https://www.nytimes.com/2026/11/26/arts/design/venice-biennale-2028-curator-hoor-al-qasimi.html",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/8f833d294c66f11a9ab526cd297c9b9e1f538f80-1200x1033.avif?w=140",
+    "source": "The New York Times",
+    "also": [
+     "ARTnews",
+     "The Art Newspaper"
+    ],
+    "published": "2026-11-26T13:57:32+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Guinea-Bissau’s military junta postpones elections until 2028, extending its rule by two years",
+    "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjdRTWo2ZjRYWDRUUjVNOTZvN0lhc3dmSmRGYzdtX2JkbThOU0JReVV3d3BJVGZVLUlVWWhZSDRDeXkwaS1TZkgyWmp3UHQ1aXgzdTFlOWdxOUxLWHlEUnN4aFRKb1JWblhxX2hIWGtMc1FPZjlJeVFsUHhDRndEdm1aUDJzUkhEWk9SUU9RYlJETmc?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-26T18:18:17+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Atak dronów w Kuwejcie, zginęło dwóch Włochów. Iran odrzuca oskarżenia",
+    "summary": "Dwóch obywateli Włoch zginęło w ataku dronów w Kuwejcie, potwierdził włoski minister spraw zagranicznych. Odpowiedzialność za atak przypisał Iranowi. Teheran zaprzecza.",
+    "link": "https://tvn24.pl/swiat/kuwejt-atak-dronow-zginelo-dwoch-wlochow-iran-odrzuca-oskarzenia-st9360248?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-hhvp7f-kuwejt-ph7906254/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-27T09:59:29+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+    "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjN6c01vbjdDZDNQSWVVaXRvMkszczI4QzUyQ3VzdFY5bnhTNGZTSERPblNTREpnT0N0VUtfc3hNTk5tejlnU2hvLXotUG01dUZmLUtkXzZPNVFwbGsySGNRLW1OOGRRWjRFUzZ3TUVycFAxU0FIVnV1d3djVGR5aThOZWNhWnJtV1I3OTNZRUNESUFjWF9sbnFObWtfUQ?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "NPR"
+    ],
+    "published": "2026-11-27T01:52:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+    "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg",
+    "source": "BBC News",
+    "also": [
+     "Euronews Culture"
+    ],
+    "published": "2026-11-26T12:33:23+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+    "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-27T11:44:40+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Millions of wives in South Asia unprotected from marital rape - study",
+    "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+    "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-27T08:13:43+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Thanksgiving meal in Florida leads to ‘mass casualty’ food poisoning incident",
+    "summary": "Local media reported that 18 people fell ill after attending a Thanksgiving lunch at a medical center headquarters A Thanksgiving meal in Florida triggered a bout of food poisoning so bad that local emergency officials said it was a “mass casualty” event as numerous stricken diners were sent to hospital.",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
+    "image": "https://i.guim.co.uk/img/media/2f3fbd9f4430808400e09dd686b337c6a4f9924f/599_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=0384795e8adf0eb32d2675a924071a47",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-27T13:41:23+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+    "summary": "Puma Shen, the Democratic Progressive Party candidate for Taipei mayor, campaigning on Friday. He has energized voters in a city long seen as a stronghold for the Nationalist Party.",
+    "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-taiwan-election-bpwl/27int-taiwan-election-bpwl-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-27T13:33:49+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
+    "summary": "John Mann says he is conducting review after hearing ‘disturbing’ accounts of discrimination from Jewish staff UK politics live – latest updates The government’s independent adviser on antisemitism has said he is launching an investigation into the BBC after hearing “disturbing” accounts from Jewish staff of…",
+    "link": "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
+    "image": "https://i.guim.co.uk/img/media/191e40fcc9472a47ebf5f460c69dd33382be5cab/254_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=f15f176b08350f819c264d73cd6b5110",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-27T12:39:10+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "‘Crisis in empathy’: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
+    "summary": "Judge says officers should be banned from screens and phones while on shift after the 33-year-old’s death at Silverwater • Warning: This article contains references to Indigenous Australians who have died The NSW coroner has found the death of an Aboriginal man in custody in 2023 was not only preventable but was “one…",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/3ed474d282a9fb1521fe2f84620f6cc0b572ec16/834_0_4172_3338/master/4172.jpg?width=140&quality=85&auto=format&fit=max&s=c67038bbe9b6e2902174359583958e97",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-27T11:18:47+00:00",
+    "topic": "gospodarka"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Wszystkie - PAP",
+    "summary": "Nieopodal Lublina rozciąga się region, do którego wielu turystów jeszcze nie dotarło. Kraszczady – laureat Cudów Polski 2026 w województwie lubelskim – oferują atrakcje zarówno dla miłośników aktywnego wypoczynku, jak i dla tych zainteresowanych bardziej klasycznymi formami zwiedzania.",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UGsxdmNUaHV1VUNodHJSemM1QW5sanRoZC1jdk9FYlBiQ0VDcHhJeFJpZFo2eTcyc2RGNDRwN3VEd0VOMnp0SjBpTm9GcjN3aHNVaDhn?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/e3/a6/929419722_4217945035008708_6723496744030991334_n-01ebd476-636x421-e3a68989.jpg",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl",
+     "National Geographic Polska",
+     "RMF24",
+     "TVN24"
+    ],
+    "published": "2026-11-27T09:36:49+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Za ile zatankujemy w weekend? Są nowe ceny paliw",
+    "summary": "Od soboty 28 listopada do poniedziałku 30 listopada na stacjach paliw będą obowiązywały nowe ceny maksymalne. Z opublikowanego w piątek obwieszczenia ministra energii wynika, że benzyna będzie tańsza, a olej napędowy droższy niż w piątek.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-za-ile-zatankujemy-w-weekend-sa-nowe-ceny-paliw,nIdn,1027997",
+    "image": "https://rmf.rmffm.pl/news/attachments/9e/4d/znamy-maksymalne-ceny-paliw-na-weekend-i-poniedzialek-zdj-636x421-9e4deeb3.jpg",
+    "source": "RMF24",
+    "also": [
+     "Bankier.pl",
+     "RMF24 Ekonomia",
+     "TVN24",
+     "money.pl"
+    ],
+    "published": "2026-11-27T12:46:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Ruch w sprawie Zbigniewa Ziobry. Waldemar Żurek podpisał wniosek o uchylenie immunitetu",
+    "summary": "Minister sprawiedliwości i prokurator generalny Waldemar Żurek podpisał wniosek do marszałka Sejmu o uchylenie immunitetu Zbigniewowi Ziobrze i wyrażenie przez Sejm zgody na tymczasowe aresztowanie. Ma to związek ze sprawą dotyczącą systemu Pegasus.",
+    "link": "https://tvn24.pl/polska/sprawa-zbigniewa-ziobry-waldemar-zurek-podpisal-wniosek-o-uchylenie-immunitetu-i-tymczasowy-areszt-st9361416?source=rss",
+    "image": "https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-pilne-ph8872513/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "Polsat News",
+     "TVP Info"
+    ],
+    "published": "2026-11-27T13:55:08+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Tusk: Polska będzie traktowana odrębnie; pieniądze z ETS zostaną w kraju",
+    "summary": "Premier Donald Tusk ogłosił w piątek po szczycie budżetowym UE w Brukseli, że wszyscy zrozumieli i zobowiązali się, aby Polska była traktowana odrębnie, jeśli chodzi o przekierowanie przychodów ze sprzedaży uprawnień w ramach systemu ETS do unijnego budżetu. Jak dodał, pieniądze z ETS zostaną w Polsce.",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNckp5Q3pHbUF0Z054eWNFdDlIT21hV0hxa09ZU2xHYU1KR0R1cUQyM1RaWkpZZEFld09VYVFJR29CQW9MWXRkeVhncHdScmVtaGsyRGNMRUcyemZCbnJ6d181M0FDeW92b1g5Z1VwOUVvSDNoV204aUdrWW9nZWdWb1VSalVaclgxUXgzWTNlMTZoaFhoS0hTLUdSVXFST0xRZHkybndsSW10RFdneDYtT0hyaWVCY1FRTEtxWW5qRi1lZTFq?oc=5",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLml/uY2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMD/AwMDAwMDAwMDAwNzcxNzM3Ni9maWxlcy8yNmIyNzIxN/C0zOTMzNTM0Mi0zOTMzNTM0Ny5qcGciLCJ3IjozODQwfQ",
+    "source": "PAP",
+    "also": [
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-11-27T10:42:42+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Prezydent Nawrocki drugi raz zawetował ustawę o tej podwyżce",
+    "summary": "Podwyżka stawek opłaty cukrowej ponownie spotkała się z wetem prezydenta. Karol Nawrocki argumentował, że zmiany dotknęłyby nie tylko słodkich napojów gazowanych, lecz także polskich soków.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-prezydent-nawrocki-drugi-raz-zawetowal-ustawe-o-tej-podwyzce,nIdn,1027990",
+    "image": "https://rmf.rmffm.pl/news/attachments/94/08/prezydent-karol-nawrocki-fot-636x421-94080b87.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVN24"
+    ],
+    "published": "2026-11-27T12:31:00+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Święczkowski reaguje na zawieszenie. „Decyzje tego gremium są bezprawne”",
+    "summary": "Decyzje tego gremium są bezprawne i nie wywołują żadnych skutków prawych - tak Bogdan Święczkowski odniósł się do ogłoszonej w czwartek decyzji o zawieszeniu go na 12 miesięcy w czynnościach służbowych sędziego Trybunału Konstytucyjnego.",
+    "link": "https://www.gazetaprawna.pl/prawnik/artykuly/11407403,swieczkowski-zawieszony-na-12-miesiecy-reakcja.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmlu/Y2RuLnBsL2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAw/MDAwMDAwMDAwNzcxNjM4OS9maWxlcy9ib2dkYW4tc3dp/ZWN6a293c2tpLTM5MzM0MTEyLmpwZyIsInciOjM4NDB9",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [
+     "Bankier.pl",
+     "Polsat News"
+    ],
+    "published": "2026-11-26T17:30:50.969000+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "W nocy znaleziono trzy ciała. Makabryczne odkrycie w Tychach",
+    "summary": "Obok palenisko.",
+    "link": "https://www.rmf24.pl/regiony/slaskie/news-w-nocy-znaleziono-trzy-ciala-makabryczne-odkrycie-w-tychach,nIdn,1027940",
+    "image": "https://rmf.rmffm.pl/news/attachments/10/e7/w-pustostanie-znaleziono-ciala-trzech-mezczyzn-fot-636x421-10e7edbb.jpg",
+    "source": "RMF24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-27T09:02:00+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Kolejne weto prezydenta. Minister finansów: wstyd",
+    "summary": "Prezydent ponownie stanął po stronie wielkich koncernów, a nie po stronie Polaków - napisał minister finansów Andrzej Domański po wecie do ustawy o podatkach. - Głupota i krótkowzroczność - skomentował poseł KO Konrad Frysztak w TVN24.",
+    "link": "https://tvn24.pl/polska/prezydent-zawetowal-ustawe-o-podatkach-komentarze-politykow-st9361020?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-karol-nawrocki-ph9341366/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "money.pl"
+    ],
+    "published": "2026-11-27T13:47:37+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Sceny podczas konferencji w sprawie Smoleńska. Głos zabrał Macierewicz",
+    "summary": "- Nie jest pan dziennikarzem, to jest konferencja - zwrócił się do Antoniego Macierewicza prok. Przemysław Nowak. Były minister obrony narodowej pojawił się podczas briefingu dotyczącego opinii biegłych na temat katastrofy smoleńskiej.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-sceny-podczas-konferencji-w-sprawie-smolenska-glos-zabral-ma,nId,23580043",
+    "image": "https://i.iplsc.com/-/000NKVGYLE4H0KXX-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-27T11:01:42+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Biegli o przyczynach katastrofy smoleńskiej. Cztery główne powody",
+    "summary": "Niestabilne podejście do lądowania, błędna ocena wysokości samolotu, kontynuowanie zniżania poniżej minimalnej wysokości, zbyt późna decyzja o odejściu na drugi krąg - to zdaniem międzynarodowego zespołu biegłych cztery przyczyny katastrofy smoleńskiej.",
+    "link": "https://wydarzenia.interia.pl/kraj/news-biegli-o-przyczynach-katastrofy-smolenskiej-cztery-glowne-po,nId,23579854",
+    "image": "https://i.iplsc.com/-/000NKV341G7KCYUC-C321.webp",
+    "source": "Interia",
+    "also": [
+     "Bankier.pl"
+    ],
+    "published": "2026-11-27T09:40:49+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Nie kupuj ekspresu, zanim nie zobaczysz tego De'Longhi. To spełnienie marzeń kawoszy",
+    "summary": "Masz ochotę na mocne espresso, a ktoś w domu woli łagodniejszą kawę? Nie trzeba już iść na kompromisy ani przesypywać ziaren z jednego pojemnika do drugiego. Ten automatyczny ekspres De'Longhi ma naprawdę sprytny patent: dwa wymienne pojemniki na kawę ziarnistą.",
+    "link": "https://businessinsider.com.pl/technologie/nie-kupuj-ekspresu-zanim-nie-zobaczysz-tego-delonghi-to-spelnienie-marzen-kawoszy/dss3kc3",
+    "image": "https://cdn.businessinsider.com.pl/1/hY6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83NGQ3YTFkOGRkZTgyZjFiM2M5M2E5NTMzZDU3NTM1NC5qcGeSlQPNATLNArHNEOjNCYOTBc0JYM0GQN4AAqEwB6ExBA",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-27T13:53:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Emocjonujący finał i fala komentarzy. Co fenomen \"Hotelu Paradise\" mówi o widzach?",
+    "summary": "Widzowie zobaczyli rzuconą kulę i złamaną obietnicę. Nie zobaczyli jednak wszystkiego, co przez tygodnie kształtowało emocje i zachowania uczestników. Psychoterapeutka, medioznawczyni i wieloletni reżyser \"Hotelu Paradise\" wyjaśniają, co kryje się za jednym z najgłośniejszych finałów w historii programu.",
+    "link": "https://tvn24.pl/kultura-i-styl/hotel-paradise-decyzja-karoliny-hoppe-i-fenomen-programu-eksperci-wyjasniaja-st9359278?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-karolina-hoppe-rzucila-kula-w-finale-hotelu-paradise-ph9356377/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-27T13:42:19+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Tylu Polaków chce zupełnie oddać zakupy agentom AI",
+    "summary": "Czym jest agent zakupowy? Polacy nie mają problemów z odpowiedzią na to pytanie. Jednocześnie ponad 60 proc. Polaków deklaruje, że woli samodzielnie przeglądać oferty i podejmować decyzje we własnym tempie — wynika z nowego badania Future Mind.",
+    "link": "https://businessinsider.com.pl/gospodarka/coraz-wiecej-agentow-polacy-wola-jednak-sami-robic-zakupy/s88rr0x",
+    "image": "https://cdn.businessinsider.com.pl/1/dbGk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83NTUyNDllYTE0ZGM3ZDMwMWYxNjE2NjkyNWY4ZTI0MC5qcGeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "source": "Business Insider Polska",
+    "also": [],
+    "published": "2026-11-27T13:38:49+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Śpisz zbyt długo – krócej żyjesz. Sen powyżej 9 godzin wiąże się ze zdecydowanie wyższym ryzykiem śmierci",
+    "summary": "Zwykle martwimy się niedoborem snu i zdawałoby się, że każde dodatkowe godziny są korzystne dla zdrowia. Tak jednak nie jest – nowa, trwająca 15 lat analiza ze Stanów Zjednoczonych pokazuje, że u osób z chorobą serca sen trwający co najmniej 9 godzin wiąże się z ponad 50-procentowym wzrostem ryzyka zgonu.",
+    "link": "https://www.national-geographic.pl/nauka/spisz-zbyt-dlugo-krocej-zyjesz-sen-powyzej-9-godzin-wiaze-sie-ze-zdecydowanie-wyzszym-ryzykiem-smierci/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/57/spisz-zbyt-dlugo-krocej-zyjesz-sen-powyzej-9-godzin-wiaze-sie-ze-zdecydowanie-wyzszym-ryzykiem-smierci.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-27T13:20:03+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Arcydzieło Vermeera „Kobieta w naszyjniku z pereł” – na Wawelu",
+    "summary": "",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT29ac09SUEJESFc1VUNWVFc3bWhIR052UHRBV2lac1MybDdMcDBpRHplZ1ZNdlQ5NUR5a3hIclhkZDEwTEZKTTVodEZMZS02UHFpTzJBdjdUTjh0NW5tOHF1VmFyQVgtUXNETkpEWDk0T1NPeXdSY2d3bGU1UXdoSEVEcmJTd2hVZk1EM1g3SDJqQ1c3TWZjaWowRWtHQk9VMm1jQWlaS1ZSVzFQb2haQWpiVmo?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/50/1f/zamek-krolewski-na-wawel-636x421-501f35b5.jpg",
+    "source": "PAP",
+    "also": [
+     "Dzieje.pl",
+     "RMF24",
+     "RMF24 Kraków"
+    ],
+    "published": "2026-11-27T10:24:45+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Ostatnia minuta lotu w Smoleńsku. Biegli wykluczyli wybuch",
+    "summary": "Tu-154M zniżał się zbyt szybko, a załoga błędnie oceniała jego wysokość. Według biegłych kluczowe było zejście poniżej 120 metrów, choć piloci nie widzieli pasa startowego. Kiedy dowódca zdecydował o odejściu na drugi krąg, było już za późno.",
+    "link": "https://radiokrakow.pl/wiadomosci/kraj/ostatnia-minuta-lotu-w-smolensku-biegli-wykluczyli-wybuch/188274",
+    "image": "https://i.iplsc.com/-/000NKVGGKR38SB9C-C321.webp",
+    "source": "Radio Kraków",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-27T11:45:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "250 przesłuchanych świadków. Nowe informacje ze śledztwa w sprawie zamachu w Krakowie",
+    "summary": "Około 250 świadków przesłuchano w śledztwie w sprawie zamachu na Rynku Głównym w Krakowie. Prokuratura czeka m.in. na wyniki badań toksykologicznych sprawcy i na opinie o użytej przez niego broni i amunicji. Śledczy sprawdzają także, czy napastnik działał sam, czy był przez kogoś inspirowany.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/250-przesluchanych-swiadkow-nowe-informacje-ze-sledztwa-w-sprawie-zamachu-w-krakowie/188253",
+    "image": "https://ipla.pluscdn.pl/dituel/cp/kj/kjw58j5hcy893k7sopoy1wyev1ei17ys.jpg",
+    "source": "Radio Kraków",
+    "also": [
+     "Polsat News"
+    ],
+    "published": "2026-11-27T06:25:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Przycisk SOS pod Wawelem. Ma zwiększyć poczucie bezpieczeństwa",
+    "summary": "Miasto poinformowało o zamontowaniu przycisku alarmowego na słupie przy Bulwarze Czerwieńskim. Połączy on bezpośrednio ze strażą miejską.",
+    "link": "https://lovekrakow.pl/przycisk-sos-pod-wawelem-ma-zwiekszyc-poczucie-bezpieczenstwa",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/e282c64955be1e3213a94d02c94d42ff.jpeg.webp?itok=2We6b9Jh",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-27T14:07:18+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Obraz Vermeera na Wawelu. Zaostrzono zasady zwiedzania",
+    "summary": "Po raz pierwszy w Polsce można zobaczyć obraz Johannesa Vermeera. Na Wawelu obowiązuje jednak limit 20 osób przebywających jednocześnie w sali. Dzieło będzie w Krakowie do 28 lutego.",
+    "link": "https://lovekrakow.pl/obraz-vermeera-na-wawelu-zaostrzono-zasady-zwiedzania",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/c3a4c6c06b80c0ba3405784d763eb15e.JPG.webp?h=41f55a5b&itok=cvXIQi5e",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-27T13:03:52+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Krakowska delegacja wróciła z Madrytu. Tematem bezpieczeństwo wody",
+    "summary": "Przedstawiciele Wodociągów Miasta Krakowa uczestniczyli w międzynarodowych warsztatach EBC. Rozmawiali m.in. o bezpieczeństwie dostaw wody podczas blackoutu.",
+    "link": "https://lovekrakow.pl/krakowska-delegacja-wrocila-z-madrytu-tematem-bezpieczenstwo-wody",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/8ad669117b50b6826ec03c2cfc5da73e.jpg.webp?itok=wb9HKFX3",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-27T11:02:18+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Ze 196 km² do niespełna jednego. Krakowski Alarm Smogowy krytykuje plan zmniejszenia SCT",
+    "summary": "Nieprofesjonalne, przygotowane na kolanie i szkodliwe dla zdrowia mieszkańców. Tak Krakowski Alarm Smogowy ocenia propozycję drastycznego zmniejszenia Strefy Czystego Transportu w Krakowie.",
+    "link": "https://radiokrakow.pl/wiadomosci/krakow/ze-196-km2-do-niespelna-jednego-krakowski-alarm-smogowy-krytykuje-plan-zmniejszenia-sct/188286",
+    "image": "https://radiokrakow.pl/media/article/188286/b72640bcc77a7122552cd32092a09563.jpg",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-27T13:43:41+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Bilet do teatru pod choinkę. Dla dorosłych i dla dzieci",
+    "summary": "Dlaczego bilet na spektakl to zawsze dobry pomysł na świąteczny prezent? Wystarczy sprawdzić repertuar krakowskich teatrďż˝w - w tym sezonie artystycznym jest się czym zachwycać.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33148246,bilet-do-teatru-pod-choinke.html",
+    "image": "https://bi.im-g.pl/im/3e/e6/1e/z32401982IHG,-Folwark-zwierzecy--w-rezyserii-Wojciecha-Koscieln.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-11-27T12:33:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "To wydarzenie wstrząsnęło Zakopanem. Śledczy utknęli w martwym punkcie",
+    "summary": "Dom przy ulicy Jagiellońskiej w Zakopanem, w którym w marcu 2022 r. odkryto zmumifikowane ciało noworodka, już nie istnieje. Został rozebrany. Śledztwo utknęło w martwym punkcie, a z biegiem czasu decyzją prokuratury akta sprawy trafiły na urzędowe półki z adnotacją: \"umorzone\".",
+    "link": "https://wydarzenia.interia.pl/malopolskie/news-zburzyli-dom-w-zakopanem-ale-tajemnica-pozostala-cialo-dziec,nId,7679803",
+    "image": "https://i.iplsc.com/-/000JI1YT9L66AVNL-C321.webp",
+    "source": "Interia",
+    "also": [],
+    "published": "2026-11-27T10:07:06+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "\"Czy mďż˝j promotor jeszcze pracuje?\". Uniwersytet SWPS w Krakowie zwalnia kadrę, studenci chcą wyjaśnień",
+    "summary": "Jesteśmy zestresowani, bo nie mamy pojęcia, kto przejmie nasze dyplomy. Tracimy promotorďż˝w na kilka miesięcy przed obroną - mďż˝wią studenci Uniwersytetu SWPS w Krakowie. Uczelnia zamyka dwa kierunki i zwalnia kadrę.",
+    "link": "https://krakow.wyborcza.pl/krakow/7,44425,33149823,swps-w-krakowie-wygasza-kierunki-i-zwalnia-wykladowow-studenci.html",
+    "image": "https://bi.im-g.pl/im/7b/94/1f/z33116027IHG,Siedziba-SWPS-w-Krakowie.jpg",
+    "source": "Wyborcza Kraków",
+    "also": [],
+    "published": "2026-11-27T05:03:00+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Gdańsk/ Filozoficzne opowiadania Leszka Kołakowskiego na scenie Teatru Miniatura",
+    "summary": "Spektakl „Bajki z królestwa Lailonii” w reżyserii Karola Bijaty, stanowiący adaptację książki filozoficznej Leszka Kołakowskiego, zostanie zaprezentowany premierowo w sobotę na Scenie",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmM2ckdmYXhTSnplQ201MHpfbW83TVZZNzNmdFg0VmlERjNGSHU0Y0dvRGlsOXdObERhTHR1WEJlTVM3YjVPY1dDMTRYbE9GeDZxekpMYTNzanhrd1ZBbkl5TzBNeS1kUjU3bEZuZlBUbERQcl9qYllNaGkwU2JZYm9ZMGx5MDl4emdmTEpyMDlkeVlmV2NONXlzalR5X3hTZ0ZUNUVoaFFGclNWaEE4cDkxaEZxcmNRRkpCeg?oc=5",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/thumb_bajki-z-krolestwa-lailonii-plakat-1.jpg?h=0c2260f9&itok=uAHGIbdj",
+    "source": "PAP",
+    "also": [
+     "Dzieje.pl"
+    ],
+    "published": "2026-11-27T10:24:59+00:00",
+    "topic": "teatr"
+   },
+   {
+    "title": "Lisa Marei Schmidt appointed to lead Kunstmuseum Bern and Zentrum Paul Klee",
+    "summary": "The current director of Berlin's Brücke-Museum will take up overall artistic responsibility for both Swiss institutions on 1 August 2027",
+    "link": "https://www.theartnewspaper.com/2026/11/26/lisa-marei-schmidt-appointed-director-kunstmuseum-bern-zentrum-paul-klee",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/7af3e43fa34145452d9fc8050e8ecf8e0d24afa2-3655x2480.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [
+     "ARTnews"
+    ],
+    "published": "2026-11-26T12:49:59+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Comment | Cop31 may have faltered but, as grassroots initiatives in the art world and beyond remind us‚ all is not lost",
+    "summary": "The growing impact of the National Emergency Briefing initiative, which recently screened its documentary at Tate Modern, brings hope as world leaders fail to come to an agreement at the United Nations climate conference",
+    "link": "https://www.theartnewspaper.com/2026/11/27/green-new-black-cop31-national-emergency-briefing",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/e3e739d73045200436fddfca04513d07f7f809b0-7008x4672.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-27T13:50:17+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "W Muzeum na Majdanku powstanie nowe Centrum Obsługi Zwiedzających",
+    "summary": "Państwowe Muzeum na Majdanku ogłosiło przetarg na budowę nowego Centrum Obsługi Zwiedzających. W budynku będzie m.in. nowa wystawa stała poświęcona historii niemieckiego obozu koncentracyjnego na Majdanku, funkcjonującego tu w czasie II wojny światowej.",
+    "link": "https://dzieje.pl/wiadomosci/w-muzeum-na-majdanku-powstanie-nowe-centrum-obslugi-zwiedzajacych",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20211103_1FR.jpg?h=131105d7&itok=r3Dhor_o",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-27T12:37:03+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Week in wildlife: ‘polar bear jail’, baby penguins and the turkeys’ revenge",
+    "summary": "This week’s best wildlife photographs from around the world",
+    "link": "https://www.theguardian.com/environment/gallery/2026/nov/27/week-in-wildlife-polar-bear-jail-baby-penguins-and-the-turkeys-revenge",
+    "image": "https://i.guim.co.uk/img/media/8330b33753f5283b15dae5d47fc3ad71e8214f96/317_0_4683_3747/master/4683.jpg?width=140&quality=85&auto=format&fit=max&s=e0a6cc4cc285e6092655edcf9520f36f",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-27T08:00:58+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Comment | The future of the ancient city of Palmyra should be determined by its local community",
+    "summary": "How should the ancient Syrian city, destroyed by Isis militants, be restored? Start by asking the people who live there",
+    "link": "https://www.theartnewspaper.com/2026/11/27/comment-the-future-of-palmyra-should-be-determined-by-local-community",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/81bf69d86136fdf62b6b829fc50acc7ce996aa89-3000x2003.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-27T13:20:53+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "WikiDante: akcja w Wikipedii",
+    "summary": "Domena publiczna to przestrzeń dla tych, którym przyjemność sprawia pogłębianie tematów i uczestniczenie w powstawaniu nowych treści w ramach wolnej edukacji.",
+    "link": "https://mnk.pl/wikidante/",
+    "image": "https://mnk.pl/wp-content/uploads/2026/11/kuszenie_010.jpg",
+    "source": "Muzeum Narodowe w Krakowie",
+    "also": [],
+    "published": "2026-11-27T09:00:00+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Five Local Talents to Watch at Art Basel Miami Beach",
+    "summary": "For South Florida’s local artists, the annual fair, beginning Dec. 2, can be a mixed blessing. Here are five of Miami’s most promising, deserving of the spotlight.",
+    "link": "https://www.nytimes.com/2026/11/26/arts/design/art-basel-miami-beach-artists.html",
+    "image": null,
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-27T13:39:34+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Visual Tour of NYC’s Holiday Store Windows: Macy’s, Saks and More",
+    "summary": "The winter-wonderland scenes are inspired by calligraphy, the alphabet, antique books and pen-and-ink illustrations.",
+    "link": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25ST-HOLIDAYWINDOWS-08-czfp/25ST-HOLIDAYWINDOWS-08-czfp-mediumSquareAt3X-v2.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-27T05:14:55+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "« Le monde culturel attend la présidentielle, où il jouera son avenir à la roulette – se sauver ou mourir –, et il évite ainsi de se remettre en question »",
+    "summary": "Les acteurs culturels craignent que leurs subventions, déjà en baisse, ne soient encore amputées en cas d’arrivée au pouvoir du Rassemblement national. Pourtant, la Cour des comptes constate, dans un rapport, une augmentation de l’offre subventionnée, et préconise de « cerner des priorités ».",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/27/le-monde-culturel-attend-la-presidentielle-ou-il-jouera-son-avenir-a-la-roulette-se-sauver-ou-mourir-et-il-evite-ainsi-de-se-remettre-en-question_6815861_3232.html",
+    "image": "https://img.lemde.fr/2026/03/04/1032/0/6192/3096/644/322/60/0/c427077_ftp-1-qfu0verbqfvb-5363911-01-06.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-27T12:55:48+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Pasjonaci historii podjęli się zrekonstruowania kutra walczącego na Wiśle we wrześniu 1939 r.",
+    "summary": "Pasjonaci historii chcą do 2028 r. zrekonstruować kuter meldunkowy, który brał udział w walkach na Wiśle na początku II wojny światowej. Z okazji Święta Marynarki Wojennej zaprezentowano stan prac.",
+    "link": "https://dzieje.pl/wiadomosci/pasjonaci-historii-podjeli-sie-zrekonstruowania-kutra-walczacego-na-wisle-we-wrzesniu",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/kuter1.jpg?h=aac37257&itok=KvhBYHzY",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-27T11:47:16+00:00",
+    "topic": "historia"
+   },
+   {
+    "title": "Netflix zostawił mocne tytuły na koniec roku. Szyc, Pitt i Diaz wśród 6 premier na grudzień",
+    "summary": "Grudniowe premiery Netflixa w 2026 roku zapowiadają się interesująco. Wśród nowości znalazły się kontynuacje popularnych seriali, ekranizacja literackiej klasyki oraz filmy z hollywoodzkimi gwiazdami. Na szczególną uwagę zasługuje rodzima produkcja, która przypomni o burzliwym rozdziale polskiej historii.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114628,33151954,netflix-zostawil-mocne-tytuly-na-koniec-roku-szyc-pitt-i-diaz.html",
+    "image": "https://bi.im-g.pl/im/26/9d/1f/z33152038IHG,-Zly-dzien----Bunt----Dalsze-perypetie-Cliffa-Boot.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-27T10:44:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Ksiądz namawia na mszy do rezygnacji z Netfliksa. \"To kpiny z wiary katolickiej\"",
+    "summary": "Jeden z najnowszych seriali Netfliksa nie przestaje budzić kontrowersji. Chociaż liczba przeciwników tytułu rośnie, produkcja nie spada z pierwszego miejsca najchętniej oglądanych serii na świecie.",
+    "link": "https://kultura.gazeta.pl/kultura/7,127222,33151455,ksiadz-namawia-na-mszy-do-rezygnacji-z-netfliksa-to-kpiny.html",
+    "image": "https://bi.im-g.pl/im/22/9d/1f/z33152290IHG,Kadr-z-mszy.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-27T09:00:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Noclip. „Rzeźba po stabilności” w Muzeum Sztuki Nowoczesnej w Warszawie [PL/ENG]",
+    "summary": "Zuzanna Stempska ; Muzeum Sztuki Nowoczesnej wpuściło do wnętrza konia trojańskiego: sztukę, która ma ewidentną bekę z przymusu bycia wieczną, czytelną i użyteczną dla rynkowych potyczek.",
+    "link": "https://magazynszum.pl/noclip-rzezba-po-stabilnosci-w-muzeum-sztuki-nowoczesnej-w-warszawie/",
+    "image": "https://magazynszum.pl/wp-content/uploads/2026/11/rzezba-po-stabilnosci-robert-glowacki-003-1440x1080.jpg",
+    "source": "Magazyn Szum",
+    "also": [],
+    "published": "2026-11-27T05:00:31+00:00",
+    "topic": "sztuka"
+   }
+  ]
+ }
+}
