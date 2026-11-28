@@ -1,0 +1,719 @@
+{
+ "date": "2026-11-28",
+ "generated": "2026-11-28T14:29+01:00",
+ "mode": "rss",
+ "topics": {
+  "polityka": "Polityka",
+  "bezpieczeństwo": "Bezpieczeństwo",
+  "gospodarka": "Gospodarka",
+  "kultura": "Kultura",
+  "nauka": "Nauka",
+  "zdrowie": "Zdrowie",
+  "klimat": "Klimat i przyroda",
+  "technologie": "Technologie",
+  "sport": "Sport",
+  "społeczeństwo": "Społeczeństwo",
+  "fakty": "Fact-checking",
+  "muzea": "Muzea i zabytki",
+  "sztuka": "Sztuka",
+  "film": "Film i seriale",
+  "muzyka": "Muzyka",
+  "literatura": "Książki",
+  "teatr": "Teatr i taniec",
+  "historia": "Historia"
+ },
+ "categories": {
+  "europa": [
+   {
+    "title": "Od poniedziałku strefa buforowa przy granicy z Białorusią zostanie przedłużona o kolejne 90 dni",
+    "summary": "O kolejne trzy miesiące - na grudzień, styczeń i luty - zostanie przedłużone obowiązywanie tzw. strefy buforowej przy granicy z Białorusią. Jak czytamy w rozporządzeniu, przedłużenie zakazu przebywania w strefie nadgranicznej jest zasadne ze względu na wciąż realne zagrożenia, związane z presją migracyjną.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXdNcEwxelctWndaY3FuRUF2S3RrSGZ1TUlqZlU0U2hmUVY3WUNndHlrTWRZOUhhY2llOXhOTlJUdzBvekEzelg1Q1U5X1M1V1drN05FbWVzODc4anNEclU1d2x5NmhLSm1RYUdnZTNSUHQzYXVQV3lVT3YtZEJEVlhkLUNWNEpaYUlDN0pnVkUzTEJpaUtiV18taUl3UEVoTmNDZk1rUmcyN3hTRlVTbzhqdGgtQzRa?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/f6/c4/fot-636x421-f6c4a643.jpg",
+    "source": "PAP",
+    "also": [
+     "Bankier.pl",
+     "Polsat News",
+     "RMF24"
+    ],
+    "published": "2026-11-28T06:52:07+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "S&P cuts France outlook to negative on budget, politics",
+    "summary": "Rating agency says political instability will make it harder for the country to tackle its public deficit",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHlHVU5tTTJaQ21PUzY4S1VubHVSYk5rMy1rRFJYbWpKTUNLR0ljaGNMTklRLTVGSC1YN3FLeV9BNFRVbmMzM25jckV0MHJ0ME5GMGxheEwtS2lNWWVTc1lGdkloLURKc2FxWEkwZ3plS0ZFV2hqR09DNEpmeGp0QV85alE0c0xINHV1bTZSUko1UklHZk5DYUtsWmptekpxN3JjakVWeFItNjhMYllSMF96QWVzOU1LeW5JcnNNNkhiYXhpSUE?oc=5",
+    "image": null,
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "Financial Times"
+    ],
+    "published": "2026-11-27T22:46:09+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+    "source": "BBC News",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-27T18:00:40+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "British police link substance release at Don Toliver's recent Manchester concert to robbery attempts",
+    "summary": "A concert in Manchester, England, by the rapper Don Toliver was canceled mid-performance on Sunday after some in the crowd began feeling the effects of what the police called “an unknown substance.”",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2hhU3lDQ0NELTZRaVlHb1ZIMTFDYWg3U3ZfdjhrUV9oREt6RXU3RklmbzBORS1hLWw1OWZ5VlZWSG4tRFJFM1VnNE9tcGZNNGRpTXJxci1QTzlqd0VCU01ZbTItX3diLUo2RXVheW1vd2ItX0dubktoQXZPRWJSaXp0d21XT2tJUnY2cUxLal9DdnBCbVV4WlR6bFRwaFM1WE5qZzYtSQ?oc=5",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-manchester-fkzm/27xp-manchester-fkzm-mediumSquareAt3X.jpg",
+    "source": "Associated Press",
+    "also": [
+     "The New York Times"
+    ],
+    "published": "2026-11-27T17:27:00+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Rosja ma pierwszy taki okręt podwodny. Putin na ceremonii",
+    "summary": "Władimir Putin wziął udział w ceremonii podniesienia bandery na podwodnym okręcie atomowym Perm. Kreml przedstawia to jako zapowiedź modernizacji marynarki wojennej. Kontekst wskazuje jednak, że jednostka może zostać wykorzystana do kolejnych uderzeń na Ukrainę.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-rosja-ma-pierwszy-taki-okret-podwodny-putin-na-ceremonii,nIdn,1028059",
+    "image": "https://rmf.rmffm.pl/news/attachments/e9/49/kremlin-pool-636x421-e949d077.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-27T20:15:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Budżet Niemiec uchwalony. Pieniędzy dla polskich ofiar brak",
+    "summary": "Rekordowy budżet Niemiec, ale bez pieniędzy dla polskich ofiar niemieckiej okupacji. Bundestag uchwalił plan wydatków na 2027 rok. Choć część polityków i dziennikarzy apelowała o uwzględnienie w nim środków na \"gest humanitarny\" wobec Polski, taka decyzja nie zapadła.",
+    "link": "https://www.rmf24.pl/fakty/swiat/news-budzet-niemiec-uchwalony-pieniedzy-dla-polskich-ofiar-brak,nIdn,1028050",
+    "image": "https://rmf.rmffm.pl/news/attachments/68/83/zdjecie-wykonane-przez-niemcow-14-wrzesnia-1939-roku-to-inscenizacja-propagandowa-majaca-obrazowac-wkroczenie-wojsk-niemieckich-do-polski-636x421-6883ece3.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia"
+    ],
+    "published": "2026-11-27T18:44:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Serbia",
+    "summary": "The arrest of media owner Dragan J. Vucicevic raises questions about whether Serbia is holding the people behind the country's pro-Vucic media accountable — or whether this is another political power struggle.",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9nYUtlRG94Q3JkSXc3MkRyYmpVZ0xkYzJkYUE4SmRLa3NQN0VxeXpTb2ZMUWZKMDF2aDI3eC14VGJrdXc?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Deutsche Welle"
+    ],
+    "published": "2026-11-27T20:09:52+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+    "summary": "Smoke rising from an oil refinery after a Ukrainian drone strike in Moscow in September. Kyiv has been trying to turn Russia’s immense geographic scale and far-flung military and economic assets into a liability.",
+    "link": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+    "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v3.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-28T13:25:26+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+    "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-28T04:13:45+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "High-security prisoner used soap to escape despite being handcuffed and chained to officer",
+    "summary": "Exclusive: inmate from HMP Manchester now back in custody after 13 hours on the run A prisoner from one of England and Wales’s most dysfunctional high-security jails is believed to have used soap to help escape from officers while visiting a hospital for treatment.",
+    "link": "https://www.theguardian.com/society/2026/nov/28/high-security-prisoner-used-soap-to-escape-despite-being-handcuffed-and-chained-to-officer",
+    "image": "https://i.guim.co.uk/img/media/2c85d9947f76a75500e3598151cd19ae87eda3c1/311_0_6707_5368/master/6707.jpg?width=140&quality=85&auto=format&fit=max&s=72bdd976406801d5661c1afbfdde8f7f",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-28T12:00:41+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "Princess Catherine’s Cancer Documentary ‘Heal’: 3 Takeaways",
+    "summary": "Catherine, Princess of Wales, touring a hospital wing in Bordon, England, in November.",
+    "link": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-uk-royals-catherine-cancer--pkgv/27int-uk-royals-catherine-cancer--pkgv-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
+    "also": [],
+    "published": "2026-11-28T11:26:45+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "First hippo born at safari park in more than 40 years",
+    "summary": "A hippo calf is born at Longleat Safari Park as part of a European breeding programme.",
+    "link": "https://www.bbc.co.uk/news/videos/cm0qjlv9lelzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a8a9/live/db5c25e0-eb01-11f1-99a1-253766e7ad8b.png",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-28T07:57:30+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "swiat": [
+   {
+    "title": "OpenAI countersues Apple for stealing trade secrets",
+    "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f0d/live/51e85220-eb10-11f1-874e-81d351dd336c.jpg",
+    "source": "Reuters",
+    "also": [
+     "BBC News",
+     "Euronews",
+     "Financial Times",
+     "The Guardian"
+    ],
+    "published": "2026-11-27T23:00:08+00:00",
+    "topic": "technologie"
+   },
+   {
+    "title": "Canada's top court upholds Quebec law banning religious symbols in test of unity",
+    "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2xTN3lIM0VNZ0t1dTRlSy13WUo1T0JIek5NZThtRklXazNKZlhyUUN0VWxOOXpRY2drMkFOZXlZd1BFM0FrYWpPQjlnYk1kUzB0dzZVczV4b1B2YjZ2MmtJYXM5dEIwNi1VVW9TcUVGWHRPbUNybDdyV2ZzNTZObm5FQTUwLUt2VjNtOWx4N3c4MDdTZGFvS3VGdHVaSno4aWh6ZzNRRURtNmdTMmxrS1lIdmhTZVdCVWFyak9QY2FjRHJsd1dJWA?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "BBC News",
+     "The Guardian",
+     "The New York Times"
+    ],
+    "published": "2026-11-27T19:36:59+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "MSF charity condemns Israeli strike that killed two staff outside Gaza clinic",
+    "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlN6bWNCajEzSzJDU0o3Qk5qQnJiS3Zxb2VaUnFjM05vM0hkZ2E3NnJNeXlVdEVVMkNwdGRXcmRaTGF3bHI4emRsaVhaTHVtV3dmNDJlWUFGY1YzTTFxNlNkaFViN1FYdlo3WVM4SUJlaTZkc1AyVE9MdmZkMDdYeE1wR3RzRXFzeTVvY0lrczh4N1ZGXzM4NWR2MmF6NkRYeDBWNEtMOEswT3BxU2dxYllRcmM?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg",
+    "source": "Reuters",
+    "also": [
+     "Associated Press",
+     "BBC News",
+     "The Guardian"
+    ],
+    "published": "2026-11-28T12:29:10+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "California",
+    "summary": "Se Nah Park was overwhelmed by a wave at the notorious Panther Beach The purse of a 24-year-old who was swept into the ocean at a notorious California beach three weeks ago was found on Wednesday, as the west coast saw record high king tides.",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lZElDblFaYWZwaTFzV095cEJ1SUZHUEVWRnIxSXJRS2t0NmY3MXhTR3phT3YzT3lCNkZEdFJ6TjdUNjQtMmhOUA?oc=5",
+    "image": "https://i.guim.co.uk/img/media/87e0cce41f886cd60d1d8b165378056b92b1eacc/0_0_1730_1384/master/1730.jpg?width=140&quality=85&auto=format&fit=max&s=193df2b4178c46b858edcdba73de27cc",
+    "source": "Associated Press",
+    "also": [
+     "National Geographic",
+     "The Guardian",
+     "The New York Times"
+    ],
+    "published": "2026-11-28T06:58:23+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Argentina's bid to stop Falklands oil drilling rejected",
+    "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+    "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg",
+    "source": "BBC News",
+    "also": [
+     "The Guardian"
+    ],
+    "published": "2026-11-28T13:02:39+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Jermaine Haley, known as WWE wrestler Bronson Reed, dies at 38",
+    "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2hsd1NTTmRyejRTUXUtVFRYMGNVRWZqUmhySGJudktEc1hJUWhnMnJaNFVPSFAtUjVKb1NQaU0zZnluMGpIMG8tdF9aM05yY0VVajZKZjhWNHNvbnBOTkhsREl1VE1mWWhjaW9sMmRQdTExUktmM2tZWW1xVjJ5LXUtYlVqNk1PbDRkQy15NERIY2Z1N2tuLTFPaG4?oc=5",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg",
+    "source": "Associated Press",
+    "also": [
+     "BBC News"
+    ],
+    "published": "2026-11-28T01:49:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Drony nad bazą USA w Anglii. Media o szczegółach",
+    "summary": "Około sześciu dronów nadleciało w połowie listopada nad amerykańską bazę wojskową w Anglii - poinformował \"Financial Times\", powołując się na swoje źródła. Według brytyjskiego dziennika bezzałogowce zostały odparte.",
+    "link": "https://tvn24.pl/swiat/drony-nad-baza-usa-raf-lakenheath-w-anglii-financial-times-o-szczegolach-st9362100?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-baza-raf-lakenheath-w-wielkiej-brytanii-ph9362098/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-28T08:26:57+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "US strikes a merchant ship trying to breach its blockade of Iranian ports, military says",
+    "summary": "US military maintained a \"strict\" blockade of Iranian ports by firing at a ship that violated the naval containment on Thursday.",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTZNR0tfZHB4Qm11eFRLSFJNQjZNejlab0p2TVUzdjBwR1Bsby0xbkZXNVdGbGlBSmJVWGRrVFRhaDVmcW9OTllRcHdYa2VOUjczdkdlQmFGZFZsMm9iUlVKcDZsZkZUYVVFLWFucUlzTnhPYUFpNXlESWd0cDJHbjlMVjlpdVhEX21fSGZLZzlmYks4a21YRUpJSnhDYVFNNlR1MVVld3o?oc=5",
+    "image": null,
+    "source": "Associated Press",
+    "also": [
+     "Euronews"
+    ],
+    "published": "2026-11-27T20:43:00+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Jess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the making",
+    "summary": "Labor faces possibility of relegation to crossbench as Coalition claims majority government and Greens celebrate ‘wild’ success Full report: Ben Carroll concedes Victorian election to Jess Wilson, ending 12 years of Labor government ‘Worse than anyone feared’: how Victorian Labor unravelled after 12 years in…",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-coalition-rise-victorian-labor-collapse-election-2026-ntwnfb",
+    "image": "https://i.guim.co.uk/img/media/410de3602ab2ab8903a9af5f132992edaef060f8/918_0_6498_5199/master/6498.jpg?width=140&quality=85&auto=format&fit=max&s=4ba3b5b51963d6026bab8c5d5e3eb66a",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-28T12:53:59+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "US oligarchs enriched by ‘transactional’ Trump face fierce scrutiny in new Congress",
+    "summary": "Democrats pledge aggressive investigations into Trump-allied billionaires and how president’s policies have boosted their bottom lines For an elite circle of Donald Trump billionaire allies who lavished tens of millions of dollars on his campaign, vanity projects and crypto ventures, his second administration has…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny",
+    "image": "https://i.guim.co.uk/img/media/69b050199720832aba143df0e420f1df83db9b13/601_0_5983_4789/master/5983.jpg?width=140&quality=85&auto=format&fit=max&s=54d8bb5f60f0c809a66428696ac02de9",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-28T12:00:39+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Nigeria's acting legend who was loved across Africa and beyond",
+    "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-28T01:20:35+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "The radical clarity of NAZA makes You Can See Everything seem irrelevant | Charlotte Higgins",
+    "summary": "When I was reporting on the arts in the 2000s, the view was ‘politics be damned’. But in times of war and catastrophe, cinema becomes committed – as it should In 2004, I was weeks into my new job as the Guardian’s arts correspondent when I was sent off to cover the Cannes film festival for the first time.",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/28/naza-you-can-see-everything-cannes-politics-war-cinema",
+    "image": "https://i.guim.co.uk/img/media/25cc293448b72328cce9003b23d7b2c8f98d6450/0_0_2637_2110/master/2637.jpg?width=140&quality=85&auto=format&fit=max&s=8bb247395cd02967ff5d4512858bec8c",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-28T08:00:34+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "polska": [
+   {
+    "title": "Wszystkie - PAP",
+    "summary": "Powódź nawiedziła w czwartek północne Peru. W zalanym mieście Piura do usuwania wody skierowano około 250 żołnierzy. Synoptycy zapowiadają, że do niedzieli może padać jeszcze mocniej, a ryzyko spływów błotnych i osuwisk dotyczy milionów mieszkańców.",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UGsxdmNUaHV1VUNodHJSemM1QW5sanRoZC1jdk9FYlBiQ0VDcHhJeFJpZFo2eTcyc2RGNDRwN3VEd0VOMnp0SjBpTm9GcjN3aHNVaDhn?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/10/85/design-pics-636x421-10857cf7.jpg",
+    "source": "PAP",
+    "also": [
+     "Business Insider Polska",
+     "Dziennik Gazeta Prawna",
+     "Interia",
+     "National Geographic Polska"
+    ],
+    "published": "2026-11-28T10:30:33+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Awaria w Gdańsku. 120 budynków bez ogrzewania i ciepłej wody",
+    "summary": "Poważna awaria sieci ciepłowniczej w Gdańsku. Początkowo 147 budynków zostało pozbawionych ogrzewania, a z uszkodzonej instalacji przy ulicy Myśliwskiej wydobywał się słup wody. Pracownicy GPEC rozpoczęli usuwanie awarii i stopniowe przywracanie dostaw ciepła.",
+    "link": "https://www.rmf24.pl/regiony/trojmiasto/news-awaria-w-gdansku-120-budynkow-bez-ogrzewania-i-cieplej-wody,nIdn,1028097",
+    "image": "https://rmf.rmffm.pl/news/attachments/9d/ac/zdj-636x421-9dac2dda.jpg",
+    "source": "RMF24",
+    "also": [
+     "Interia",
+     "Wirtualna Polska"
+    ],
+    "published": "2026-11-28T12:39:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Były komendant główny policji z zarzutami. Chodzi o aferę Pegasusa",
+    "summary": "Jarosław Sz., były Komendant Główny Policji, usłyszał zarzuty. Chodzi o czyn zakwalifikowany z art. 231 § 1 Kodeksu karnego. Prokuratura podała szczegóły.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-byly-komendant-glowny-policji-z-zarzutami-chodzi-o-afere-peg,nIdn,1027999",
+    "image": "https://rmf.rmffm.pl/news/attachments/02/b4/zdjecie-ilustracyjne-636x421-02b4ded4.jpg",
+    "source": "RMF24",
+    "also": [
+     "Dziennik Gazeta Prawna",
+     "Polsat News"
+    ],
+    "published": "2026-11-27T12:57:00+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "\"System nadmiernie obciąża ludzi\". Ekspert komentuje podatkowe weto prezydenta",
+    "summary": "Wszędzie tam, gdzie konsument płaci konsumentowi pojawia się pytanie czy rachunek jest potrzebny - powiedział Kamil Sobolewski, główny ekonomista organizacji Pracodawców RP, w sobotnim programie \"Wstajesz i weekend\" w TVN24. Ekspert tłumaczył, jak wysokie podatki wpływają na rozwój szarej strefy.",
+    "link": "https://tvn24.pl/biznes/pieniadze/system-nadmiernie-obciaza-ludzi-ekspert-komentuje-podatkowe-weto-prezydenta-st9362161?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-mezczyzna-mial-ukrasc-pieniadze-ze-sklepu-w-ktorym-pracowal-zdj-ilustracyjne-ph9306977/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [
+     "TVP Info"
+    ],
+    "published": "2026-11-28T10:18:29+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Za ile zatankujemy w weekend? Są nowe ceny paliw",
+    "summary": "Zgodnie z obwieszczeniem Ministra Energii w sobotę, niedzielę i poniedziałek maksymalna cena litra benzyny 95 wyniesie 5,77 zł, benzyny 98 – 6,43 zł, a oleju napędowego – 7,15 zł. Oznacza to spadek cen obu rodzajów benzyny i wzrost ceny diesla w porównaniu z piątkiem.",
+    "link": "https://www.rmf24.pl/fakty/polska/news-za-ile-zatankujemy-w-weekend-sa-nowe-ceny-paliw,nIdn,1027997",
+    "image": "https://rmf.rmffm.pl/news/attachments/9e/4d/znamy-maksymalne-ceny-paliw-na-weekend-i-poniedzialek-zdj-636x421-9e4deeb3.jpg",
+    "source": "RMF24",
+    "also": [
+     "Dziennik Gazeta Prawna"
+    ],
+    "published": "2026-11-27T12:46:00+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Prezydent zwleka z decyzjami o odznaczeniach za długoletnie pożycie małżeńskie. Seniorzy apelują",
+    "summary": "Do uhonorowania jubilatów wystarczy jeden podpis, ale prezydent z tym zwleka. W związku z tym wielu z nich nie doczekało odznaczeń za długoletnie pożycie małżeńskie. - Dostaliśmy zawiadomienie o przyznaniu tego orderu w dniu pogrzebu mojego męża - mówi jedna z seniorek. Materiał magazynu \"Polska i Świat\".",
+    "link": "https://tvn24.pl/polska/prezydent-zwleka-z-decyzjami-o-odznaczeniach-za-dlugoletnie-pozycie-malzenskie-seniorzy-apeluja-st9362499?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-shutterstock-2742992903-ph9362503/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-28T12:46:17+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Czy skrzypce naprawdę się rozgrywają? Naukowcy z Sorbony zbadali wielowiekowy muzyczny mit",
+    "summary": "W świecie muzyki klasycznej panuje przekonanie, że skrzypce potrzebują regularnej gry, by osiągnąć pełnię swoich możliwości. Zespół badaczy z francuskiej Sorbony sprawdził tę hipotezę w rygorystycznym teście, w którym ważną rolę odegrały... gogle spawalnicze.",
+    "link": "https://www.national-geographic.pl/nauka/czy-skrzypce-naprawde-sie-rozgrywaja-naukowcy-z-sorbony-zbadali-wielowiekowy-muzyczny-mit/",
+    "image": "https://cdn.burdamedia.pl/ng_prod/default/0003/56/czy-skrzypce-naprawde-sie-rozgrywaja-nauka-rzuca-swiatlo-na-wielki-muzyczny-mit.jpg",
+    "source": "National Geographic Polska",
+    "also": [],
+    "published": "2026-11-28T12:45:17+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Weto prezydenta w sprawie podatków. Jedni przedsiębiorcy odetchną, inni stracą",
+    "summary": "Prezydent Karol Nawrocki zawetował zmiany w PIT, CIT i ryczałcie, a rząd zapowiada próbę odrzucenia weta. Ekspertka IFIRMA.PL wskazuje, że to ulga dla największych firm i części ryczałtowców, ale strata dla przedsiębiorców liczących na niższy PIT.",
+    "link": "https://www.money.pl/biznes/weto-prezydenta-w-sprawie-podatkow-jedni-przedsiebiorcy-odetchna-inni-straca-7355874838149216a.html",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/731cefc3-ef54-4b17-b7b3-640d9b602f61",
+    "source": "money.pl",
+    "also": [],
+    "published": "2026-11-28T12:14:31+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Prezydent Nawrocki ogłosił nabór do Akademii Prezydenckiej. Jest termin zgłoszeń",
+    "summary": "Prezydent Karol Nawrocki poinformował w sobotę w nagraniu opublikowanym na platformie X o rozpoczęciu naboru do Akademii Prezydenckiej. Jak podkreślił, jest to bezpłatny program edukacyjny, który ma wspierać rozwój młodych liderów zmieniających Polskę.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11408401,akademia-prezydencka-2027-nabor-dla-mlodych.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL/2RncHN0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzUyOD/kyMi9maWxlcy9wcmV6eWRlbnQta2Fyb2wtbmF3cm9ja2ktd2V0dWp/lLXBvbGFjeS1vY2VuaWFqYS0zOTA2ODE5NS5qcGciLCJ3IjozODQwfQ",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-28T12:08:58.835000+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Fotografował stanowiska kontroli granicznej. Do Polski nie wjechał",
+    "summary": "Obywatel Gruzji dostał mandat na Lotnisku Chopina. Wcześniej mężczyzna fotografował stanowiska kontroli granicznej. Do Polski nie wjechał, jego pobyt na terytorium kraju był niepożądany.",
+    "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-fotografowal-stanowiska-kontroli-granicznej-na-lotnisku-chopina-do-polski-nie-wjechal-st9362438?source=rss",
+    "image": "https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-2538637-kontrola-paszportowa-na-lotnisku-chopina-ph8379703/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-28T12:07:48+00:00",
+    "topic": "kultura"
+   },
+   {
+    "title": "Prezydent zawetował, w sieci zawrzało. Spór o to, kto stracił na braku podpisu pod ustawą",
+    "summary": "Prezydent Karol Nawrocki zawetował ustawę z nowym progiem i stawką PIT oraz wyższym CIT dla największych firm. Rząd zapowiada próbę odrzucenia weta, a w sieci zaroiło się od sporów o to, kto w zasadzie na braku podpisu traci.",
+    "link": "https://www.money.pl/podatki/prezydent-zawetowal-w-sieci-zawrzalo-spor-o-to-kto-stracil-na-braku-podpisu-pod-ustawa-7355867439544416a.html",
+    "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8cab5d27-dbdf-49c8-87c7-9b1c6f87d0b3",
+    "source": "money.pl",
+    "also": [],
+    "published": "2026-11-28T11:44:33+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Magia? Houdini pierwszy by zaprotestował. Jego \"cudowne\" ucieczki były połączeniem wiedzy, siły fizycznej i oszustwa",
+    "summary": "Uwalniał się z zabitych gwoździami skrzyń transportowych, kotłów, gigantycznej piłki futbolowej, a nawet brzucha wieloryba, którego wyrzuciło na brzeg w porcie w Bostonie. Harry Houdini dawał się też zakopywać żywcem i skakał z mostów do rzek w kajdankach.",
+    "link": "https://www.newsweek.pl/historia/ekspert-od-ucieczek-ktorego-kochala-ameryka-harry-houdini-zmarl-100-lat-temu/6vdm106",
+    "image": "https://ocdn.eu/pulscms-transforms/1/ytmk9kpTURBXy8xMjQxNDI2NzEwYTVmMjVjMTFjMDgwNzhiZTczYTg5Mi5qcGeRkwXMyMyF3gABoTAF",
+    "source": "Newsweek Polska",
+    "also": [],
+    "published": "2026-11-28T11:43:53+00:00",
+    "topic": "nauka"
+   },
+   {
+    "title": "Dewastowali pomniki w Warszawie i Poznaniu. „To nie wybryk, to seria”",
+    "summary": "Prezydent Warszawy Rafał Trzaskowski poinformował w sobotę na platformie X, że za dewastację pomników upamiętniających Bohaterów Getta, żołnierzy Wojska Polskiego i ofiary Wołynia sprawcy mieli otrzymać tysiąc złotych. Jak ocenił, taka kwota została przeznaczona na próbę skłócenia Polaków z Ukraińcami.",
+    "link": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11408399,slava-upa-na-pomnikach-piec-osob-zatrzymanych.html",
+    "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncHN/0YXRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzcxODI3OS9maWxlcy/9wcmV6eWRlbnQtd2Fyc3phd3ktcmFmYWwtdHJ6YXNrb3draS1vLWRlY3l6a/mktd3MtcHJvdGVzdHUtcHJ6ZWQtdGstMzkzMzQ5MjEuanBnIiwidyI6Mzg0MH0",
+    "source": "Dziennik Gazeta Prawna",
+    "also": [],
+    "published": "2026-11-28T11:38:44.773000+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Eksperci: potrzebujemy wyspecjalizowanych ośrodków leczenia cukrzycowej choroby stóp",
+    "summary": "Eksperci: potrzebujemy wyspecjalizowanych ośrodków leczenia cukrzycowej choroby stóp tryton sob., 11/28/2026 - 14:10 3 minuty",
+    "link": "https://naukawpolsce.pl/aktualnosci/news%2C116126%2Ceksperci-potrzebujemy-wyspecjalizowanych-osrodkow-leczenia-cukrzycowej",
+    "image": "https://naukawpolsce.pl/sites/default/files/styles/new_720_x_405/public/202611/AdobeStock_1425657298.jpeg?itok=xUt-aF5B",
+    "source": "Nauka w Polsce",
+    "also": [],
+    "published": "2026-11-28T13:10:00+00:00",
+    "topic": "nauka"
+   }
+  ],
+  "krakow": [
+   {
+    "title": "Kraków: do prokuratury zgłosili się rodzice dziecka, do którego strzelał zamachowiec",
+    "summary": "Rodzice dziecka, ktďż˝re uniknęło śmierci podczas zamachu w Krakowie, zgłosili się do prokuratury; mają oni status pokrzywdzonych - poinformował w piątek naczelnik Małopolskiego Wydziału Zamiejscowego Prokuratury Krajowej ds. Przestępczości Zorganizowanej i Korupcji prok. Eryk Stasielak.",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalQ2WExfOEMyRFhPWnk3clZZMXIyOWt4SGJxMnVGRTZ6aVRfSmFOSDI4LUFBdmxzOEtwcjdTeTdZSnU1S2tyM3J3Yy16VlRoY3I1Y201bnRNQzIwQjBjXzFaOXFFbkdDd1FKUDlMekNEVFNqNEtseU04RzQwTzBlT0QyV0lrOGFKRjIwMC1na09KQlJlWW44WFRqaTBiWkstS3gtVjlWR0wxTWRXUUp5dVNlMldCcldtamx5Zk93?oc=5",
+    "image": "https://rmf.rmffm.pl/news/attachments/52/ba/zdj-636x421-52ba40ca.jpg",
+    "source": "PAP",
+    "also": [
+     "RMF24",
+     "RMF24 Kraków",
+     "Wyborcza Kraków"
+    ],
+    "published": "2026-11-27T18:33:03+00:00",
+    "topic": "bezpieczeństwo"
+   },
+   {
+    "title": "Kilka tysięcy małżeństw z Małopolski wciąż czeka. Krzysztofik: nasi seniorzy zasługują na szacunek",
+    "summary": "Ponad 10,8 tys. seniorów z Małopolski czeka na decyzję ws. Medali za Długoletnie Pożycie Małżeńskie. Dyrektor Biura Wojewody Małopolskiego bije na alarm: od sierpnia 2025 roku około 228 osób nie doczekało już swojego odznaczenia.",
+    "link": "https://lovekrakow.pl/kilka-tysiecy-malzenstw-z-malopolski-wciaz-czeka-krzysztofik-nasi-seniorzy-zasluguja-na-szacunek",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-03/1d9ed27eba93926eef13aba3f4cb03e2.jpg.webp?itok=onDaP_ss",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-28T13:00:01+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Świąteczne serce Krakowa już bije. Jarmark na Rynku Głównym oficjalnie otwarty",
+    "summary": "Rynek Główny w Krakowie oficjalnie rozpoczął świąteczne odliczanie. Po sobotnim otwarciu tłumy ruszyły między stoiska, a nad bezpieczeństwem czuwają służby.",
+    "link": "https://lovekrakow.pl/swiateczne-serce-krakowa-juz-bije-jarmark-na-rynku-glownym-oficjalnie-otwarty",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/a5d6f2789e153c755ecc07be71d6174a.jpg.webp?itok=kJZmD_SY",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-28T12:28:48+00:00",
+    "topic": "gospodarka"
+   },
+   {
+    "title": "Zakopane podnosi opłatę klimatyczną o 150 proc. Turyści zapłacą maksymalną stawkę",
+    "summary": "Zakopiańscy radni zdecydowali o podniesieniu opłaty miejscowej z 2 do 5 zł za noc od osoby. Dla pięcioosobowej rodziny spędzającej tydzień pod Tatrami oznacza to dodatkowy wydatek w wysokości 175 zł.",
+    "link": "https://lovekrakow.pl/podhale/zakopane-podnosi-oplate-klimatyczna-o-150-proc-turysci-zaplaca-maksymalna-stawke",
+    "image": "https://lovekrakow.pl/sites/default/files/styles/teaser_card_xxxl/public/images/2026-11/52c6ec354e6736378d632b0892674148.JPG.webp?itok=XxCcijLa",
+    "source": "LoveKraków",
+    "also": [],
+    "published": "2026-11-28T09:57:02+00:00",
+    "topic": "klimat"
+   },
+   {
+    "title": "Tak mieszka Jarosław Kaczyński w Warszawie. Ten rodzinny dom jest pełen pamiątek i książek",
+    "summary": "Jarosław Kaczyński mieszka w willi na Żoliborzu w Warszawie. To miejsce pełne jest rodzinnych pamiątek i wspomnień z dzieciństwa, które spędził tam z bratem Lechem. Dom otacza bujna roślinność, zapewniająca prywatność. Wnętrze kryje regały z książkami i liczne pamiątki rodzinne.",
+    "link": "https://gazetakrakowska.pl/tak-mieszka-jaroslaw-kaczynski-w-warszawie-ten-rodzinny-dom-jest-pelen-pamiatek-i-ksiazek/ar/c9-15392137",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/14/0b/6001934c9ccb6_o,size,640x400,q,71,h,0a3793.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-28T13:02:52+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Tak mieszka Lech Wałęsa. Na ścianach jego domu w dzielnicy Gdańska wiszą święte obrazy",
+    "summary": "Lech Wałęsa mieszka w willi w gdańskiej dzielnicy Oliwa. Samochodem spod jego domu można w 15 minut dojechać nad morze. W domu znajduje się piękny ogród oraz dwie kondygnacje z piwnicą. Zobaczcie jak mieszka Lech Wałęsa! Żyje luksusowo czy skromie? Wszystko na zdjęciach",
+    "link": "https://gazetakrakowska.pl/tak-mieszka-lech-walesa-na-scianach-jego-domu-w-dzielnicy-gdanska-wisza-swiete-obrazy/ar/c9-15436075",
+    "image": "https://d-pt.ppstatic.pl/kadry/k/r/1/f6/4e/60e56fae3493f_o,size,640x400,q,71,h,783dcc.jpg",
+    "source": "Gazeta Krakowska",
+    "also": [],
+    "published": "2026-11-28T13:01:55+00:00",
+    "topic": "społeczeństwo"
+   },
+   {
+    "title": "Twierdza Reymonta kontra ofensywny Motor. Wisła gra o rewanż",
+    "summary": "W sobotni wieczór przy ulicy Reymonta dojdzie do pierwszego starcia Wisły Kraków z Motorem Lublin na poziomie PKO BP Ekstraklasy po powrocie „Białej Gwiazdy” do elity. Gospodarze będą bronić miana jedynego zespołu w lidze, który w tym sezonie nie stracił jeszcze punktów przed własną publicznością.",
+    "link": "https://radiokrakow.pl/sport/twierdza-reymonta-kontra-ofensywny-motor-wisla-gra-o-rewanz/188317",
+    "image": "https://radiokrakow.pl/media/article/188317/c6538ee39dff3b4dc1dd71bab10a9412.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-28T11:32:30+00:00",
+    "topic": "sport"
+   },
+   {
+    "title": "PiS mówił o wpisaniu do konstytucji obecności w UE. Mateusz Morawiecki tłumaczy, jaki był cel",
+    "summary": "Lider Rozwoju Plus Mateusz Morawiecki podczas spotkania w Tarnowie stwierdził, że podczas kampanii wyborczej w 2019 roku jego środowisko polityczne - wówczas Prawo i Sprawiedliwość - opowiadało się za wpisaniem do konstytucji obecności Polski w Unii Europejskiej, by odeprzeć krytykę.",
+    "link": "https://tvn24.pl/polska/mateusz-morawiecki-w-tarnowie-o-wpisaniu-do-konstytucji-obecnosci-polski-w-ue-nie-jestem-za-tym-st9362084?source=rss",
+    "image": "https://tvn24.pl/najnowsze/cdn-zdjecie-mateusz-morawiecki-ph9362044/alternates/LANDSCAPE_1280",
+    "source": "TVN24",
+    "also": [],
+    "published": "2026-11-28T09:45:26+00:00",
+    "topic": "polityka"
+   },
+   {
+    "title": "Chemseks, HIV i PrEP – o zdrowiu seksualnym bez tabu",
+    "summary": "Czym jest chemseks i co sprawia, że dla niektórych osób staje się atrakcyjny? Gdzie przebiega granica między zachowaniem rekreacyjnym a problemowym? Jak skutecznie chronić się przed zakażeniem HIV i na czym polega redukcja szkód?",
+    "link": "https://radiokrakow.pl/podcasty/pierwszy-krok/chemseks-hiv-i-prep-o-zdrowiu-seksualnym-bez-tabu/188238",
+    "image": "https://radiokrakow.pl/media/article/188238/dce1e15c8bef015908b00148ac226253.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-28T11:00:00+00:00",
+    "topic": "zdrowie"
+   },
+   {
+    "title": "80 lat z muzyką. Piękny jubileusz szkoły muzycznej w Zakopanem",
+    "summary": "Osiem dekad muzycznej edukacji, rozwijania talentów i budowania artystycznych tradycji. Państwowa Szkoła Muzyczna I stopnia im. Mieczysława Karłowicza w Zakopanem z filią w Poroninie świętuje 80-lecie istnienia.",
+    "link": "https://radiokrakow.pl/galerie/80-lat-z-muzyka-piekny-jubileusz-szkoly-muzycznej-w-zakopanem/188316",
+    "image": "https://radiokrakow.pl/media/article/188316/86a5d0675c825db631ca757ec8af5672.webp",
+    "source": "Radio Kraków",
+    "also": [],
+    "published": "2026-11-28T10:59:54+00:00",
+    "topic": "kultura"
+   }
+  ],
+  "kultura": [
+   {
+    "title": "Vermeer expert casts doubt on authenticity of two paintings",
+    "summary": "A specialist on the Dutch Old Master claims that The Love Letter and The Glass of Wine are not by Vermeer",
+    "link": "https://www.theartnewspaper.com/2026/11/28/vermeer-expert-casts-doubt-on-authenticity-of-two-paintings",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/99c2f8fd3e16f24a284ce0906698c2e82a565279-608x694.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-28T13:05:21+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Babydoll singer lands longest-running UK number one by Welsh artist in 56 years",
+    "summary": "Jamie Miller, originally from Cardiff, claims the top spot in the UK singles chart for the sixth week.",
+    "link": "https://www.bbc.co.uk/news/articles/c920x6071g10o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/28e3/live/f5c1e470-ceea-11f1-bdca-23c64447299f.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-28T12:30:41+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "‘It reminds me of a bright star in the night sky’: Sophia Dom’s best phone picture",
+    "summary": "After a storm, the artist relocated a detached flower head to a rainwater barrel, and was captivated by the harmonious composition Amateur photographer and artist Sophia Dom was gardening on a warm August afternoon when she took this photo.",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/28/sophia-dom-best-phone-picture-flower-ivanova-russia",
+    "image": "https://i.guim.co.uk/img/media/ec2ef3a056045f45acc19aa6e2c29fd4d730521f/0_561_1888_1510/master/1888.jpg?width=140&quality=85&auto=format&fit=max&s=8f3ff2b8bebf88be4846b2afa212d767",
+    "source": "The Guardian",
+    "also": [],
+    "published": "2026-11-28T11:00:39+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Od karocy, przez dzwon po żyrafę - nowe Muzeum Londynu otwarte dla zwiedzających",
+    "summary": "Pozłacana karoca, neony, punkowa gitara, naczynia nadtopione w Wielkim Pożarze, ale także model... żyrafy - wszystko to opowiada historię Londynu w nowym muzeum miasta, które w sobotę otworzyło drzwi dla zwiedzających w dawnej wiktoriańskiej hali targowej",
+    "link": "https://dzieje.pl/wiadomosci/od-karocy-przez-dzwon-po-zyrafe-nowe-muzeum-londynu-otwarte-dla-zwiedzajacych",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20261124_0IR.jpg?itok=y_DgdKqD",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-28T09:46:52+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Ekspert: Wielki Głód na Ukrainie był traumą; wpłynął na budowanie tożsamości państwowej",
+    "summary": "Wielki Głód był trudną do opisania traumą dla ludności ukraińskiej, ale po upadku Związku Sowieckiego stał się jednym z filarów polityki pamięci i budowania tożsamości państwa niezależnego od dziedzictwa sowieckiego – powiedział PAP dr Andrzej Szabaciuk z KUL i Instytutu Europy Środkowej.",
+    "link": "https://dzieje.pl/wiadomosci/ekspert-wielki-glod-na-ukrainie-byl-trauma-wplynal-na-budowanie-tozsamosci-panstwowej",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20251122_1KK.jpg?itok=fUMLedBR",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-28T08:06:00+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Take That say 10th number one album feels as special as first",
+    "summary": "The Manchester group has topped the UK album chart with Dreamers.",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyj7wy7j5go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d6c6/live/c2850930-eb22-11f1-bf04-65a057babcf8.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-28T12:45:19+00:00",
+    "topic": "muzyka"
+   },
+   {
+    "title": "Actor and comedian PJ Gallagher dies aged 51",
+    "summary": "PJ Gallagher appeared on Irish television for more than two decades with shows including Naked Camera and The Young Offenders.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/99b7/live/11b79e90-eb0b-11f1-a094-5fdc692f3e33.jpg",
+    "source": "BBC News",
+    "also": [],
+    "published": "2026-11-28T10:17:01+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Le Musée Kanal, à Bruxelles, ouvre enfin ses portes en collaboration avec le Centre Pompidou, après de nombreuses polémiques",
+    "summary": "Malgré un emplacement contesté, une explosion du budget initialement prévu, l’absence de collection et la dépendance aux grands musées, ce nouveau centre contemporain, inauguré samedi, est une réussite qui met Bruxelles sur la carte des grandes institutions culturelles européennes.",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/28/le-musee-kanal-a-bruxelles-ouvre-enfin-ses-portes-en-collaboration-avec-le-centre-pompidou-apres-de-nombreuses-polemiques_6816061_3246.html",
+    "image": "https://img.lemde.fr/2026/11/27/1340/0/7130/3565/644/322/60/0/43204fc_upload-1-8oewmmez23nm-kanal-showroom-kristien-daem.jpg",
+    "source": "Le Monde",
+    "also": [],
+    "published": "2026-11-28T04:30:08+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Legendarny magazyn fotograficzny „Life” wrócił na rynek w 90 lat po premierze",
+    "summary": "Legendarny amerykański magazyn fotograficzny „Life” wrócił na rynek w formie papierowej oraz internetowej. Nowy numer pt. „Where Are We Now?” („Gdzie jesteśmy teraz?”) ukazał się 23 listopada, 90 lat po premierze jego fotoreporterskiej odsłony. Liczy 248 stron i ma sześć unikatowych okładek.",
+    "link": "https://dzieje.pl/wiadomosci/legendarny-magazyn-fotograficzny-life-wrocil-na-rynek-w-90-lat-po-premierze",
+    "image": "https://dzieje.pl/sites/default/files/styles/boxes_sg_small_crop/public/202611/pap_20221003_277.jpg?itok=PEY6-vuo",
+    "source": "Dzieje.pl",
+    "also": [],
+    "published": "2026-11-28T07:54:55+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "After nearly two decades, the Old Acropolis Museum in Athens re-opens",
+    "summary": "Greece's first modern museum presently hosts an installation by Michael Rakowitz unearthing a lesser-known episode in the Acropolis’s history",
+    "link": "https://www.theartnewspaper.com/2026/11/27/after-nearly-two-decades-the-old-acropolis-museum-in-athens-re-opens",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/0ff97b00f2e0e42dc50e058b7ea00adb2e14eb21-8192x5464.jpg?w=140",
+    "source": "The Art Newspaper",
+    "also": [],
+    "published": "2026-11-27T17:15:10+00:00",
+    "topic": "muzea"
+   },
+   {
+    "title": "Kultowa seria \"kuchennych zdjęć\" do obejrzenia w Berlinie. \"Lepiej pozwolić mówić dziełom za siebie\"",
+    "summary": "Czasem statyczne obrazy opowiadają więcej niż filmowe kadry. Przenikliwe spojrzenia, sceny codzienności i niedopowiedzenia na fotografiach Carrie Mae Weems sprawiają, że historia samej artystki nie pozostawia nas obojętnymi.",
+    "link": "https://kultura.onet.pl/wiadomosci/carrie-mae-weems-i-kultowe-kuchenne-zdjecia-historia-przelomowego-cyklu-fotografii/fvnweb2",
+    "image": "https://cdn.kultura.onet.pl/1/ZYtk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84OTg0NzBhZmVhNDUyNDQ1ZmIzMzIwZTgwZmFhYmM0ZC5qcGeSlQMBzQTVzQ2yzQe2kwXNCWDNBkDeAAKhMAehMQQ",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-28T11:00:00+00:00",
+    "topic": "sztuka"
+   },
+   {
+    "title": "Film dnia. Dziś w TV film, po którym widzowie bali się wejść do wody. Zdobył 3 Oscary",
+    "summary": "Steven Spielberg stworzył thriller, który na zawsze zmienił Hollywood. Choć dziś \"Szczęki\" mają status kultowej produkcji, podczas zdjęć niewiele szło zgodnie z planem. Najwięcej kłopotów przysporzył ekipie tytułowy drapieżnik, a trudności techniczne wpłynęły na ostateczny kształt filmu.",
+    "link": "https://kultura.gazeta.pl/kultura/7,114438,33151495,film-dnia-dzis-w-tv-film-po-ktorym-widzowie-bali-sie-wejsc.html",
+    "image": "https://bi.im-g.pl/im/8b/9d/1f/z33151627IHG,-Szczeki-.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-28T06:53:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Najgorszy serial XXI w. powrócił. \"Tego okropieństwa nie da się opisać\"",
+    "summary": "Nie istnieją produkcje, które podobają się absolutnie wszystkim. Jednak naprawdę rzadko zdarzają się tytuły pełne gwiazd, z niezłym budżetem, które zbierają tak złe opinie. Ten serial ma już drugi sezon i żadnej dobrej recenzji.",
+    "link": "https://kultura.gazeta.pl/kultura/7,127222,33152296,najgorszy-serial-xxi-w-powrocil-tego-okropienstwa-nie-da.html",
+    "image": "https://bi.im-g.pl/im/51/9e/1f/z33154641IHG,-Wszystko-dozwolone----kadr-z-serialu.jpg",
+    "source": "Wyborcza Kultura",
+    "also": [],
+    "published": "2026-11-28T06:00:00+00:00",
+    "topic": "film"
+   },
+   {
+    "title": "Miała 50 lat, gdy zagrała w \"Bondzie\". \"Jestem najstarsza\"",
+    "summary": "Na Festiwalu Filmowym w Marrakeszu Monica Bellucci wróciła do chwili, kiedy po pięćdziesiątce została dziewczyną Jamesa Bonda. — Nigdy wcześniej nie widziałam 50-latki w tej serii — powiedziała publiczności Włoszka.",
+    "link": "https://kultura.onet.pl/film/miala-50-lat-gdy-zagrala-w-bondzie-jestem-najstarsza/g8ldl5p",
+    "image": "https://cdn.kultura.onet.pl/1/6Z-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMGE0Y2M1MzRhODI4OWRlMmQyODlkMmE2MmE2ZTBlNy5qcGeSlQMAXc0LuM0Gl5MFzQlgzQZA3gACoTAHoTEE",
+    "source": "Onet Kultura",
+    "also": [],
+    "published": "2026-11-28T12:50:09+00:00",
+    "topic": "film"
+   }
+  ]
+ }
+}
